@@ -30,6 +30,7 @@ import {
 } from '@/lib/explorer';
 
 export default function Home() {
+  const [detailed, setDetailed] = useState(true);
   const [state, setState] = useState(initialState);
   const [panel, setPanel] = useState('learn');
   const lesson = lessons[state.model],
@@ -131,12 +132,14 @@ export default function Home() {
             <h1>{lesson.title}</h1>
           </div>
           <ModelViewer
+            detailed={detailed}
+            onQualityChange={setDetailed}
             key={state.model}
             state={state}
             onSelect={(key) => setState((s) => ({ ...s, selected: key }))}
             fallback={
               isBuilding
-                ? '/enclosure_cutaway.png'
+                ? '/enclosure_assembled.png'
                 : `/studies/${state.model}.png`
             }
           />

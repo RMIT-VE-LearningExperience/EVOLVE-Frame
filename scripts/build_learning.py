@@ -1,5 +1,5 @@
 """Detached teaching junctions, staged views and batched web exports. Never edit the house."""
-import bpy, math, json, hashlib
+import bpy, bmesh, math, json, hashlib
 from pathlib import Path
 from collections import defaultdict
 from mathutils import Vector
@@ -9,7 +9,8 @@ WEB=ROOT/'student-web/public/models'; WEB.mkdir(parents=True,exist_ok=True)
 assert Path(bpy.data.filepath).name=='Leichhardt_Enclosure_Study.blend'
 house=bpy.data.scenes['01 Building - enclosure']
 def sig(o):
- return hashlib.sha256(repr(([list(r) for r in o.matrix_world],[list(v.co) for v in o.data.vertices],[list(p.vertices) for p in o.data.polygons])).encode()).hexdigest()
+ # Local transforms are stable even when excluded collections are unevaluated.
+ return hashlib.sha256(repr(([list(r) for r in o.matrix_basis],o.parent.name if o.parent else None,[list(r) for r in o.matrix_parent_inverse],[list(v.co) for v in o.data.vertices],[list(p.vertices) for p in o.data.polygons])).encode()).hexdigest()
 original={o.name:sig(o) for o in bpy.data.objects if o.type=='MESH'}
 def material(name,color,metallic=0):
  m=bpy.data.materials.new('LEARN '+name);m.diffuse_color=(*color,1);m.use_nodes=True
@@ -133,7 +134,11 @@ house['learning_sequence']='Frame > Wrap > Cladding > Roof is a teaching reveal 
 # Batched meshes keep the web viewer light. No original objects are edited or exported with private file metadata.
 manifest={'status':'Provisional teaching model; not a construction specification','models':{},'source_meshes_preserved':len(original)}
 def export_batches(key,source,classified):
- bpy.context.window.scene=source;source.frame_set(1);bpy.context.view_layer.update();deps=bpy.context.evaluated_depsgraph_get()
+ bpy.context.window.scene=source
+ previous_layer=bpy.context.window.view_layer
+ export_layer=source.view_layers.new('TEMP Fully evaluated export')
+ bpy.context.window.view_layer=export_layer
+ source.frame_set(1);bpy.context.view_layer.update();deps=bpy.context.evaluated_depsgraph_get()
  batches={}
  for o,meta in classified:
   if o.type!='MESH':continue
@@ -141,22 +146,32 @@ def export_batches(key,source,classified):
   for mi in set(p.material_index for p in mesh.polygons):
    source_material=mesh.materials[mi] if mi<len(mesh.materials) and mesh.materials[mi] else mats['timber']
    batchkey=(meta['key'],source_material.name,meta.get('cut',False))
-   batch=batches.setdefault(batchkey,{'vertices':[],'faces':[],'meta':meta,'material':source_material})
-   offset=len(batch['vertices']);batch['vertices'].extend([tuple(round(v,6) for v in (o.matrix_world@vert.co)) for vert in mesh.vertices])
+   batch=batches.setdefault(batchkey,{'vertices':[],'faces':[],'uvs':[],'meta':meta,'material':source_material})
+   offset=len(batch['vertices']);batch['vertices'].extend([tuple(round(v,6) for v in (ev.matrix_world@vert.co)) for vert in mesh.vertices])
+   # Metre-scaled member coordinates keep grain aligned along each timber.
+   scale=ev.matrix_world.to_scale()
+   batch['uvs'].extend([(float(v.co.x*scale.x+v.co.y*scale.y),float(v.co.z*scale.z)) for v in mesh.vertices])
    batch['faces'].extend([tuple(offset+i for i in tri.vertices) for tri in mesh.loop_triangles if tri.material_index==mi])
   ev.to_mesh_clear()
  export=bpy.data.scenes.new('TEMP WEB '+key);bpy.context.window.scene=export
  for (label,matname,cut),batch in batches.items():
   me=bpy.data.meshes.new(label);me.from_pydata(batch['vertices'],[],batch['faces']);me.update()
+  uv=me.uv_layers.new(name='Member coordinates')
+  for loop in me.loops:uv.data[loop.index].uv=batch['uvs'][loop.vertex_index]
+  # Primitive boxes in the legacy generator have inward winding. Correct only
+  # export copies so outward faces light and cast shadows correctly in WebGL.
+  bm=bmesh.new();bm.from_mesh(me);bmesh.ops.recalc_face_normals(bm,faces=list(bm.faces));bm.to_mesh(me);bm.free();me.update()
   # Web materials use diffuse values; procedural brick/wood nodes remain in Blender only.
   src=batch['material'];simple=material_cache.get(src.name)
   if not simple:
    simple=material('Web '+src.name,tuple(src.diffuse_color[:3]),.25 if 'metal' in src.name.lower() else 0);material_cache[src.name]=simple
   me.materials.append(simple);o=bpy.data.objects.new(label+(' cut' if cut else ''),me);export.collection.objects.link(o)
   for k,v in batch['meta'].items():o[k]=v
+  o['material_kind']=('brick' if 'brick' in src.name.lower() else 'wood' if any(t in src.name.lower() for t in ['pine','lvl','timber','floor board','learn floor']) else 'glass' if any(t in src.name.lower() for t in ['glaz','glass']) else 'render' if any(t in src.name.lower() for t in ['foam','render']) else 'metal' if any(t in src.name.lower() for t in ['metal','aluminium','steel','galvan','flashing']) else 'plain')
  bpy.ops.export_scene.gltf(filepath=str(WEB/(key+'.glb')),export_format='GLB',use_active_scene=True,export_extras=True,export_animations=False,export_cameras=False,export_lights=False,export_apply=True)
  manifest['models'][key]={'file':key+'.glb','batches':len(batches),'triangles':sum(len(b['faces']) for b in batches.values()),'bytes':(WEB/(key+'.glb')).stat().st_size,'parts':list({b['meta']['key']:b['meta'] for b in batches.values()}.values())}
- bpy.context.window.scene=source;bpy.data.scenes.remove(export)
+ bpy.context.window.scene=source;bpy.context.window.view_layer=previous_layer
+ source.view_layers.remove(export_layer);bpy.data.scenes.remove(export)
 material_cache={}
 classified=[]
 def descend(col,top,cut=False):
@@ -172,7 +187,7 @@ for key,s in scenes.items():
 lighting_names=[s.name for s in scenes.values()]
 bpy.context.window.scene=house;house.frame_set(1);bpy.context.view_layer.update()
 assert all(sig(bpy.data.objects[n])==h for n,h in original.items()),'Original mesh changed'
-manifest['checks']={'source_geometry':'unchanged','junction_count':len(scenes),'building_batches':manifest['models']['building']['batches'],'web_materials':'Simplified colours, not product selections'}
+manifest['checks']={'source_geometry':'unchanged local transforms and mesh topology','junction_count':len(scenes),'building_batches':manifest['models']['building']['batches'],'export_evaluation':'temporary all-visible view layer','export_normals':'recalculated on copies only','web_materials':'Classified PBR display finishes with member UVs; not product selections'}
 (WEB/'manifest.json').write_text(json.dumps(manifest,indent=2),encoding='utf-8')
 (OUT/'LEARNING_CHECKS.json').write_text(json.dumps(manifest['checks'],indent=2),encoding='utf-8')
 notes=ROOT/'output/learning/LEARNING_GUIDE.md'

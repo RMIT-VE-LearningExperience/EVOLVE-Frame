@@ -4,8 +4,8 @@
     "building": {
       "file": "building.glb",
       "batches": 37,
-      "triangles": 88498,
-      "bytes": 5144340,
+      "triangles": 88532,
+      "bytes": 6627684,
       "parts": [
         {
           "key": "02 Ground floor walls",
@@ -217,7 +217,7 @@
       "file": "window.glb",
       "batches": 9,
       "triangles": 404,
-      "bytes": 30272,
+      "bytes": 38148,
       "parts": [
         {
           "key": "frame",
@@ -333,7 +333,7 @@
       "file": "eaves.glb",
       "batches": 9,
       "triangles": 312,
-      "bytes": 25540,
+      "bytes": 32180,
       "parts": [
         {
           "key": "frame",
@@ -449,7 +449,7 @@
       "file": "floor-edge.glb",
       "batches": 8,
       "triangles": 292,
-      "bytes": 23612,
+      "bytes": 29620,
       "parts": [
         {
           "key": "frame",
@@ -552,9 +552,11 @@
   },
   "source_meshes_preserved": 7467,
   "checks": {
-    "source_geometry": "unchanged",
+    "source_geometry": "unchanged local transforms and mesh topology",
     "junction_count": 3,
     "building_batches": 37,
-    "web_materials": "Simplified colours, not product selections"
+    "export_evaluation": "temporary all-visible view layer",
+    "export_normals": "recalculated on copies only",
+    "web_materials": "Classified PBR display finishes with member UVs; not product selections"
   }
 }
