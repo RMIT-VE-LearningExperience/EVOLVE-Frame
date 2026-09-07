@@ -1,5 +1,13 @@
 # Frame Lab — Leichhardt
 
+## Visual revision
+
+The explorer now opens at the enclosed roof stage. Detailed lighting adds studio environment reflections, directional soft-shadow mapping, a shadow-receiving ground plane, procedural member-aligned timber grain, brick coursing and transmissive glass. The lighting switch disables shadows and procedural finishes, lowers pixel density and uses cheaper glazing for lighter devices. These are illustrative finishes, not selected products.
+
+The export now uses an all-visible evaluation layer. This corrects the cutaway-hidden members previously exported as unit cubes at the origin. Face winding is corrected on export copies, and the camera depth range is tightened to reduce depth artefacts. No audited building dimensions were corrected. Regression tests reject origin geometry and below-datum roof sheets and require texture coordinates/material metadata.
+
+Material tests check the current Three.js shader insertion points and quality settings; they are not a GPU/browser visual test. Browser/device visual acceptance testing is still outstanding.
+
 Student-facing 3D construction explorer, based on the saved Blender enclosure model. All details remain provisional pending teacher review.
 
 ## Content

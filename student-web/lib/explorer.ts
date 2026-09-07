@@ -24,7 +24,7 @@ export const modelKeys: ModelKey[] = [
 export const stageNames = ['Frame', 'Wrap', 'Cladding', 'Roof'];
 export const initialState: ViewState = {
   model: 'building',
-  stage: 0,
+  stage: 3,
   cutaway: false,
   explosion: 0,
   hidden: [],

@@ -70,6 +70,34 @@ for (const key of modelKeys)
       assert.ok(mesh.geometry.attributes.position.count > 0);
     }
     if (key === 'building') {
+      // Hidden components previously collapsed to overlapping unit cubes here.
+      for (const mesh of meshes) {
+        const pos = mesh.geometry.attributes.position;
+        for (let i = 0; i < pos.count; i++)
+          assert.ok(
+            Math.max(
+              Math.abs(pos.getX(i)),
+              Math.abs(pos.getY(i)),
+              Math.abs(pos.getZ(i)),
+            ) > 0.501,
+            'Unexpected geometry at the export origin',
+          );
+        if (String(mesh.userData.key).startsWith('20 ')) {
+          mesh.geometry.computeBoundingBox();
+          assert.ok(
+            mesh.geometry.boundingBox!.min.y > 5,
+            'Roof covering below roof datum',
+          );
+        }
+        assert.ok(
+          mesh.geometry.attributes.uv,
+          'Missing member texture coordinates',
+        );
+        assert.ok(
+          mesh.userData.material_kind,
+          'Missing material classification',
+        );
+      }
       const counts = [0, 1, 2, 3].map(
         (stage) =>
           meshes.filter((m) =>

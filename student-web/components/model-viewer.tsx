@@ -5,6 +5,7 @@ import { RotateCcw, RotateCw, Plus, Minus, Maximize2 } from 'lucide-react';
 import type { Part, ViewState } from '@/lib/explorer';
 import { visiblePart } from '@/lib/explorer';
 import type * as THREE from 'three';
+import { Switch } from '@/components/ui/switch';
 
 type Engine = {
   apply: (s: ViewState) => void;
@@ -15,10 +16,14 @@ export default function ModelViewer({
   state,
   onSelect,
   fallback,
+  detailed,
+  onQualityChange,
 }: {
   state: ViewState;
   onSelect: (key: string | null) => void;
   fallback: string;
+  detailed: boolean;
+  onQualityChange: (value: boolean) => void;
 }) {
   const mount = useRef<HTMLDivElement>(null),
     engine = useRef<Engine | null>(null),
@@ -36,19 +41,31 @@ export default function ModelViewer({
     let cancelled = false,
       cleanup: (() => void) | undefined;
     async function init() {
-      const [T, { OrbitControls }, { GLTFLoader }] = await Promise.all([
+      const [
+        T,
+        { OrbitControls },
+        { GLTFLoader },
+        { RoomEnvironment },
+        { displayMaterial },
+      ] = await Promise.all([
         import('three'),
         import('three/addons/controls/OrbitControls.js'),
         import('three/addons/loaders/GLTFLoader.js'),
+        import('three/addons/environments/RoomEnvironment.js'),
+        import('@/lib/model-materials'),
       ]);
       if (cancelled || !mount.current) return;
       const host = mount.current;
       const renderer = new T.WebGLRenderer({ antialias: true, alpha: false });
-      renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+      renderer.setPixelRatio(
+        Math.min(window.devicePixelRatio, detailed ? 2 : 1),
+      );
       renderer.setClearColor('#24353e');
       renderer.outputColorSpace = T.SRGBColorSpace;
       renderer.toneMapping = T.ACESFilmicToneMapping;
-      renderer.toneMappingExposure = 1.25;
+      renderer.toneMappingExposure = 1.05;
+      renderer.shadowMap.enabled = detailed;
+      renderer.shadowMap.type = T.PCFSoftShadowMap;
       renderer.domElement.setAttribute(
         'aria-label',
         'Interactive 3D model. Drag to orbit, pinch or scroll to zoom. Keyboard camera controls follow.',
@@ -60,15 +77,20 @@ export default function ModelViewer({
         controls = new OrbitControls(camera, renderer.domElement);
       controls.enableDamping = false;
       controls.maxPolarAngle = Math.PI * 0.93;
-      scene.add(new T.HemisphereLight(0xffffff, 0x546272, 2.5));
-      for (const [x, y, z, power] of [
-        [10, 20, 15, 3],
-        [-10, 10, -10, 1.5],
-      ]) {
-        const l = new T.DirectionalLight(0xffffff, power);
-        l.position.set(x, y, z);
-        scene.add(l);
-      }
+      scene.add(new T.HemisphereLight(0xddeaff, 0x70614e, 0.65));
+      const pmrem = new T.PMREMGenerator(renderer),
+        studio = new RoomEnvironment();
+      const environment = pmrem.fromScene(studio, 0.05);
+      scene.environment = environment.texture;
+      scene.environmentIntensity = 0.55;
+      studio.dispose();
+      pmrem.dispose();
+      const sun = new T.DirectionalLight(0xfff2de, 3.0);
+      sun.castShadow = detailed;
+      sun.shadow.mapSize.set(2048, 2048);
+      sun.shadow.normalBias = 0.012;
+      sun.shadow.bias = -0.00012;
+      scene.add(sun, sun.target);
       // Assigned after asynchronous loading; disposal can run before it resolves.
       // oxlint-disable-next-line prefer-const
       let root: THREE.Group | undefined;
@@ -105,8 +127,8 @@ export default function ModelViewer({
           );
         controls.minDistance = radius * 0.12;
         controls.maxDistance = distance * 4;
-        camera.near = radius / 1000;
-        camera.far = distance * 20;
+        camera.near = Math.max(0.03, radius / 100);
+        camera.far = distance * 6;
         camera.updateProjectionMatrix();
         controls.update();
         render();
@@ -190,12 +212,14 @@ export default function ModelViewer({
           contextlost,
         );
         if (root) disposeObject(root);
+        environment.dispose();
+        sun.shadow.dispose();
         renderer.dispose();
         renderer.domElement.remove();
       };
       engine.current = { apply, action, dispose: cleanup };
       const gltf = await new GLTFLoader().loadAsync(
-        `/models/${state.model}.glb`,
+        `/models/${state.model}.glb?v=2`,
       );
       if (cancelled) {
         disposeObject(gltf.scene);
@@ -205,8 +229,14 @@ export default function ModelViewer({
       scene.add(root);
       root.traverse((o) => {
         if (o instanceof T.Mesh) {
-          o.material = o.material.clone();
-          o.material.side = T.DoubleSide;
+          const old = o.material as THREE.MeshStandardMaterial;
+          o.material = displayMaterial(
+            old,
+            String(o.userData.material_kind ?? 'plain'),
+            detailed,
+          );
+          o.castShadow = o.userData.material_kind !== 'glass';
+          o.receiveShadow = true;
           meshes.push(o);
         }
       });
@@ -214,18 +244,31 @@ export default function ModelViewer({
       bounds.getCenter(center);
       radius = bounds.getSize(new T.Vector3()).length() / 2;
       if (state.model !== 'building') radius *= 1.32;
-      const grid = new T.GridHelper(
-        state.model === 'building' ? 50 : 8,
-        state.model === 'building' ? 50 : 16,
-        0x546771,
-        0x354954,
+      sun.position
+        .copy(center)
+        .add(new T.Vector3(-0.6, 1.3, 0.8).multiplyScalar(radius));
+      sun.target.position.copy(center);
+      const shadowCamera = sun.shadow.camera;
+      shadowCamera.left = -radius;
+      shadowCamera.right = radius;
+      shadowCamera.top = radius;
+      shadowCamera.bottom = -radius;
+      shadowCamera.near = 0.1;
+      shadowCamera.far = radius * 5;
+      shadowCamera.updateProjectionMatrix();
+      const ground = new T.Mesh(
+        new T.PlaneGeometry(radius * 15, radius * 15),
+        new T.MeshStandardMaterial({ color: 0x34434a, roughness: 1 }),
       );
-      grid.position.set(center.x, bounds.min.y - 0.02, center.z);
-      scene.add(grid);
+      ground.rotation.x = -Math.PI / 2;
+      ground.position.set(center.x, bounds.min.y - 0.04, center.z);
+      ground.receiveShadow = true;
+      scene.add(ground);
+      scene.fog = new T.Fog(0x24353e, radius * 4, radius * 10);
       const oldCleanup = cleanup;
       cleanup = () => {
-        grid.geometry.dispose();
-        (grid.material as THREE.Material).dispose();
+        ground.geometry.dispose();
+        ground.material.dispose();
         oldCleanup?.();
       };
       reset();
@@ -248,9 +291,24 @@ export default function ModelViewer({
       cleanup?.();
       engine.current = null;
     };
-  }, [state.model, attempt]);
+  }, [state.model, attempt, detailed]);
   return (
     <>
+      <div className="quality-control">
+        <span>Detailed lighting</span>
+        <Switch
+          aria-label="Detailed lighting and materials"
+          checked={detailed}
+          onCheckedChange={(v) => {
+            setReady(false);
+            setStatus('Loading 3D model…');
+            onQualityChange(v);
+          }}
+        />
+        <span className="quality-note">
+          {detailed ? 'Shadows + finishes' : 'Lighter on your device'}
+        </span>
+      </div>
       <div
         className="three-mount"
         ref={mount}
@@ -262,7 +320,7 @@ export default function ModelViewer({
             src={fallback}
             alt={
               state.model === 'building'
-                ? 'Reference cutaway of the building; not synchronised with the 3D stage controls'
+                ? 'Reference enclosure render; not synchronised with the 3D stage controls'
                 : `Exploded ${state.model} assembly reference`
             }
           />
