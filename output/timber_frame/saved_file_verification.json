@@ -1,0 +1,34 @@
+{
+  "saved_file": "D:\\Git\\EVOLE Frame\\output\\timber_frame\\Leichhardt_Timber_Frame.blend",
+  "mesh_count": 6843,
+  "packed_plan_images": [
+    "arch-07.png",
+    "arch-08.png"
+  ],
+  "invalid_mesh_transforms": [],
+  "inspection_views": {
+    "02 Ground framing only": {
+      "primary_collection": "02 Ground floor walls",
+      "connections": "Ground connections"
+    },
+    "03 Floor structure": {
+      "primary_collection": "04 First floor joists",
+      "connections": "Floor connections"
+    },
+    "04 Upper walls": {
+      "primary_collection": "05 Upper floor walls",
+      "connections": "Upper connections"
+    },
+    "05 Roof structure": {
+      "primary_collection": "06 Upper roof trusses",
+      "connections": "Roof connections"
+    }
+  },
+  "roof_assembly_counts": {
+    "T1": 15,
+    "T5": 8,
+    "T6": 5
+  },
+  "joist_chords_intruding_into_stair_void": [],
+  "status": "PASS: saved geometry, packed references, view isolation and stair void checks"
+}

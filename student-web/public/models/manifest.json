@@ -1,0 +1,560 @@
+{
+  "status": "Provisional teaching model; not a construction specification",
+  "models": {
+    "building": {
+      "file": "building.glb",
+      "batches": 37,
+      "triangles": 88498,
+      "bytes": 5144340,
+      "parts": [
+        {
+          "key": "02 Ground floor walls",
+          "label": "Ground floor walls",
+          "stage": 0,
+          "cut": false,
+          "note": "Current saved model. Audited discrepancies remain unresolved.",
+          "explode": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "key": "03 Ground floor steel and LVL",
+          "label": "Ground floor steel and LVL",
+          "stage": 0,
+          "cut": false,
+          "note": "Current saved model. Audited discrepancies remain unresolved.",
+          "explode": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "key": "04 First floor joists",
+          "label": "First floor joists",
+          "stage": 0,
+          "cut": false,
+          "note": "Current saved model. Audited discrepancies remain unresolved.",
+          "explode": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "key": "05 Upper floor walls",
+          "label": "Upper floor walls",
+          "stage": 0,
+          "cut": false,
+          "note": "Current saved model. Audited discrepancies remain unresolved.",
+          "explode": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "key": "06 Upper roof trusses",
+          "label": "Upper roof trusses",
+          "stage": 0,
+          "cut": false,
+          "note": "Current saved model. Audited discrepancies remain unresolved.",
+          "explode": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "key": "07 Garage roof",
+          "label": "Garage roof",
+          "stage": 0,
+          "cut": false,
+          "note": "Current saved model. Audited discrepancies remain unresolved.",
+          "explode": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "key": "08 Porch roof",
+          "label": "Porch roof",
+          "stage": 0,
+          "cut": false,
+          "note": "Current saved model. Audited discrepancies remain unresolved.",
+          "explode": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "key": "09 Bracing and connections",
+          "label": "Bracing and connections",
+          "stage": 0,
+          "cut": false,
+          "note": "Current saved model. Audited discrepancies remain unresolved.",
+          "explode": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "key": "10 Stair framing",
+          "label": "Stair framing",
+          "stage": 0,
+          "cut": false,
+          "note": "Current saved model. Audited discrepancies remain unresolved.",
+          "explode": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "key": "11 Roof battens",
+          "label": "Roof battens",
+          "stage": 0,
+          "cut": false,
+          "note": "Current saved model. Audited discrepancies remain unresolved.",
+          "explode": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "key": "20 Main roof covering",
+          "label": "Main roof covering",
+          "stage": 3,
+          "cut": true,
+          "note": "Current saved model. Audited discrepancies remain unresolved.",
+          "explode": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "key": "21 Main roof sarking",
+          "label": "Main roof sarking",
+          "stage": 1,
+          "cut": true,
+          "note": "Current saved model. Audited discrepancies remain unresolved.",
+          "explode": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "key": "22 Fascia and gutters",
+          "label": "Fascia and gutters",
+          "stage": 3,
+          "cut": true,
+          "note": "Current saved model. Audited discrepancies remain unresolved.",
+          "explode": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "key": "23 Ground brick veneer",
+          "label": "Ground brick veneer",
+          "stage": 2,
+          "cut": true,
+          "note": "Current saved model. Audited discrepancies remain unresolved.",
+          "explode": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "key": "24 Upper foam render",
+          "label": "Upper foam render",
+          "stage": 2,
+          "cut": true,
+          "note": "Current saved model. Audited discrepancies remain unresolved.",
+          "explode": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "key": "25 Wall wrap",
+          "label": "Wall wrap",
+          "stage": 1,
+          "cut": true,
+          "note": "Current saved model. Audited discrepancies remain unresolved.",
+          "explode": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "key": "26 Windows and doors",
+          "label": "Windows and doors",
+          "stage": 2,
+          "cut": true,
+          "note": "Current saved model. Audited discrepancies remain unresolved.",
+          "explode": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    "window": {
+      "file": "window.glb",
+      "batches": 9,
+      "triangles": 404,
+      "bytes": 30272,
+      "parts": [
+        {
+          "key": "frame",
+          "label": "01 Timber rough opening",
+          "note": "Generic rough opening, not an engineered lintel or a scheduled house window.",
+          "explode": [
+            0,
+            0,
+            0
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "wrap",
+          "label": "02 Wall wrap around opening",
+          "note": "Generic drainage layer. Opening integration and membrane selection follow the selected wall/window system.",
+          "explode": [
+            0.0,
+            -0.28,
+            0.0
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "sill",
+          "label": "03 Sill flashing with upstand",
+          "note": "Conceptual outward drainage and upstand. End dams, laps and dimensions require a system-specific detail.",
+          "explode": [
+            0.0,
+            -0.55,
+            -0.1
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "jamb",
+          "label": "04 Jamb flashing",
+          "note": "Show jamb flashing overlapping sill flashing. Final folds, laps and fixing-fin arrangement are product-specific.",
+          "explode": [
+            0.15,
+            -0.65,
+            0.0
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "window",
+          "label": "05 Window and glazing",
+          "note": "Generic aluminium window proxy. Fixings, packers, clearances, drainage slots and glass specification are not designed.",
+          "explode": [
+            0.0,
+            -0.9,
+            0.0
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "glass",
+          "label": "06 Glazing",
+          "note": "Illustrative relationship; product and installation detail to be confirmed.",
+          "explode": [
+            0.0,
+            -0.95,
+            0.0
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "head",
+          "label": "07 Head flashing",
+          "note": "Conceptual head flashing beneath the upper wrap, projecting outwards. Extension, fall and end treatment require confirmation.",
+          "explode": [
+            0.0,
+            -0.5,
+            0.22
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "brick",
+          "label": "08 Brick veneer cutaway",
+          "note": "110 mm brick leaf and 40 mm nominal cavity are model assumptions. Partial skin exposes the opening layers.",
+          "explode": [
+            0.0,
+            -1.18,
+            0.0
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "lining",
+          "label": "09 Internal lining cutaway",
+          "note": "10 mm plasterboard is noted on architectural sheet 12. Seals and reveal finish remain schematic.",
+          "explode": [
+            0.0,
+            0.38,
+            0.0
+          ],
+          "stage": 0,
+          "cut": false
+        }
+      ]
+    },
+    "eaves": {
+      "file": "eaves.glb",
+      "batches": 9,
+      "triangles": 312,
+      "bytes": 25540,
+      "parts": [
+        {
+          "key": "frame",
+          "label": "01 Wall and roof timber",
+          "note": "Generic eaves slice, not a supplier truss or an approved bearing/connection detail.",
+          "explode": [
+            0,
+            0,
+            0
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "wrap",
+          "label": "02 Wall wrap",
+          "note": "Illustrative relationship; product and installation detail to be confirmed.",
+          "explode": [
+            0.0,
+            -0.22,
+            0.0
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "cladding",
+          "label": "03 Upper foam/render cutaway",
+          "note": "100 mm foam with rendered finish follows architectural notes. Approved system, top termination and fixings remain unselected.",
+          "explode": [
+            0.0,
+            -0.5,
+            0.0
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "battens",
+          "label": "04 Roof battens",
+          "note": "Batten sections and spacings here are illustrative, not a fixing schedule.",
+          "explode": [
+            0.0,
+            0.0,
+            0.22
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "sarking",
+          "label": "05 Roof sarking",
+          "note": "Secondary drainage layer shown toward the eaves. Final support, laps, ventilation and gutter termination require the chosen roof-system detail.",
+          "explode": [
+            0.0,
+            0.0,
+            0.48
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "roof",
+          "label": "06 Metal roof cutaway",
+          "note": "25 degree main pitch from the drawings. Profile, gauge and eaves projection are schematic.",
+          "explode": [
+            0.0,
+            0.0,
+            0.76
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "fascia",
+          "label": "07 Fascia",
+          "note": "Fascia profile and fixing detail are unselected.",
+          "explode": [
+            0.0,
+            -0.45,
+            0.0
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "gutter",
+          "label": "08 Open gutter channel",
+          "note": "Conceptual collection channel only. Capacity, fall, outlets, overflow provision and downpipes are not designed.",
+          "explode": [
+            0.0,
+            -0.82,
+            0.0
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "soffit",
+          "label": "09 Soffit cutaway",
+          "note": "Soffit lining shown as a relationship study. Product, thickness and roof ventilation design require confirmation.",
+          "explode": [
+            0.0,
+            0.0,
+            -0.28
+          ],
+          "stage": 0,
+          "cut": false
+        }
+      ]
+    },
+    "floor-edge": {
+      "file": "floor-edge.glb",
+      "batches": 8,
+      "triangles": 292,
+      "bytes": 23612,
+      "parts": [
+        {
+          "key": "frame",
+          "label": "01 Upper and lower wall frame",
+          "note": "Detached floor-edge sample. The house floor datum remains unchanged.",
+          "explode": [
+            0,
+            0,
+            0
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "joists",
+          "label": "02 Floor-edge structural zone",
+          "note": "413 mm supplier zone is used ONLY in this sample. Architecture shows 400 mm. Chris must resolve the conflict before fitting the house deck.",
+          "explode": [
+            0.0,
+            0.3,
+            0.0
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "deck",
+          "label": "03 Floor sheeting cutaway",
+          "note": "19 mm panel thickness from supplier layout page 47. Sample size and edge support are illustrative.",
+          "explode": [
+            0.0,
+            0.0,
+            0.25
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "wrap",
+          "label": "04 Wall wrap across transition",
+          "note": "Continuity is a design question at this transition. Final laps, air barrier and drainage path need coordinated wall-system details.",
+          "explode": [
+            0.0,
+            -0.27,
+            0.0
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "brick",
+          "label": "05 Lower brick veneer cutaway",
+          "note": "110 mm brick leaf / 40 mm cavity split is assumed. Masonry support and movement allowances are not resolved.",
+          "explode": [
+            0.0,
+            -0.9,
+            0.0
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "transition",
+          "label": "06 Transition flashing concept",
+          "note": "A conceptual outward-draining flashing beneath the upper system. Do not use these folds or dimensions for installation.",
+          "explode": [
+            0.0,
+            -0.52,
+            0.0
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "foam",
+          "label": "07 Upper foam/render cutaway",
+          "note": "100 mm foam noted in the architecture. A compatible termination, movement joint, drainage and fixing system remain to be selected.",
+          "explode": [
+            0.0,
+            -0.7,
+            0.12
+          ],
+          "stage": 0,
+          "cut": false
+        },
+        {
+          "key": "lining",
+          "label": "08 Ceiling and wall lining",
+          "note": "10 mm plasterboard from architectural sheet 12. Junction and service coordination not completed.",
+          "explode": [
+            0.0,
+            0.45,
+            -0.1
+          ],
+          "stage": 0,
+          "cut": false
+        }
+      ]
+    }
+  },
+  "source_meshes_preserved": 7467,
+  "checks": {
+    "source_geometry": "unchanged",
+    "junction_count": 3,
+    "building_batches": 37,
+    "web_materials": "Simplified colours, not product selections"
+  }
+}

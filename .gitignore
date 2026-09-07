@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 tmp/
 .DS_Store
+*.blend1
+*.blend2
+output/learning/*.tar.gz

@@ -2,11 +2,11 @@
 Dimensions in metres. Plan-traced positions are deliberately distinguished from
 scheduled sizes; see output/README.md and the embedded Blender text block.
 """
-import bpy, math, json, csv
+import bpy, math, json, csv, subprocess
 from pathlib import Path
 from mathutils import Vector
 ROOT=Path(__file__).resolve().parents[1]
-OUT=ROOT/'output'; OUT.mkdir(exist_ok=True)
+OUT=ROOT/'output'/'timber_frame'; OUT.mkdir(parents=True,exist_ok=True)
 bpy.ops.object.select_all(action='SELECT'); bpy.ops.object.delete(use_global=False)
 for c in list(bpy.data.collections):
  if c.name!='Collection': bpy.data.collections.remove(c)
@@ -230,13 +230,16 @@ for i,x in enumerate(xlist):
 # Perimeter rims and void trimmers.
 for i,(a,b) in enumerate([((6.425,.045),(26.945,.045)),((6.425,7.835),(20.91,7.835)),((6.425,.045),(6.425,7.835)),((26.945,.045),(26.945,4.61)),((20.91,7.835),(20.91,6.60)),((20.91,6.60),(24.35,6.60)),((24.35,6.60),(24.35,4.61)),((24.35,4.61),(26.945,4.61))]):
  beam(f'Floor rim/trimmer {i+1}',(*a,2.94),(*b,2.94),.045,.4,F,lvl,'Subfloor layout; S09','Plan-traced rim; section schematic except scheduled beams')
-for y,xa,xb in [(1.8,6.425,12.7),(5.8,6.425,12.7),(1.8,12.7,26.945),(5.5,12.7,24.3)]:beam('Floor strongback 140x35',(xa,y,2.94),(xb,y,2.94),.035,.14,F,wood,'Subfloor layout','Strongback line traced; size assumed')
-# Straight stair rough framing: 17 rises, 4 m run; no finished balustrade or finishes.
-stairtop=up((1251,520)); stairbottom=up((1422,520)); run=stairbottom[0]-stairtop[0]
-for yy in [7.02,7.50,7.95]:beam('Stair stringer',(stairbottom[0],yy,.08),(stairtop[0],yy,FF-.08),.045,.29,'10 Stair framing',lvl,'Architectural 07/08','Stair rough framing interpretation; 17 rises')
+for y,xa,xb in [(1.8,6.425,12.7),(5.8,6.425,12.7),(1.8,12.7,26.945),(5.5,12.7,24.3)]:beam('Floor strongback 140x35',(xa,y,2.94),(xb,y,2.94),.035,.14,F,wood,'Subfloor layout final PDF page 47: Strongbacks 140 x 35mm','Scheduled section; approximate line placement')
+# Sheet 08 dimension chain: 4000 flight, 2000 to inside of entry-end wall;
+# 1100 stair zone measured inward from the adjacent exterior wall's inside face.
+# Retain the indicative 1020 rough tread width, centred within that zone.
+stair_foot=26.945-.045-2.0; run=4.0; stair_head=stair_foot-run
+stair_center_y=7.835-.045-1.1/2
+for yy in [stair_center_y-.46,stair_center_y+.02,stair_center_y+.47]:beam('Stair stringer',(stair_foot,yy,.08),(stair_head,yy,FF-.08),.045,.29,'10 Stair framing',lvl,'Architectural 08: 4000 stairs, 2000 entry, 1100 width','Dimension-based position; indicative rough framing sections')
 for i in range(17):
- x=stairbottom[0]-(i+.5)*run/17;z=(i+1)*FF/17
- box(f'Stair rough tread {i+1:02d}',(x,7.48,z-.0225),(run/17,1.02,.045),'10 Stair framing',wood,'Architectural 07/08','Indicative rough treads')
+ x=stair_foot-(i+.5)*run/17;z=(i+1)*FF/17
+ box(f'Stair rough tread {i+1:02d}',(x,stair_center_y,z-.0225),(run/17,1.02,.045),'10 Stair framing',wood,'Architectural 08: 4000 stairs, 2000 entry, 1100 width','Indicative rough treads; centred with 40mm each side within architectural stair zone')
 # Standard T1 roof trusses: supplier 7.880 m span, 25 degrees, 0.550 m overhang.
 left=6.38;right=26.99; span=7.88;mid=span/2;pitch=math.tan(math.radians(25));heel=.106
 roof_nodes=[]
@@ -347,6 +350,18 @@ for name,file,z,origin_x,origin_y,sx,sy in [('Ground floor 07','arch-07.png',-.0
  o=bpy.data.objects.new(name,None);C['90 Plan references (hidden)'].objects.link(o);o.empty_display_type='IMAGE';o.data=im;o.empty_display_size=w*sx/factor
  o.location=(6.425+(w/(2*factor)-origin_x)*sx,.045+(origin_y-h/(2*factor))*sy,z);o.color[3]=.55;o.empty_image_depth='BACK';o['source']='Architectural PDF '+name
 C['90 Plan references (hidden)'].hide_viewport=True;C['90 Plan references (hidden)'].hide_render=True
+# Storey-specific connection collections make inspection layers self-contained.
+connection_groups={}
+for label in ['Ground connections','Floor connections','Upper connections','Roof connections']:
+ c=bpy.data.collections.new(label);C[B].children.link(c);connection_groups[label]=c
+for ob in list(C[B].objects):
+ if 'web plate' in ob.name:group='Floor connections'
+ elif ob.name.startswith(('T1-','HIP-','Roof diagonal')):group='Roof connections'
+ elif ob.location.z>=FF:group='Upper connections'
+ else:group='Ground connections'
+ C[B].objects.unlink(ob);connection_groups[group].objects.link(ob)
+# Context slab is optional; the delivered asset opens as the exposed building frame.
+C['01 Slab datum'].hide_viewport=True;C['01 Slab datum'].hide_render=True
 # Presentation: four saved cameras and named inspection view layers.
 scene=bpy.context.scene;scene.unit_settings.system='METRIC';scene.unit_settings.length_unit='MILLIMETERS';scene.unit_settings.scale_length=1
 box('Presentation ground',(14,4,-.65),(200,200,.2),'99 Presentation',stage,status='Presentation only')
@@ -366,17 +381,24 @@ scene.render.resolution_x=1800;scene.render.resolution_y=1100;scene.render.resol
 scene.view_settings.view_transform='AgX'
 scene.render.image_settings.file_format='PNG'
 scene.view_layers[0].name='01 Complete frame'
-for name,excluded in [('02 Ground framing only',[F,U,R,'07 Garage roof','08 Porch roof','11 Roof battens','10 Stair framing']),('03 Floor structure',[U,R,'07 Garage roof','08 Porch roof','11 Roof battens']),('04 Upper walls',[R,'07 Garage roof','08 Porch roof','11 Roof battens'])]:
+layer_specs=[
+ ('02 Ground framing only',[F,U,R,'07 Garage roof','08 Porch roof','11 Roof battens','10 Stair framing'],['Floor connections','Upper connections','Roof connections']),
+ ('03 Floor structure',[G,U,R,'07 Garage roof','08 Porch roof','11 Roof battens','10 Stair framing'],['Ground connections','Upper connections','Roof connections']),
+ ('04 Upper walls',[G,S,F,R,'07 Garage roof','08 Porch roof','11 Roof battens','10 Stair framing'],['Ground connections','Floor connections','Roof connections']),
+ ('05 Roof structure',[G,S,F,U,'10 Stair framing'],['Ground connections','Floor connections','Upper connections'])]
+for name,excluded,connection_exclusions in layer_specs:
  vl=scene.view_layers.new(name)
  for c in excluded:vl.layer_collection.children[c].exclude=True
- # braces filtered per-storey through collection visibility when making plan previews.
+ for c in connection_exclusions:vl.layer_collection.children[B].children[c].exclude=True
+for vl in scene.view_layers:
+ for ob in C['99 Presentation'].objects:ob.hide_set(True,view_layer=vl)
 # Set an immediately useful viewport, materials visible without shader compilation.
 for screen in bpy.data.screens:
  for area in screen.areas:
   if area.type=='VIEW_3D':
    space=area.spaces.active;space.clip_end=500;space.shading.type='SOLID';space.shading.color_type='MATERIAL';space.overlay.show_floor=False
    space.region_3d.view_distance=35;space.region_3d.view_location=(14,4,3);space.region_3d.view_rotation=hero.rotation_euler.to_quaternion();space.region_3d.view_perspective='PERSP'
-notes=(ROOT/'output/README.md').read_text()
+notes=(OUT/'START_HERE.md').read_text(encoding='utf-8')+'\n\nOriginal detailed drawing notes:\n'+(ROOT/'output/README.md').read_text(encoding='utf-8')
 t=bpy.data.texts.new('START HERE - Model scope and drawing differences');t.write(notes)
 scene['project']='Leichhardt - frame stage';scene['reference_priority']='Architectural layout; 2026 supplier floor/roof members; structural schedules';scene['status']='Plan-referenced visual model; unresolved details recorded in START HERE'
 with open(OUT/'member_inventory.csv','w',newline='') as f:
@@ -390,18 +412,9 @@ report={'mesh_objects':sum(o.type=='MESH' for o in bpy.data.objects),'wall_panel
 (OUT/'model_checks.json').write_text(json.dumps(report,indent=2));assert not errors
 for vl in scene.view_layers:vl.use=vl.name=='01 Complete frame'
 bpy.context.preferences.filepaths.save_version=0
-bpy.ops.wm.save_as_mainfile(filepath=str(OUT/'Leichhardt_Frame.blend'))
-# Disable extra view layers for rendering only; preserve them in the saved file.
-for vl in scene.view_layers:vl.use=vl.name=='01 Complete frame'
-scene.render.filepath=str(OUT/'frame_overview.png');bpy.ops.render.render(write_still=True)
-scene.camera=rear;scene.render.filepath=str(OUT/'frame_alfresco.png');bpy.ops.render.render(write_still=True)
-# Useful framing plans with all overhead parts suppressed.
-for n in [F,U,R,'07 Garage roof','08 Porch roof','11 Roof battens','10 Stair framing']:C[n].hide_render=True
-for ob in C[B].objects:
- if ob.location.z>2.75:ob.hide_render=True
-scene.camera=plan;scene.render.filepath=str(OUT/'ground_frame_plan.png');bpy.ops.render.render(write_still=True)
-for n in [G,S,F,'10 Stair framing']:C[n].hide_render=True
-C[U].hide_render=False
-for ob in C[B].objects:ob.hide_render=ob.location.z<FF or ob.location.z>ROOF
-scene.camera=uppercam;scene.render.filepath=str(OUT/'upper_frame_plan.png');bpy.ops.render.render(write_still=True)
+bpy.ops.wm.save_as_mainfile(filepath=str(OUT/'Leichhardt_Timber_Frame.blend'))
+# Isolated render processes avoid a Blender 5.0 dependency-graph crash when
+# switching thousands of objects' visibility after repeated Cycles renders.
+for view in ['overview','alfresco','ground','upper']:
+ subprocess.run([bpy.app.binary_path,'--factory-startup','--background',str(OUT/'Leichhardt_Timber_Frame.blend'),'--python',str(ROOT/'scripts/render_frame.py'),'--',view],check=True)
 print('MODEL_COMPLETE',json.dumps(report))
