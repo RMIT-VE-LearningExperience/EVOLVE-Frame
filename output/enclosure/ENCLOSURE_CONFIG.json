@@ -1,0 +1,20 @@
+{
+  "source": "D:\\Git\\EVOLE Frame\\output\\timber_frame\\Leichhardt_Timber_Frame_Stairs_Corrected.blend",
+  "frame_geometry_locked_for_review": true,
+  "brick_leaf_mm": 110,
+  "cavity_mm": 40,
+  "upper_foam_mm": 100,
+  "plasterboard_mm": 10,
+  "floor_panel_mm": 19,
+  "roof_pitch_degrees": 25,
+  "roof_overhang_mm": 550,
+  "roof_sheet_display_mm": 1,
+  "visual_colours_only": true,
+  "roof_profile": "schematic ribs; product unselected",
+  "deferred": [
+    "full floor decking",
+    "garage and porch roof covering",
+    "D05 corner glazing",
+    "audit corrections"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "mesh_objects": 6843,
+  "wall_panels": 52,
+  "floor_joist_assemblies": 87,
+  "standard_T1_trusses": 15,
+  "garage_T5_trusses": 8,
+  "porch_T6_trusses": 5,
+  "units": "metres (UI millimetres)",
+  "ground_wall_top": 2.74,
+  "upper_floor_datum": 3.14,
+  "upper_wall_top": 5.73,
+  "main_roof_pitch_degrees": 25,
+  "main_roof_span": 7.88,
+  "main_roof_overhang": 0.55,
+  "geometry_errors": [],
+  "sample_top_plate_vertical_mm": 45.0
+}

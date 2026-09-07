@@ -1,0 +1,15 @@
+{
+  "source_meshes_unchanged": 6843,
+  "new_components": 624,
+  "opening_proxies": 23,
+  "main_scene": "01 Building - enclosure",
+  "assembly_scene": "02 Assembly studies",
+  "invalid_new_transforms": [],
+  "deferred": [
+    "full floor decking",
+    "garage and porch roof covering",
+    "D05 corner glazing",
+    "audit corrections"
+  ],
+  "status": "PASS: source geometry preservation and new geometry checks"
+}
