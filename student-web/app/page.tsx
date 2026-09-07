@@ -8,8 +8,6 @@ import {
   ArrowLeft,
   Layers3,
   MousePointer2,
-  Eye,
-  EyeOff,
   CheckCircle2,
   ArrowUpRight,
 } from 'lucide-react';
@@ -17,7 +15,9 @@ import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs';
 import { Switch } from '@/components/ui/switch';
 import { Slider } from '@/components/ui/slider';
 import ModelViewer from '@/components/model-viewer';
+import { LayerPanel } from '@/components/layer-panel';
 import manifest from '@/public/models/manifest.json';
+import { hotspots, availableHotspots, type Hotspot } from '@/lib/hotspots';
 import {
   initialState,
   lessons,
@@ -33,10 +33,21 @@ export default function Home() {
   const [detailed, setDetailed] = useState(true);
   const [state, setState] = useState(initialState);
   const [panel, setPanel] = useState('learn');
+  const [showHotspots, setShowHotspots] = useState(true);
+  const [hotspotId, setHotspotId] = useState<string | null>(null);
   const lesson = lessons[state.model],
     isBuilding = state.model === 'building';
   const parts = manifest.models[state.model].parts as Part[];
   const selected = parts.find((p) => p.key === state.selected);
+  const activeHotspots = availableHotspots(state, parts);
+  const activeHotspot = activeHotspots.find(
+    (h) => h.id === hotspotId && h.part === state.selected,
+  );
+  const chooseHotspot = (h: Hotspot) => {
+    setHotspotId(h.id);
+    setState((s) => ({ ...s, selected: h.part }));
+    setPanel('learn');
+  };
   const navigate = (model: ModelKey) => {
     setState({
       ...initialState,
@@ -132,6 +143,8 @@ export default function Home() {
             <h1>{lesson.title}</h1>
           </div>
           <ModelViewer
+            hotspots={showHotspots ? activeHotspots : []}
+            onHotspot={chooseHotspot}
             detailed={detailed}
             onQualityChange={setDetailed}
             key={state.model}
@@ -162,6 +175,73 @@ export default function Home() {
               <TabsTrigger value="notes">Basis</TabsTrigger>
             </TabsList>
             <TabsContent value="learn">
+              {isBuilding && (
+                <section
+                  className="hotspot-study"
+                  aria-label="Learning hotspots"
+                >
+                  <div className="toggle-row">
+                    <span>Show hotspots</span>
+                    <Switch
+                      checked={showHotspots}
+                      onCheckedChange={setShowHotspots}
+                      aria-label="Show hotspots on the model"
+                    />
+                  </div>
+                  <p className="minor">
+                    Choose a numbered marker or a topic below. Highlighting
+                    identifies the whole related layer, not an individual
+                    connection.
+                  </p>
+                  <div className="hotspot-list">
+                    {hotspots.map((h, i) => (
+                      <button
+                        key={h.id}
+                        disabled={!activeHotspots.some((a) => a.id === h.id)}
+                        aria-pressed={activeHotspot?.id === h.id}
+                        onClick={() => chooseHotspot(h)}
+                      >
+                        <span>{i + 1}</span> {h.title}
+                        {!activeHotspots.some((a) => a.id === h.id) && (
+                          <small>Hidden in this view</small>
+                        )}
+                      </button>
+                    ))}
+                  </div>
+                  {activeHotspot && (
+                    <section className="selected-part" aria-live="polite">
+                      <span className="eyebrow">
+                        LEARNING HOTSPOT · REVIEW PENDING
+                      </span>
+                      <h2>{activeHotspot.title}</h2>
+                      <h3>What it is</h3>
+                      <p>{activeHotspot.what}</p>
+                      <h3>What it does</h3>
+                      <p>{activeHotspot.purpose}</p>
+                      <h3>Pause & think</h3>
+                      <p>{activeHotspot.question}</p>
+                      <p className="minor">{activeHotspot.basis}</p>
+                      {activeHotspot.detail && (
+                        <button
+                          className="wide-button"
+                          onClick={() => navigate(activeHotspot.detail!)}
+                        >
+                          View illustrative detail <ArrowRight size={17} />
+                        </button>
+                      )}
+                      <button
+                        className="text-button"
+                        onClick={() => {
+                          setHotspotId(null);
+                          setState((s) => ({ ...s, selected: null }));
+                        }}
+                      >
+                        Close hotspot
+                      </button>
+                    </section>
+                  )}
+                </section>
+              )}
               <span className="eyebrow">
                 {isBuilding ? 'CONSTRUCTION STAGES' : 'JUNCTION STUDY'}
               </span>
@@ -303,55 +383,12 @@ export default function Home() {
             </TabsContent>
             <TabsContent value="layers">
               <span className="eyebrow">MODEL LAYERS</span>
-              <h2>Uncover the relationship.</h2>
+              <h2>Layers</h2>
               <p className="minor">
-                Choose a name to highlight it. Use the eye to hide or restore
-                that layer.
+                Expand a category. Use its eye to show or hide the group, or
+                select individual layers. Stage and cutaway limits still apply.
               </p>
-              <div className="layer-list">
-                {parts.map((p) => {
-                  const available = !isBuilding || p.stage <= state.stage;
-                  return (
-                    <div
-                      className={`layer-row ${state.selected === p.key ? 'is-selected' : ''}`}
-                      key={p.key}
-                    >
-                      <button
-                        disabled={!available}
-                        onClick={() =>
-                          setState((s) => ({
-                            ...s,
-                            selected: s.selected === p.key ? null : p.key,
-                            hidden: s.hidden.filter((k) => k !== p.key),
-                          }))
-                        }
-                      >
-                        <span>{p.label}</span>
-                        {!available && <small>Stage {p.stage + 1}</small>}
-                      </button>
-                      <button
-                        disabled={!available}
-                        aria-label={`${state.hidden.includes(p.key) ? 'Show' : 'Hide'} ${p.label}`}
-                        aria-pressed={!state.hidden.includes(p.key)}
-                        onClick={() =>
-                          setState((s) => ({
-                            ...s,
-                            hidden: s.hidden.includes(p.key)
-                              ? s.hidden.filter((k) => k !== p.key)
-                              : [...s.hidden, p.key],
-                          }))
-                        }
-                      >
-                        {state.hidden.includes(p.key) ? (
-                          <EyeOff size={17} />
-                        ) : (
-                          <Eye size={17} />
-                        )}
-                      </button>
-                    </div>
-                  );
-                })}
-              </div>
+              <LayerPanel parts={parts} state={state} setState={setState} />
               <button
                 className="text-button"
                 onClick={() =>
