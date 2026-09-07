@@ -6,6 +6,7 @@ import type { Part, ViewState } from '@/lib/explorer';
 import { visiblePart } from '@/lib/explorer';
 import type * as THREE from 'three';
 import { Switch } from '@/components/ui/switch';
+import { hotspots as allHotspots, type Hotspot } from '@/lib/hotspots';
 
 type Engine = {
   apply: (s: ViewState) => void;
@@ -18,17 +19,28 @@ export default function ModelViewer({
   fallback,
   detailed,
   onQualityChange,
+  hotspots,
+  onHotspot,
 }: {
   state: ViewState;
   onSelect: (key: string | null) => void;
   fallback: string;
   detailed: boolean;
   onQualityChange: (value: boolean) => void;
+  hotspots: Hotspot[];
+  onHotspot: (hotspot: Hotspot) => void;
 }) {
   const mount = useRef<HTMLDivElement>(null),
     engine = useRef<Engine | null>(null),
     latest = useRef(state),
     select = useRef(onSelect);
+  const hotspotState = useRef(hotspots),
+    hotspotSelect = useRef(onHotspot);
+  useEffect(() => {
+    hotspotState.current = hotspots;
+    hotspotSelect.current = onHotspot;
+    engine.current?.apply(latest.current);
+  }, [hotspots, onHotspot]);
   const [status, setStatus] = useState('Loading 3D model…'),
     [ready, setReady] = useState(false),
     [attempt, setAttempt] = useState(0);
@@ -97,8 +109,38 @@ export default function ModelViewer({
       const meshes: THREE.Mesh[] = [];
       let radius = 1;
       const center = new T.Vector3();
+      const markers: {
+        button: HTMLButtonElement;
+        point: THREE.Vector3;
+        hotspot: Hotspot;
+      }[] = [];
       const render = () => {
-        if (!cancelled) renderer.render(scene, camera);
+        if (!cancelled) {
+          renderer.render(scene, camera);
+          const occupied: { x: number; y: number }[] = [];
+          for (const marker of markers) {
+            const p = marker.point.clone().project(camera);
+            const x = ((p.x + 1) * host.clientWidth) / 2;
+            const y = ((1 - p.y) * host.clientHeight) / 2;
+            const visible =
+              hotspotState.current.some((h) => h.id === marker.hotspot.id) &&
+              p.z > -1 &&
+              p.z < 1 &&
+              x > 24 &&
+              x < host.clientWidth - 24 &&
+              y > 110 &&
+              y < host.clientHeight - 100 &&
+              !occupied.some((a) => Math.hypot(a.x - x, a.y - y) < 48);
+            marker.button.hidden = !visible;
+            marker.button.style.left = `${x}px`;
+            marker.button.style.top = `${y}px`;
+            marker.button.setAttribute(
+              'aria-pressed',
+              String(latest.current.selected === marker.hotspot.part),
+            );
+            if (visible) occupied.push({ x, y });
+          }
+        }
       };
       controls.addEventListener('change', render);
       const resize = () => {
@@ -212,6 +254,7 @@ export default function ModelViewer({
           contextlost,
         );
         if (root) disposeObject(root);
+        markers.forEach((m) => m.button.remove());
         environment.dispose();
         sun.shadow.dispose();
         renderer.dispose();
@@ -241,6 +284,43 @@ export default function ModelViewer({
         }
       });
       const bounds = new T.Box3().setFromObject(root);
+      if (state.model === 'building') {
+        for (const [i, hotspot] of allHotspots.entries()) {
+          const members = meshes.filter((m) => m.userData.key === hotspot.part);
+          if (!members.length) continue;
+          const box = new T.Box3();
+          members.forEach((m) => box.union(new T.Box3().setFromObject(m)));
+          const target = box.getCenter(new T.Vector3());
+          // Anchor to real exported geometry, never to an empty batch centre.
+          let best = Infinity;
+          const point = target.clone(),
+            v = new T.Vector3();
+          for (const member of members) {
+            const positions = member.geometry.getAttribute('position');
+            for (let n = 0; n < positions.count; n++) {
+              v.fromBufferAttribute(positions, n).applyMatrix4(
+                member.matrixWorld,
+              );
+              const distance = v.distanceToSquared(target);
+              if (distance < best) {
+                best = distance;
+                point.copy(v);
+              }
+            }
+          }
+          const button = document.createElement('button');
+          button.className = 'hotspot-marker';
+          button.textContent = String(i + 1);
+          button.title = hotspot.title;
+          button.setAttribute(
+            'aria-label',
+            `Hotspot ${i + 1}: ${hotspot.title}`,
+          );
+          button.onclick = () => hotspotSelect.current(hotspot);
+          host.appendChild(button);
+          markers.push({ button, point, hotspot });
+        }
+      }
       bounds.getCenter(center);
       radius = bounds.getSize(new T.Vector3()).length() / 2;
       if (state.model !== 'building') radius *= 1.32;
