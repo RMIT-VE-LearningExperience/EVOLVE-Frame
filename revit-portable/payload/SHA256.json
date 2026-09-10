@@ -1,0 +1,20 @@
+[
+  {
+    "file": "revit-mcp-runtime.zip",
+    "bytes": 45745134,
+    "sha256": "d408fb7a427ab60ec8d08da6bcd7d26bde868f3f5b4d6f0ee12907762dd09bed",
+    "entries": 5837
+  },
+  {
+    "file": "revit-addin-2027.zip",
+    "bytes": 20296820,
+    "sha256": "36e3b9c353e1ff1981fb5eea0ac20f94f2ddab31ad40db50a8835ce0e0198c67",
+    "entries": 19
+  },
+  {
+    "file": "revit-compiler.zip",
+    "bytes": 21776448,
+    "sha256": "2a27db3d46e90f9af6aed1151c584cd928e4c8a1245ec92c722a4065a82dd6e1",
+    "entries": 193
+  }
+]

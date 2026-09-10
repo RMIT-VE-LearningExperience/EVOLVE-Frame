@@ -5,3 +5,10 @@ tmp/
 *.blend1
 *.blend2
 output/learning/*.tar.gz
+
+# Local Revit backups and machine-specific generated configuration.
+*.????.rvt
+*.????.rfa
+revit-portable/mcp-config.local.toml
+# Portable dependency snapshots are intentional repository inputs.
+!revit-portable/payload/*.zip

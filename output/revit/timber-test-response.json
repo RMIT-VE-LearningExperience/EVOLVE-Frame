@@ -1,0 +1,19 @@
+{
+  "at": "2026-09-10T05:55:09.992Z",
+  "request": {
+    "name": "send_code_to_revit",
+    "arguments": {
+      "code": "try{using(var t=new Transaction(document,\"First T1 bottom chord - verify timber family\")){t.Start();var s=new FilteredElementCollector(document).OfClass(typeof(FamilySymbol)).Cast<FamilySymbol>().Single(s=>s.FamilyName==\"LC Rectangular Timber\"&&s.Name==\"90x35 MGP10\");s.Activate();document.Regenerate();var level=new FilteredElementCollector(document).OfClass(typeof(Level)).Cast<Level>().Single(l=>l.Name.StartsWith(\"01 First FFL\"));var e=document.Create.NewFamilyInstance(Line.CreateBound(new XYZ(10170/304.8,150/304.8,5785/304.8),new XYZ(10170/304.8,5345/304.8,5785/304.8)),s,level,Autodesk.Revit.DB.Structure.StructuralType.Beam);Autodesk.Revit.DB.Structure.StructuralFramingUtils.DisallowJoinAtEnd(e,0);Autodesk.Revit.DB.Structure.StructuralFramingUtils.DisallowJoinAtEnd(e,1);e.get_Parameter(BuiltInParameter.Z_JUSTIFICATION).Set(1);e.get_Parameter(BuiltInParameter.ALL_MODEL_MARK).Set(\"TEST-T1-BC\");document.Regenerate();var box=e.get_BoundingBox(null);var r=new{id=e.Id.Value,min=box.Min.ToString(),max=box.Max.ToString(),parameters=e.Parameters.Cast<Parameter>().Where(p=>p.Definition.Name.Contains(\"Justification\")||p.Definition.Name.Contains(\"Extension\")||p.Definition.Name.Contains(\"Material\")).Select(p=>new{name=p.Definition.Name,value=p.AsValueString()}).ToArray()};t.Commit();return r;}}catch(Exception ex){return new{failure=ex.ToString()};}\n",
+      "transactionMode": "none"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Code execution successful!\nResult: {\n  \"success\": true,\n  \"result\": \"{\\\"id\\\":1675577,\\\"min\\\":\\\"(33.308727034, 0.492125984, 18.832020997)\\\",\\\"max\\\":\\\"(33.423556430, 17.536089239, 19.127296588)\\\",\\\"parameters\\\":[{\\\"name\\\":\\\"z Justification\\\",\\\"value\\\":\\\"Center\\\"},{\\\"name\\\":\\\"y Justification\\\",\\\"value\\\":\\\"Origin\\\"},{\\\"name\\\":\\\"yz Justification\\\",\\\"value\\\":\\\"Uniform\\\"},{\\\"name\\\":\\\"End Extension\\\",\\\"value\\\":\\\"0\\\"},{\\\"name\\\":\\\"Start Extension\\\",\\\"value\\\":\\\"0\\\"},{\\\"name\\\":\\\"Structural Material\\\",\\\"value\\\":\\\"LC Timber - MGP10\\\"}]}\",\n  \"errorMessage\": \"\"\n}"
+      }
+    ]
+  },
+  "diagnostics": "已注册工具: ai_element_filter.js\n已注册工具: analyze_model_statistics.js\n已注册工具: color_elements.js\n已注册工具: create_dimensions.js\n已注册工具: create_grid.js\n已注册工具: create_level.js\n已注册工具: create_line_based_element.js\n已注册工具: create_point_based_element.js\n已注册工具: create_room.js\n已注册工具: create_structural_framing_system.js\n已注册工具: create_surface_based_element.js\n已注册工具: delete_element.js\n已注册工具: export_room_data.js\n已注册工具: get_available_family_types.js\n已注册工具: get_current_view_elements.js\n已注册工具: get_current_view_info.js\n已注册工具: get_material_quantities.js\n已注册工具: get_selected_elements.js\n警告: 在文件 modify_element.js 中未找到注册函数\n已注册工具: operate_element.js\n已注册工具: query_stored_data.js\n已注册工具: say_hello.js\n警告: 在文件 search_modules.js 中未找到注册函数\n已注册工具: send_code_to_revit.js\n已注册工具: store_project_data.js\n已注册工具: store_room_data.js\n已注册工具: tag_all_rooms.js\n已注册工具: tag_all_walls.js\n警告: 在文件 use_module.js 中未找到注册函数\nRevit MCP Server start success\n"
+}

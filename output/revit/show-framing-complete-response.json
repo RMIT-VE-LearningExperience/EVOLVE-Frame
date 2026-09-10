@@ -1,0 +1,19 @@
+{
+  "at": "2026-09-10T06:34:36.058Z",
+  "request": {
+    "name": "send_code_to_revit",
+    "arguments": {
+      "code": "var name=\"04 Timber and Trusses - Coordination WIP\";var v=new FilteredElementCollector(document).OfClass(typeof(View3D)).Cast<View3D>().FirstOrDefault(v=>v.Name==name);\nusing(var tx=new Transaction(document,\"Framing coordination view\")){tx.Start();if(v==null){var source=new FilteredElementCollector(document).OfClass(typeof(View3D)).Cast<View3D>().Single(v=>v.Name==\"03 Building Geometry - Coordination WIP\");v=(View3D)document.GetElement(source.Duplicate(ViewDuplicateOption.Duplicate));v.Name=name;}\n v.SetCategoryHidden(new ElementId(BuiltInCategory.OST_Roofs),true);v.SetCategoryHidden(new ElementId(BuiltInCategory.OST_Walls),true);v.SetCategoryHidden(new ElementId(BuiltInCategory.OST_Floors),false);tx.Commit();}\nvar ui=new Autodesk.Revit.UI.UIApplication(document.Application);ui.ActiveUIDocument.ActiveView=v;ui.ActiveUIDocument.RefreshActiveView();ui.ActiveUIDocument.GetOpenUIViews().FirstOrDefault(u=>u.ViewId==v.Id)?.ZoomToFit();document.Save();\nvar options=new ImageExportOptions{ExportRange=ExportRange.SetOfViews,FilePath=@\"C:\\Users\\Stormtrooper\\Git\\EVOLVE - Frame\\output\\revit\\framing-progress\",HLRandWFViewsFileType=ImageFileType.PNG,ShadowViewsFileType=ImageFileType.PNG,ZoomType=ZoomFitType.FitToPage,PixelSize=2400,ImageResolution=ImageResolution.DPI_150};options.SetViewsAndSheets(new List<ElementId>{v.Id});document.ExportImage(options);return new{view=v.Name,members=new FilteredElementCollector(document).OfCategory(BuiltInCategory.OST_StructuralFraming).WhereElementIsNotElementType().GetElementCount()};\n",
+      "transactionMode": "none"
+    }
+  },
+  "response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Code execution successful!\nResult: {\n  \"success\": true,\n  \"result\": \"{\\\"view\\\":\\\"04 Timber and Trusses - Coordination WIP\\\",\\\"members\\\":2962}\",\n  \"errorMessage\": \"\"\n}"
+      }
+    ]
+  },
+  "diagnostics": "已注册工具: ai_element_filter.js\n已注册工具: analyze_model_statistics.js\n已注册工具: color_elements.js\n已注册工具: create_dimensions.js\n已注册工具: create_grid.js\n已注册工具: create_level.js\n已注册工具: create_line_based_element.js\n已注册工具: create_point_based_element.js\n已注册工具: create_room.js\n已注册工具: create_structural_framing_system.js\n已注册工具: create_surface_based_element.js\n已注册工具: delete_element.js\n已注册工具: export_room_data.js\n已注册工具: get_available_family_types.js\n已注册工具: get_current_view_elements.js\n已注册工具: get_current_view_info.js\n已注册工具: get_material_quantities.js\n已注册工具: get_selected_elements.js\n警告: 在文件 modify_element.js 中未找到注册函数\n已注册工具: operate_element.js\n已注册工具: query_stored_data.js\n已注册工具: say_hello.js\n警告: 在文件 search_modules.js 中未找到注册函数\n已注册工具: send_code_to_revit.js\n已注册工具: store_project_data.js\n已注册工具: store_room_data.js\n已注册工具: tag_all_rooms.js\n已注册工具: tag_all_walls.js\n警告: 在文件 use_module.js 中未找到注册函数\nRevit MCP Server start success\n"
+}

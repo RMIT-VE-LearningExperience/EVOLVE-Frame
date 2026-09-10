@@ -1,0 +1,64 @@
+                    BUILDING AUTHORITY FLOOR JOIST CERTIFICATION
+BB Truss & Timber Pty Ltd                                                                                                         JOB : K0964
+41 Keilor Park Drive Keilor Park 3042 PH 03 9331 7075 A.C.N.059 242 134
+Customer : LUXURY HOMES PTY LTD                                                        Site Address :  LOT 735 15 LEICHHARDT AVE
+                                                                                                        BURNSIDE VIC 3023 AUS
+                                                                                          Reference :
+This is to certify that the prefabricated timber floor joists supplied to the above project were manufactured using
+MULTINAIL metal connectors and detailed using MULTINAIL computer joist design programs in accordance with
+the National Construction Code (NCC 2022).
+The floor joist design and detailing assumes the supporting structure is stable within its own right before the
+installation of the floor joists.
+
+
+The specifications used in the design of the joists were as follows:
+
+Timber :                Dry Swd (can include KD Hwd)                                 Flooring :            Particle (13.9kg/m²)
+Spacing :            450                                                             TC Restraints :   300
+Wind :                   N2                                                          Ceiling Material: Plaster 10mm Std Core (6.7 kg/m²)
+Structure:              House                                                        Ceiling Fixing:    Direct fix @ 450c
+Floor Application :  General Areas                                                   Std Chords :       45 TC / 45 BC
+Treatment :           H0 - Individual members may be treated different.              Live Load: 1.5 kPa   Point Load: 1.8 kN
+All designed joists and pre-cut members utilize the following Australian standards:
+
+
+  AS/NZS 1170.0-2002  Structural design actions Part 0: General Principles
+  AS/NZS 1170.1-2002  Structural design actions Part 1: Permanent, imposed and other actions
+  AS/NZS 1170.2-2021  Structural design actions Part 2: Wind actions
+  AS/NZS 1170.3-2003  Structural design actions Part 3: Snow and Ice
+  AS 1720.1-2010         Timber Structures Part1 : Design Methods
+  AS 1720.3-2016         Timber Structures Part3 : Design criteria for timber-framed residential buildings
+  AS 4055-2021            Wind Loads for Housing
+  AS 1649-2001            Determination of basic working loads for metal fasteners for timber
+  AS 4100-2020            Steel Structures Code
+  AS/NZS 4600-2018     Cold-formed Steel Structures Code
+
+
+Special Note: Special attention must be given to floor trusses that have a 35mm MGP10 as a top chord.
+           Due to the design processes and analysis for the design of floor trusses with 35mm MGP10 Top Chords it is
+           essential that the flooring material as specified in the design criteria for this job is securely fixed (according to
+           the manufacture’s recommendations, instructions and guidelines) as the flooring material and top chord act
+           together for the design to resist the loads applied.
+
+
+In conjunction with Multinail Australia's recommendations, all local building authority requirements and any other
+supplied details must be followed.
+
+
+Floor joist designs assumes strongbacks are placed and fixed according to Multinail Australia's recommendations.
+
+
+                           SIGNATURE: __________________________________
+
+
+                           NAME     :     Joey Meriales (TN-012-015)
+
+
+                           POSITION : ___________________________________
+
+
+                           DATE     :  ____________________________________
+
+
+For detailed load information refer to the engineering output.
+MULTINAIL Floor V1.14.3                                                                                                              10/04/2026 10:07:05 AM   Page 1 of 1User : Joey Meriales (TN-012-015)

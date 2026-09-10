@@ -1,0 +1,5274 @@
+
+PAGE 1
+COVER SHEET
+N/ASCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+THIS WORK IS EXCLUSIVELY OWNED BY VIVID DESIGN & DRAFTING AND CANNOT BE REPRODUCED OR
+COPIED, EITHER WHOLLY OR IN PART, IN ANY FORM WITHOUT THE WRITTEN PERMISSION OF VIVID DESIGN
+& DRAFTING.
+DO NOT SCALE DRAWINGS. WRITTEN DIMENSIONS TAKE PRECEDENCE. CONFIRM ALL LEVELS AND
+DIMENSIONS ON SITE PRIOR TO COMMENCEMENT OF WORK. NOTIFY DESIGNER OF ANY DISCREPANCIES
+PRIOR TO COMMENCEMENT. DRAWINGS TO BE READ IN CONJUNCTION WITH SPECIFICATION, ENGINEER'S
+DRAWINGS, SOIL REPORT & SERVICE DRAWINGS.
+ALL WORKS ARE TO COMPLY WITH CURRENT AUSTRALIAN STANDARDS & BE IN ACCORDANCE WITH THE
+CURRENT NCC. © COPYRIGHT
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+  DRAWING NO. DESCRIPTION
+01 COVER SHEET
+02 NOTES N/A
+03 SITE & ROOF PLAN 1:125
+04 ROOF PLAN 1:100
+05 SITE NOTES N/A
+06 SLAB SETOUT PLAN 1:100
+07 GROUND FLOOR PLAN 1:100
+08 FIRST FLOOR PLAN 1:100
+09 ELEVATIONS 1:100
+10 ELEVATIONS 1:100
+11 WINDOW & DOOR SCHEDULE 1:100
+12 SECTION A-A 1:50
+13 SECTION NOTES N/A
+14 ELECTRICAL PLAN 1:100
+15 INTERNAL DETAILS 1:50
+16 INTERNAL DETAILS 1:50
+17 INTERNAL DETAILS 1:50
+18 INTERNAL DETAILS 1:50
+19 INTERNAL DETAILS 1:50
+20 ENERGY RATING REQUIRMENTS N/A
+21 NOTES & DETAILS N/A
+22 DETAILS N/A
+23 DETAILS N/A
+24 DETAILS N/A
+25 DETAILS N/A
+26 SHADOW DIAGRAM 9:00AM 1:125
+27 SHADOW DIAGRAM 10:00AM 1:125
+28 SHADOW DIAGRAM 11:00AM 1:125
+29 SHADOW DIAGRAM 12:00PM 1:125
+30 SHADOW DIAGRAM 1:00PM 1:125
+31 SHADOW DIAGRAM 2:00PM 1:125
+32 SHADOW DIAGRAM 3:00PM 1:125
+01
+ARCHITECTURAL DRAWINGS TO BE READ IN CONJUNCTION
+WITH ENERGY RATING REPORT PREPARED BY:
+ ARCHI SUSTAINABILITY
+PH: 0478 088 493
+ARCHITECTURAL DRAWINGS TO BE READ IN CONJUNCTION
+WITH SOIL REPORT  PREPARED BY:
+H&I CONSULTING ENGINEERS
+REPORT NO: 25565-24
+DATE: 05/06/2024
+PH: (03) 9375 755
+ARCHITECTURAL DRAWINGS TO BE READ IN CONJUNCTION
+WITH FEATURE SURVEYOR PLAN PREPARED BY:
+H&I CONSULTING ENGINEERS
+REPORT NO: 25565-24
+DATE: 03/06/2024
+PH: (03) 9375 755
+NEW DWELLING AT
+LOT 735 (NO. 15) LEICHHARDT AVENUE, BURNSIDE HEIGHTS
+
+
+PAGE 2
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+THIS WORK IS EXCLUSIVELY OWNED BY VIVID DESIGN & DRAFTING AND CANNOT BE REPRODUCED OR
+COPIED, EITHER WHOLLY OR IN PART, IN ANY FORM WITHOUT THE WRITTEN PERMISSION OF VIVID DESIGN
+& DRAFTING.
+DO NOT SCALE DRAWINGS. WRITTEN DIMENSIONS TAKE PRECEDENCE. CONFIRM ALL LEVELS AND
+DIMENSIONS ON SITE PRIOR TO COMMENCEMENT OF WORK. NOTIFY DESIGNER OF ANY DISCREPANCIES
+PRIOR TO COMMENCEMENT. DRAWINGS TO BE READ IN CONJUNCTION WITH SPECIFICATION, ENGINEER'S
+DRAWINGS, SOIL REPORT & SERVICE DRAWINGS.
+ALL WORKS ARE TO COMPLY WITH CURRENT AUSTRALIAN STANDARDS & BE IN ACCORDANCE WITH THE
+CURRENT NCC. © COPYRIGHT
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+5.0 - DOWNPIPES
+· Provide & install downpipes of compatible material to selected or existing gutter
+material.
+· Downpipes to be located at maximum 12.0m spacings & within 1.2m of any
+valley junction in the roof.
+· Secure all downpipes to walls with straps/brackets at maximum 1800mm centres.
+· Connect all downpipes to approved stormwater system that is connected to legal
+point of discharge.
+6.0 - EXCAVATIONS
+· Take necessary measures to ensure public safety.
+· Clear the proposed building area of the site of any existing structures, vegetation &
+organic material.
+· Ensure excavations for strip footings,concrete slab edge & internal beams are
+straight & plumb to the founding depths and sizes shown on approved dwgs & as
+recommended by soil report.
+· Excavations to be clean/dry before placement of reinforcement.
+· The Builder / Contractor is to arrange all required inspections & approvals.
+· Site cuts & batters not to exceed 45° unless otherwise specified by engineer or
+soil report.
+· Builder to check on site the adjoining buildings to ensure foundations & footings
+of any existing structures are not undermined.
+· The builder and subcontractor shall ensure that all stormwater drains, sewer pipes
+and the like are located at a sufficient distance from any buildings footing and/or
+slab edge beams so as to prevent genera moisture penetration, dampness,
+weakening and undermining of any building and its footing system.
+7.0 - STORMWATER
+· All storm water to be taken to the legal point of discharge in accordance with the
+relevant authorities requirements and in with A.S.3500.3 - 2021
+In absence of engineer designed system the following will apply.
+· The builder/contractor shall ensure that all stormwater drains, sewer pipes and the
+like are to be no closer than 600mm from any building line. This must be
+increased as to not to impinge on the building's foundations bearing in cases of
+deep excavations. This is required from any buildings footing and/or slab edge
+beams so as to prevent general moisture penetration, dampness, weakening and
+undermining of any building and it's footing system.
+· Pipes shall have 150mm minimum cover to non trafficable areas and
+300mm(min) to trafficable or under paths, driveways etc.
+· Suspended stormwater pipes must be minimum 100mmØ UPVC & installed only
+with a 450mm (min) subfloor clearance between underside of bearers & finished
+ground. anchors & fixing centres as approved by building surveyor.
+· Obtain authority inspections & approvals before backfilling.
+· Provide agricultural drains (ag drain) to all site cuts or batters exceeding 600mm
+in height. ag drains to be connected to approved stormwater system via silt pit.
+· The builder/contractor shall ensure that all storm water drains, sewer pipes and
+the like are located at a sufficient distance form any buildings footing and/or slab
+edge beams so as to prevent general moisture penetration, dampness, weakening
+and undermining of any building and it's footing system.
+· Provide 100mm Ø min. class 6 upvc stormwater line laid to a minimum grade of
+1:100 and connected to legal point of discharge (lpod). Provide inspection pits
+@9000mm ctrs min and at each change of direction.
+·
+The cover to underground stormwater drains shall not be less than
+(unless specified by responsible authority requirements):
+- 100mm    Under soils
+- 50mm       Under paved or concrete areas
+- 100mm     Under unreinforced concrete or paved areas
+- 75mm       Under reinforced concrete driveways
+· Ground & paved areas adjacent to residence footing edge shall grade away with a
+slope of at least 1:20 for the first meter.
+· Stormwater drains shall be a minimum 100mm Ø upvc. stormwater drain shall
+have a minimum of 300mm earth cover & trafficable areas such as driveways a
+minimum cover of 450mm shall be provided unless protected by concrete or
+other approved methods.
+· A.G. grate & or spoon-drains to be connected into 100mmØ upvc stormwater
+drain via silt pit to councils satisfaction.
+12.0 - STAIRS & BALUSTRADES
+· Levels & number of steps shown are approximate only.
+· All staircases to have: 2030mm minimum head height.
+· Landing to be provided where external door still exceeds 570mm or 3 risers
+above finished surface of the ground with a min. of 750mm wide landing.
+· Hand rails to be 865mm minimum above stair nosing and landings.
+· Step sizes (other than for spiral stairs) to be:
+1. Risers (r) 190mm maximum and 115mm minimum.
+2. Going (g) 355mm maximum and 240mm minimum (residential) or
+250mm minimum (commercial/industrial)
+3. 2r + 1g = 700mm maximum and 550mm minimum.
+4. With less than 125mm gap between open treads.
+· Risers and treads to be constant in size throughout flight.
+· All treads and landings and the like to have non-slip finish or suitable non-skid
+strip near edge of nosing.
+· Provide balustrades where change in level exceeds 1000mm above the surface
+beneath landings, ramps and/or treads. balustrades (other than tensioned wire
+balustrades) to be: 1000mm min. above finished surface level of balconies,
+landings or the like, & 865mm min. above finished surface level of stair nosing
+or ramp, and vertical with a 125mm maximum gap between, and
+· Any horizontal element within the balustrade between 150mm and 760mm
+above the finished floor surface must not facilitate climbing where changes in
+level exceed 4000mm above the surface beneath landings, ramps and/or treads.
+· Wire balustrade construction to comply with NCC 2019 Volume 2 for other
+classes of buildings.
+1.
+Stainless steel wires must be 3mm Ø and 1x19 lay.
+2. Supports must be provided @ 900 ctrs, droppers or posts.
+3. Wire spacing shall be no more than 80mm max.
+4. Wires must be tensioned to 670 newtons and shall have
+max 6mm deflection when a 2kg mass is suspended mid span
+between supports.
+5. Solid top rail of 40mm Ø must be provided.
+6. Tensioners must be provided @ each wire and @ each
+change of direction greater than 30°.
+7. Pulley blocks must be provided @ each change of direction.
+13.0 - INSULATION
+· These drawings shall be read in conjunction with any house energy rating (her)
+report for insulation details and any other energy efficiency requirements and
+shall be constructed in accordance with the stamped plans endorsed by the
+accredited thermal performance assessor without alterations. ( If one report is
+required for this project)
+· For new additions to or re-erection of class 1 buildings, unless noted otherwise,
+minimum insulation provided shall be as follows:
+- Conc. slab floor construction
+-
+Timber floor construction (Refer to notes)
+- External walls. (Refer to notes)
+- Bulk insulation to ceiling. (Refer to notes)
+- Door seals to all external hinge doors.
+- Seal round all windows and cracks.
+- Self sealing exhaust fans.
+- Weather strip external doors.
+- All down lights to be sealed.
+Note: Any sarking material (Sisalation paper) to have a flammability index not greater
+than 5.
+14.0 - GLAZING
+· Glazing to A.S. 1288 - 2021
+· Safety glazing to be used in the following cases:-
+1. All rooms - within 500mm vertical of floor level.
+2. All glazing in bathrooms, ensuites, spa rooms or showers - within 2000mm
+vertical from the bath base, within 500mm horizontal from bath/shower to
+shower doors, shower screens and bath enclosures. (including mirrors etc.)
+3. Laundry - within 1200mm vertical from floor level and/or within
+300mm vertical of trough.
+4. Doorways within 300mm horizontal from all doors.
+5. Ensuite as for shower screens shall be "grade a" safety glass.
+· Glazing including safety glazing shall be installed to a size, type and thickness
+so as to comply with:
+- NCC 2019 Volume 2 within a design wind speed
+of not more than N3.
+8.0 - TERMITE CONTROL
+· Where a site allotment is located within a termite designated area the
+builder/contractor shall treat the entire building area with an approved termite
+control treatment that complies with relevant Australian Standards & the NCC
+2019 Volume 2.
+· The builder/contractor shall engage a licensed and suitably qualified contractor
+to carry out control treatment.
+· The builder/contractor is to provide the owner with a written certificate
+confirming the completion of treatment and all methods comply with (A.S.
+3660.1.)
+9.0 - BRICKWORK NOTES
+· Brickwork control joints to be spaced at a max of 5.0m as per CN9 and Cement
+and Concrete Association. (Note TN61) or as per mentioned in the geotechincal
+report.
+· All wall ties to brickwork at 600mm vertically and horizontally and within
+300mm of articulation joints.
+· Brickwork in gables, or over windows provide continuous cavity head flashing
+to weep holes @ 1000 max ctrs. Basketball rings or other sporting equipment
+are not to be attached to brickwork or building unless designed for that purpose.
+· General purpose class - mortar to be 1:1:6
+· Protected class (within 1km of sea) - mortar to be 1:2:9
+· Exposure class - mortar to be  1: ½ :4½
+· Sub floor vents to be spaced evenly at 1000mm max centres, to provide
+6000mm² clear air passage per meter of wall length, & max 500mm from
+corners.
+10.0 - TIMBER FRAMING NOTES
+· All timber to be graded in accordance with A.S. 1684.4-2021 as follows: F5
+Pine, F7 Oregon and F8 Hardwood U.N.O.
+· All timber framework being walls or roof to be provided with bracing as per the
+requirements of AS 1684.4 - 2021. All tie downs for roof are to be supplied and
+fitted in accordance with AS 1684.4 - 2021 and NCC 2019 Volume 2
+requirements.
+· If shower base is located at load bearing walls, shower base is not to be cut into
+stud frame.
+11.0 - STRUCTURAL NOTES
+· These drawings shall be read in conjunction with all relevant structural
+drawings/computations an all other consultants drawings/details and with any
+other written instructions issued which is required for this project.
+· All structural steel is to be protected from corrosion in moderate and severe
+environments in accordance with table AS. 4100.
+· Concrete stumps:
+Up to 1.4m long shall be 100mm x 100mm (1No. H.D. wire)
+1.4m to 1.8m long shall be 100mm x 100mm (2No. H.D. wire)
+1.8m to 3.0m long shall be 125mm x 125mm (2No. H.D. wire)
+100mm x 100mm stumps exceeding 1200mm above ground level are to be
+braced where no perimeter base brickwork is provided.
+· All foundations shall be inspected by the building inspector prior to pouring
+concrete.
+· Any variation in foundation material from that specified to be notified to the
+engineer and owner.
+· All reinforcement in footings and pad footings shall be inspected by the building
+inspector prior to pouring concrete.
+· All steel and steelwork shall be in accordance with A.S. 4100.
+· All dimensions shall be checked on site prior to  fabrication of steelwork.
+· All timber materials, workmanship and practice shall be in
+· accordance with the Timber  Engineering Codes A.S. 1720.0, 1720.2 and
+1720.4 and the Timber Framing Code A.S. 1684.1 and 1684.2.
+· All timber to be partially seasoned unless noted otherwise.
+· All rafters and roof members to be tied down to support structure using straps,
+plates, cleats, etc. by "PRYDA" or "TECO" components.
+· Builder to ensure that all work is carried out to these specifications and no
+spans or sizes vary. No splices are permitted without the engineer's written
+consent.
+· All exposed bolts, fixing, etc. to be hot dip galvanised in accordance with A.S.
+1650 to suit site exposure conditions.
+· Refer soil report and structural engineer's specifications for minimum founding
+depth and maximum allowable bearing pressure.
+1.0 - GENERAL NOTES
+· © These designs & drawings are the property of Soniez Group, no part of
+this drawing shall be used for any other purpose without the prior written
+consent IF IN DOUBT ASK.
+· Written dimensions take precedence over scaled dimensions, do not scale
+drawings.
+· Prior to starting any works if builder/contractor and or owner has or have
+found any discrepancies in these documents it should be reported to this
+office for clarification.
+· Vivid Design & Drafting accepts no responsibility for any work done that is
+not documented or shown as an amendment or variation on the said
+approved plans.
+· The written contract and specifications take precedence over these prepared
+plans. The builder / contractor is to ensure that all plans have been read in
+conjunction with the written contract and are to his or hers satisfaction
+before issuing the contract & plans to the client.
+· All materials and work practices shall comply with but not limited to the
+building regulations NCC 2019 Volume 2, the Building Code of Australia and
+all relevant current Australian Standards (as amended) referred to therein
+and also to the relevant local authority regulations.
+· The builder is to give all notices & pay all fees in connection with these
+works unless otherwise noted in signed contract if one is provided.
+· The builder/contractor shall verify all dimensions, setbacks, levels,
+specifications and other relevant documentation prior to commencing any
+works or ordering materials and shall be responsible for ensuring that all
+building works conform to the current Building Code of Australia, Australian
+Standard Codes, Building Regulations, local by-laws and local town
+planning requirements. the builder, subcontractor or manufacturer shall
+report any discrepancies to this office for clarification.
+· Buildings in marine or other corrosive exposure environments ensure all
+exposed steel work, brick cavity ties, steel lintels etc. are protected (hot dip
+galvanised/stainless steel etc.) in accordance with table 5.1 of AS
+3700-2001 masonry structures.
+· The builder/contractor shall take all steps necessary to ensure the stability
+and general water tightness of all new and/or existing structures during all
+works.
+2.0 - UNDERGROUND SERVICES
+· Beware of underground services, take extreme care. the exact location of
+underground services shall be investigated on site. No guarantee is given
+that all existing services are shown.
+· Call 1100 Dial Before You Dig, prior to commencement of any works onsite
+dial 1100 to locate authority assets.
+3.0 - SITE ASSETS
+· It is the responsibility of the owner/builder during construction to remove,
+retain, relocate or protect existing and proposed assets, i.e. kerbs,
+crossovers, power poles etc, whilst conforming to all relevant authorities
+requirements.
+4.0 - LEVELS & SETOUT
+· The builder's and or subcontractor's responsibility to verify all dimensions,
+setbacks, levels & existing conditions on site & ensure that any
+discrepancies in these documents and all other relevant documents  are
+resolved prior to commencement of any works & incurring any additional
+costs.
+· Site plan measurements in metres - all other measurements  in millimeters
+unless noted otherwise (u.n.o.)
+· Should levels be provided the builder is to check and confirm all site levels
+and proposed floor levels are correct as drawn. any discrepancy must be
+reported to this office. start of work is taken to be acceptance of the
+information provided as correct.
+· The builder is to set out & maintain the works in accordance with the
+drawings & ensure that no part of the building encroaches over any title
+boundaries. the building shall not encroach over any drainage, sewerage or
+electrical easement without the prior written consent of the authority
+concerned.
+· No part of building shall project beyond the title boundary line, ie. including
+moulds, architectural features, footings, gutters, and the like.
+· The builder/owner is to ensure that all title boundary pegs are located prior
+to set out, if title boundary cannot be identified, the builder/owner is to
+engage a licensed land surveyor to re-establish the title boundaries. Existing
+fences are not to be used to determine building setbacks.
+15.0 - WINDOWS & DOORS
+· Window and door sizes nominated are nominal only.
+· All windows and doors are to be confirmed on site with builder/contractor prior
+to ordering. Actual size may vary according to the selected manufacturer and
+site conditions.
+· External windows and doors to be flashed all round.
+· All window and door sizes are height x width.
+· Window head height to be 2100mm high or to the nearest brick course. (U.N.O.)
+· All internal doors to be 2040mm high (U.N.O.)
+· Refer to the window and door schedule if provided.
+· All windows and doors need to comply with the energy rating report if one is
+required for this project.
+16.0 - WET AREAS
+· Waterproofing of wet areas, being bathrooms, showers, shower rooms,
+laundries, sanitary compartments and the like shall be provided in accordance
+with AS 3740 - 2021.
+· Waterproofing of wet areas within residential buildings AS 3740 - 2021. Hardies
+"Villaboard" to showers as per AS 3740 - 2021 "Ceramic" underlay to timber
+floors, sealed and caulked at joints.
+· Waterproofing of terraces and balconies: select tiled finish, set at 50mm min.
+fall to exterior floor drain; set over cement-rich mortar grout; set over 3 layers
+fiberglass based membrane, set over cement-rich mortar grout; set over villa
+board; provide acrylic coving to all wall/floor corners, provide  300mm h.  tiled
+skirting over as well.
+ 17.0 - SERVICES
+· Installation of all services shall comply with the respective supply authority
+requirements.
+· All locations of lighting, light switches, power points including electric meter box
+shall be located as discussed on site between owner and builder/contractor.
+All locations of the above to be in accordance with any relevant
+Australian Standard and or Electrical Standard.
+· The location of hot water system unit and gas meter and heating units shall be
+discussed by owner on site with builder/contractor and insuring plumbing
+regulation requirements are to standard.
+· All electrical work to be provided by a registered electrician.
+· All plumbing work to be provided by a registered plumber.
+· Waste from kitchen sink and other sanitary fittings to be discharged to public
+sewerage system (pipe sizes to be established by registered plumber).
+· Open fire place construction as per Section J of the NCC 2019 Volume 2.
+Chimney construction as per Section J of the NCC 2019 Volume 2.
+Provide damper or flap to chimney as per Section J of the NCC 2019 Volume 2.
+Insert fire places as per Section J of the NCC 2019 Volume 2.
+Free standing heating appliances as per Section J of the NCC 2019 Volume 2.
+· All notes mentioned on this page are general notations only. For more specific
+information, refer to the NCC 2019 Volume 2 and the Australian Standards.
+· Architectural drawings to be read in conjunction with builders contract and
+specifications.
+NCC & Standards - General
+All works shall comply with the NCC 2019 Volume 2 and not be limited to the following
+Australian Standard:
+A.S 1288-2021 - Glass in buildings selections and installations
+A.S 1562-2018 - Design and installation of sheet roof and wall cladding. part 1 metal
+A.S 1684.2-2021 - National timber framing code
+A.S 1860-2006 - Installation of particleboard flooring
+A.S 2047-2014 - Windows in buildings selections and installations
+A.S 2049-2002 - Roof tiles
+A.S 2050-2002 - Installation of roofing tiles
+A.S 2870-2011 - Residential slabs and footing construction
+A.S 2904-1995 - Damp proof courses and flashings
+A.S 3600 - 2018 - Concrete structures
+A.S 3660.0-2017 - Protection of building against subterranean termites part 1 new buildings
+A.S 3700-2018 - Masonry structures
+A.S 3740-2021 - Waterproofing of wet areas in residential buildings
+A.S 3786-2014 - Smoke alarms
+A.S 4100-2020 - Steel structures
+A.S 4256-2006 - Plastic roof and wall cladding materials
+NOTES
+N/A
+02
+
+
+PAGE 3
+SELECTED WHIRLYBIRD
+SITE & ROOF PLAN
+SCALE    1:125
+LOT 735
+1320
+1570
+3010
+3000
+6130
+SELECTED COLORBOND
+ROOF @ 5° ROOF PITCH
+WITH ROOF SARKING.
+1370
+3060
+3050
+2130
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+LEICHHARDT AVENUE
+30.00m 05°24'40"
+24.00m 05°24'40"
+9.50m 95°24'40"
+9.50m 95°24'40"
+4.24m 140°25'00"
+4.24m 50°25'00"
+LEICHHARDT LANE
+Ri 17.50
+Gu 16.11Gu 13.18
+FFL 10.57FFL 10.46
+IK 9.89
+TE
+GW
+HD
+E
+SW PIPE
+HD
+GW
+IK 9.96
+IK 10.01
+IK 10.09
+IK 10.17
+IK 10.30
+E
+10.71
+E
+11.03
+10.97
+10.89 10.84
+11.04
+10.68
+10.94 10.88
+10.58
+10.46
+10.20
+10.40
+10.60
+10.80
+11.00
+IK 10.86 IK 10.81 IK 10.78
+NBN
+IK 10.64 IK 10.41
+10.34
+10.40
+IL 9.93
+10.18
+NBN
+CONCRETE
+LANE
+GARAGE
+10.6310.75
+PARAPET
+WALL
+PARAPET
+WALL
+10.54 10.36 10.34
+Gu 16.11
+Gu 16.10
+PORCH
+UH/WUH/W
+PARAPET WALL
+H/W UNH/W
+UH/W
+PARKING BAY
+TBM - RIVET
+IN KERB
+RL 10.00
+1.95mH PALING FENCE
+POS
+1.15mH BRICK FENCE
+1.3mH PALING
+FENCE
+0.115m EASEMENT
+0.115m EASEMENT
+LOT 734
+DOUBLE STOREY
+DWELLING
+BRICK & WEATHERBOARD
+FOOTING EXPOSURE:
+NGL: RL 10.61
+BOF: RL <9.84
+O/S: 295mm
+NOTE:
+*BOF NOT DETERMINED DUE TO LIMITED
+CAPABILITY OF MANUAL EXCAVATION
+3.1m (APPROX)
+1.6m (APPROX)
+WYLIE CIRCUIT
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+DP
+DPDP
+DP DPDPDP
+DP/RWH DP/RWH
+DP/RWH
+DP
+ZERO BOUNDARY
+5520
+1320
+SOLAR
+PANEL
+GROUND FLOOR
+SETBACK
+FIRST FLOOR
+SETBACK
+PORCH
+SETBACK
+GF SETBACK
+FF S/B
+GF S/B
+GF S/B
+FF SETBACK
+SEWER PIPE DETAILS
+OFFSET: 3.8m
+DEPTH: 4.0m
+PIPE SIZE: 225mm UPVC
+STORMWATER PIPE DETAILS
+OFFSET: 2.1m
+DEPTH: TBC
+PIPE SIZE: 100mm MPVC
+9M OVERLOOKING ARC
+COUNCIL NOMINATED
+LPD STORMWATER
+DISCHARGE LOCATION.
+I.O I.O
+I.O
+I.O
+I.O
+SEWER BRANCH DETAILS
+LENGTH: 4.5m OUTSIDE
+DEPTH: 1.5m
+PIPE SIZE: 100mm UPVC
+AREA SCHEDULE
+SITE 366.00
+HOUSE SQM SQS
+GROUND FLOOR AREA 151.15 16.27
+FIRST FLOOR AREA 168.14 18.09
+PORCH 4.99 0.54
+ALFRESCO 18.60 2.00
+GARAGE 43.85 4.72
+TOTAL AREA 386.73 41.62
+SITE COVERAGE 218.59 59.72%
+HARD SURFACE AREA -
+TOTAL HARD SURFACE AREA - -
+PERMEABILITY 147.41 40.28%
+PRIVATE OPEN SPACE 85.73
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+SITE & ROOF PLAN
+1:125
+03
+
+
+PAGE 4
+SELECTED WHIRLYBIRD
+SITE & ROOF PLAN
+SCALE    1:100
+LOT 735
+1320
+1570
+3010
+3000
+6130
+SELECTED COLORBOND
+ROOF @ 5° ROOF PITCH
+WITH ROOF SARKING.
+1370
+3060
+3050
+2130
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+DP
+DPDP
+DP DPDPDP
+DP/RWH DP/RWH
+DP/RWH
+DP
+ZERO BOUNDARY
+5520
+1320
+SOLAR
+PANEL
+Private Open Space = 85.73 sqm
+GROUND FLOOR
+SETBACK
+FIRST FLOOR
+SETBACK
+PORCH
+SETBACK
+GF SETBACK
+FF S/B
+GF S/B
+GF S/B
+FF SETBACK
+AREA SCHEDULE
+SITE 366.00
+HOUSE SQM SQS
+GROUND FLOOR AREA 151.15 16.27
+FIRST FLOOR AREA 168.14 18.09
+PORCH 4.99 0.54
+ALFRESCO 18.60 2.00
+GARAGE 43.85 4.72
+TOTAL AREA 386.73 41.62
+SITE COVERAGE 218.59 59.72%
+HARD SURFACE AREA -
+TOTAL HARD SURFACE AREA - -
+PERMEABILITY 147.41 40.28%
+PRIVATE OPEN SPACE 85.73
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+ROOF PLAN
+1:100
+04
+
+
+PAGE 5
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+PROPERTY INFORMATION
+Termite prone area:
+Flood prone area:
+Bushfire prone area:
+Designated land to water:
+Snow fall area:
+NO
+NO
+NO
+NO
+NO
+SITE NOTES
+DIAL 1100 dial before you dig.
+Builder/contractor to confirm location of existing services prior to
+commencement of any works.
+Levels relating to ground levels are indicative only and should be checked and verified on site by Builder/Contractor prior to
+commencement of any building works.
+Required fill and compaction to be in accordance with A.S.2870-2011.
+Provide site and work place protection (fences / hoarding /safety barriers etc. as required by local authority by-laws, and worksafe
+practices, to be provided by owner.
+Chemical toilet and rubbish bin with lid to be provided during construction when required.
+All oh&s safe work practices & procedures must be followed & adhered to, & to include, but  is not limited to, electrical leads tagged,
+protective clothing & equipment used, provision of complete first aid kit, & site kept clean.
+Builder to be supplied with method statement prior to commencement onsite by contractors & sub contractors.
+The builder/contractor shall be totally responsible for and at all times to provide a safe working environment in the vicinity of the site of
+works in full compliance with the occupational health and safety regulations.
+Tree root protection, where required, shall be in accordance with TN61, and constructed in accordance with engineer's design.
+Barriers are to be provided by owner or contract variation.
+Retaining walls to be constructed immediately after excavation.  Allow 5kpa surcharge on boundary U.N.O. Retaining walls to be
+constructed & protection notice served in accordance with building act 1993.
+Owner/contractor is to provide insurance, survey of existing conditions & neighbour's consent for construction in accordance with act.
+Batters are at 45° & thatched or landscaped U.N.O. cut off drains at base of excavation to connect to storm water drains via silt pit with
+grated cover by builder/contractor.
+Walls on boundaries to comply with rescode clause 54 a.11-13.  max ave. height 3.2m on or within 200mm of boundary title.   min
+1.0m light court to neighbours habitable windows no part of building to encroach boundary title.
+Fire separation of buildings on boundary to NCC 2019 Volume 2
+Buildings adjacent to easement to have footings directed to a depth past angle of repose of pipes and to have footing system designed
+to comply accordingly. Refer to engineer's design, attached detail &/or as directed by local authority.
+The location of existing stormwater and sewer pipes to be checked and confirmed for location and depth prior to commencement of
+any work. This extends to any pipework whether within easement on the property, and or easements that adjoin the subject property.If
+any discrepancies occur contact the relevant authority immediately.
+Rainwater tanks to be installed as per plumbing regulation and local authorities. The rainwater tank must have a minimum capacity of
+2000 litres, have a catchment area of at least 50m2 and be connected to all sanitary flushing systems.
+Tanks to be provided with an automatic or manual interchange device to provide a continual supply of water for sanitary flushing.
+Provide 100mm thick paving with SL82 mesh top with 20mm layer of fine crushed rock under. The entire site to be drained so that no
+water be shed to adjoining property whether it council or otherwise. (refer to eng's paving detail if required.)
+All new crossings to be approved and constructed in accordance with responsible local authority specification.
+Driveway grades, owners are advised that driveway gradients within the property should be at 1 in 5 maximum and that transitions may
+be required at changes of grades. Refer to A.S. 2890 for design requirements.
+Eaves within 900mm (but no closer than 450mm) of the title boundary shall be constructed of noncombustable materials
+Eaves exposed to within 450mm of the title boundary shall be protected by either a wing wall or corbelled brickwork
+Rainwater heads, fascias, gutters, downpipes and the like within 450mm of the boundary shall be constructed of noncombustible
+materials.
+Flues, chimneys, pipes, domestic fuel tanks, cooling or heating appliances or other services must not be built within 450mm of
+boundary.
+Openings in external walls within 900mm from the side boundary require to be protected, ie. windows shall be fixed, fire rated windows
+no less than --/60/--.
+DRAINAGE NOTES
+Sites should be drained so that water cannot pond against or near the building.
+The ground immediately adjacent to the building should be graded to fall 50mm
+over the first metre. Where this is impracticable (i.e. on several sloping sites) use
+A.G. drains adjacent to footings where the ground falls towards the building.
+Good drainage and paving around house is recommended to ensure long term
+performance of building.
+Provide min. 90mm dia U.P.V.C. stormwater
+drains with 1:100 fall, connected to legal point of discharge.
+Stromwater drain and down pipe layout shown is to be
+installed as follows:
+- SW pipes to be minimum 800mm from slab edge.
+- AG drains to be minimum 100mm from base cut.
+- Silt pits are to be installed min 15 meters apart and at
+change of AG pipe direction.
+All drainage to be in accordance with plans prepared by drainage engineer and
+connected to legal point of discharge as advised by responsible authority.
+Design and construction of storm water drainage system to comply with AS
+3500.3. Storm water drains min 100mm to a min gradient of 1:00 downpipes a
+min 90mm diameter.
+Roof drainage design is the responsibility of the licensed roof plumber.
+The area around the perimeter footing shall be graded to prevent ponding of
+water either directly beside or adjacent to footings.
+STORMWATER & SEWER CONNECTIONS
+The owner builder/builder/contractor is to ensure that all connection points are to
+comply to all relevant authorities requirements. If not certain you must contact
+the local authorities for recommendations.
+LEGAL POINT OF DISCHARGE
+Plumbing contractor is to connect stormwater drains to council nominated legal
+point of discharge.
+(Storm water systems is to comply with AS/NZS 3500.5.)
+   dp.    Location of new downpipes.
+i.o.        Location of inspection openings at 9.0m cts max. & at each change of
+direction.
+TEMPORARY DOWNPIPES
+Temporary downpipes are to be used until downpipes
+are connected. This is to prevent water ponding next to slab .
+BUSHFIRE ATTACK LEVEL: BAL. LOW
+The proposed design must be constructed in accordance
+with AS 3959 and NCC 2019 Volume 2.
+SITE SURVEY
+The builder/owner is to ensure that all title boundary pegs are located prior to set
+out, if title boundary cannot be identified, the builder/owner is to engage a
+licensed land surveyor to re-establish the title boundaries.
+VEHICLE CROSSINGS
+New vehicle crossings must be constructed to the
+standards and specifications to the satisfaction of the
+responsible authority.
+WARNING: UNDERGROUND SERVICES
+Beware of underground services, take extreme care.
+The exact location of underground services shall be investigated on site.  No
+guarantee is given that all existing services are shown.
+SITE ASSETS
+It is the responsibility of the owner/builder during construction to remove, retain,
+relocate or protect existing and proposed assets, i.e. kerbs, crossovers, power
+poles etc, whilst conforming to all relevant authorities requirements.
+ROOF PLUMBER
+Roof plumber is responsible for design, construction and certification of roof
+drainage.
+SITE NOTES
+N/A
+05
+
+
+PAGE 6
+LEGEND
+1. KITCHEN SINK
+2. VANITY BASIN
+3. SHOWER
+4. W.C.
+5. PLUMBING STACK
+6. TROUGH
+SLAB SETOUT PLAN
+SCALE    1:100
+230 6000
+15013205360150
+11002520
+2380 3970
+28430
+9500
+9500
+6470 21960
+132036804500
+28430
+6130 20860 1440
+970 470
+69802520
+1460
+1932
+7680
+8336
+8430
+8316
+84106255
+10185520
+340
+690
+2181
+690
+1679 900
+3570
+50MM RECESSED
+SHOWER BASE.
+LINE OF
+BRICKWORK.
+LINE OF
+BRICKWORK.
+1.
+2.
+3.
+4.
+4.
+2.
+2.
+2.
+2.
+4.
+4.
+4.
+4.
+6.
+5.
+5.
+5.
+6.
+3.
+3.
+2.
+2.
+2.
+6.
+3475
+2955.
+5.
+HWS
+DW
+M/W
+REF
+SPACE
+WM
+TR
+LIN / BRM
+SP/S
+900
+1800
+UP.
+MB &
+NBN
+LINEN
+NOOK
+F.F.L. 10.906
+F.F.L. 10.734
+F.F.L. 10.820
+F.F.L. 10.820
+PANTRY
+P/S
+TAP
+TAP
+DR
+DR
+DRDR
+DR
+450W SH.86mm STEP DOWN
+86mm STEP DOWN
+226mm
+STEP DOWN
+ACCU
+GM
+ PROVIDE CAPPED COLD
+ WATER POINT BEHIND
+ FRIDGE SPACE @1900H
+DRDR
+1.
+1.
+150
+150
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+SLAB SETOUT PLAN
+1:100
+06
+SLAB SETOUT NOTES
+Site cut required as per nominated levels shown on plan.
+Builder is to confirm site.
+F.F.L. to be confirmed on site by building supervisor after
+the completion of site works.
+Levels relating to ground level are approximate only and are
+to be checked and verified on site by builder prior to
+commencement of any building works.
+Required fill and compaction to be in accordance with A.S.
+2870 - 2011.
+All works including bricks, concrete slabs and footings shall
+comply with the requirements of the relevant Australian
+Standards and the NCC 2019 Volume 2.
+DRAINAGE NOTES
+Clause 5.6.3 (AS2870-2011) – Drainage Requirements for
+moderately, highly & extremely reactive sites).
+The base of trenches shall be sloped away from the building.
+Trenches shall be backfilled with clay in the top 300mm
+within 1.5m of the building. The clay used for backfilling shall
+be compacted.
+Where pipes pass under the footing system, the trench shall
+be backfilled full depth with clay or concrete to restrict the
+ingress of water beneath the footing system.
+Where pipes pass under the footing system, the trench shall
+be back filled full depth with clay to act as a barrier to the
+ingress of water beneath the fooling system.
+Alternatively, a plastic membrane across the cross – section
+of the trench, taped to the pipe and keyed into the side and
+base of the trench may be used.
+Subsurface drains to remove groundwater shall not be used
+within 1.5m of the building unless designed in accordance
+with engineering principles.
+Surface water drainage.
+The external finished surface surrounding the slab must be
+graded to give a slope of not less than
+(i) 25 mm over the first 1 m from the building for surfaces
+that are reasonably impermeable or
+(ii) 50 mm over the first 1 m from the building.
+SURFACE WATER DRAINAGE
+The external finished surface surrounding the slab must be
+graded to give a slope of not less than:
+- 25 mm over the first 1 m from the building for surfaces
+that are reasonably impermeable or
+- 50 mm over the first 1 m from the building.
+
+
+PAGE 7
+A
+12
+A
+12
+DP
+HWS
+GROUND FLOOR PLAN
+SCALE    1:100
+GARAGE
+(D3)
+5000W X 2400H
+(Measure on site before ordering)
+ENS
+BED 1
+WIR
+L'DRY
+KITCHEN
+MEALS
+FAMILY
+ALFRESCO
+PWD
+ENTRY
+PORCH
+DW
+M/W
+REF
+SPACE
+WM
+TR
+LIN / BRM
+SP/S
+720 X
+2340
+SHR
+900
+1800
+1.2.3. 4.5.6.7.8. 9. 10. 11.12.13. 14. 15. 16.
+720 CSLD
+1800 VB
+(D5) 2100H X 3000W
+SLIDING STACKER DOOR
+(D5) 2100H X 3600H
+SLIDING STACKER DOOR
+(D4) 2400H X 3000W
+SLIDING STACKER DOOR
+820 X
+2340
+1300 VB
+UP.
+28430
+6470 21960
+230 6000 240
+90 3750 90
+150
+90 6890 90 1600 90 3190 2000 240 970
+9500
+69802520
+24065002401930590
+1320
+240
+15002401930590
+3620
+240
+1400 1000 1030
+90
+560
+28430
+8510 3970 14510 1440
+6130 590 2590 590 2580 240 5100 90 410 90 2270 90 4000 240 970
+2404000900900500510024039702401950906000230
+1030 3200
+13208180
+36804500
+5902500590
+2303220230
+2403110904500240
+240 3780 90 2640 1100 240
+240259090115090180090900240
+3620240
+240 510 90 2670 90 420
+90
+1150 90
+OVERALL
+OVERALL
+OVERALL
+GARAGE
+LINEN
+PIER
+FAMILY
+REF SPC
+ENSUITE
+WIR
+BED 1 ENTRY
+PORCH
+STAIRS
+P/S
+PIER
+ALFRESCO
+FAMILY ENSUITE WIR BED 1
+PIER
+ALFRESCO
+ALFRESCO
+ALFRESCO
+VOID VD
+MEALS
+ISLAND
+CORRIDOR
+5020240
+FAMILY
+MEALS
+GARAGE
+LAUNDRY
+ISLAND BENCH
+KITCHEN POWDER STAIRS ENTRY
+PORCH
+2405190
+ENTRY
+24040901100
+PORCH
+PORCH
+PIERPIER
+CORRIDOR
+WC SHR CORRIDOR POWDER
+PIER
+6350
+ALFRESCO
+GARAGE NOOK
+VD
+VD PORCHBED 1WIROPEN
+MB &
+NBN
+FIRST FLOOR OVER
+6130
+90
+LINEN
+NOOK
+1800
+90
+510
+37509060012009051090
+902000
+900 90 3090 240
+901500
+2404080240
+11002520
+LINEN
+LAUNDRY
+240
+240
+240
+2 X 620 X
+2400 SLD FULL HEIGHT WALL WITH
+1.0M HIGH HANDRAIL.
+F.F.L. 10.906
+F.F.L. 10.734
+F.F.L. 10.820
+F.F.L. 10.820
+340mm DROP
+DOWN BULKHEAD.
+340mm DROP DOWN
+BULKHEAD.
+DPDPDP
+DP DP
+DPDP
+DP/RWH DP/RWH
+DP/
+RWH
+1440
+470
+PIER
+1440
+470
+PIER
+PANTRY
+P/S
+1030 750
+90
+450 670 90 1600 90
+901600901120750103032007003303750
+SHELVESREF
+450
+340mm DROP DOWN
+BULKHEAD - 450mm DEEP
+90
+TAP
+TAP
+900
+DR
+DR
+340mm DROP DOWN
+BULKHEAD.
+BINDRDR
+DR
+ISLAND 3200mm - WATERFALLS
+WITH 40mm EDGE STONE
+1000 450W SH.
+820 X
+2340H
+820 X
+2340H
+920 X
+2340H
+820 X
+2340H
+820 X
+2340H
+820 X
+2340
+86mm STEP DOWN
+86mm STEP DOWN
+226mm
+STEP DOWN
+800
+2 x  2016mm HIGH X 607mm
+WIDE DRAWER TOWERS.
+ACCU
+GM
+PIN THIS
+DOOR
+(W7)
+1510W X 1260H
+ALUM. AWN
+(W6)
+3060W X 2100H
+ALUM. AWN
+(W4)
+1510W X 514H
+ALUM. FIXED
+(W5)
+2710W X 2120H
+ALUM. AWN
+(W2)
+810W X 2120H
+ALUM. AWN
+(W1)
+3000W X 2400H
+ALUM. AWN
+(W3)
+810W X 2120H
+ALUM. AWN
+(D1)
+(D2)
+2640
+1200 1800
+600 1440 3720 3240 3960
+960
+750
+1020 90 880 600
+2680
+KITCHEN
+90 1800 90
+90
+90 2270 90
+90
+21960
+SH
+900
+D
+C
+A
+B
+ELEVATION
+ELEVATION
+A
+ELEVATION VIEWS
+C
+ELEVATION
+B
+DELEVATION
+ PROVIDE CAPPED COLD
+ WATER POINT BEHIND
+ FRIDGE SPACE @1900H
+40mm EDGE STONE
+DRDR
+NOTE:
+- All plaster bulkheads to drop down 340mm from ceiling.
+- All showers to be enclosed with a shower screen.
+- Water stops to be provided where applicable.
+- 2340mm high doors throughout ground floor unless
+noted otherwise.
+- All doors including sliding doors to robes and linen to be
+2400mm unless noted otherwise.
+GENERAL NOTES/LEGEND
+F
+S/D
+EXHAUST FANS REQUIREMENTS.
+MECHANICAL EXHAUSTS ARE REQUIRED IN
+THE SANITARY FACILITY ROOMS: 25L/S FOR
+BATHROOM OR SANITARY COMPARTMENTS.
+VENTED EXTERNALLY
+EXHAUST FANS REQUIREMENTS.
+MECHANICAL EXHAUSTS ARE REQUIRED IN
+THE SANITARY FACILITY ROOMS: 40L/S FOR
+KITCHEN AND LAUNDRY.VENTED
+EXTERNALLY
+LOCATION OF SMOKE DETECTORS.
+LOCATION OF THE HOT WATER SERVICE,
+WITH GAS BOOSTERS & ROOF PANELS.
+LOCATION OF THE METER BOX.
+FINISH FLOOR LEVELS. F.F.L. 00.00
+MB
+HWS
+F
+DP
+W
+01
+D
+01
+LOCATION OF NEW DOWN PIPES.
+LOCATION OF NEW
+DOWNPIPES/SPREADER.
+LOCATION OF NEW DOWN PIPES
+& RAIN WATER HEAD
+CONNECTED TO STORM WATER
+SYSTEM.
+300MMSQ X 150MM DEEP SUMP
+WITHIN BOX GUTTER
+REFER TO WINDOW & DOOR
+SCHEDULE.
+LOCATION OF EXTERNAL WATER
+TAP
+LOCATION OF ROOF ACCESS MAN
+HOLE. TO BE CONFIRMED ON
+SITE.
+M/H
+S/DP
+DP/RWH
+GENERAL NOTES/LEGEND
+TAP
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+GROUND FLOOR PLAN
+1:100
+07
+
+
+PAGE 8
+1.2.3. 4.5.6.7.8. 9. 10. 11.12.13. 14. 15. 16.
+DWN.
+BED 2BED 3
+BED 4 BED 5
+THEATRE
+WIR 4
+BATH 2
+BATH
+STUDY
+WC
+VOID
+1200 VB
+17.
+RETREAT
+SELECTED COLORBOND ROOF @ 5°
+ROOF PITCH WITH ROOF SARKING.
+FIRST FLOOR PLAN
+SCALE    1:100
+OVERALL
+OVERALL
+OVERALL
+BED 4WIRBED 3
+HALL
+BED 3 THEATRE
+BED 5BED 4
+VOID
+STAIRS
+RETREAT
+OVERALL
+THEATRE
+BED 5STUDY
+ROBE
+3 X 820 x 2400 SLD
+ROBE
+WIR 3
+820 x 2400 CSLD
+LINEN
+3 X 720 x 2400 SLD
+STEP DOWN
+20810
+190 4680 90 1000 90 2000 90 600 90 4310 90 2000 190
+190 2300 90 2290 90 1000 1000 1600 90 4310 90 19090
+8080
+1903110904500190
+190 420 90 90 420 90 1920 90 1100 190
+190 3200 90 1120 90 3200 190
+20810
+190 4080 90 2200 90 90 2400 90 3000 90 330 90 3880 190
+1904300903000902400904000901600906004080190
+8080
+1903200901120903200190
+190 2110 90 1000 1120 90 3200 190
+1902110903300902110190
+190260090510
+90
+112090190
+WIR BED 4
+WC
+BATH / ROBE
+BATH
+BATH
+BED 2 & ROBE LIN
+HALL
+25504840
+1902000230090
+40001390
+RBBATHWC
+BED 5LINENBATHWIR 4WIR 3
+BED 3 STUDY
+THEATRE
+PLATFORM
+420
+RETREATSTUDYBED 3
+BATH RB
+HALL
+VOID
+STAIRS
+THEATRE
+HALL
+340mm DROP DOWN
+BULKHEAD. 340mm DROP
+DOWN BULKHEAD.
+S/DP
+DP
+DP
+DPDP
+DP DP DPDP
+S/DP
+DP/RWH DP/RWH
+DP/RWH
+A
+12
+A
+12
+2 X 620 x 2400
+MIRRORED SLD
+M/H
+1200mm HIGH DWARF WALL WITH
+CAPPING - WITH 1.0m HIGH HANDRAIL
+TO THE INSIDE OF THE STAIRS.
+A
+ELEVATION
+ELEVATION
+C
+ELEVATION
+B
+DELEVATION
+3310 90 600
+3200
+820 X
+2340H
+720 X
+2340H
+820 X
+2340H
+820 X
+2340H
+720 X
+2340H
+720 X
+2340H
+820 X
+2340H
+820 X
+2340H
+820 X
+2340H510
+3480
+820 x 2400 CSLD
+SHR
+1300
+900
+(W10)
+850W X 1800H
+ALUM. AWN
+(W11)
+2230W X 1520H
+ALUM. AWN
+(W12)
+670W X 1260H
+ALUM. AWN
+(W13)
+670W X 1260H
+ALUM. AWN
+(W14)
+2230W X 1520H
+ALUM. AWN
+(W15)
+2230W X 1520H
+ALUM. AWN
+(W16)
+670W X 1260H ALUM.
+AWN
+(W17)
+2230W X 1520H
+ALUM. AWN
+(W18)
+1810W X 1520H
+ALUM. AWN
+(W19)
+2230W X 1520H
+ALUM. AWN
+(W9)
+2710W X 1800H
+ALUM. AWN
+(W8)
+2710W X 1800H
+ALUM. AWN
+NOTE:
+- All plaster bulkheads to drop down 340mm from ceiling.
+- All showers to be enclosed with a shower screen.
+- Water stops to be provided where applicable.
+- 2340mm high doors throughout ground floor unless noted otherwise.
+- All doors including sliding doors to robes and linen to be 2400mm unless noted otherwise.
+1100 VB
+900900
+SHR
+GENERAL NOTES/LEGEND
+F
+S/D
+EXHAUST FANS REQUIREMENTS.
+MECHANICAL EXHAUSTS ARE REQUIRED IN
+THE SANITARY FACILITY ROOMS: 25L/S FOR
+BATHROOM OR SANITARY COMPARTMENTS.
+VENTED EXTERNALLY
+EXHAUST FANS REQUIREMENTS.
+MECHANICAL EXHAUSTS ARE REQUIRED IN
+THE SANITARY FACILITY ROOMS: 40L/S FOR
+KITCHEN AND LAUNDRY.VENTED
+EXTERNALLY
+LOCATION OF SMOKE DETECTORS.
+LOCATION OF THE HOT WATER SERVICE,
+WITH GAS BOOSTERS & ROOF PANELS.
+LOCATION OF THE METER BOX.
+FINISH FLOOR LEVELS. F.F.L. 00.00
+MB
+HWS
+F
+DP
+W
+01
+D
+01
+LOCATION OF NEW DOWN PIPES.
+LOCATION OF NEW
+DOWNPIPES/SPREADER.
+LOCATION OF NEW DOWN PIPES
+& RAIN WATER HEAD
+CONNECTED TO STORM WATER
+SYSTEM.
+300MMSQ X 150MM DEEP SUMP
+WITHIN BOX GUTTER
+REFER TO WINDOW & DOOR
+SCHEDULE.
+LOCATION OF EXTERNAL WATER
+TAP
+LOCATION OF ROOF ACCESS MAN
+HOLE. TO BE CONFIRMED ON
+SITE.
+M/H
+S/DP
+DP/RWH
+GENERAL NOTES/LEGEND
+TAP
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+FIRST FLOOR PLAN
+1:100
+08
+
+
+PAGE 9
+BOUNDARY LINE
+BOUNDARY LINE
+O. O.
+450
+450
+O/H
+O/H
+SELECTED COLORBOND
+GUTTER & FASCIA.
+SELECTED
+BRICK FINISH.
+SELECTED RENDERED
+FINISH.
+SELECTED ALUM.
+AWNING WINDOW.
+SELECTED DOUBLE ENTRY
+DOOR 2 X 820 X 2340H.
+SELECTED 100MM FOAM
+WITH RENDERED FINISH TO
+FIRST FLOOR.
+2740 2590
+CL.
+FFL. 10.906
+CEILING HEIGHT
+CL.
+CEILING HEIGHT
+700256674
+SOUTH ELEVATION - B
+SCALE    1:100
+3440
+8385
+OVERALL BUILDING HEIGHT
+3600
+SELECTED COLORBOND ROOF
+@ 25° ROOF PITCH WITH
+ROOF SARKING.
+22802400
+WINDOW HEIGHT WINDOW HEIGHT
+SELECTED RENDERED BLUE
+BOARD, PACKED OUT TO ALIGN
+WITH BRICK PIERS.
+PARAPET HEIGHT
+D
+01
+W
+01
+W
+08
+W
+09
+NGL. 10.60
+NGL. 10.40
+NGL. 10.71
+3600
+PARAPET HEIGHT AT NGL
+F. O.
+O.
+O.
+O. F. F.O.
+SP-P BUILDING
+ENVELOPE PROFILE
+SETBACK
+SP-D BUILDING
+ENVELOPE PROFILE
+SETBACK
+1320
+BOUNDARY LINE
+BOUNDARY LINE
+EAST ELEVATION - A
+SCALE    1:100
+450
+O/H
+450
+O/H
+SELECTED COLORBOND
+GUTTER & FASCIA.
+2740 2590
+CL.
+FFL. 10.906
+CEILING HEIGHT
+CL.CEILING HEIGHT
+3340
+OVERALL BUILDING HEIGHT
+F.
+O.
+SELECTED
+BRICK FINISH.
+SELECTED RENDERED
+FINISH.
+SELECTED ALUM.
+AWNING WINDOW.
+1440
+OBSCURE
+GLAZING
+SELECTED BRICK FINISH - WALL
+ON BOUNDARY.
+3600
+2826
+CL.
+FFL. 10.820
+GARAGE CEILING
+HEIGHT
+GARAGE PARAPET HEIGHT
+SELECTED 100MM FOAM
+WITH RENDERED FINISH
+TO FIRST FLOOR.OBSCURE GLAZINGF.
+O.
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+F.
+O. HWS
+LOCATION OF HWS TO BE CONFIRMED
+ON SITE BY CONTRACTOR.
+MB
+2400
+8470
+SELECTED WHIRLYBIRD
+W
+02
+W
+03
+W
+05
+W
+13
+W
+12
+W
+11
+W
+10
+NGL. 10.20
+NGL. 10.40
+NGL. 10.60
+NGL. 10.80
+3600
+PARAPET HEIGHT AT NGL
+O. O.
+O. F.
+F.
+W
+04
+O. F. O.
+F.F. F.
+D
+02
+O.
+NBN ACCU
+GM
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+ELEVATION NOTES
+· Levels relating to ground levels are indicative only and should be
+checked and verified on site by Builder/Contractor prior to
+commencement of any building works.
+· Obscure glazing or film to be provided to 1.7m above FFL. (Finshed
+Floor Level) to applicable windows where overlooking issues arise.
+· Grade soil away from building towards drains.
+· Extent & number of steps, landings handrails to be determined on site
+by builder/contract.
+· Articulation joints are to be located in accordance with technical
+notes and to the satification of the geotechnical structural engineer.
+· Garage doors sizes are to be measured prior to installation.
+· Cavity flashing & weep holes above all openings in brickwork.
+CONCRETE STEP NOTE
+Concrete steps & landings to be maxof 3 risers (570mm) above finished
+ground level. Concrete steps max riser 190mm min going 250mm
+PROTECTION OF OPENABLE WINDOWS
+(a) A window opening must be provided with protection, where the floor
+below is 2m or more above the surface beneath.
+(b) Where the lowest level of the window opening covered by (a) is less than
+1.7m above the floor, the window opening must comply with the
+following:
+(i) The opening portion of the window must be protected with -
+(a) a device capable of restricting the window opening or;
+(b) a screen with secure fittings.
+(ii) A device or screen required by (i) must -
+(a) not permit a 125mm sphere to pass through the window opening or
+screen.
+EXISTING ELEVATIONS
+1:100
+09
+
+
+PAGE 10
+BOUNDARY LINE
+BOUNDARY LINE
+NORTH ELEVATION - D
+SCALE    1:100
+450450
+O/H O/H
+SELECTED ALUM.
+CORNER SLIDING DOOR.
+SELECTED OVERHEAD SECTIONAL
+PANEL LIFT GARAGE DOOR.
+SELECTED
+BRICK FINISH.
+SELECTED COLORBOND
+GUTTER & FASCIA.
+3600
+2826
+CL.
+GARAGE CEILING
+HEIGHT
+GARAGE PARAPET HEIGHT
+2740 2590
+CL.
+FFL. 10.906
+CEILING HEIGHT
+CL.
+CEILING HEIGHT
+OVERALL BUILDING HEIGHT
+7925
+SELECTED 100MM FOAM
+WITH RENDERED FINISH
+TO FIRST FLOOR.
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+F.O.
+SELECTED WHIRLYBIRD
+D
+03
+W
+14
+O.
+NGL. 10.75 NGL. 10.80 NGL. 10.89 NGL. 11.00
+FFL. 10.820
+3000
+O. F.
+SOLAR PANEL TO BE CONFIRMED
+ON SITE BY CONTRACTOR.
+SP-P BUILDING
+ENVELOPE PROFILE
+SETBACK
+SP-D BUILDING
+ENVELOPE PROFILE
+SETBACK
+2400
+LIGHT WEIGHT CLADDING
+(RENDERED HEBEL) ABOVE
+SLIDING DOOR IN LIEU OF
+BRICKWORK.
+BOUNDARY LINE
+BOUNDARY LINE
+450
+O/H
+O. F.
+OBSCURE GLAZING
+OBSCURE
+GLAZING
+450
+O/H
+SELECTED
+BRICK FINISH.
+SELECTED RENDERED
+FINISH.
+SELECTED ALUM.
+AWNING WINDOW.
+SELECTED 590 X 590 BRICK
+PIERS TO ALFRESCO.
+SELECTED ALUM. SLIDING
+DOOR TO GARAGE.
+SELECTED COLORBOND
+GUTTER & FASCIA.
+3600
+2826
+CL.
+FFL. 10.820
+GARAGE CEILING
+HEIGHT
+GARAGE PARAPET HEIGHT
+O.F.
+SELECTED ALUM.
+CORNER SLIDING DOOR.
+2740 2590
+CL.
+FFL. 10.906
+CEILING HEIGHT
+CL.
+CEILING HEIGHT
+OVERALL BUILDING HEIGHT
+8275
+WEST ELEVATION - C
+SCALE    1:100
+SELECTED 100MM FOAM
+WITH RENDERED FINISH
+TO FIRST FLOOR.
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+O.
+2400
+2400
+O.
+2100
+W
+06
+W
+07
+D
+04
+D
+05
+W
+15
+W
+16
+W
+17
+W
+18
+W
+19
+2280
+NGL. 10.40
+NGL. 10.60
+NGL. 10.80NGL. 10.97
+3450
+O. F.
+O. F. O.
+F.F. F.
+O. F.
+O.
+O. F. O. F. O. F.
+LIGHT WEIGHT CLADDING
+(RENDERED HEBEL) ABOVE
+SLIDING DOOR IN LIEU OF
+BRICKWORK.
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+ELEVATIONS
+1:100
+10
+GLAZING NOTE
+Glazing to be in accordance with AS1288-2021 and AS2047-2014.
+All full glazed doors, sidelights, including any glazing capable of being
+mistaken for a doorway or opening, shall be clearly marked for their full
+width a solid non transparent contrasting line. The contrasting line shall
+be not less than 75mm wide and shall extend across the full width of
+the glazing panel. The lower edge of the strip shall be located 900mm
+from the finished floor level. Any contrasting line on the glazing shall
+provide a minimum of 30% luminance contrast when viewed against
+the floor surface or surface within 2m of the glazing on the opposite
+side.
+All framed glazing where the lowest sight line of the glazing panel is
+less than 500mm from the highest abutting FFL must be grade A safety
+glass or ordinary annealed glass not less than 5mm nominal thickness
+provided that the area of the glazing panel is not more than 1.2m².
+If the presence of glazing in a door, side panel or panel capable of being
+mistaken for a doorway or opening, the glass must be marked to make
+it readily visible in the form of an opaque band not less than 20 mm in
+height located so that –
+(i) the upper edge is not less than 700 mm above the floor; and
+(ii) the lower edge is not more than 1.2 m above the floor.
+First floor bedroom windows must to be provided with protection as
+per the requirements of NCC 2019 Volume 2. This is to be provided in
+the form of:
+(a). A device capable of restricting window opening to a maximum of
+125mm, or
+(b). A screen with secure fittings.
+Safety glazing to be used in the following cases:-
+1. All rooms - within 500mm vertical of floor level.
+2. All glazing in bathrooms, ensuites, spa rooms or showers.
+Within 2000mm vertical from the bath base.
+Within 500mm horizontal from bath/shower to shower doors.
+shower screens and bath enclosures. (including mirrors etc.)
+3. Laundry - within 1200mm vertical from floor level.
+Within 300mm vertical of trough.
+4. Doorways within 300mm horizontal from all doors.
+5. Ensuite as for shower screens shall be "grade a" safety glass.
+Glazing including safety glazing shall be installed to a size, type and
+thickness so as to comply with:
+NCC 2019 Volume 2 for class 1 and 10 buildings within a design wind
+speed of not more than N3.
+Denotes: Window / Doors sizes that must be checked on site by
+thebuilder/contractor for clearances & fit before
+ordering/manufacturing.
+Window / Door sizes to be checked on site.
+o.  Portion of window / door that is openable.
+f.  Portion of window / door that is fixed.
+
+
+PAGE 11
+ALL GLAZING TO COMPLY WITH A.S. 1288-2006 SAA GLASS INSTALLATION CODE
+ALL WINDOW, DOOR SIZES & TYPES TO BE CONFIRMED BY CLIENT & BUILDER BEFORE ORDERING.
+WINDOW & DOOR SCHEDULE
+2740
+CEILING HEIGHT
+F. O. O. O.
+D
+01
+W
+01
+D
+02
+F.
+O.
+OBSCURE GLAZING
+F.
+O. O. F. O.
+F.F. F.
+W
+02
+W
+03
+W
+05
+D
+03
+O. F. O.F.O.
+O. F.
+O. F. O.
+F.F. F.
+O.
+W
+06
+W
+07
+D
+04 D
+05
+O. F. F.O.
+W
+08
+W
+09
+O. O.
+F.
+O.
+W
+13
+W
+12
+W
+11
+W
+10
+W
+14
+O. F.
+OBSCURE
+GLAZING
+O.
+W
+15
+W
+16
+W
+17
+W
+18
+W
+19
+O.O.
+O. O.
+1200 1200 1200 1000 1000 1000
+F.
+6600
+27402590
+CEILING HEIGHTCEILING HEIGHT OBSCURE
+GLAZING
+OBSCURE GLAZING
+3000 820 820 820810 810 2710 5000
+3000 3060 1510 2710 2710
+850 2230 670 670 2230 2230 670 2230 1810 2230
+2400
+2400
+2340
+2340
+2120
+2120280
+2400
+2120280
+2400
+2400
+2400
+2100
+2100
+2400
+1260
+2400
+1800
+2280
+1800
+2280
+1800
+2280
+1520760
+2280
+1260
+2280 OBSCURE
+GLAZING
+12601020
+2280
+1520760
+2280
+12601020
+2280
+GARAGE
+SELECTED OVERHEAD SECTIONAL
+PANEL LIFT GARAGE DOOR.
+ENTRY
+SELECTED TIMBER
+FRENCH DOORS.
+BED 1
+ALUM. AWNING
+WINDOW.
+ENTRY
+ALUM. AWNING
+WINDOW.
+POWDER
+ALUM. AWNING
+WINDOW.
+MEALS
+ALUM. AWNING
+WINDOW.
+LAUNDRY
+SELECTED TIMBER
+DOOR.
+FAMILY
+ALUM. AWNING
+WINDOW.
+ENSUITE
+ALUM. AWNING
+WINDOW.
+THEATRE
+ALUM. AWNING
+WINDOW.
+STAIRS
+ALUM. AWNING
+WINDOW.
+BED 5
+ALUM. AWNING
+WINDOW.
+RETREAT
+ALUM. AWNING
+WINDOW.
+STUDY
+ALUM. AWNING
+WINDOW.
+BED 2
+ALUM. AWNING
+WINDOW.
+BATH
+ALUM. AWNING
+WINDOW.
+BED 3
+ALUM. AWNING
+WINDOW.
+BED 4
+ALUM. AWNING
+WINDOW.
+WC
+ALUM. AWNING
+WINDOW.
+BATH
+ALUM. AWNING
+WINDOW.
+ALFRESCO
+ALUM. CORNER SLIDING
+STACKER DOOR.
+GARAGE
+ALUM. SLIDING
+STACKER DOOR.
+VOID
+ALUM. FIXED
+ WINDOW.
+3600 3000
+480
+1020
+300
+1140
+480
+480
+F.
+1510
+514905
+1419
+W
+04
+KITCHEN
+ALUM. FIXED
+ WINDOW.
+O.
+O.
+O. F.
+1520760
+2280O. F.
+1520760
+2280O. F.
+1520760
+2280O. F.
+1520760
+2280O. F.
+280
+2400
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+WINDOW & DOOR SCHEDULE
+1:100
+11
+
+
+PAGE 12
+SLOPE GROUND AWAY
+FROM BUILDING
+SELECTED FACE
+BRICK WORK
+CONTINUOUS FLASHING
+WEEPHOLES
+@1000MM CTRS
+SELECTED GUTTER
+& FASCIA.
+450
+O/HSELECTED WALL
+INSULATION.
+SELECTED 100MM FOAM
+WITH RENDERED FINISH
+TO FIRST FLOOR.
+450
+O/H
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING. PROVIDE PREFABRICATED ROOF TRUSSES,
+AS PER MANUFACTURES DETAILS & SPEC.
+SELECTED
+CEILING INSULATION.
+2740 2590
+CEILING HEIGHTCEILING HEIGHT
+FFL. 10.906
+REFER TO ENG'S DRAWINGS
+FOR FOOTING DETAILS
+SECTION A-A
+SCALE    1:50
+REINFORCED WAFFLE RAFT SLAB
+(REFER TO ENG'S DETAILS)
+0.2MM BRANDED
+PLASTIC MEMBRANE
+REFER TO ENG'S DRAWINGS
+FOR BEAM DETAILS
+PROVIDE PREFABRICATED FLOOR
+JOISTS, AS PER MANUFACTURES SPEC.
+KITCHEN
+BED 2 BATH
+10MM PLASTERBOARD
+TO CEILING & WALLS.
+FAMILY
+400
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+SECTION A-A
+1:50
+12
+
+
+PAGE 13
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+SECTION NOTES
+N/A
+13
+SECTION NOTES
+- Prior to ordering trusses check dimensions on site and confirm roof
+pitch.
+- Bracing in accordance with A.S.1684.4 - 2010
+- Wall Frame in accordance with A.S.1684.4 - 2010
+- Roof tie down in accoardance with A.S. 1684.4 - 2010
+- All levels are to A.H.D or U.N.O.
+- FFL min 150mm above FGL for slabs.
+- Truss roof manufacturer is to supply roof framing plans, posi - strut
+floor joists plans, computations and compliance certificate to be
+submitted to the building surveyor for approval prior to
+construction/installation.
+- Timber trusses shall be proprietary trusses designed and
+manufactured using pressed metal connector plates ("gang-nail" or
+similar). Trusses shall be designed by the manufacturer for the
+conditions specified, and in accordance with the specifications and
+any specific loading requirements noted on the structural and
+architectural drawings.
+- The builder shall be responsible for the manufacture, supply an
+erection of timber trusses, and for all necessary temporary works to
+ensure that the trusses are correctly located, supported and
+plumbed, prior to the final connections being made.
+- Trusses shall not be cut or altered in any way, and areto be
+supported at the points nominated on the structural drawings.
+- The separating walls between dwellings to have a minimum Rw +
+Ctr of 50 for sound insulation purposes.
+CARPENTER
+Refer to engineer's drawings & computations when applicable for all
+structural timber sizes, grades & allowable spans. Timber framing
+specification & major roof beam plan in accordance with a.s.
+1684.4-2010 national timber framing manual & supplementary tables.
+Refer to manufactures computation and details if required, before
+commencing works.
+ROOF & WALL FLASHING
+Installation of roof tiles to be in accordance with AS2049-2002 &
+AS2050-2002.
+Sheet roof cladding to be designed & installed in accordance with A.S
+1562.1-1992.
+All tray deck roof sheeting to project a minimum of 50mm into box
+gutters. Turn up valley corrugations under flashings and cappings at
+the high end of each roof. Turn down valley corrugations at the low
+end of each rood only where gutters occur.
+All tray deck roof sheeting to be fixed using non corrosive fasteners
+complying with A.S. 3566
+All jointing and sealing of roof sheeting to be carried out in
+accordance with manufacturers specifications.
+Builder to provide continuous flashing at all first floor wall/ground roof
+junctions.
+Provide adequate flashings to all roof wall junctions and to all sills,
+jambs & heads to windows & doors as required.
+CONCRETE SLAB
+All concrete footing & slab works shall comply with AS 2870-2011
+"Residential Slabs & Footings" Part 1 construction in the absence of
+engineer's drawings or specification.
+Slab designs must be read in conjuction with soil report. Remove
+topsoil & all organic matter & prepare the sub-base to receive the
+concrete floor slab. Install sand bed & membrane. Finish slab surface
+at the correct level & with an appropriate finish the intended floor
+finish or covering. Footings are not to encroach on neighbouring
+property.
+Slab on Ground – finished slab heights.
+Height of slab on ground above external finished surfaces must be not
+less than:
+(i) 100 mm above the finished ground level.
+(ii) 50mm above impermeable (paved or concreted areas) that
+slopes away from the building; or
+(iii) 150 mm in any other case
+SOIL CLASSIFICATION
+- This site is classified as "CLASS P"
+in accordance with A.S. 2870-2011
+- Refer to soil report prepared by:
+Geo technical consultant: H&I Consulting Engineers
+Report date: 05/06/2024       Refer no: 25565-24
+Refer to soil report for minimum footing founding depths.
+STRUCTURAL DRAWINGS
+These drawings should be read in conjunction with
+structural drawings prepared by others.
+DPC NOTES
+The height of a DPC, or flashing serving
+as a DPC must not be less than-
+- 150mm above the adjacent ground level; or
+- 75mm above the finished surface level of adjacent paved, concreted landscaped
+areas that slope away from the wall.
+ENERGY REPORT
+Refer to energy rating report for insulation & sisolation details & any other energy
+efficiency requirements.
+As per energy rating report, builder and or contractor to check all report
+requirements prior to construction.
+WATERPROOFING / WET AREAS
+Waterproofing of wet areas, being bathrooms, showers, shower rooms, laundries,
+sanitary compartments and the like shall be provided in accordance with AS
+3740-2021. Waterproofing of wet areas in residential buildings.
+Provide impervious finish to walls ("hardies" 6mm thick villaboard or fully
+compressed fibre cement, waterproof render, ceramic tile or similar) to a height of
+not less than 1800mm above the lowest point of the shower, around a shower &
+300mm above the rim of the bath, vanity basin, trough or sink refer to manufacturers
+instructions and
+specifications.
+Provide impervious finish to floors to laundry, bathroom, ensuite, powder rooms, wc
+& kitchen.
+Wet areas are to be impervious to water i.e. wall surfaces and substrates: of shower
+enclosures, or if unenclosed, within 1.5m horizontally from the fixture and to a height
+of 1.8m above the floor; and behind any bath, basin, sink etc if within 75mm of a
+wall to a height of 150mm above the fixture.
+3.8.7.2 PLIABLE BUILDING MEMBRANE
+(a) Where a pliable building membrane is installed in an external wall it must:
+(i) comply with AS/NZS 4200.1
+(ii) be installed in accordance with AS4200.2
+(iii) be a vapour permeable membrane for climate zones 6, 7 and 8 (iv) be
+located on the exterior side of the primary insulation layer of wall assemblies that
+form the external envelope of a building.
+Volume 2, Condensation Management Clause 3.8.7.2 ,Part (b)
+(b) Except for single skin masonry or single skin concrete, where a pliable
+building membrane is not installed in an external wall, the primary water control layer
+must be seperated from water sensitive materials by a drained cavity.
+BRICKLAYERS
+All clay/sand lime/concrete bricks or blocks shall conform to A.S. 3700-1998 SAA
+masonry in buildings & A.S. 2904-1995 Damp Proof Courses & Flashings.
+Use galvanised face fixing cavity ties to avoid holes in foil insulation material @
+600mm max.  horizontal & 450mm max.  vertical centres.
+Provide masonry articulation joints as recommended by the soil investigation report
+& in accordance with technical note CN9 of Cement & Concrete Association of
+Australia.
+provide weep holes @ every fourth perpend.
+Proivde cavity flashing & weep holes above lower storey openings.
+For buildings in marine or other exposure environments shall have masonry units,
+mortar and all built in components and the like complying with the durability
+requirements of Table 5.1 of AS3700-2001 Masonry Structures
+STAIRS & BALUSTRADES
+· Levels & number of steps shown are approximate only. All staircases to
+have: 2030mm minimum head height.
+· Landing to be provided where external door still exceeds 570mm or 3
+risers above finished surface of the ground with a min. of 750mm wide
+landing.
+· Hand rails to be 865mm minimum above stair nosing and landings.
+· Step sizes (other than for spiral stairs) to be:
+1. Risers (r) 190mm maximum and 115mm minimum.
+2. Going (g) 355mm maximum and 240mm minimum (residential) or
+250mm minimum (commercial/industrial)
+3. 2r + 1g = 700mm maximum and 550mm minimum.
+4. With less than 125mm gap between open treads.
+· Risers and treads to be constant in size throughout flight.
+· All treads and landings and the like to have non-slip finish or suitable
+non-skid strip near edge of nosing.
+· Provide balustrades where change in level exceeds 1000mm above the
+surface beneath landings, ramps and/or treads. balustrades (other than
+tensioned wire balustrades) to be:
+1000mm min. above finished surface level of balconies, landings or the
+like, & 865mm min. above finished surface level of stair nosing or ramp,
+and vertical with a 125mm maximum gap between, and
+Any horizontal element within the balustrade between 150mm and
+760mm above the finished floor surface must not facilitate climbing
+where changes in level exceed 4000mm above the surface beneath
+landings, ramps and/or treads.
+· Proposed non-slip paint / stain on the Staircase Trends
+Compliance with Part 3.9.1.4" of the BCA/NCC; specifically ensuring the
+Tread Surface meets the requirements of Dry: P3 or R10 & Wet: P4 or
+R11.
+· Wire balustrade construction to comply with BCA 2016 Volume 1 & 2
+D2.16 for other classes of buildings.
+1. Stainless steel wires must be 3mm Ø and 1x19 lay.
+2. Supports must be provided @ 900 ctrs, droppers or posts.
+3. Wire spacing shall be no more than 80mm max.
+4. Wires must be tensioned to 670 newtons and shall have max 6mm
+deflection when a 2kg mass is suspended mid span between supports.
+5. Solid top rail of 40mm Ø must be provided.
+6. Tensioners must be provided @ each wire and @ each change of
+direction greater than 30°.
+7. Pulley blocks must be provided @ each change of direction.
+TYPICAL FRAMING SCHEDULE
+First floor framing:
+ROOF BATTENS 38 X 50 F8 HW              @330 CTRS MAX
+(TILED ROOF)
+TOP PLATE             2/90 X 45 MGP10 (TILED ROOF)
+COMMON STUDS         90 X 45 MGP10 @600 CTRS MAX
+WINDOW STUDS         2/90 X 45 MGP 10
+BOTTOM PLATE
+        90 X 45 MGP10
+NOGGINGS 70 X 35 MERCH PINE @1350 CTRS MAX
+FLOOR JOISTS TO ENG DETAIL @450 CTRS MAX
+Ground floor framing:
+ROOF BATTENS         38 X 50 F8 HW             @330 CTRS MAX
+(TILED ROOF)
+TOP PLATE 2/90 X 45 MGP10
+COMMON STUDS       90 X 45 MGP10             @450 CTRS MAX
+WINDOW STUDS
+      2/90 X 45 MGP 10
+BOTTOM PLATE       90 X 35 MGP10 PINE
+NOGGINGS                70 X 35 Merch PINE           @1350 CTRS MAX
+LINTELS: TO ENGINEER'S DETAIL
+POST TO ENGINEER'S DETAIL
+BEAM TO ENGINEER'S DETAIL
+NOTE: All framing to comply with AS1684.2-2021 (Timber Framing)
+NOTE: Refer to engineer's drawings and details location of beams
+supporting concentrated loads.
+EXTERNAL WALLS
+Any part of the external wall less than 400mm from the ground or less than 400 mm above
+decks, carport roofs awnings or similar elements hall be of -
+· Non-combustible material; or
+· Fibre-cement external cladding - a minimum of 6mm in thickness; or
+· Bushfire resisting timber; or
+· A timber species as specified in Paragraph E1 and list in Table E1, Appendix E of
+AS3959.0-2009 or;
+· A combination of any of Items (a), (b), (c) or (d) above.
+Typical Stair &
+Balustrade Details n.t.s.
+Provide non-slip
+finish to treads.
+190
+max.
+240
+min.
+865
+min.
+125
+max.
+if open
+125max.
+Stringer
+Timber
+tread
+125
+max.
+
+
+PAGE 14
+FIRST FLOOR ELECTRICAL PLAN
+SCALE    1:100
+ARTIFICIAL LIGHTING TABLE
+ZONE AREA m2 MAX WATT ALLOWED PROPOSED WATT
+GROUND FLOOR AREA 136.28 681.40 384
+FIRST FLOOR AREA 157.27 786.35 384
+PORCH 4.47 17.88 12
+ALFRESCO 19.67 78.68 60
+GARAGE 39.00 117.00 24
+TOTAL 356.69 1681.31 864
+Single GPO ceiling mounted
+DBL GPO @ 300
+DBL GPO @ 1150
+SNGL GPO @ 300
+Smoke detectors
+Television point
+POWER POINT OULETSNo.SYMBOLS
+ELECTRICAL LEGEND
+LIGHT FITTINGS
+OTHER OUTLETS & FITTINGS
+26
+17
+3
+5
+3
+1
+66 LED Down Light  (12 watts)
+7
+2 - way switch52-way
+Exhaust Fan 25l/s - Vented out Externally
+Exhaust Fan 40l/s - Vented out Externally1
+DBL w/proof  GPO @ 300mm AFFL4
+W/proof External Flood Light (12 watt globe)8
+TV
+D Data point4
+Fluorescent strip (12 watts)2
+4 Pendant Light  (12 watts)
+Note:
+All the above items are to be confirmed by owner / sub-contractor before ordering.
+Client to confirm with contractor all locations of light switches and power points.
+ARTIFICIAL LIGHTING REQUIREMENTS:
+The lamp power density or illumination power density of artificial lighting,
+excluding heaters that emit light, must not exceed:
+1. In Class 1 building - 5W/m.
+2. Verandah or Balcony attached to Class 1 building - 4W/m.
+3. In a Class 10 building - 3w/m.
+The number of lights per room may change but, the total number of wattage must not exceed the
+maximum allowances per each area. Refer to the electrical diagrams for maximum allowances per
+each area.
+STANDARD CONNECTIONS:
+- Provide single power point outlets to dishwasher, cook top & rangehood.
+- Provide stove in kitchen to be hard wired to the electrical switchboard.
+- Provide batten light & switch above man hole for roof access.
+- Provide single power points in roof for ducted heated & air conditioner if required.
+- Exhaust fans to be wired to light switch as per electrical plan.
+GENERAL NOTES:
+- Locations of fixtures shown on plans are indicative only and may vary due location of structural
+members and truss layouts.
+- All lighting and switching types are to be confirmed on site between the builder and sub-contractor
+prior to commencement of any wiring.
+- All symbols, fittings, appliances and fixtures are indicative only actual item may be of different size
+or shape.
+- Refer to specifications for accurate details and description.
+- Cabinetry may be altered upon specialists advice.
+- Window sizes are nominal only exact figure may vary on site.
+- Minor adjustments to framing and or location of framing may be made for structural purposes.
+GROUND FLOOR ELECTRICAL PLAN
+SCALE    1:100
+2-way
+2-way
+S/D
+S/D
+S/D
+TV
+D
+D
+TV
+D
+Stair Light3
+2-way
+2-way
+2-way
+2-way
+HWS
+DW
+M/W
+REF
+SPACE
+WM
+TR
+LIN / BRM
+S
+SHR
+UP.
+MB &
+NBN
+LINEN
+NOOK
+PANTRY
+TAP
+TAP
+DR
+DR
+BIN
+450W SH.
+ACCU
+GM
+VOID
+ROBE
+ROBE
+LINEN
+M/H
+Up and Down External Light (12 watt globe)4
+DBL FLOODLIGHT
+Wall Light @ 1700mm AFFL (12 watt globe)6
+DBL FLOODLIGHT
+CEILING SENSOR TO
+ACTIVATE DOWNLIGHT
+S/D
+DIMMER
+SWITCH
+REMOTE CONTROL
+CURTAIN TO VOID
+WINDOW
+2-way
+2-way
+GPO FOR DRYER - HEIGHT
+TO BE CONFIRMED ON SITE.
+TV
+D
+S/D
+SINGLE POWER POINT FOR RANGEHOOD.
+HEIGHT TO BE DETERMINED ON SITE BY
+CONTRACTOR.
+LIVING ROOM WALL LIGHTS
+TO HAVE DIMMER SWITCH
+Ceiling Fan1
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+ELECTRICAL PLAN
+1:100
+14
+
+
+PAGE 15
+POWDER ROOM PLAN
+SCALE 1:50
+B
+C
+A
+ELEVATION A
+1600
+600
+900
+TPH
+TPH
+2740
+CEILING HEIGHT
+ELEVATION B
+2590
+WC
+450
+CL
+BEVELED EDGED MIRROR.
+MIRROR
+TILES
+SH.
+20 370
+550 200 1100
+MIRRORCABINET
+500 370 20
+ELEVATION C
+1600
+600
+SH.
+1300 VB
+820 X
+2340H
+PWD
+TILES TILES
+250
+WIR
+BED 1 - WALK IN ROBE PLAN
+SCALE 1:50
+ELEVATION A
+2270
+2740
+CEILING HEIGHT
+3780 2270
+ELEVATION B ELEVATION C
+2016
+6001070
+HANGING RAIL
+MELAMINE SHELVE
+DR
+DR
+800
+D
+C
+A
+B
+720 X 2340 CSLD
+2 x  2016mm HIGH X 607mm
+WIDE DRAWER TOWERS.
+HANGING RAIL
+HANGING RAIL
+HANGING RAIL
+600
+3780
+ELEVATION D
+HANGING RAIL
+MELAMINE SHELVE
+1440600 1070 600
+HANGING RAIL
+SUPPORT
+PANEL
+800 50 2930
+HANGING RAIL
+MELAMINE SHELVE
+600 607 161660716
+DR.
+DR.
+DR.
+DR.
+SH.
+SH.
+SH.
+2016
+DR.
+DR.
+DR.
+DR.
+SH.
+SH.
+SH.
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+INTERNAL DETAILS
+1:50
+15
+GENERAL NOTES:
+- Locations of fixtures shown on plans are indicative only and may
+vary due to location of structural members and truss layouts.
+-
+All symbols, fittings, appliances and fixtures are indicative only
+actual item may be of different size or shape.
+- Refer to specifications for accurate details and description.
+- Cabinetry may be altered upon specialists advice.
+- Window sizes are nominal only exact figure may vary on site.
+- Minor adjustments to framing and or location of framing
+may be made for structural purposes.
+
+
+PAGE 16
+KITCHEN & PANTRY PLAN
+SCALE 1:50
+C
+A
+B
+ELEVATION A
+2740
+CEILING HEIGHT
+PLASTER BULKHEAD
+900MM CONCEALED
+UNDERMOUNT RANGEHOOD
+900MM COOKTOP
+DW
+SPACE
+MIXER
+TILED
+SPLASHBACK
+2400 340
+SH.
+D
+SH.
+SH.
+SH.
+SH.
+DR.
+DR.
+DR.
+DR.
+2400 340
+330
+20
+1100 20
+KITCHEN
+DW
+M/W
+REF
+SPACE
+S
+P/S PANTRY
+BINDRDR
+DR
+ISLAND 3200mm - WATERFALLS WITH 40mm EDGE STONE
+ PROVIDE CAPPED COLD
+ WATER POINT BEHIND
+ FRIDGE SPACE @1900H
+1080
+65010301000
+330 6890
+1290
+90102090
+450
+450
+1030 3200 1030
+400
+600
+880
+40MM STONE EDGE
+PULL
+OUT BIN
+SH. SH. SH. SH.
+900 900 900 600 890 20 600 20 900
+20 900 900 900 1010 1010 1010 20 1100 20
+400
+40mm EDGE STONE
+DRDR
+905 695 800 340
+DR.
+DR.
+DR
+REF
+SPACE
+600 10001080
+SH.
+SH.
+DR.
+340800695905
+ELEVATION B
+2400 340
+2680
+ELEVATION C
+7220
+DR.
+DR.
+40 40
+DR.
+DR.
+DR.
+DR.
+DR.
+DR.
+DR.
+DR.
+DR.
+32001030
+905
+1030
+5260
+ELEVATION D
+2590
+40mm EDGE STONE
+M/W
+SPACE
+340 PLASTER BULKHEAD
+1290670
+SH.
+SH.
+SH.
+SH.
+450 450 450
+1950 450
+SH.
+SH.
+SH.
+SH.
+SH.
+SH.
+450 570 90 880 600
+1020 90 1480
+450 940
+1800
+ PROVIDE CAPPED COLD
+ WATER POINT BEHIND
+ FRIDGE SPACE @1900H
+400
+20840800840600
+20
+REF
+SPACE
+400350 400
+PUSH BUTTONS
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+INTERNAL DETAILS
+1:50
+16
+GENERAL NOTES:
+- Locations of fixtures shown on plans are indicative only and may
+vary due to location of structural members and truss layouts.
+-
+All symbols, fittings, appliances and fixtures are indicative only
+actual item may be of different size or shape.
+- Refer to specifications for accurate details and description.
+- Cabinetry may be altered upon specialists advice.
+- Window sizes are nominal only exact figure may vary on site.
+- Minor adjustments to framing and or location of framing
+may be made for structural purposes.
+
+
+PAGE 17
+ENS
+ENSUITE PLAN
+SCALE 1:50
+D
+C
+A
+B
+1000W X 450W TILED
+SHOWER NICHE
+E
+900
+720 X
+2340
+SHR
+900
+1800
+720 X 2340 CSLD
+1800 VB
+900
+340mm DROP DOWN
+BULKHEAD.
+ELEVATION A
+1800
+2740
+CEILING HEIGHT
+1800
+2000
+1000
+ROSE
+MIXER
+SCREEN
+400 1000
+550
+CL
+MIXER
+WALL IN FRONT
+900 900
+ELEVATION D
+3780
+WC
+450
+CL
+TILES
+BEVELED EDGED MIRROR.
+MIRROR
+SH.
+1200 450
+NICHE
+20 880 880 20 90 900
+ TILED SHOWER
+BASE
+900
+ELEVATION B
+3780
+ELEVATION C
+1800
+600
+SH.
+ELEVATION E
+1800
+700
+900
+TPH
+TPH
+NICHE
+1200
+TOWEL RING
+PLASTER BULKHEAD
+400
+800 200 1100
+MIRRORCABINET
+1200 450
+GLASS SHOWER
+SCREEN / DOOR
+L'DRY
+WM
+TR
+LINEN
+LAUNDRY PLAN
+SCALE 1:50
+A B
+ELEVATION A
+3090
+2740
+CEILING HEIGHT
+SH. SH.
+SH.
+SH.
+SH.
+450 450 450 450
+1500 90 1500
+LINEN / BROOM LINEN
+ELEVATION B
+3090
+SH.
+MIXER
+300MM PLASTER BULKHEAD
+SH.
+TILED SPLASHBACK
+W/M
+SPACE
+100MM
+TILED
+SKIRTING
+1800
+DRYER
+SPACE
+800 20 800 725 20
+900 700 800 340
+725
+SH. SH.
+SH. SH.
+LINEN / BROOM
+SH.
+SH.
+SH.
+820 X
+2340H
+2 X 620 X
+2400 SLD
+2 X 620 X
+2400 SLD
+820 X
+2340H
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+INTERNAL DETAILS
+1:50
+17
+GENERAL NOTES:
+- Locations of fixtures shown on plans are indicative only and may
+vary due to location of structural members and truss layouts.
+-
+All symbols, fittings, appliances and fixtures are indicative only
+actual item may be of different size or shape.
+- Refer to specifications for accurate details and description.
+- Cabinetry may be altered upon specialists advice.
+- Window sizes are nominal only exact figure may vary on site.
+- Minor adjustments to framing and or location of framing
+may be made for structural purposes.
+
+
+PAGE 18
+BED 2 ROBE PLAN
+SCALE 1:50
+A
+3200
+ELEVATION A
+2590
+CEILING HEIGHT
+HANGING RAIL
+MELAMINE SHELVE
+SUPPORT
+PANEL
+HANGING RAIL
+1650
+3 X 820 x 2400 SLD
+HANGING RAIL
+SUPPORT
+PANEL
+HANGING RAIL
+BATH 2
+1100 VB
+BATH PLAN 2
+SCALE 1:50
+D
+C
+A
+B
+600W X 450W TILED
+SHOWER NICHE
+2200
+ELEVATION A
+2110
+ELEVATION B
+2110
+ELEVATION D
+2200
+ELEVATION C
+700
+900
+TPH
+TPH
+WC
+450
+CL
+TILES
+2590
+CEILING HEIGHT
+BEVELED
+EDGED MIRROR.
+MIRROR
+SH.
+1060 2020
+TILES
+720 X
+2340H
+SHR
+900
+900
+1800
+2000
+1050
+ROSE
+MIXER
+SCREEN
+ TILED SHOWER
+BASE
+1200
+TOWEL RAIL
+1100200800
+MIRRORCABINET
+550
+SH.
+TILES TILES
+ TILED SHOWER
+BASE
+650
+CL
+MIXER
+900
+1200 450
+NICHE
+700
+150600
+NICHE
+900
+2600
+ELEVATION A
+2590
+CEILING HEIGHT
+HANGING RAIL
+MELAMINE SHELVE
+SUPPORT
+PANEL
+HANGING RAIL
+1650
+3 X 720 X 2400 SLD
+BED 5 ROBE PLAN
+SCALE 1:50
+A
+HANGING RAIL
+LINEN
+LINEN PLAN
+SCALE 1:50
+A
+1600
+ELEVATION A
+SH.
+SH.
+SH.
+SH.
+2590
+CEILING HEIGHT
+450 450 450 450
+1800
+2 X 620 X 2400
+MIRRORED SLIDING DOORS
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+INTERNAL DETAILS
+1:50
+18
+GENERAL NOTES:
+- Locations of fixtures shown on plans are indicative only and may
+vary due to location of structural members and truss layouts.
+-
+All symbols, fittings, appliances and fixtures are indicative only
+actual item may be of different size or shape.
+- Refer to specifications for accurate details and description.
+- Cabinetry may be altered upon specialists advice.
+- Window sizes are nominal only exact figure may vary on site.
+- Minor adjustments to framing and or location of framing
+may be made for structural purposes.
+
+
+PAGE 19
+WIR 4
+WIR 3
+820 X 2400 CSLD
+BED 3 & 4 - WALK IN ROBE PLAN
+SCALE 1:50
+A
+B
+C
+ELEVATION A
+1120
+2740
+CEILING HEIGHT
+2300
+ELEVATION B ELEVATION C
+MELAMINE SHELVE
+HANGING RAIL
+1650
+450 1400 450
+A
+B
+C
+350
+HANGING RAIL
+HANGING RAIL
+HANGING RAIL
+HANGING RAIL
+HANGING RAIL
+HANGING RAIL
+350
+HANGING RAIL
+MELAMINE SHELVE
+450 450
+1120
+MELAMINE SHELVE
+HANGING RAIL
+2300 90 2290
+820 X 2400 CSLD
+ELEVATION A
+1000
+ELEVATION B
+2110
+700
+900
+TPH
+TPH
+WC
+490
+LC
+100MM
+TILED SKIRTING
+2590
+CEILING HEIGHT
+WC
+720
+WC PLAN
+SCALE 1:50
+A
+B
+BATH
+SHR
+900
+1300
+1200 VB
+BATH PLAN
+SCALE 1:50
+D
+C
+A
+B
+900W X 450W TILED
+SHOWER NICHE
+2000
+ELEVATION A
+2590
+CEILING HEIGHT
+3200
+ELEVATION B
+650
+CL
+MIXER
+900
+ TILED SHOWER
+BASE
+TILES
+1800
+2000
+1050
+ROSE
+MIXER
+SCREEN
+1300
+ TILED SHOWER BASE
+700
+BEVELED
+EDGED MIRROR.
+MIRROR
+SH.
+1160 2020
+1200 450
+ELEVATION C
+2000
+600
+SH.
+800 200 1100
+MIRRORCABINET
+3200
+ELEVATION D
+600
+1200
+TOWEL RAIL
+NICHE
+200 900 200
+NICHE
+TILES TILESTILES
+720 X
+2340H
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+INTERNAL DETAILS
+1:50
+19
+GENERAL NOTES:
+- Locations of fixtures shown on plans are indicative only and may
+vary due to location of structural members and truss layouts.
+-
+All symbols, fittings, appliances and fixtures are indicative only
+actual item may be of different size or shape.
+- Refer to specifications for accurate details and description.
+- Cabinetry may be altered upon specialists advice.
+- Window sizes are nominal only exact figure may vary on site.
+- Minor adjustments to framing and or location of framing
+may be made for structural purposes.
+
+
+PAGE 20
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+ENERGY RATING REQUIREMENTS
+N/A
+20
+
+
+PAGE 21
+FACE BRICKWORK
+NON COMBUSTIBLE
+GUTTER.
+ROOF CLADDING. 1 X 16MM FIRE STOP PLASTERBOARD TO EACH
+SIDE OF THE WALL FRAME (VERTICALL) AS
+REQUIRED (F.R.L. 60/60/60)
+1 X 16MM FIRE STOP PLASTERBOARD
+TO U/S OF SOFFIT EXTEND MIN. 500MM
+EACH SIDE OF PARTY WALL AS REQUIRED
+FIRE RATED SILICONE MASTIC /
+MINERAL FIBRE TO CAPS / CRACKS
+NON COMBUSTIBLE WALL CLADDING.
+NON COMBUSTIBLE GUTTER.
+PROVIDE NON COMBUSTIBLE
+FIRE RATED INSULATION TO
+UNDER SIDE OF ROOF.
+NON COMBUSTIBLE
+ROOF COVERING.
+TITLE BOUNDARY
+30MM MAX. SPACE
+BETWEEN GUTTER & FASCIA.
+FLASHING TO TOP OF BRICK WALL &
+FIXED TO RAFTERS/TRUSS END.
+SPACE FILLED WITH NON-COMBUSTIBLE
+MATERIAL.
+NO PORTION OF WALL OR STRUCTURE
+TO ENCROACH BOUNDARY.
+SARKING AS REQUIRED BY
+3.5.2.4
+ANTI-PONDING DEVICE AS
+REQUIRED BY 3.5.2.5
+50MM CLEARANCE
+BELOW FIRST BATTEN.
+NON COMBUSTIBLE
+WALL CLADDING.
+NON COMBUSTIBLE GUTTER.
+PACK WITH NON COMBUSTIBLE
+MINERAL FIBRE INSULATION TO
+UNDER SIDE OF ROOF SHEET.
+NON COMBUSTIBLE
+ROOF COVERING.
+TITLE BOUNDARY
+200
+EXTERNAL RENDERED
+FINISH.
+MIN 10MM PLASTERBOARD
+TO WALLS.
+WALL INSULATION AS PER
+THE ENERGY REPORT.
+9010 5
+190
+100
+GUTTER ON WALL DETAIL - TYPICAL NO EAVE OVERHANG DETAIL -  TYPICAL
+FIRST FLOOR WALL DETAIL
+EAVE /  SOFFIT SEPERATION DETAIL - TYPICAL 60/60/60 ANTI - PONDING DEVICE BOARD DETAIL - TYPICAL
+BOX GUTTER DETAIL - TYPICAL
+10MM PLASTERBOARD
+TO CEILING & WALLS.
+WALL INSULATION AS PER
+THE ENERGY REPORT.
+SELECTED ROOFING WITH 38x75 F8 H.W
+ROOF BATTEN AT 330 CTRS. ROOFING SHALL
+COMPLY WITH AS2050-2002 AND
+AS2049-2002
+FULL OVERFLASHING / CAPPING DOWN
+INTO BOX GUTTER
+PROVIDE MIN. 200MM WIDE X 100MM DEEP
+BOX GUTTERS. STEEL BOX GUTTER ON 19MM
+GUTTER BOARD AND PACKED ON GRADED
+BATTENS TO CREATE APPROX. 100MM FALL
+TO RAINHEAD
+SELECTED 100MM FOAM WITH
+RENDERED FINISH TO FIRST
+FLOOR. (INSTALLED AS PER
+MANU. SPEC.)
+NOTES:
+· EXTERNAL  / PARTY WALL (F.R.L. 60/60/60)
+·
+REFER TO PART H3 FIRE SAFETY FROM THE NCC 2022 VOLUME 2
+· TIMBER FRAMING AS REQUIRED
+· 1 X 16MM FIRE STOP PLASTERBOARD TO EACH SIDE OF THE WALL FRAME (VERTICALL) AS REQUIRED
+· 1 X 16MM FIRE STOP PLASTERBOARD TO U/S OF SOFFIT EXTEND MIN. 500MM EACH SIDE OF PARTY
+WALL AS REQUIRED
+· FIRE RATED SILICONE MASTIC / MINERAL FIBRE TO CAPS / CRACKS
+·
+TO FRONT AND REAR OF DWELLING AS REQUIRED TYPICAL.
+NOTES:
+(A)AN ANTI-PONDING DEVICE/BOARD MUST BE PROVIDED—
+(I)ON SARKED ROOFS WITH A PITCH LESS THAN 20O; AND
+(II)ON ALL ROOF PITCHES WHERE THERE IS NO EAVES OVERHANG, REGARDLESS OF WHETHER
+SARKING IS REQUIRED.
+(B)AN ANTI-PONDING DEVICE/BOARD REQUIRED BY (A) MUST BE WATER RESISTANT AND FIXED ALONG
+THE EAVES LINE FROM THE TOP OF THE FASCIA BACK UP THE RAFTER WITH A CLEARANCE OF
+APPROXIMATELY 50 MM BELOW THE FIRST BATTEN
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+NOTES
+N/A
+21
+SMOKE ALARMS
+1. Install smoke detectors in locations shown & comply with A.S.
+3786 - 2014 self contained smoke alarms directly wired.
+2. All smoke detectors are to be hardwired.
+3. An approved smoke detector must be within 1.5m of any bedroom
+door.
+Smoke alarms to be connected to the consumer mains power where
+consumer power is supplied to the building and be interconnected
+where there is more than one alarm.
+MECHANICAL VENTILATION
+All ensuites, bathrooms, wc, p'dr or laundries without an
+openable window shall comply with the following:
+Clean air use 250mm dia. exhaust fan to manufacturers
+specifications.
+1. An exhaust fan fitted and vented to external air via a duct or
+alternative piping system.
+2. Mechanical light and ventilation ducted to give 25 Litres/sec.
+3. Light and fan to be connected so that they are both functioning
+simultaneously.
+Mechanical exhausts are required in the sanitary facility rooms (25l/s
+for bathroom or sanitary compartments and 40l/s for kitchen and
+laundry) discharging directly to the outside via a duct or alternative
+piping system or into the roof space that is ventilated in accordance
+with NCC 2019 Volume 2.
+ARTICULATION NOTE
+Refer to structural drawings for location of
+movement joint / articulation joints.
+In absence of structural details adopt 5.0m max.
+centers and in accordance with "Technical Note 61 - Articulated
+Walling" from the Cement and Concrete Association of Australia.
+(Latest issue)
+WC COMPARTMENTS
+Sanitary compartments where the distance between the front of the pan
+and the door is less than 1200mm, the door is required to have lift off
+hinges or swing outwards or be a sliding door.
+ROOF PLUMBER
+Roof plumber is responsible for design, construction and certification
+of roof drainage.
+WINDOWS & DOORS
+Window and door sizes nominated are nominal only.
+All windows and doors are to be confirmed on site with
+builder/contractor prior to ordering.
+Actual size may vary according to the selected manufacturer and site
+conditions.
+External windows and doors to be flashed all round.
+All window and door sizes are height x width.
+Window head height to be 2100mm high or to the nearest brick course.
+(U.N.O.)
+All internal doors to be 2100mm high (U.N.O.)
+All windows and doors need to comply with the energy rating report for
+this project.
+All full glazed doors, sidelights, including any glazing capable of being
+mistaken for a doorway or opening, shall be clearly marked for their full
+width a solid non transparent contrasting line.
+The contrasting line shall be not less than 75mm wide
+and shall extend across the full width of the glazing panel.
+The lower edge of the strip shall be located 900mm from the finished
+floor level. Any contrasting line on the glazing shall provide a minimum
+of 30% luminance contrast when viewed against the floor surface or
+surface within 2m of the glazing on the opposite side.
+BUILDING MEMBRANE
+Where a pliable building membrane is installed in an external wall, it
+must comply with AS/NZS 4200.1&2 and be located on the exterior
+side of the primary insulation layer of wall assemblies that form the
+external envelope of a building.
+
+
+PAGE 22
+ARTICULATION
+JOINT
+MASONRY EXPANSION (SLIDING/EXTENDABLE) TIES
+NOTE: VARIOUS TIE TYPES
+AVAILABLE
+MASONRY EXPANSION TIE
+SCREWED TO WINDOW FRAME
+ARCHITRAVE CONCEALS
+JOINT ON INSIDE
+WINDOW/DOOR FRAME
+COVER MOULDING CONCEALS
+ARTICULATION JOINT ON OUTSIDE
+GAP
+OPEN PERPEND
+CAULKING BY
+BY BUILDER
+ALUMINIUM
+WINDOW FRAME
+HEAD FLASHING BY BUILDER
+LINTELS AS PER ENG. DWGS
+PLASTERBOARD
+BRICK SILL
+JAMB (TYPICAL)
+SELECTED MDF
+ARCHITRAVE
+SELECTED MDF
+ARCHITRAVE
+PACKING
+FIXING AT PACKING
+LOCATIONS
+SILL FLASHING
+HEAD (WALL ABOVE)
+HEAD FLASHING TURNED UP NOT LESS THAN 150MM FIXED TO
+FRAME AND TURNED INTO ANGLE LINTEL
+ARTICULATION
+JOINT
+NOTES:
+1. NO SUB-SILL IS INSTALLED
+2. SEAL BETWEEN SILL, PACKER AND
+MEMBRANE BEFORE DRILLING FIXING HOLES
+FOR HEIGHT SEE
+AS 4654.2-2012,
+APPENDIX A, TABLE A1
+SILICONE SEAL AND BACKING ROD
+WATERSTOP
+ANGLE
+SEALANT OVER FIXINGS
+WATERSTOP ANGLE
+RETURNED
+WEEPHOLES
+SILL
+PVC SILL FLIP
+WATERPROOF
+MEMBRANE
+FINISHED FLOOR
+LEVEL (EXTERNAL)
+FILLET
+APPROPRIATE OVER-SEALING
+WITH FIXING
+PACKERS TO SUIT INSTALLATION
+FINISHED FLOOR LEVEL (INTERNAL)
+THE BALCONY DETAIL TO ACHIEVE COMPLIANCE WITH CLAUSE 3.8.1.3 (EXTERNAL WATERPROOFING) OF THE BCA:
+• THE WATERPROOF MEMBRANE NEEDS TO EXTEND THE WIDTH OF THE SILL AND FINISH SHORT OF THE WATERSTOP ANGLE INSTALLED ON THE
+INTERNAL SIDE OF THE DOOR OPENING;
+• A WATERSTOP ANGLE TO BE SHOWN ON THE INTERNAL SIDE OF THE DOOR OPENING.
+• FINISHED FLOOR LEVEL TO BE GRADED TO ENSURE STORM WATER DRAINS TO THE DRAINAGE OUTLET;
+• DESIGN AND CONSTRUCTION OF EXTERNAL WATERPROOF MEMBRANE TO AS 4654.1 & 2-2012.
+• PROVIDE CONSTRUCTION DETAIL FOR BALCONY CONSTRUCTION – REFER TO THE DIAGRAM BELOW FOR THE REQUIRED DETAIL.
+ARTICULATION JOINT DETAIL
+REFER TO ENGINEERING
+150mm HEIGHT
+OF FLASHING
+CONTINUOUS
+FLASHING TO 35MM UP
+WALL
+WALL SISALATION TO
+RUN OVER FLASHING
+DAMP COURSE EDGE TO BE
+VISIBLE FROM THE OUTSIDE
+MIN. 10 MILS GRADE
+VAPOUR BARRIER
+GRADE BACKFILL TO A
+MINIMUM1:IN:20 AWAY
+FROM EDGE OF SLAB
+REBATE
+90MM THICK TIMBER STUD
+WALL WITH SELECTED BULK
+INSULATION TO BETWEEN
+STUDS
+10MM THICK GYPROCK
+PLASTERBOARD LINING TO
+WALL AND CEILINGS WITH
+SELECTED PAINT FINISH
+75MM THICK HEBEL
+WALL AND
+35MM TOP-HAT SECTIONS
+150
+SLAB REBATE
+APPROVED DAMPER
+PROOF COURSE TO BE
+150MM ABOVE
+NATURAL GROUND
+LEVEL
+WINDOW HEAD & SILL FLASHING DETAIL
+HEAD FLASHING AND SILL FLASHING DETAIL TO THE TOP AND BOTTOM OF ALL WINDOW OPENINGS.
+CAULKING BY
+BY BUILDER
+ALUMINIUM
+WINDOW FRAME
+TYPICAL SLAB REBATE DETAIL
+BALCONY WATERPROOFING DETAIL - TYPICAL
+WEEPHOLES AT 1000 CTS
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+DETAILS
+N/A
+22
+
+
+PAGE 23
+FIGURE 10.2.2:
+EXTENT OF TREATMENT FOR SHOWER AREAS — CONCRETE COMPRESSED FIBRE-CEMENT AND
+FIBRE-CEMENT SHEET FLOORS
+EDGE OF
+SHOWER SCREEN
+SHOWER
+SCREEN
+TO 1800 MM
+ABOVE THE FLOOR
+MINIMUM EXTENT OF
+WATERPROOFING
+FIGURE 10.2.4A:
+AREAS ADJACENT TO BATHS AND SPAS WITHOUT SHOWERS FOR CONCRETE, COMPRESSED
+FIBRE-CE­MENTAND FIBRE-CEMENT SHEET FLOORING.
+WATER RESISTANT FLOOR
+WATERPROOF TO A WIDTH OF 40 MM EITHER
+SIDE OF THE JUNCTION
+WATERPROOF BATH LIP/TILE JOIN
+SEAL TAP AND BATH SPOUT PENETRATIONS
+WATERPROOF JUNCTION WIDTH OF 40MM
+EITHER SIDE OF THE JUNCTION
+FIGURE 10.2.16:
+TYPICAL HOB CONSTRUCTION — INTERNAL MEMBRANE
+FIGURE 10.2.17:
+TYPICAL HOBLESS CONSTRUCTION
+5 mm MIN.
+TILES
+FIGURE 10.2.18:
+TYPICAL TERMINATION OF MEMBRANE AT EXTENT OF SHOWER AREA
+(ii) SIDE VIEW(i) PLAN VIEW
+WATERPROOF WALL
+WATERPROOF WALL
+1800 mm
+WATERPROOF FLOOR
+1800 mm
+WATERPROOF WALL
+(A) ENCLOSED SHOWER
+(B) UNENCLOSED SHOWER
+(ii) SIDE VIEW(i) PLAN VIEW
+1500 mmWP
+1500 mm
+WATERPROOF TO A WIDTH OF 40
+MM EITHER SIDE OF THE
+JUNCTION
+(A) PLAN VIEW
+WR
+(B) ISOMETRIC VIEW
+WATER RESISTANT FLOOR
+FLOOR WASTE
+WATERPROOF
+JUNCTIONS
+WATERPROOF
+RESISTANT 150MM
+WATERPROOF BATH/WALL
+JUNCTION
+40mm
+WATERPROOF JUNCTION 25 MM ABOVE
+FINISHED FLOOR LEVEL
+WR
+WR
+WR
+FIGURE 10.2.4B:
+AREAS ADJACENT TO BATHS AND SPAS WITHOUT SHOWERS FOR TIMBER FLOORS INCLUDING PARTICLE-BOARD,
+PLYWOOD AND OTHER FLOOR MATERIALS.
+WR
+40mm
+WR
+WR
+WR
+WATERPROOF ENTIRE FLOOR
+1500 mm MIN. FROM SHOWER
+OUTLET
+BATHROOM AREASHOWER AREA
+WATERSTOP
+FLOOR SUBSTRATE
+OR BEDDING
+MEMBRANE
+FLEXIBLE SEALANT
+MEMBRANE
+SHOWER SIDE
+WATERSTOP
+SHOWER SCREEN TRACK
+(IF NO RECESS PROVIDED
+TO SHOWER SCREEN TRACK
+PROVIDE CHANNEL)
+TOP OF TRAY SIDE
+SEALANT
+MEMBRANE
+TILES
+SUBSTRATE50 mm MIN
+MORTAR BED
+SHOWER SIDE
+TIMBER MUST
+NOT
+BE USED
+FOR HOB
+WATER RESISTANT FLOOR
+WATERPROOF TO A WIDTH OF 40
+MM EITHER SIDE OF THE
+JUNCTION
+(A) PLAN VIEW
+WATERPROOF BATH LIP/TILE JOIN
+(B) ISOMETRIC VIEW
+FLOOR WASTE
+WATERPROOF
+JUNCTIONS
+WATERPROOF RESISTANT
+150MM
+WATERPROOF BATH/WALL
+JUNCTION
+WATERPROOF TO A WIDTH OF 40 MM EITHER
+SIDE OF THE JUNCTION
+SEAL TAP AND BATH SPOUT PENETRATIONS
+WATERPROOF JUNCTION WIDTH OF 40MM
+EITHER SIDE OF THE JUNCTION
+WATERPROOF JUNCTION 25 MM ABOVE
+FINISHED FLOOR LEVEL
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+DETAILS
+N/A
+23
+
+
+PAGE 24
+FIGURE 10.2.5:
+BATH AND VESSEL ABUTTING WALL — AREAS TO BE PROTECTED
+150 mm
+FIGURE 10.2.19A:
+TYPICAL PREFORMED SHOWER BASE WALL/FLOOR JUNCTION
+FIGURE 10.2.19B:
+TYPICAL PREFORMED SHOWER BASE/FLOOR JUNCTION ON TIMBER FLOORS, INCLUDING
+PARTICLEBOARD,PLYWOOD AND OTHER TIMBER MATERIALS
+FIGURE 10.2.24:
+TYPICAL BATHROOM DOOR DETAILS FOR WHOLE BATHROOM WATERPROOFING
+FIGURE 10.2.27
+(EXPLANATORY): TYPICAL BOND BREAKER DETAILS
+CONTINUOUS TAPE TO HOLD BACKING ROD IN
+PLACE TO STOP MEMBRANE FROM
+FLOWING AROUND THE BACKING ROD
+WALL SUBSTRATE OR
+LINING
+FLOOR SUBSTRATE
+OR BEDDINGBOND BREAKER
+FIGURE 10.2.29:
+TYPICAL MEMBRANE TERMINATION AT DRAINAGE OUTLET
+MEMBRANE
+(a) VESSEL ABUTTING WALL
+WR
+FLOOR SUBSTRATE
+DRAINAGE PIPE
+DRAINAGE FLANGE
+MEMBRANE
+FLOOR SUBSTRATE
+OR BEDDING
+WALL SUBSTRATE OR LINING
+BACKING ROD 6 MM MIN.
+(b)PRIOR TO INSTALLATION OF ARCHITRAVE
+WATERSTOP WITH BASE SEALED TO
+FLOOR AND UPSTAND FLUSH WITH
+THE FINISHED FLOOR SURFACE
+BATHROOM
+WATERPROOF MEMBRANE
+A MIN. OF 25 MM ABOVE
+THE FINISHED FLOOR SURFACE
+DOOR JAM
+(a) AFTER INSTALLATION OF ARCHITRAVE
+WATERSTOP WITH BASE SEALED TO
+FLOOR AND UPSTAND FLUSH WITH
+THE FINISHED FLOOR SURFACE
+BATHROOM
+WATERPROOF MEMBRANE
+A MIN. OF 25 MM ABOVE
+THE FINISHED FLOOR SURFACE
+ARCHITRAVE
+DOOR JAM
+SHOWER SCREEN
+PREFORMED SHOWER
+BASE
+SHOWER BASE
+SUPPORT
+SHOWER SIDE
+WATERPROOF SEALANT
+FLOOR TILE
+TILE BED
+MEMBRANE
+FLOOR SUBSTRATE
+WATER-RESISTANT
+SURFACE MATERIAL
+OF THE WALL
+WATERPROOF SEALANT
+PREFORMED SHOWER BASE
+SHOWER BASE
+SUPPORT
+SHOWER SIDE
+WALL REBATE TO
+ACCOMODATE
+SHOWER BASE
+FLOOR SUBSTRATE
+WATERPROOF
+VESSEL/WALL JUNCTION
+MEMBRANE
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+DETAILS
+N/A
+24
+
+
+PAGE 25
+FIGURE 10.2.15C:
+TYPICAL UNENCLOSED STEPPED DOWN SHOWER CONSTRUCTION (MEMBRANE BELOW
+TILE BED)
+FIGURE 10.2.15D:
+TYPICAL UNENCLOSED STEPPED DOWN SHOWER CONSTRUCTION (MEMBRANE ABOVE TILE
+BED)
+25 mm min.25 mm min.
+FIGURE 10.2.20:
+TYPICAL BATH JUNCTIONS
+FIGURE 10.2.15A:
+TYPICAL ENCLOSED STEPPED DOWN SHOWER CONSTRUCTION (MEMBRANE BELOW TILE
+BED)
+FIGURE 10.2.15B:
+TYPICAL ENCLOSED STEPPED DOWN SHOWER CONSTRUCTION (MEMBRANE ABOVE TILE BED)25 mm min.25 mm min.
+WATER-RESISTANT
+SURFACE MATERIAL
+OF THE WALL
+WALL REBATE TO
+ACCOMMODATE RIM OF
+BATH
+WATERPROOF
+SEALANT
+BATH
+(A) BATH/WALL JUNCTION - RECESSED
+WALL SHEETING
+WATER-RESISTANT
+SURFACE MATERIAL
+OF THE WALL
+WATERPROOF
+SEALANT
+BATH
+BATTEN TO
+ACCOMMODATE
+RIM OF BATH
+(B) BATH/WALL JUNCTION - BATTENED
+WATERPROOF SEALANT
+FLOOR TILE
+WATER STOP UNDER
+BATH LIP TO PROJECT A
+MINIMUM OF THE 5 MM ABOVE
+THE TILE SURFACE
+MEMBRANE
+SHELF SUBSTRATE
+MORTAR TILE BED
+WATER STOP
+BATH
+(C) BATH/SHELF JUNCTION
+WATERSTOP - POSITION
+WATERSTOP AT THE
+EXTREMITY OF THE
+UNENCLOSED SHOWER
+MEMBRANE ABOVE MORTAR
+TILE BED
+WP
+MEMBRANE BELOW MORTAR
+TILE BED
+FRAMELESS SHOWER SCREEN
+STRUCTURAL SEALANT SUPPORT
+SHOWER SIDE
+WATERPROOF
+SEALANT
+FLOOR TILE
+WP
+SHOWER SCREEN
+AND TRACK
+FLOOR TILE
+MORTAR TILE BED
+WATERSTOP
+FLOOR SUBSTRATE
+TILE BED
+SHOWER
+MEMBRANE
+FLOOR
+TILE
+SHOWER SIDE WP
+NOTE:
+- FALLS IN WET AREAS (MIN 1:80 IN THE SHOWER AREA & 1:100
+OUTSIDE THE SHOWER AREA).
+- PROPOSED SHOWER GRATE TO HAVE A PUDDLE FLANGE
+RECESSED INTO THE SUBSTRATE
+- PROPOSED WALL LING TO BE WATER RESISTANT PLASTERBOARD
+OR OTHER MATERIAL AS PER NCC GUIDELINES.
+- A MINIMUM 25MM STEP DOWN FROM THE HIGHEST FINISHED
+FLOOR LEVEL OF THE SHOWER AREA TO THE LEVEL OUTSIDE THE
+SHOWER
+SHOWER
+MEMBRANE
+WP
+FLOOR
+TILE
+TILE BED
+FLOOR SUBSTRATE
+TILE BED
+WATERSTOP - POSITION
+WATERSTOP AT THE
+EXTREMITY OF THE
+UNENCLOSED SHOWER
+SHOWER SCREEN
+AND TRACK
+FLOOR TILE
+MORTAR TILE BED
+WATERSTOP
+FLOOR SUBSTRATE
+FRAMELESS SHOWER SCREEN
+STRUCTURAL SEALANT SUPPORT
+SHOWER SIDE
+WATERPROOF
+SEALANT
+FLOOR TILE
+FLOOR SUBSTRATE
+TILE BED
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+DETAILS
+N/A
+25
+
+
+PAGE 26
+SELECTED WHIRLYBIRD
+LOT 735
+1320
+1570
+3010
+3000
+6130
+SELECTED COLORBOND
+ROOF @ 5° ROOF PITCH
+WITH ROOF SARKING.
+1370
+3060
+3050
+2130
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+LEICHHARDT AVENUE
+30.00m 05°24'40"
+24.00m 05°24'40"
+9.50m 95°24'40"
+9.50m 95°24'40"
+4.24m 140°25'00"
+4.24m 50°25'00"
+LEICHHARDT LANE
+Ri 17.50
+Gu 16.11Gu 13.18
+FFL 10.57FFL 10.46
+IK 9.89
+TE
+GW
+HD
+E
+SW PIPE
+HD
+GW
+IK 9.96
+IK 10.01
+IK 10.09
+IK 10.17
+IK 10.30
+E
+10.71
+E
+11.03
+10.97
+10.89 10.84
+11.04
+10.68
+10.94 10.88
+10.58
+10.46
+10.20
+10.40
+10.60
+10.80
+11.00
+IK 10.86 IK 10.81 IK 10.78
+NBN
+IK 10.64 IK 10.41
+10.34
+10.40
+IL 9.93
+10.18
+NBN
+CONCRETE
+LANE
+GARAGE
+10.6310.75
+PARAPET
+WALL
+PARAPET
+WALL
+10.54 10.36 10.34
+Gu 16.11
+Gu 16.10
+PORCH
+UH/WUH/W
+PARAPET WALL
+H/W UNH/W
+UH/W
+PARKING BAY
+TBM - RIVET
+IN KERB
+RL 10.00
+1.95mH PALING FENCE
+POS
+1.15mH BRICK FENCE
+1.3mH PALING
+FENCE
+0.115m EASEMENT
+0.115m EASEMENT
+LOT 734
+DOUBLE STOREY
+DWELLING
+BRICK & WEATHERBOARD
+FOOTING EXPOSURE:
+NGL: RL 10.61
+BOF: RL <9.84
+O/S: 295mm
+NOTE:
+*BOF NOT DETERMINED DUE TO LIMITED
+CAPABILITY OF MANUAL EXCAVATION
+3.1m (APPROX)
+1.6m (APPROX)
+WYLIE CIRCUIT
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+DP
+DPDP
+DP DPDPDP
+DP/RWH DP/RWH
+DP/RWH
+DP
+ZERO BOUNDARY
+5520
+1320
+SOLAR
+PANEL
+LEGEND
+Existing Fence Line
+Proposed Shadow
+22 September Shadow Cast
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+SHADOW DIAGRAM 9:00AM
+1:125
+26
+
+
+PAGE 27
+SELECTED WHIRLYBIRD
+LOT 735
+1320
+1570
+3010
+3000
+6130
+SELECTED COLORBOND
+ROOF @ 5° ROOF PITCH
+WITH ROOF SARKING.
+1370
+3060
+3050
+2130
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+LEICHHARDT AVENUE
+30.00m 05°24'40"
+24.00m 05°24'40"
+9.50m 95°24'40"
+9.50m 95°24'40"
+4.24m 140°25'00"
+4.24m 50°25'00"
+LEICHHARDT LANE
+Ri 17.50
+Gu 16.11Gu 13.18
+FFL 10.57FFL 10.46
+IK 9.89
+TE
+GW
+HD
+E
+SW PIPE
+HD
+GW
+IK 9.96
+IK 10.01
+IK 10.09
+IK 10.17
+IK 10.30
+E
+10.71
+E
+11.03
+10.97
+10.89 10.84
+11.04
+10.68
+10.94 10.88
+10.58
+10.46
+10.20
+10.40
+10.60
+10.80
+11.00
+IK 10.86 IK 10.81 IK 10.78
+NBN
+IK 10.64 IK 10.41
+10.34
+10.40
+IL 9.93
+10.18
+NBN
+CONCRETE
+LANE
+GARAGE
+10.6310.75
+PARAPET
+WALL
+PARAPET
+WALL
+10.54 10.36 10.34
+Gu 16.11
+Gu 16.10
+PORCH
+UH/WUH/W
+PARAPET WALL
+H/W UNH/W
+UH/W
+PARKING BAY
+TBM - RIVET
+IN KERB
+RL 10.00
+1.95mH PALING FENCE
+POS
+1.15mH BRICK FENCE
+1.3mH PALING
+FENCE
+0.115m EASEMENT
+0.115m EASEMENT
+LOT 734
+DOUBLE STOREY
+DWELLING
+BRICK & WEATHERBOARD
+FOOTING EXPOSURE:
+NGL: RL 10.61
+BOF: RL <9.84
+O/S: 295mm
+NOTE:
+*BOF NOT DETERMINED DUE TO LIMITED
+CAPABILITY OF MANUAL EXCAVATION
+3.1m (APPROX)
+1.6m (APPROX)
+WYLIE CIRCUIT
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+DP
+DPDP
+DP DPDPDP
+DP/RWH DP/RWH
+DP/RWH
+DP
+ZERO BOUNDARY
+5520
+1320
+SOLAR
+PANEL
+LEGEND
+Existing Fence Line
+Proposed Shadow
+22 September Shadow Cast
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+SHADOW DIAGRAM 10:00AM
+1:125
+27
+
+
+PAGE 28
+SELECTED WHIRLYBIRD
+LOT 735
+1320
+1570
+3010
+3000
+6130
+SELECTED COLORBOND
+ROOF @ 5° ROOF PITCH
+WITH ROOF SARKING.
+1370
+3060
+3050
+2130
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+LEICHHARDT AVENUE
+30.00m 05°24'40"
+24.00m 05°24'40"
+9.50m 95°24'40"
+9.50m 95°24'40"
+4.24m 140°25'00"
+4.24m 50°25'00"
+LEICHHARDT LANE
+Ri 17.50
+Gu 16.11Gu 13.18
+FFL 10.57FFL 10.46
+IK 9.89
+TE
+GW
+HD
+E
+SW PIPE
+HD
+GW
+IK 9.96
+IK 10.01
+IK 10.09
+IK 10.17
+IK 10.30
+E
+10.71
+E
+11.03
+10.97
+10.89 10.84
+11.04
+10.68
+10.94 10.88
+10.58
+10.46
+10.20
+10.40
+10.60
+10.80
+11.00
+IK 10.86 IK 10.81 IK 10.78
+NBN
+IK 10.64 IK 10.41
+10.34
+10.40
+IL 9.93
+10.18
+NBN
+CONCRETE
+LANE
+GARAGE
+10.6310.75
+PARAPET
+WALL
+PARAPET
+WALL
+10.54 10.36 10.34
+Gu 16.11
+Gu 16.10
+PORCH
+UH/WUH/W
+PARAPET WALL
+H/W UNH/W
+UH/W
+PARKING BAY
+TBM - RIVET
+IN KERB
+RL 10.00
+1.95mH PALING FENCE
+POS
+1.15mH BRICK FENCE
+1.3mH PALING
+FENCE
+0.115m EASEMENT
+0.115m EASEMENT
+LOT 734
+DOUBLE STOREY
+DWELLING
+BRICK & WEATHERBOARD
+FOOTING EXPOSURE:
+NGL: RL 10.61
+BOF: RL <9.84
+O/S: 295mm
+NOTE:
+*BOF NOT DETERMINED DUE TO LIMITED
+CAPABILITY OF MANUAL EXCAVATION
+3.1m (APPROX)
+1.6m (APPROX)
+WYLIE CIRCUIT
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+DP
+DPDP
+DP DPDPDP
+DP/RWH DP/RWH
+DP/RWH
+DP
+ZERO BOUNDARY
+5520
+1320
+SOLAR
+PANEL
+LEGEND
+Existing Fence Line
+Proposed Shadow
+22 September Shadow Cast
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+SHADOW DIAGRAM 11:00AM
+1:125
+28
+
+
+PAGE 29
+SELECTED WHIRLYBIRD
+LOT 735
+1320
+1570
+3010
+3000
+6130
+SELECTED COLORBOND
+ROOF @ 5° ROOF PITCH
+WITH ROOF SARKING.
+1370
+3060
+3050
+2130
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+LEICHHARDT AVENUE
+30.00m 05°24'40"
+24.00m 05°24'40"
+9.50m 95°24'40"
+9.50m 95°24'40"
+4.24m 140°25'00"
+4.24m 50°25'00"
+LEICHHARDT LANE
+Ri 17.50
+Gu 16.11Gu 13.18
+FFL 10.57FFL 10.46
+IK 9.89
+TE
+GW
+HD
+E
+SW PIPE
+HD
+GW
+IK 9.96
+IK 10.01
+IK 10.09
+IK 10.17
+IK 10.30
+E
+10.71
+E
+11.03
+10.97
+10.89 10.84
+11.04
+10.68
+10.94 10.88
+10.58
+10.46
+10.20
+10.40
+10.60
+10.80
+11.00
+IK 10.86 IK 10.81 IK 10.78
+NBN
+IK 10.64 IK 10.41
+10.34
+10.40
+IL 9.93
+10.18
+NBN
+CONCRETE
+LANE
+GARAGE
+10.6310.75
+PARAPET
+WALL
+PARAPET
+WALL
+10.54 10.36 10.34
+Gu 16.11
+Gu 16.10
+PORCH
+UH/WUH/W
+PARAPET WALL
+H/W UNH/W
+UH/W
+PARKING BAY
+TBM - RIVET
+IN KERB
+RL 10.00
+1.95mH PALING FENCE
+POS
+1.15mH BRICK FENCE
+1.3mH PALING
+FENCE
+0.115m EASEMENT
+0.115m EASEMENT
+LOT 734
+DOUBLE STOREY
+DWELLING
+BRICK & WEATHERBOARD
+FOOTING EXPOSURE:
+NGL: RL 10.61
+BOF: RL <9.84
+O/S: 295mm
+NOTE:
+*BOF NOT DETERMINED DUE TO LIMITED
+CAPABILITY OF MANUAL EXCAVATION
+3.1m (APPROX)
+1.6m (APPROX)
+WYLIE CIRCUIT
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+DP
+DPDP
+DP DPDPDP
+DP/RWH DP/RWH
+DP/RWH
+DP
+ZERO BOUNDARY
+5520
+1320
+SOLAR
+PANEL
+LEGEND
+Existing Fence Line
+Proposed Shadow
+22 September Shadow Cast
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+SHADOW DIAGRAM 12:00PM
+1:125
+29
+
+
+PAGE 30
+SELECTED WHIRLYBIRD
+LOT 735
+1320
+1570
+3010
+3000
+6130
+SELECTED COLORBOND
+ROOF @ 5° ROOF PITCH
+WITH ROOF SARKING.
+1370
+3060
+3050
+2130
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+LEICHHARDT AVENUE
+30.00m 05°24'40"
+24.00m 05°24'40"
+9.50m 95°24'40"
+9.50m 95°24'40"
+4.24m 140°25'00"
+4.24m 50°25'00"
+LEICHHARDT LANE
+Ri 17.50
+Gu 16.11Gu 13.18
+FFL 10.57FFL 10.46
+IK 9.89
+TE
+GW
+HD
+E
+SW PIPE
+HD
+GW
+IK 9.96
+IK 10.01
+IK 10.09
+IK 10.17
+IK 10.30
+E
+10.71
+E
+11.03
+10.97
+10.89 10.84
+11.04
+10.68
+10.94 10.88
+10.58
+10.46
+10.20
+10.40
+10.60
+10.80
+11.00
+IK 10.86 IK 10.81 IK 10.78
+NBN
+IK 10.64 IK 10.41
+10.34
+10.40
+IL 9.93
+10.18
+NBN
+CONCRETE
+LANE
+GARAGE
+10.6310.75
+PARAPET
+WALL
+PARAPET
+WALL
+10.54 10.36 10.34
+Gu 16.11
+Gu 16.10
+PORCH
+UH/WUH/W
+PARAPET WALL
+H/W UNH/W
+UH/W
+PARKING BAY
+TBM - RIVET
+IN KERB
+RL 10.00
+1.95mH PALING FENCE
+POS
+1.15mH BRICK FENCE
+1.3mH PALING
+FENCE
+0.115m EASEMENT
+0.115m EASEMENT
+LOT 734
+DOUBLE STOREY
+DWELLING
+BRICK & WEATHERBOARD
+FOOTING EXPOSURE:
+NGL: RL 10.61
+BOF: RL <9.84
+O/S: 295mm
+NOTE:
+*BOF NOT DETERMINED DUE TO LIMITED
+CAPABILITY OF MANUAL EXCAVATION
+3.1m (APPROX)
+1.6m (APPROX)
+WYLIE CIRCUIT
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+DP
+DPDP
+DP DPDPDP
+DP/RWH DP/RWH
+DP/RWH
+DP
+ZERO BOUNDARY
+5520
+1320
+SOLAR
+PANEL
+LEGEND
+Existing Fence Line
+Proposed Shadow
+22 September Shadow Cast
+PROPOSED 1:00PM SHADOW
+SCALE    1:100
+NO. 15 LEICHARDT NO. 17 LEICHARDT
+16001170
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+SHADOW DIAGRAM 1:00PM
+1:125
+30
+
+
+PAGE 31
+SELECTED WHIRLYBIRD
+LOT 735
+1320
+1570
+3010
+3000
+6130
+SELECTED COLORBOND
+ROOF @ 5° ROOF PITCH
+WITH ROOF SARKING.
+1370
+3060
+3050
+2130
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+LEICHHARDT AVENUE
+30.00m 05°24'40"
+24.00m 05°24'40"
+9.50m 95°24'40"
+9.50m 95°24'40"
+4.24m 140°25'00"
+4.24m 50°25'00"
+LEICHHARDT LANE
+Ri 17.50
+Gu 16.11Gu 13.18
+FFL 10.57FFL 10.46
+IK 9.89
+TE
+GW
+HD
+E
+SW PIPE
+HD
+GW
+IK 9.96
+IK 10.01
+IK 10.09
+IK 10.17
+IK 10.30
+E
+10.71
+E
+11.03
+10.97
+10.89 10.84
+11.04
+10.68
+10.94 10.88
+10.58
+10.46
+10.20
+10.40
+10.60
+10.80
+11.00
+IK 10.86 IK 10.81 IK 10.78
+NBN
+IK 10.64 IK 10.41
+10.34
+10.40
+IL 9.93
+10.18
+NBN
+CONCRETE
+LANE
+GARAGE
+10.6310.75
+PARAPET
+WALL
+PARAPET
+WALL
+10.54 10.36 10.34
+Gu 16.11
+Gu 16.10
+PORCH
+UH/WUH/W
+PARAPET WALL
+H/W UNH/W
+UH/W
+PARKING BAY
+TBM - RIVET
+IN KERB
+RL 10.00
+1.95mH PALING FENCE
+POS
+1.15mH BRICK FENCE
+1.3mH PALING
+FENCE
+0.115m EASEMENT
+0.115m EASEMENT
+LOT 734
+DOUBLE STOREY
+DWELLING
+BRICK & WEATHERBOARD
+FOOTING EXPOSURE:
+NGL: RL 10.61
+BOF: RL <9.84
+O/S: 295mm
+NOTE:
+*BOF NOT DETERMINED DUE TO LIMITED
+CAPABILITY OF MANUAL EXCAVATION
+3.1m (APPROX)
+1.6m (APPROX)
+WYLIE CIRCUIT
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+DP
+DPDP
+DP DPDPDP
+DP/RWH DP/RWH
+DP/RWH
+DP
+ZERO BOUNDARY
+5520
+1320
+SOLAR
+PANEL
+LEGEND
+Existing Fence Line
+Proposed Shadow
+22 September Shadow Cast
+PROPOSED 2:00PM SHADOW
+SCALE    1:100
+NO. 15 LEICHARDT NO. 17 LEICHARDT
+16001320
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+SHADOW DIAGRAM 2:00PM
+1:125
+31
+
+
+PAGE 32
+SELECTED WHIRLYBIRD
+LOT 735
+1320
+1570
+3010
+3000
+6130
+SELECTED COLORBOND
+ROOF @ 5° ROOF PITCH
+WITH ROOF SARKING.
+1370
+3060
+3050
+2130
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+LEICHHARDT AVENUE
+30.00m 05°24'40"
+24.00m 05°24'40"
+9.50m 95°24'40"
+9.50m 95°24'40"
+4.24m 140°25'00"
+4.24m 50°25'00"
+LEICHHARDT LANE
+Ri 17.50
+Gu 16.11Gu 13.18
+FFL 10.57FFL 10.46
+IK 9.89
+TE
+GW
+HD
+E
+SW PIPE
+HD
+GW
+IK 9.96
+IK 10.01
+IK 10.09
+IK 10.17
+IK 10.30
+E
+10.71
+E
+11.03
+10.97
+10.89 10.84
+11.04
+10.68
+10.94 10.88
+10.58
+10.46
+10.20
+10.40
+10.60
+10.80
+11.00
+IK 10.86 IK 10.81 IK 10.78
+NBN
+IK 10.64 IK 10.41
+10.34
+10.40
+IL 9.93
+10.18
+NBN
+CONCRETE
+LANE
+GARAGE
+10.6310.75
+PARAPET
+WALL
+PARAPET
+WALL
+10.54 10.36 10.34
+Gu 16.11
+Gu 16.10
+PORCH
+UH/WUH/W
+PARAPET WALL
+H/W UNH/W
+UH/W
+PARKING BAY
+TBM - RIVET
+IN KERB
+RL 10.00
+1.95mH PALING FENCE
+POS
+1.15mH BRICK FENCE
+1.3mH PALING
+FENCE
+0.115m EASEMENT
+0.115m EASEMENT
+LOT 734
+DOUBLE STOREY
+DWELLING
+BRICK & WEATHERBOARD
+FOOTING EXPOSURE:
+NGL: RL 10.61
+BOF: RL <9.84
+O/S: 295mm
+NOTE:
+*BOF NOT DETERMINED DUE TO LIMITED
+CAPABILITY OF MANUAL EXCAVATION
+3.1m (APPROX)
+1.6m (APPROX)
+WYLIE CIRCUIT
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+DP
+DPDP
+DP DPDPDP
+DP/RWH DP/RWH
+DP/RWH
+DP
+ZERO BOUNDARY
+5520
+1320
+SOLAR
+PANEL
+LEGEND
+Existing Fence Line
+Proposed Shadow
+22 September Shadow Cast
+PROPOSED 3:00PM SHADOW
+SCALE    1:100
+NO. 15 LEICHARDT NO. 17 LEICHARDT
+16001320
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+DATE: BY:REVISION
+E.C.DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024-
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+SHADOW DIAGRAM 3:00PM
+1:125
+32

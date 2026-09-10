@@ -1,0 +1,824 @@
+[
+  {
+    "package": "architectural",
+    "file": "Leichhardt_Architectural Plans (1).pdf",
+    "pages": 32,
+    "metadata": {
+      "/CreationDate": "D:20251118185834+11'00'",
+      "/Creator": "AutoCAD LT 2025 - English 2025 (25.0)",
+      "/ModDate": "D:20260625144705+10'00'",
+      "/Producer": "pdfplot17.hdi 17.00.154.00000",
+      "/Title": "01 - COVER SHEET"
+    },
+    "sheets": [
+      {
+        "page": 1,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 2,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 3,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 4,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 5,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 6,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 7,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 8,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 9,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 10,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 11,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 12,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 13,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 14,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 15,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 16,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 17,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 18,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 19,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 20,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 21,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 22,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 23,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 24,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 25,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 26,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 27,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 28,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 29,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 30,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 31,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 32,
+        "width_pt": 1191.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      }
+    ]
+  },
+  {
+    "package": "engineering",
+    "file": "Leichhardt_Engineering Plans (1).pdf",
+    "pages": 27,
+    "metadata": {
+      "/CreationDate": "D:20251203093145Z",
+      "/Creator": "Aspose Ltd.",
+      "/ModDate": "D:20260625144858+10'00'",
+      "/Producer": "Aspose.Pdf for .NET 8.4.0",
+      "/Title": "S41"
+    },
+    "sheets": [
+      {
+        "page": 1,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 2,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 3,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 4,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 5,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 6,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 7,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 8,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 9,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 10,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 11,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 12,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 13,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 14,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 15,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 16,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 17,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 18,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 19,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 20,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 21,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 22,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 23,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 24,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 25,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 26,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      },
+      {
+        "page": 27,
+        "width_pt": 842.0,
+        "height_pt": 1191.0,
+        "rotation": 270
+      }
+    ]
+  },
+  {
+    "package": "roof",
+    "file": "Leichhardt_Engineering Roof Truss Frame (1).pdf",
+    "pages": 22,
+    "metadata": {
+      "/CreationDate": "D:20260410100707Z",
+      "/Creator": "PDF reDirect v2",
+      "/ModDate": "D:20260625143306+10'00'",
+      "/Producer": "EXP Systems LLC (www.exp-systems.com)"
+    },
+    "sheets": [
+      {
+        "page": 1,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 2,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 3,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 4,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 5,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 6,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 7,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 8,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 9,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 10,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 11,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 12,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 13,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 14,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 15,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 16,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 17,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 18,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 19,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 20,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 21,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 22,
+        "width_pt": 612.0,
+        "height_pt": 792.0,
+        "rotation": 90
+      }
+    ]
+  },
+  {
+    "package": "subfloor",
+    "file": "Leichhardt_Engineering Subfloor Frame (1).pdf",
+    "pages": 47,
+    "metadata": {
+      "/CreationDate": "D:20260410100707Z",
+      "/Creator": "PDF reDirect v2",
+      "/ModDate": "D:20260625143152+10'00'",
+      "/Producer": "EXP Systems LLC (www.exp-systems.com)"
+    },
+    "sheets": [
+      {
+        "page": 1,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 0
+      },
+      {
+        "page": 2,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 3,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 4,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 5,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 6,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 7,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 8,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 9,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 10,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 11,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 12,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 13,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 14,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 15,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 16,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 17,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 18,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 19,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 20,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 21,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 22,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 23,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 24,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 25,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 26,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 27,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 28,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 29,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 30,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 31,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 32,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 33,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 34,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 35,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 36,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 37,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 38,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 39,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 40,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 41,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 42,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 43,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 44,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 45,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 46,
+        "width_pt": 595.0,
+        "height_pt": 842.0,
+        "rotation": 90
+      },
+      {
+        "page": 47,
+        "width_pt": 612.0,
+        "height_pt": 792.0,
+        "rotation": 90
+      }
+    ]
+  }
+]

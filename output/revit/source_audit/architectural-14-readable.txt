@@ -1,0 +1,122 @@
+ELECTRICAL LEGEND
+SYMBOLS No. POWER POINT OULETS
+26 DBL GPO @ 300 HWS
+17 DBL GPO @ 1150 2-way
+WM DW
+1 Single GPO ceiling mounted
+TR 2-way
+4 DBL w/proof GPO @ 300mm AFFL
+M/W
+3 SNGL GPO @ 300 R SP EF ACE S/D
+LIGHT FITTINGS
+2-way
+66 LED Down Light (12 watts)
+4 Pendant Light (12 watts)
+2 Fluorescent strip (12 watts)
+TV
+8 W/proof External Flood Light (12 watt globe)
+D
+3 Stair Light
+OTHER OUTLETS & FITTINGS
+GROUND FLOOR ELECTRICAL PLAN
+ARTIFICIAL LIGHTING TABLE
+5 Smoke detectors
+ZONE AREA m2 MAX WATT ALLOWED PROPOSED WATT
+SCALE 1:100
+GROUND FLOOR AREA 136.28 681.40 384
+7 Exhaust Fan 25l/s - Vented out Externally
+FIRST FLOOR AREA 157.27 786.35 384
+1 Exhaust Fan 40l/s - Vented out Externally PORCH 4.47 17.88 12
+ALFRESCO 19.67 78.68 60
+TV 3 Television point GARAGE 39.00 117.00 24
+TOTAL 356.69 1681.31 864
+D 4 Data point
+2-way
+2-way 5 2 - way switch
+2-way
+Note:
+All the above items are to be confirmed by owner / sub-contractor before ordering.
+Client to confirm with contractor all locations of light switches and power points.
+ARTIFICIAL LIGHTING REQUIREMENTS:
+The lamp power density or illumination power density of artificial lighting,
+excluding heaters that emit light, must not exceed:
+1. In Class 1 building - 5W/m.
+2. Verandah or Balcony attached to Class 1 building - 4W/m. S/D
+3. In a Class 10 building - 3w/m. 2-way S/D
+The number of lights per room may change but, the total number of wattage must not exceed the
+maximum allowances per each area. Refer to the electrical diagrams for maximum allowances per
+each area.
+TV
+STANDARD CONNECTIONS:
+- Provide single power point outlets to dishwasher, cook top & rangehood.
+- Provide stove in kitchen to be hard wired to the electrical switchboard. D
+- Provide batten light & switch above man hole for roof access.
+- Provide single power points in roof for ducted heated & air conditioner if required.
+- Exhaust fans to be wired to light switch as per electrical plan.
+D
+GENERAL NOTES:
+-Locations of fixtures shown on plans are indicative only and may vary due location of structural
+members and truss layouts.
+-All lighting and switching types are to be confirmed on site between the builder and sub-contractor
+prior to commencement of any wiring. FIRST FLOOR ELECTRICAL PLAN
+-All symbols, fittings, appliances and fixtures are indicative only actual item may be of different size
+or shape.
+-Refer to specifications for accurate details and description. SCALE 1:100
+-Cabinetry may be altered upon specialists advice.
+-Window sizes are nominal only exact figure may vary on site.
+-Minor adjustments to framing and or location of framing may be made for structural purposes.
+MRB
+/ NIL
+MB &
+NBN
+S
+UP.
+SHR
+NENIL BIN PANTRY
+DR
+NOOK DR
+TAP
+TAP
+.HS
+W054
+GM
+ACCU
+D
+OI
+V
+EBOR
+EBOR
+SINGLE POWER POINT FOR RANGEHOOD. CEILING SENSOR TO
+HEIGHT TO BE DETERMINED ON SITE BY
+CONTRACTOR. ACTIVATE DOWNLIGHT
+GPO FOR DRYER - HEIGHT TO BE CONFIRMED ON SITE.
+2-way
+S/D
+LIVING ROOM WALL LIGHTS
+TO HAVE DIMMER SWITCH
+4 Up and Down External Light (12 watt globe)
+6 Wall Light @ 1700mm AFFL (12 watt globe)
+DBL FLOODLIGHT
+DBL FLOODLIGHT
+REMOTE CONTROL
+CURTAIN TO VOID
+WINDOW
+2-way
+1 Ceiling Fan
+S/D
+LINEN
+DIMMER
+SWITCH
+M/H
+TV
+D
+REVISION DATE: BY: PROJECT: CLIENT: ISSUE DATE: 16.01.2024 PROJECT NO: 042224
+NEW DWELLING
+- DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024 E.C.
+SCALE: 1:100 @ A3
+N
+SHEET NO:
+ADDRESS: DRAWING NAME: DRAWN: E.C.
+14
+LOT 735 (NO. 15) LEICHHARDT ELECTRICAL PLAN
+AVENUE, BURNSIDE HEIGHTS. CHECKED: E.C.

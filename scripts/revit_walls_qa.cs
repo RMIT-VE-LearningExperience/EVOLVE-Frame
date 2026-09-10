@@ -1,0 +1,1 @@
+return new{walls=new FilteredElementCollector(document).OfClass(typeof(Wall)).GetElementCount(),warnings=document.GetWarnings().Select(w=>new{description=w.GetDescriptionText(),elements=w.GetFailingElements().Select(id=>new{id=id.Value,mark=document.GetElement(id)?.get_Parameter(BuiltInParameter.ALL_MODEL_MARK)?.AsString()}).ToArray()}).ToArray()};

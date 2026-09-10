@@ -1,0 +1,65 @@
+BB Truss & Timber Pty.Ltd.                                                                                            DATE:     10/04/2026
+
+(A.B.N. 20 986 756 544)
+41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075
+
+                            BUILDING AUTHORITY ROOF TRUSS CERTIFICATION
+
+                                                                            PROJECT IDENTIFICATION
+
+                                                                            Quote Number:        K0964
+                        BSPOKE LUXURY HOMES PTY LTD                           Site Address:      LOT 735 15 LEICHHARDT AVE
+                                                                                                 BURNSIDE VIC 3023 AUS
+
+                                                                            Structure Type:      House
+
+
+
+
+
+
+   This is to certify that the prefabricated timber roof trusses and pre-cut hip end members supplied to the
+   above project were manufactured using MULTINAIL metal connectors and detailed using MULTINAIL
+   computer truss design programs, in accordance with the National Construction Code (NCC 2022).
+   The roof truss design and detailing assumes the supporting structure is stable within
+   its own right before the installation of the roof trusses.
+
+
+   The specifications used in the design of the trusses were as follows :
+
+   ROOF SHAPE      :      Standard                                    ROOFING                  :  Metal Sheet@7kg/m²
+   TIMBER               : Dry Softwood                                TC Fixing/Restraint      :  Metal @ 900c/900c
+   SPACING              : 900 mm                                      CEILING                  :  Plaster 10mm Supa Span@8.2kg/m
+   FASCIA TYPE          : As per AS1720.3-2016                        BC Fixing/Restraint      :  Metal direct @ 600c/600c
+   WIND / EXT / INT :     N2 / 0.6 / 0.2                              PITCH                    :  25.0 / 25.0 deg
+                                                                      OVERHANG                 :  550 / 550
+
+   All designed trusses and pre-cut members utilize the following codes:
+     AS/NZS 1170.0-2002:          Structural Design Actions Part 0: General principles
+     AS/NZS 1170.1-2002:          Structural Design Actions Part 1: Permanent, imposed and other actions
+     AS/NZS 1170.2-2021:          Structural Design Actions Part 2: Wind actions
+     AS/NZS 1170.3-2003:          Structural Design Actions Part 3: Snow and ice actions
+     AS 4055-2021:                Wind loads for housing
+     AS 1720.1-2010:              Timber structures Part 1: Design methods
+     AS 1720.3-2016:              Timber structures Part 3: Design criteria for timber-framed residential buildings
+     AS 1720.5-2015:              Timber structures Part 5: Nailplated timber roof trusses
+     AS 1649-2001:                Timber-Methods of test for mechanical fasteners and connectors
+     AS 4100-2020:                Steel Structures
+     AS/NZS 4600-2018:            Cold-formed steel structures
+
+   All trusses must be braced and erected in accordance with AS4440, Installation of nailplated timber
+   trusses, in conjunction with all local building authority requirements, and any other supplied details.
+
+
+                                         SIGNATURE            : _________________________________________________
+                                         NAME                 : Joey Meriales (TN-012-015)
+                                         POSITION             :
+                                         DATE                 : _________________________________________________
+   For detailed load information, including AC, Solar, Tank and Storage loads, refer to the detailed Engineering
+   and Submission reports and Roof Layout.
+
+
+
+
+
+MULTINAIL Roof                                                                                                                                                                  10/04/2026 10:10:09 AM1.14.3                                                 USER: Joey Meriales (TN-012-015)

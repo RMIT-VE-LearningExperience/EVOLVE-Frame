@@ -1,0 +1,76 @@
+from pathlib import Path
+import json
+root=Path(__file__).resolve().parents[1]
+walls=[]
+def wall(mark,a,b,width,z,height,source,openings=None):
+ walls.append(dict(mark=mark,a=a,b=b,width=width,z=z,height=height,source=source,openings=openings or []))
+def op(mark,c,w,s,h): return dict(mark=mark,centre=c,width=w,sill=s,height=h)
+# Centres follow the A06/A07 exterior-face chains. Thicknesses are dimensioned
+# coordination envelopes; complete finish/cavity layer definitions are not inferred.
+wall('GF-GAR-W',(115,2640),(115,9380),230,-86,3600,'A07 garage6000 clear; A09/A10 garage parapet3600', [op('D03',6040,5000,0,2400)])
+wall('GF-GAR-N',(115,9380),(6350,9380),240,-86,3600,'A07/A10')
+wall('GF-GAR-E',(6350,9380),(6350,8060),240,-86,3600,'A07 garage overall6470 / projection1320')
+wall('GF-N',(6350,8060),(26870,8060),240,0,3140,'A07 wall240, A12 floor3140; centres measured from calibrated vector jambs',[
+ op('D02',7520,820,0,2340),op('W05',10765,2710,280,2120),op('W04',16595,1510,905,514),op('W03',20995,810,280,2120),op('W02',25765,810,280,2120)])
+wall('GF-E',(26870,120),(26870,8060),240,0,3140,'A07/A11',[op('W01',2250,3000,0,2400),op('D01',6340,1640,0,2340)])
+wall('GF-S',(12600,120),(26870,120),240,0,3140,'A07/A11',[op('W06',15210,3060,300,2100),op('W07',19295,1510,1140,1260)])
+wall('GF-ALF-E',(12600,120),(12600,3500),240,0,3140,'A07/A11 D05 south-return nominal opening',[op('D05-B',1860,3000,0,2100)])
+wall('GF-ALF-N',(8390,3500),(12600,3500),240,0,3140,'A07/A11 D05 corner nominal opening; support jamb coordination pending',[op('D05-A',10550,3600,0,2100)])
+wall('GF-NOOK-E',(8390,2640),(8390,3500),240,0,3140,'A07 nook1100 step')
+wall('GF-GAR-S',(115,2640),(8390,2640),240,-86,2826,'A07 garage6980 overall /6500 clear; A09 ceiling2826',[op('D04',4140,3000,0,2400)])
+# Ground partitions, dimensioned from east/south inside faces.
+wall('GF-GAR-P',(6275,2760),(6275,7940),90,-86,2826,'A07 garage6000 clear, partition90; north end join disabled',[op('D-GAR-ACCESS',4160,920,86,2340)])
+wall('GF-LDRY-E',(8765,4850),(8765,7940),90,0,2740,'A07 laundry1800 plus linen510 and partitions90')
+wall('GF-LDRY-S',(6320,4805),(8765,4805),90,0,2740,'A07 laundry3090',[op('D-LDRY',7550,820,0,2340)])
+wall('GF-LINEN',(6875,6440),(6875,7940),90,0,2740,'A07 linen510x1500')
+wall('GF-PWD-W',(19825,5445),(19825,7940),90,0,2740,'A07 powder1600 clear')
+wall('GF-PWD-E',(21515,5445),(21515,7940),90,0,2740,'A07 entry5190; powder1600')
+wall('GF-PWD-S',(19825,5400),(21515,5400),90,0,2740,'A07 powder2500 clear',[op('D-PWD',20750,820,0,2340)])
+wall('GF-SUITE-N',(17865,4065),(22705,4065),90,0,2740,'A07 ensuite/WIR3780 clear, calibrated wall edges4020/4110')
+wall('GF-BED-N',(22705,4785),(26750,4785),90,0,2740,'A07 bedroom4500 clear, door820',[op('D-BED1',23290,820,0,2340)])
+wall('GF-BED-W',(22705,240),(22705,4785),90,0,2740,'A07 bedroom4000 clear; WIR passage800',[op('D-WIR',3620,800,0,2400)])
+wall('GF-WIR-W',(20345,240),(20345,4065),90,0,2740,'A07 WIR2270 clear; cavity slider second90 leaf of180 overall wall',[op('D-ENS',2110,760,0,2340)])
+wall('GF-ENS-E',(20255,240),(20255,4065),90,0,2740,'A07 ensuite1800 clear; cavity slider first90 leaf of180 overall wall',[op('D-ENS-INNER',2110,760,0,2340)])
+wall('GF-ENS-W',(18365,240),(18365,4065),90,0,2740,'A07 ensuite1800 clear, verified edges18320/18410')
+wall('GF-WC-N',(18365,1185),(20255,1185),90,0,2740,'A07 WC900 clear',[op('D-WC',19850,720,0,2340)])
+wall('GF-VD-W1',(17865,240),(17865,795),90,0,2740,'A07 vanity void410 clear, lower return')
+wall('GF-VD-W2',(17865,3555),(17865,4065),90,0,2740,'A07 vanity void410 clear, upper return')
+wall('GF-VD-S',(17865,795),(18365,795),90,0,2740,'A07 void return, edges750/840')
+wall('GF-VD-N',(17865,3555),(18365,3555),90,0,2740,'A07 void return, edges3510/3600')
+# First floor finished envelope20810x8080; timber envelope20610x7880.
+wall('FF-N',(6225,8035),(26845,8035),190,3140,2590,'A08/A11/A12',[op('W13',11590,670,1020,1260),op('W12',12730,670,1020,1260),op('W11',17115,2230,760,1520),op('W10',20055,850,480,1800)])
+wall('FF-S',(6225,145),(26845,145),190,3140,2590,'A08/A11/A12 D04 schedule widths',[op('W15',8360,2230,760,1520),op('W16',11075,670,1020,1260),op('W17',14435,2230,760,1520),op('W18',18075,1810,760,1520),op('W19',20860,2230,760,1520)])
+wall('FF-W',(6225,145),(6225,8035),190,3140,2590,'A08/A11 D04 schedule width',[op('W14',6340,2230,760,1520)])
+wall('FF-E',(26845,145),(26845,8035),190,3140,2590,'A08/A11',[op('W08',2490,2710,480,1800),op('W09',6385,2710,480,1800)])
+def ff(mark,a,b,source,ops=None,h=2590):wall('FF-'+mark,a,b,90,3140,h,'A08 '+source,ops)
+# Y: south inner240, room3200, wall90, hall1120, wall90, room3200, north inner7940.
+ff('BED4-S',(6320,4695),(11045,4695),'bed4 depth3200',[op('D-BED4',10600,820,0,2340)])
+ff('ROBES-S',(6320,3485),(11045,3485),'hall1120 /robes1120',[op('D-WIR3',7000,820,0,2400)])
+ff('ROBES-DIV',(8665,3485),(8665,4695),'WIR3 2300, WIR4 2290')
+ff('ROBES-E',(11045,3485),(11045,4695),'bed4/robe4680')
+ff('WC-W',(11045,5785),(11045,7940),'bed4 width4680')
+ff('WC-E',(12135,4695),(12135,7940),'WC1000')
+ff('WC-S',(11045,5785),(12135,5785),'WC2110',[op('D-WC2',11700,720,0,2340)])
+ff('BATH-ROBE',(14225,5295),(14225,7940),'bath2000')
+ff('ROBE-BED5',(14915,4695),(14915,7940),'robe600')
+ff('BATH-S',(12135,4695),(14915,4695),'bath / linen hall',[op('D-BATH1',12560,720,0,2340)])
+ff('LINEN-N',(13225,5295),(14915,5295),'linen1600 /depth510')
+ff('LINEN-W',(13225,4695),(13225,5295),'bath lower1000')
+ff('BED5-S',(14915,4695),(19315,4695),'bed5 4310',[op('D-BED5',15460,820,0,2340)])
+ff('BED5-E',(19315,4695),(19315,7940),'bed5 4310')
+ff('BED3-N',(6320,3485),(12245,3485),'lower hall line / bath2200',[op('D-BED3',10680,820,0,2340)])
+# Bed3-N overlaps robes wall; keep only the extension east of robe end.
+walls[-1]['a']=(11045,3485);walls[-1]['openings']=[]
+ff('BATH2-E',(12735,240),(12735,2395),'bath2200 clear',[op('D-BATH2',1850,720,0,2340)])
+ff('BATH2-W',(10445,240),(10445,2395),'bed3 4080 clear to bath')
+ff('BATH2-N',(10445,2395),(12735,2395),'bath2110 clear')
+ff('BED2-N',(12735,3485),(16825,3485),'upper hall',[op('D-BED2',13400,820,0,2340)])
+ff('BED2-STUDY',(16825,240),(16825,3485),'bed2 clear4000 including robe zone')
+ff('STUDY-RETREAT',(19315,240),(19315,3485),'study2400',[op('D-STUDY',2975,820,0,2340)])
+ff('RETREAT-THEATRE',(22405,240),(22405,4785),'retreat3000 /theatre4300')
+ff('THEATRE-N',(22405,4785),(26750,4785),'theatre4500 depth /void3110',[op('D-THEATRE',22950,820,0,2340)])
+ff('STAIR-DWARF',(20750,6795),(24750,6795),'stair clear1100; run4000, coordination D05',h=1200)
+payload=dict(units='mm',status='Coordination geometry. Source conflicts retained, no design certification.',walls=walls)
+(root/'output/revit/build_manifest.json').write_text(json.dumps(payload,indent=2),encoding='utf-8')
+print('Walls',len(walls),'openings',sum(len(w['openings']) for w in walls))
+

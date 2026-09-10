@@ -1,0 +1,18 @@
+{
+  "title": "Leichhardt_Coordination_Model",
+  "path": "C:\\Users\\Stormtrooper\\Git\\EVOLVE - Frame\\output\\revit\\Leichhardt_Coordination_Model.rvt",
+  "counts": {
+    "walls": 56,
+    "floors": 5,
+    "roofs": 3,
+    "timberMembers": 2195,
+    "steelWebs": 767,
+    "windows": 19,
+    "doors": 22
+  },
+  "expectedTimber": 2195,
+  "maxAxisDeviationMm": 8.662937034387142E-12,
+  "duplicates": [],
+  "failures": [],
+  "warnings": []
+}

@@ -1,0 +1,109 @@
+1600
+A
+B
+C
+600
+POWDER ROOM PLAN ELEVATION A
+SCALE 1:50
+009
+TPH
+0472
+THGIEH
+GNILIEC
+HPT
+2590
+TILES
+BEVELED EDGED MIRROR.
+MIRROR
+SH. WC
+20 370 450
+C
+L
+ELEVATION B
+0011
+002
+055
+RORRIM
+TENIBAC
+1600
+SH.
+500 370 20 600
+ELEVATION C
+BV
+0031
+X
+028
+H0432
+TILES TILES
+PWD
+052
+2270
+WIR
+BED 1 - WALK IN ROBE PLAN ELEVATION A
+SCALE 1:50
+0472
+THGIEH
+GNILIEC
+3780 2270
+ELEVATION B ELEVATION C
+6102
+DR
+DR
+MELAMINE SHELVE
+HANGING RAIL
+1070 600
+008
+A
+D B
+C
+DLSC
+0432
+X 027
+2 x 2016mm HIGH X 607mm
+WIDE DRAWER TOWERS.
+HANGING RAIL
+LIAR
+GNIGNAH
+LIAR
+GNIGNAH
+3780
+MELAMINE SHELVE MELAMINE SHELVE
+600
+HANGING RAIL HANGING RAIL HANGING RAIL SH.
+SH.
+SH.
+DR.
+DR.
+SUPPORT
+PANEL DR.
+DR.
+600 1070 600 800 50 2930 600 1440 16 607 16 607 16
+ELEVATION D
+6102
+GENERAL NOTES:
+- Locations of fixtures shown on plans are indicative only and may
+vary due to location of structural members and truss layouts.
+- All symbols, fittings, appliances and fixtures are indicative only
+actual item may be of different size or shape.
+- Refer to specifications for accurate details and description.
+- Cabinetry may be altered upon specialists advice.
+- Window sizes are nominal only exact figure may vary on site.
+- Minor adjustments to framing and or location of framing
+may be made for structural purposes.
+SH.
+SH.
+SH.
+DR.
+DR.
+DR.
+DR.
+REVISION DATE: BY: PROJECT: CLIENT: ISSUE DATE: 16.01.2024 PROJECT NO: 042224
+NEW DWELLING
+- DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024 E.C.
+SCALE: 1:50 @ A3
+N
+SHEET NO:
+ADDRESS: DRAWING NAME: DRAWN: E.C.
+15
+LOT 735 (NO. 15) LEICHHARDT INTERNAL DETAILS
+AVENUE, BURNSIDE HEIGHTS. CHECKED: E.C.

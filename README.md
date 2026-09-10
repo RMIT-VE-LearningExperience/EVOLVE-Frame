@@ -1,5 +1,7 @@
 # EVOLVE Frame / Frame Lab
 
+**Current Revit work / move to another PC:** read [TRANSFER_HANDOFF.md](TRANSFER_HANDOFF.md), then [geometry progress](output/revit/GEOMETRY_PROGRESS.md). The saved model is `output/revit/Leichhardt_Coordination_Model.rvt`. Tested connection snapshots and destination restore scripts are in [revit-portable/](revit-portable/README.md). The sections below describe the separate educational Blender/website workstream.
+
 An educational Blender model and student-facing construction explorer for the Leichhardt project.
 
 **Public student experience:** https://leichhardt-frame-lab.lawrence-makoona.chatgpt.site

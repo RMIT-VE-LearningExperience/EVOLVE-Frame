@@ -1,0 +1,4213 @@
+
+PAGE 1
+BUILDING AUTHORITY FLOOR JOIST CERTIFICATION
+BB Truss & Timber Pty Ltd
+41 Keilor Park Drive Keilor Park 3042 PH 03 9331 7075 A.C.N.059 242 134
+J
+OB : K0964
+Customer : LUXURY HOMES PTY LTD Site Address : LOT 735 15 LEICHHARDT AVE
+BURNSIDE VIC 3023 AUS
+Reference :
+This is to certify that the prefabricated timber floor joists supplied to the above project were manufactured using 
+MULTINAIL metal connectors and detailed using MULTINAIL computer joist design programs in accordance with 
+the National Construction Code (NCC 2022).
+The floor joist design and detailing assumes the supporting structure is stable within its own right before the 
+installation of the floor joists.
+The specifications used in the design of the joists were as follows:
+Timber : Dry Swd (can include KD Hwd)
+450Spacing :
+Wind : N2
+General AreasFloor Application :
+Structure: House
+Treatment : H0 - Individual members may be treated different.
+Flooring : Particle (13.9kg/m²)
+TC Restraints : 300
+Ceiling Material: Plaster 10mm Std Core (6.7 kg/m²)
+Ceiling Fixing: Direct fix @ 450c
+Std Chords : 45 TC / 45 BC
+Live Load: 1.5 kPa   Point Load: 1.8 kN
+All designed joists and pre-cut members utilize the following Australian standards:
+ AS/NZS 1170.0-2002  Structural design actions Part 0: General Principles
+ AS/NZS 1170.1-2002  Structural design actions Part 1: Permanent, imposed and other actions
+ AS/NZS 1170.2-2021  Structural design actions Part 2: Wind actions
+ AS/NZS 1170.3-2003  Structural design actions Part 3: Snow and Ice
+ AS 1720.1-2010  Timber Structures Part1 : Design Methods
+ AS 1720.3-2016  Timber Structures Part3 : Design criteria for timber-framed residential buildings
+ AS 4055-2021  Wind Loads for Housing
+ AS 1649-2001  Determination of basic working loads for metal fasteners for timber
+ AS 4100-2020  Steel Structures Code
+ AS/NZS 4600-2018  Cold-formed Steel Structures Code
+Special Note: Special attention must be given to floor trusses that have a 35mm MGP10 as a top chord.
+ Due to the design processes and analysis for the design of floor trusses with 35mm MGP10 Top Chords it is 
+ essential that the flooring material as specified in the design criteria for this job is securely fixed (according to
+ the manufacture’s recommendations, instructions and guidelines) as the flooring material and top chord act 
+ together for the design to resist the loads applied.
+In conjunction with Multinail Australia's recommendations, all local building authority requirements and any other 
+supplied details must be followed.
+Floor joist designs assumes strongbacks are placed and fixed according to Multinail Australia's recommendations.
+ SIGNATURE: __________________________________
+ NAME     :  Joey Meriales (TN-012-015)
+ POSITION : ___________________________________
+ DATE     :  ____________________________________
+For detailed load information refer to the engineering output.
+User : Joey Meriales (TN-012-015)MULTINAIL Floor V1.14.3 10/04/2026 10:07:05 AM   Page 1 of 1
+detailer
+10/04/2026
+
+PAGE 2
+1Laminations:
+K0964
+Site: LOT 735 15 LEICHHARDT AVE
+BURNSIDE VIC 3023 AUS
+Ref:
+41 Keilor Park Drive, Keilor Park 3042
+BB Truss & Timber Pty Ltd Job No:
+Weight:
+Total Weight:
+24.42 kg
+97.66 kg
+Joists: FJ95, FJ96, FJ97, FJ98
+Joist Name: FJ1    Type: MSJ-400-45
+Vertical Reactions at Supports
+Joint Nail Plate
+Restraint
+TIMBER / PLATES
+Member Size
+BC1 90x45-MGP10 H0 ADS
+TC1 90x45-MGP10 H0 ADS
+LEW1 90x45-MGP10 H0 ADS
+W1 90x45-MGP10 H0 ADS
+W2 90x45-MGP10 H0 ADS
+REW1 90x45-MGP10 H0 ADS
+Plating
+JD5
+JD5
+JD5
+JD5
+JD5
+JD5
+450
+300
+TL1
+BL2
+T1
+B1
+T2
+B2
+TR1 25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+BR2 25x75-MN
+1.35DL
+1.2DL + 1.5LL (kN)
+(kN)
+S1
+0.30
+1.59
+S2
+0.60
+2.86
+S3
+0.24
+1.26
+0
+413
+0
+413
+15
+15
+0
+46551815 2543
+S1 S2 S3
+1
+Wall plates must be placed at supports only.
+conjunction with Multinail Technical sheets.
+All dimensions in millimetres. This drawing should be read in
+10/04/2026
+Floor 1.14.3
+Joey MerialesSpan:
+Overhang:
+Spacing:
+4655
+0/0
+450
+Floor Material:
+Floor Covering:
+Ceiling Material:
+Ceiling Fixing:
+Plaster 10mm Std Core (6.7 kg/m²)
+Direct fix @ 450c
+Application:
+Live Load:
+Point Load: 1.8 kN
+1.5 kPa
+General Areas
+Ver:
+Date:
+Page:
+Std Carpet + Underlay (8 kg/m²)
+Particle (13.9 kg/m²)
+Design: AS 1720.1-2010Quantity: 4 1 of 45
+(TN-012-015)
+
+PAGE 3
+1Laminations:
+K0964
+S
+ite: LOT 735 15 LEICHHARDT AVE
+BURNSIDE VIC 3023 AUS
+Ref:
+41 Keilor Park Drive, Keilor Park 3042
+BB Truss & Timber Pty Ltd Job No:
+Weight:
+Total Weight:
+24.42 kg
+97.66 kg
+Joists: FJ95, FJ96, FJ97, FJ98
+Joist Name: FJ1    Type: MSJ-400-45
+User Def. Load A1
+8.70 kg/m²
+Applied Load
+DL
+LL
+WL Up
+WL Dn
+(kN)
+(kN)
+(kN)
+(kN)
+0
+413
+0
+413
+15
+15
+0
+46551815 2543
+A1
+1
+Wall plates must be placed at supports only.
+conjunction with Multinail Technical sheets.
+All dimensions in millimetres. This drawing should be read in
+10/04/2026
+Floor 1.14.3
+Joey MerialesSpan:
+Overhang:
+Spacing:
+4655
+0/0
+450
+Floor Material:
+Floor Covering:
+Ceiling Material:
+Ceiling Fixing:
+Plaster 10mm Std Core (6.7 kg/m²)
+Direct fix @ 450c
+Application:
+Live Load:
+Point Load: 1.8 kN
+1.5 kPa
+General Areas
+Ver:
+Date:
+Page:
+Std Carpet + Underlay (8 kg/m²)
+Particle (13.9 kg/m²)
+Design: AS 1720.1-2010Quantity: 4 2 of 45
+(TN-012-015)
+
+PAGE 4
+1Laminations:
+K0964
+S
+ite: LOT 735 15 LEICHHARDT AVE
+BURNSIDE VIC 3023 AUS
+Ref:
+41 Keilor Park Drive, Keilor Park 3042
+BB Truss & Timber Pty Ltd Job No:
+Weight:
+Total Weight:
+19.68 kg
+98.42 kg
+Joists: FJ99, FJ100, FJ101, FJ102, FJ103
+Joist Name: FJ2    Type: MSJ-400-45
+Vertical Reactions at Supports
+Joint Nail Plate
+Restraint
+TIMBER / PLATES
+Member Size
+BC1 90x45-MGP10 H0 ADS
+TC1 90x45-MGP10 H0 ADS
+LEW1 90x45-MGP10 H0 ADS
+W1 90x45-MGP10 H0 ADS
+REW1 90x45-MGP10 H0 ADS
+Plating
+JD5
+JD5
+JD5
+JD5
+JD5
+450
+300
+TL1
+BL2
+T1
+B1
+TR1
+BR2 25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+1.35DL
+1.2DL + 1.5LL (kN)
+(kN)
+S1
+0.44
+2.26
+S2
+0.43
+2.21
+0
+413
+0
+413
+15
+15
+0
+36651815
+S1 S2
+1
+Wall plates must be placed at supports only.
+conjunction with Multinail Technical sheets.
+All dimensions in millimetres. This drawing should be read in
+10/04/2026
+Floor 1.14.3
+Joey MerialesSpan:
+Overhang:
+Spacing:
+3665
+0/0
+450
+Floor Material:
+Floor Covering:
+Ceiling Material:
+Ceiling Fixing:
+Plaster 10mm Std Core (6.7 kg/m²)
+Direct fix @ 450c
+Application:
+Live Load:
+Point Load: 1.8 kN
+1.5 kPa
+General Areas
+Ver:
+Date:
+Page:
+Std Carpet + Underlay (8 kg/m²)
+Particle (13.9 kg/m²)
+Design: AS 1720.1-2010Quantity: 5 3 of 45
+(TN-012-015)
+
+PAGE 5
+1Laminations:
+K0964
+S
+ite: LOT 735 15 LEICHHARDT AVE
+BURNSIDE VIC 3023 AUS
+Ref:
+41 Keilor Park Drive, Keilor Park 3042
+BB Truss & Timber Pty Ltd Job No:
+Weight:
+Total Weight:
+19.57 kg
+78.27 kg
+Joists: FJ104, FJ105, FJ168, FJ169
+Joist Name: FJ3    Type: MSJ-360-45
+Vertical Reactions at Supports
+Joint Nail Plate
+Restraint
+TIMBER / PLATES
+Member Size
+BC1 90x45-MGP10 H0 ADS
+TC1 90x45-MGP10 H0 ADS
+LEW1 90x45-MGP10 H0 ADS
+W1 90x45-MGP10 H0 ADS
+REW1 90x45-MGP10 H0 ADS
+Plating
+JD5
+JD5
+JD5
+JD5
+JD5
+450
+300
+TL1
+BL2
+T1
+B1
+TR1
+BR2 25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+1.35DL
+1.2DL + 1.5LL (kN)
+(kN)
+S1
+1.27
+3.00
+S2
+0.86
+2.59
+0
+360
+0
+360
+15
+15
+0
+36651815
+S1 S2
+2
+Wall plates must be placed at supports only.
+conjunction with Multinail Technical sheets.
+All dimensions in millimetres. This drawing should be read in
+10/04/2026
+Floor 1.14.3
+Joey MerialesSpan:
+Overhang:
+Spacing:
+3665
+0/0
+450
+Floor Material:
+Floor Covering:
+Ceiling Material:
+Ceiling Fixing:
+Plaster 10mm Std Core (6.7 kg/m²)
+Direct fix @ 450c
+Application:
+Live Load:
+Point Load: 1.8 kN
+1.5 kPa
+General Areas
+Ver:
+Date:
+Page:
+Std Carpet + Underlay (8 kg/m²)
+Particle (13.9 kg/m²)
+Design: AS 1720.1-2010Quantity: 4 4 of 45
+(TN-012-015)
+
+PAGE 6
+1Laminations:
+K0964
+S
+ite: LOT 735 15 LEICHHARDT AVE
+BURNSIDE VIC 3023 AUS
+Ref:
+41 Keilor Park Drive, Keilor Park 3042
+BB Truss & Timber Pty Ltd Job No:
+Weight:
+Total Weight:
+19.57 kg
+78.27 kg
+Joists: FJ104, FJ105, FJ168, FJ169
+Joist Name: FJ3    Type: MSJ-360-45
+User Def. Load A1
+80.00 kg/m²
+A2
+50.00 kg/m²
+Applied Load
+DL
+LL
+WL Up
+WL Dn
+(kN)
+(kN)
+(kN)
+(kN)
+0
+360
+0
+360
+15
+15
+0
+36651815
+A1 A2
+2
+Wall plates must be placed at supports only.
+conjunction with Multinail Technical sheets.
+All dimensions in millimetres. This drawing should be read in
+10/04/2026
+Floor 1.14.3
+Joey MerialesSpan:
+Overhang:
+Spacing:
+3665
+0/0
+450
+Floor Material:
+Floor Covering:
+Ceiling Material:
+Ceiling Fixing:
+Plaster 10mm Std Core (6.7 kg/m²)
+Direct fix @ 450c
+Application:
+Live Load:
+Point Load: 1.8 kN
+1.5 kPa
+General Areas
+Ver:
+Date:
+Page:
+Std Carpet + Underlay (8 kg/m²)
+Particle (13.9 kg/m²)
+Design: AS 1720.1-2010Quantity: 4 5 of 45
+(TN-012-015)
+
+PAGE 7
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+20.22 kg 
+60.66 kg 
+Joists: FJ106, FJ107, FJ108 
+Joist Name: FJ4    Type: MSJ-400-45 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+BC1 90x45-MGP10 H0 ADS 
+TC1 90x45-MGP10 H0 ADS 
+LEW1 90x45-MGP10 H0 ADS 
+W1 90x45-MGP10 H0 ADS 
+REW1 90x45-MGP10 H0 ADS 
+Plating 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+450 
+300 
+TL1 
+BL2 
+T1 
+B1 
+TR1 
+BR2 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+1.14 
+2.88 
+S2 
+0.74 
+2.49 
+0
+413 
+0
+413 
+15 
+15 
+0
+3665 1815 
+S1 S2 
+2
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+3665 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 3 6 of 45 
+(TN-012-015) 
+
+PAGE 8
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+20.22 kg 
+60.66 kg 
+Joists: FJ106, FJ107, FJ108 
+Joist Name: FJ4    Type: MSJ-400-45 
+User Def. Load A1 
+80.00 kg/m² 
+Applied Load 
+DL 
+LL 
+WL Up 
+WL Dn 
+(kN) 
+(kN) 
+(kN) 
+(kN) 
+0
+413 
+0
+413 
+15 
+15 
+0
+3665 1815 
+A1 
+2
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+3665 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 3 7 of 45 
+(TN-012-015) 
+
+PAGE 9
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+20.53 kg 
+225.79 kg 
+Joists: FJ109, FJ110, FJ111, FJ112, FJ113, FJ114, FJ115, FJ116, FJ117, FJ118, FJ119 
+Joist Name: FJ5    Type: MSJ-400-45 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+BC1 90x45-MGP10 H0 ADS 
+TC1 90x45-MGP10 H0 ADS 
+LEW1 90x45-MGP10 H0 ADS 
+W1 90x45-MGP10 H0 ADS 
+REW1 90x45-MGP10 H0 ADS 
+Plating 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+450 
+300 
+TL1 
+BL2 
+T1 
+B1 
+TR1 
+BR2 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+0.46 
+2.36 
+S2 
+0.47 
+2.43 
+0
+413 
+0
+413 
+22 82 
+22 
+0
+3832 1860 3914 
+S1 S2 
+1 1
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+3914 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 11 8 of 45 
+(TN-012-015) 
+
+PAGE 10
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+20.53 kg 
+20.53 kg 
+Joists: FJ120 
+Joist Name: FJ6    Type: MSJ-400-45 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+BC1 90x45-MGP10 H0 ADS 
+TC1 90x45-MGP10 H0 ADS 
+LEW1 90x45-MGP10 H0 ADS 
+W1 90x45-MGP10 H0 ADS 
+REW1 90x45-MGP10 H0 ADS 
+Plating 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+450 
+300 
+TL1 
+BL2 
+T1 
+B1 
+TR1 
+BR2 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+0.46 
+2.36 
+S2 
+0.47 
+2.43 
+0
+413 
+0
+413 
+22 82 
+22 
+0
+3832 1860 3914 
+S1 S2 
+1 1
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+3914 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 1 9 of 45 
+(TN-012-015) 
+
+PAGE 11
+1Laminations:
+K0964
+S
+ite: LOT 735 15 LEICHHARDT AVE
+BURNSIDE VIC 3023 AUS
+Ref:
+41 Keilor Park Drive, Keilor Park 3042
+BB Truss & Timber Pty Ltd Job No:
+Weight:
+Total Weight:
+21.23 kg
+21.23 kg
+Joists: FJ121
+Joist Name: FJ7    Type: MSJ-400-45
+Vertical Reactions at Supports
+Joint Nail Plate
+Restraint
+TIMBER / PLATES
+Member Size
+BC1 90x45-MGP10 H0 ADS
+TC1 90x45-MGP10 H0 ADS
+LEW1 90x45-MGP10 H0 ADS
+W1 90x45-MGP10 H0 ADS
+REW1 90x45-MGP10 H0 ADS
+Plating
+JD5
+JD5
+JD5
+JD5
+JD5
+450
+300
+TL1
+BL2
+T1
+B1
+TR1
+BR2 25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+1.35DL
+1.2DL + 1.5LL (kN)
+(kN)
+S1
+0.54
+2.48
+S2
+0.54
+2.42
+0
+413
+0
+413
+22
+22
+0
+39151860
+S1 S2
+1
+Wall plates must be placed at supports only.
+conjunction with Multinail Technical sheets.
+All dimensions in millimetres. This drawing should be read in
+10/04/2026
+Floor 1.14.3
+Joey MerialesSpan:
+Overhang:
+Spacing:
+3915
+0/0
+450
+Floor Material:
+Floor Covering:
+Ceiling Material:
+Ceiling Fixing:
+Plaster 10mm Std Core (6.7 kg/m²)
+Direct fix @ 450c
+Application:
+Live Load:
+Point Load: 1.8 kN
+1.5 kPa
+General Areas
+Ver:
+Date:
+Page:
+Std Carpet + Underlay (8 kg/m²)
+Particle (13.9 kg/m²)
+Design: AS 1720.1-2010Quantity: 1 10 of 45
+(TN-012-015)
+
+PAGE 12
+1Laminations:
+K0964
+S
+ite: LOT 735 15 LEICHHARDT AVE
+BURNSIDE VIC 3023 AUS
+Ref:
+41 Keilor Park Drive, Keilor Park 3042
+BB Truss & Timber Pty Ltd Job No:
+Weight:
+Total Weight:
+21.23 kg
+21.23 kg
+Joists: FJ121
+Joist Name: FJ7    Type: MSJ-400-45
+User Def. Load A1
+8.70 kg/m²
+Applied Load
+DL
+LL
+WL Up
+WL Dn
+(kN)
+(kN)
+(kN)
+(kN)
+0
+413
+0
+413
+22
+22
+0
+39151860
+A1
+1
+Wall plates must be placed at supports only.
+conjunction with Multinail Technical sheets.
+All dimensions in millimetres. This drawing should be read in
+10/04/2026
+Floor 1.14.3
+Joey MerialesSpan:
+Overhang:
+Spacing:
+3915
+0/0
+450
+Floor Material:
+Floor Covering:
+Ceiling Material:
+Ceiling Fixing:
+Plaster 10mm Std Core (6.7 kg/m²)
+Direct fix @ 450c
+Application:
+Live Load:
+Point Load: 1.8 kN
+1.5 kPa
+General Areas
+Ver:
+Date:
+Page:
+Std Carpet + Underlay (8 kg/m²)
+Particle (13.9 kg/m²)
+Design: AS 1720.1-2010Quantity: 1 11 of 45
+(TN-012-015)
+
+PAGE 13
+1Laminations:
+K0964
+S
+ite: LOT 735 15 LEICHHARDT AVE
+BURNSIDE VIC 3023 AUS
+Ref:
+41 Keilor Park Drive, Keilor Park 3042
+BB Truss & Timber Pty Ltd Job No:
+Weight:
+Total Weight:
+21.23 kg
+212.32 kg
+Joists: FJ122, FJ123, FJ124, FJ125, FJ126, FJ127, FJ128, FJ129, FJ130, FJ198
+Joist Name: FJ7    Type: MSJ-400-45
+Vertical Reactions at Supports
+Joint Nail Plate
+Restraint
+TIMBER / PLATES
+Member Size
+BC1 90x45-MGP10 H0 ADS
+TC1 90x45-MGP10 H0 ADS
+LEW1 90x45-MGP10 H0 ADS
+W1 90x45-MGP10 H0 ADS
+REW1 90x45-MGP10 H0 ADS
+Plating
+JD5
+JD5
+JD5
+JD5
+JD5
+450
+300
+TL1
+BL2
+T1
+B1
+TR1
+BR2 25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+1.35DL
+1.2DL + 1.5LL (kN)
+(kN)
+S1
+0.48
+2.42
+S2
+0.46
+2.36
+0
+413
+0
+413
+22
+22
+0
+39151860
+S1 S2
+1
+Wall plates must be placed at supports only.
+conjunction with Multinail Technical sheets.
+All dimensions in millimetres. This drawing should be read in
+10/04/2026
+Floor 1.14.3
+Joey MerialesSpan:
+Overhang:
+Spacing:
+3915
+0/0
+450
+Floor Material:
+Floor Covering:
+Ceiling Material:
+Ceiling Fixing:
+Plaster 10mm Std Core (6.7 kg/m²)
+Direct fix @ 450c
+Application:
+Live Load:
+Point Load: 1.8 kN
+1.5 kPa
+General Areas
+Ver:
+Date:
+Page:
+Std Carpet + Underlay (8 kg/m²)
+Particle (13.9 kg/m²)
+Design: AS 1720.1-2010Quantity: 10 12 of 45
+(TN-012-015)
+
+PAGE 14
+1Laminations:
+K0964
+S
+ite: LOT 735 15 LEICHHARDT AVE
+BURNSIDE VIC 3023 AUS
+Ref:
+41 Keilor Park Drive, Keilor Park 3042
+BB Truss & Timber Pty Ltd Job No:
+Weight:
+Total Weight:
+25.14 kg
+100.55 kg
+Joists: FJ131, FJ132, FJ133, FJ134
+Joist Name: FJ8    Type: MSJ-400-45
+Vertical Reactions at Supports
+Joint Nail Plate
+Restraint
+TIMBER / PLATES
+Member Size
+BC1 90x45-MGP10 H0 ADS
+TC1 90x45-MGP10 H0 ADS
+LEW1 90x45-MGP10 H0 ADS
+W1 90x45-MGP10 H0 ADS
+W2 90x45-MGP10 H0 ADS
+REW1 90x45-MGP10 H0 ADS
+Plating
+JD5
+JD5
+JD5
+JD5
+JD5
+JD5
+450
+300
+TL1
+BL2
+T1
+B1
+T2
+B2
+TR1 25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+BR2 25x75-MN
+1.35DL
+1.2DL + 1.5LL (kN)
+(kN)
+S1
+0.56
+2.86
+S2
+0.55
+2.80
+0
+413
+0
+413
+22
+22
+0
+46351583 3029
+S1 S2
+1 1
+Wall plates must be placed at supports only.
+conjunction with Multinail Technical sheets.
+All dimensions in millimetres. This drawing should be read in
+10/04/2026
+Floor 1.14.3
+Joey MerialesSpan:
+Overhang:
+Spacing:
+4635
+0/0
+450
+Floor Material:
+Floor Covering:
+Ceiling Material:
+Ceiling Fixing:
+Plaster 10mm Std Core (6.7 kg/m²)
+Direct fix @ 450c
+Application:
+Live Load:
+Point Load: 1.8 kN
+1.5 kPa
+General Areas
+Ver:
+Date:
+Page:
+Std Carpet + Underlay (8 kg/m²)
+Particle (13.9 kg/m²)
+Design: AS 1720.1-2010Quantity: 4 13 of 45
+(TN-012-015)
+
+PAGE 15
+1Laminations:
+K0964
+S
+ite: LOT 735 15 LEICHHARDT AVE
+BURNSIDE VIC 3023 AUS
+Ref:
+41 Keilor Park Drive, Keilor Park 3042
+BB Truss & Timber Pty Ltd Job No:
+Weight:
+Total Weight:
+25.32 kg
+126.60 kg
+Joists: FJ135, FJ136, FJ137, FJ138, FJ139
+Joist Name: FJ9    Type: MSJ-400-45
+Vertical Reactions at Supports
+Joint Nail Plate
+Restraint
+TIMBER / PLATES
+Member Size
+BC1 90x45-MGP10 H0 ADS
+TC1 90x45-MGP10 H0 ADS
+LEW1 90x45-MGP10 H0 ADS
+W1 90x45-MGP10 H0 ADS
+W2 90x45-MGP10 H0 ADS
+REW1 90x45-MGP10 H0 ADS
+Plating
+JD5
+JD5
+JD5
+JD5
+JD5
+JD5
+450
+300
+TL1
+BL2
+T1
+B1
+T2
+B2
+TR1 25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+25x75-MN
+BR2 25x75-MN
+1.35DL
+1.2DL + 1.5LL (kN)
+(kN)
+S1
+0.57
+2.87
+S2
+0.57
+2.87
+0
+413
+0
+413
+22 22
+22
+0
+46801583 3029 4658
+S1 S2
+1 2
+Wall plates must be placed at supports only.
+conjunction with Multinail Technical sheets.
+All dimensions in millimetres. This drawing should be read in
+10/04/2026
+Floor 1.14.3
+Joey MerialesSpan:
+Overhang:
+Spacing:
+4680
+0/0
+450
+Floor Material:
+Floor Covering:
+Ceiling Material:
+Ceiling Fixing:
+Plaster 10mm Std Core (6.7 kg/m²)
+Direct fix @ 450c
+Application:
+Live Load:
+Point Load: 1.8 kN
+1.5 kPa
+General Areas
+Ver:
+Date:
+Page:
+Std Carpet + Underlay (8 kg/m²)
+Particle (13.9 kg/m²)
+Design: AS 1720.1-2010Quantity: 5 14 of 45
+(TN-012-015)
+
+PAGE 16
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+21.27 kg 
+21.27 kg 
+Joists: FJ140 
+Joist Name: FJ10    Type: MSJ-400-45 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+TC1 90x45-MGP10 H0 ADS 
+BC1 90x45-MGP10 H0 ADS 
+LEW1 90x45-MGP10 H0 ADS 
+W1 90x45-MGP10 H0 ADS 
+REW1 90x45-MGP10 H0 ADS 
+Plating 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+300 
+450 
+TL1 
+BL2 
+T1 
+B1 
+TR1 
+BR2 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+1.18 
+3.09 
+S2 
+1.42 
+3.24 
+0
+413 
+0
+413 
+83 22 
+83 0 3966 1913 3861 
+S1 S2 
+1 2
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+3966 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 1 15 of 45 
+(TN-012-015) 
+
+PAGE 17
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+21.27 kg 
+21.27 kg 
+Joists: FJ140 
+Joist Name: FJ10    Type: MSJ-400-45 
+User Def. Load A1 
+80.00 kg/m² 
+A2 
+8.70 kg/m² 
+Applied Load 
+DL 
+LL 
+WL Up 
+WL Dn 
+(kN) 
+(kN) 
+(kN) 
+(kN) 
+0
+413 
+0
+413 
+83 22 
+83 0 3966 1913 3861 
+A1 A2 
+1 2
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+3966 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 1 16 of 45 
+(TN-012-015) 
+
+PAGE 18
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+20.62 kg 
+82.47 kg 
+Joists: FJ141, FJ142, FJ143, FJ170 
+Joist Name: FJ11    Type: MSJ-360-45 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+TC1 90x45-MGP10 H0 ADS 
+BC1 90x45-MGP10 H0 ADS 
+LEW1 90x45-MGP10 H0 ADS 
+W1 90x45-MGP10 H0 ADS 
+REW1 90x45-MGP10 H0 ADS 
+Plating 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+300 
+450 
+TL1 
+BL2 
+T1 
+B1 
+TR1 
+BR2 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+1.03 
+2.95 
+S2 
+1.67 
+3.46 
+0
+360 
+0
+360 
+83 22 
+83 0 3966 1913 3861 
+S1 S2 
+1 2
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+3966 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 4 17 of 45 
+(TN-012-015) 
+
+PAGE 19
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+20.62 kg 
+82.47 kg 
+Joists: FJ141, FJ142, FJ143, FJ170 
+Joist Name: FJ11    Type: MSJ-360-45 
+User Def. Load A1 
+8.70 kg/m² 
+A2 
+80.00 kg/m² 
+A3 
+50.00 kg/m² 
+Applied Load 
+DL 
+LL 
+WL Up 
+WL Dn 
+(kN) 
+(kN) 
+(kN) 
+(kN) 
+0
+360 
+0
+360 
+83 22 
+83 0 3966 1913 3861 
+A1 A2 A3 
+1 2
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+3966 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 4 18 of 45 
+(TN-012-015) 
+
+PAGE 20
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+20.47 kg 
+143.27 kg 
+Joists: FJ144, FJ145, FJ146, FJ147, FJ148, FJ149, FJ150 
+Joist Name: FJ12    Type: MSJ-400-45 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+TC1 90x45-MGP10 H0 ADS 
+BC1 90x45-MGP10 H0 ADS 
+LEW1 90x45-MGP10 H0 ADS 
+W1 90x45-MGP10 H0 ADS 
+REW1 90x45-MGP10 H0 ADS 
+Plating 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+300 
+450 
+TL1 
+BL2 
+T1 
+B1 
+TR1 
+BR2 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+0.53 
+2.51 
+S2 
+0.56 
+2.47 
+0
+413 
+0
+413 
+83 22 
+83 0 3966 1913 3861 
+S1 S2 
+1 1
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+3966 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 7 19 of 45 
+(TN-012-015) 
+
+PAGE 21
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+20.47 kg 
+143.27 kg 
+Joists: FJ144, FJ145, FJ146, FJ147, FJ148, FJ149, FJ150 
+Joist Name: FJ12    Type: MSJ-400-45 
+User Def. Load A1 
+8.70 kg/m² 
+Applied Load 
+DL 
+LL 
+WL Up 
+WL Dn 
+(kN) 
+(kN) 
+(kN) 
+(kN) 
+0
+413 
+0
+413 
+83 22 
+83 0 3966 1913 3861 
+A1 
+1 1
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+3966 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 7 20 of 45 
+(TN-012-015) 
+
+PAGE 22
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+20.47 kg 
+20.47 kg 
+Joists: FJ151 
+Joist Name: FJ13    Type: MSJ-400-45 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+TC1 90x45-MGP10 H0 ADS 
+BC1 90x45-MGP10 H0 ADS 
+LEW1 90x45-MGP10 H0 ADS 
+W1 90x45-MGP10 H0 ADS 
+REW1 90x45-MGP10 H0 ADS 
+Plating 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+300 
+450 
+TL1 
+BL2 
+T1 
+B1 
+TR1 
+BR2 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+0.52 
+2.51 
+S2 
+0.56 
+2.47 
+0
+413 
+0
+413 
+82 22 
+82 0 3966 1914 3862 
+S1 S2 
+1 1
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+3966 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 1 21 of 45 
+(TN-012-015) 
+
+PAGE 23
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+20.47 kg 
+20.47 kg 
+Joists: FJ151 
+Joist Name: FJ13    Type: MSJ-400-45 
+User Def. Load A1 
+8.70 kg/m² 
+Applied Load 
+DL 
+LL 
+WL Up 
+WL Dn 
+(kN) 
+(kN) 
+(kN) 
+(kN) 
+0
+413 
+0
+413 
+82 22 
+82 0 3966 1914 3862 
+A1 
+1 1
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+3966 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 1 22 of 45 
+(TN-012-015) 
+
+PAGE 24
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+22.63 kg 
+22.63 kg 
+Joists: FJ152 
+Joist Name: FJ14    Type: MSJ-400-45 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+BC1 90x45-MGP10 H0 ADS 
+LEW1 90x45-MGP10 H0 ADS 
+TC1 90x45-MGP10 H0 ADS 
+W1 90x45-MGP10 H0 ADS 
+W2 90x45-MGP10 H0 ADS 
+REW1 90x45-MGP10 H0 ADS 
+Plating 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+450 
+300 
+TL1 
+BL2 
+T1 
+B1 
+T2 
+B2 
+TR1 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+BR2 25x75-MN 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+0.01 
+-0.06 
+S2 
+0.65 
+3.40 
+S3 
+0.36 
+1.81 
+0
+413 
+0
+413 
+22 
+0 4215 968 2569 4193 
+S1 S2 S3 
+1
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+4215 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 1 23 of 45 
+(TN-012-015) 
+
+PAGE 25
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+23.17 kg 
+115.84 kg 
+Joists: FJ153, FJ154, FJ155, FJ156, FJ157 
+Joist Name: FJ15    Type: MSJ-400-45 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+BC1 90x45-MGP10 H0 ADS 
+LEW1 90x45-MGP10 H0 ADS 
+TC1 90x45-MGP10 H0 ADS 
+W1 90x45-MGP10 H0 ADS 
+W2 90x45-MGP10 H0 ADS 
+REW1 90x45-MGP10 H0 ADS 
+Plating 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+450 
+300 
+TL1 
+BL2 
+T1 
+B1 
+T2 
+B2 
+TR1 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+BR2 25x75-MN 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+0.50 
+2.55 
+S2 
+0.51 
+2.60 
+0
+413 
+0
+413 
+22 
+0 4215 1561 2569 4193 
+S1 S2 
+1 1
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+4215 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 5 24 of 45 
+(TN-012-015) 
+
+PAGE 26
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+23.44 kg 
+70.31 kg 
+Joists: FJ158, FJ159, FJ160 
+Joist Name: FJ16    Type: MSJ-400-45 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+BC1 90x45-MGP10 H0 ADS 
+LEW1 90x45-MGP10 H0 ADS 
+TC1 90x45-MGP10 H0 ADS 
+W1 90x45-MGP10 H0 ADS 
+W2 90x45-MGP10 H0 ADS 
+REW1 90x45-MGP10 H0 ADS 
+Plating 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+450 
+300 
+TL1 
+BL2 
+T1 
+B1 
+T2 
+B2 
+TR1 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+BR2 25x75-MN 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+0.77 
+2.78 
+S2 
+1.25 
+3.26 
+0
+413 
+0
+413 
+22 
+0 4215 1561 2569 4193 
+S1 S2 
+2 2
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+4215 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 3 25 of 45 
+(TN-012-015) 
+
+PAGE 27
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+23.44 kg 
+70.31 kg 
+Joists: FJ158, FJ159, FJ160 
+Joist Name: FJ16    Type: MSJ-400-45 
+User Def. Load A1 
+80.00 kg/m² 
+Applied Load 
+DL 
+LL 
+WL Up 
+WL Dn 
+(kN) 
+(kN) 
+(kN) 
+(kN) 
+0
+413 
+0
+413 
+22 
+0 4215 1561 2569 4193 
+A1 
+2 2
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+4215 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 3 26 of 45 
+(TN-012-015) 
+
+PAGE 28
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+23.70 kg 
+23.70 kg 
+Joists: FJ161 
+Joist Name: FJ17    Type: MSJ-400-45 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+BC1 90x45-MGP10 H0 ADS 
+LEW1 90x45-MGP10 H0 ADS 
+TC1 90x45-MGP10 H0 ADS 
+W1 90x45-MGP10 H0 ADS 
+W2 90x45-MGP10 H0 ADS 
+REW1 90x45-MGP10 H0 ADS 
+Plating 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+450 
+300 
+TL1 
+BL2 
+T1 
+B1 
+T2 
+B2 
+TR1 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+BR2 25x75-MN 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+1.11 
+3.09 
+S2 
+1.43 
+3.42 
+0
+413 
+0
+413 
+22 
+0 4215 1561 2569 4193 
+S1 S2 
+2 2
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+4215 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 1 27 of 45 
+(TN-012-015) 
+
+PAGE 29
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+23.70 kg 
+23.70 kg 
+Joists: FJ161 
+Joist Name: FJ17    Type: MSJ-400-45 
+User Def. Load A1 
+80.00 kg/m² 
+Applied Load 
+DL 
+LL 
+WL Up 
+WL Dn 
+(kN) 
+(kN) 
+(kN) 
+(kN) 
+0
+413 
+0
+413 
+22 
+0 4215 1561 2569 4193 
+A1 
+2 2
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+4215 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 1 28 of 45 
+(TN-012-015) 
+
+PAGE 30
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+17.90 kg 
+71.61 kg 
+Joists: FJ162, FJ163, FJ164, FJ165 
+Joist Name: FJ18    Type: MSJ-400-45 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+BC1 90x45-MGP10 H0 ADS 
+LEW1 90x45-MGP10 H0 ADS 
+TC1 90x45-MGP10 H0 ADS 
+W1 90x45-MGP10 H0 ADS 
+REW1 90x45-MGP10 H0 ADS 
+Plating 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+450 
+300 
+TL1 
+BL2 
+T1 
+B1 
+TR1 
+BR2 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+0.38 
+1.94 
+S2 
+0.39 
+1.99 
+0
+413 
+0
+413 
+22 
+0 3225 1579 3203 
+S1 S2 
+1
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+3225 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 4 29 of 45 
+(TN-012-015) 
+
+PAGE 31
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+21.35 kg 
+21.35 kg 
+Joists: FJ166 
+Joist Name: FJ19    Type: MSJ-400-45 P. Ladder 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+BC1 90x45-MGP10 H0 ADS 
+TC1 90x45-MGP10 H0 ADS 
+LEW1 90x45-MGP10 H0 ADS 
+W1 90x45-MGP10 H0 ADS 
+W2 90x45-MGP10 H0 ADS 
+W3 90x45-MGP10 H0 ADS 
+W4 90x45-MGP10 H0 ADS 
+Plating 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+450 
+300 
+TL1 
+BL2 
+T1 
+B1 
+T2 
+B2 
+T3 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+W5 
+W6 
+W7 
+W8 
+REW1 90x45-MGP10 H0 ADS 
+90x45-MGP10 H0 ADS 
+90x45-MGP10 H0 ADS 
+90x45-MGP10 H0 ADS 
+90x45-MGP10 H0 ADS JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+B3 25x75-MN 
+T4 25x75-MN 
+B4 25x75-MN 
+T5 25x75-MN 
+T6 25x75-MN 
+B5 25x75-MN 
+Joint 
+B6 
+T7 
+B7 
+T8 
+B8 
+TR1 
+BR2 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+Nail Plate 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+0.05 
+0.20 
+S2 
+0.13 
+0.67 
+S3 
+0.11 
+0.56 0.47 
+0.10 
+S4 
+0.18 
+0.04 
+S5 
+0.19 
+0.05 
+S10 S9 
+0.13 
+0.67 0.56 
+0.11 
+S8 S7 
+0.10 
+0.45 0.04 
+0.01 
+S6 
+0
+413 
+0
+413 
+22 22 
+22 
+0
+3225 446 896 1346 
+1579 
+1770 
+1835 
+2285 2735 3203 
+S1 S2 S3 S4 S5 S6 S7 S8 S9 S10 
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+3225 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 1 30 of 45 
+(TN-012-015) 
+
+PAGE 32
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+28.59 kg 
+28.59 kg 
+Joists: FJ167 
+Joist Name: FJ20    Type: MSJ-400-45 P. Ladder 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+BC1 90x45-MGP10 H0 ADS 
+TC1 90x45-MGP10 H0 ADS 
+LEW1 90x45-MGP10 H0 ADS 
+W1 90x45-MGP10 H0 ADS 
+W2 90x45-MGP10 H0 ADS 
+W3 90x45-MGP10 H0 ADS 
+W4 90x45-MGP10 H0 ADS 
+Plating 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+450 
+300 
+TL1 
+BL2 
+T1 
+B1 
+T2 
+B2 
+T3 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+W5 
+W6 
+W7 
+W8 
+W9 
+W10 90x45-MGP10 H0 ADS 
+90x45-MGP10 H0 ADS 
+90x45-MGP10 H0 ADS 
+90x45-MGP10 H0 ADS 
+90x45-MGP10 H0 ADS 
+90x45-MGP10 H0 ADS JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+- 1 more member was not shown - 
+B3 25x75-MN 
+T4 25x75-MN 
+B4 25x75-MN 
+T5 25x75-MN 
+T6 25x75-MN 
+B5 25x75-MN 
+Joint 
+B6 
+T7 
+B7 
+T8 
+B8 
+T9 
+B9 
+T10 
+B10 
+TR1 
+BR2 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+Nail Plate 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+0.05 
+0.20 
+S2 
+0.13 
+0.67 
+S3 
+0.11 
+0.54 0.55 
+0.11 
+S4 
+0.57 
+0.12 
+S5 S12 
+0.20 
+0.05 
+S11 
+0.13 
+0.67 0.54 
+0.11 
+S10 S9 
+0.11 
+0.56 0.59 
+0.13 
+S8 S7 
+0.08 
+0.34 0.34 
+0.07 
+S6 
+0
+413 
+0
+413 
+22 22 
+22 
+0
+4655 446 896 1346 1796 2246 
+2365 
+2815 3265 3715 4165 4633 
+S1 S2 S3 S4 S5 S6 S7 S8 S9 S10 S11 S12 
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+4655 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 1 31 of 45 
+(TN-012-015) 
+
+PAGE 33
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+28.59 kg 
+28.59 kg 
+Joists: FJ167 
+Joist Name: FJ20    Type: MSJ-400-45 P. Ladder 
+User Def. Load A1 
+8.70 kg/m² 
+Applied Load 
+DL 
+LL 
+WL Up 
+WL Dn 
+(kN) 
+(kN) 
+(kN) 
+(kN) 
+0
+413 
+0
+413 
+22 22 
+22 
+0
+4655 446 896 1346 1796 2246 
+2365 
+2815 3265 3715 4165 4633 
+A1 
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+4655 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 1 32 of 45 
+(TN-012-015) 
+
+PAGE 34
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+21.35 kg 
+85.41 kg 
+Joists: FJ171, FJ172, FJ173, FJ174 
+Joist Name: FJ21    Type: MSJ-400-45 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+BC1 90x45-MGP10 H0 ADS 
+LEW1 90x45-MGP10 H0 ADS 
+TC1 90x45-MGP10 H0 ADS 
+W1 90x45-MGP10 H0 ADS 
+W2 90x45-MGP10 H0 ADS 
+REW1 90x45-MGP10 H0 ADS 
+Plating 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+450 
+300 
+TL1 
+BL2 
+T1 
+B1 
+T2 
+B2 
+TR1 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+BR2 25x75-MN 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+0.10 
+0.67 
+S2 
+0.61 
+2.57 
+S3 
+0.38 
+1.72 
+0
+413 
+0
+413 
+22 
+0 3965 1218 1995 3943 
+S1 S2 S3 
+2
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+3965 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 4 33 of 45 
+(TN-012-015) 
+
+PAGE 35
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+21.35 kg 
+85.41 kg 
+Joists: FJ171, FJ172, FJ173, FJ174 
+Joist Name: FJ21    Type: MSJ-400-45 
+User Def. Load A1 
+8.70 kg/m² 
+Applied Load 
+DL 
+LL 
+WL Up 
+WL Dn 
+(kN) 
+(kN) 
+(kN) 
+(kN) 
+0
+413 
+0
+413 
+22 
+0 3965 1218 1995 3943 
+A1 
+2
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+3965 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 4 34 of 45 
+(TN-012-015) 
+
+PAGE 36
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+21.35 kg 
+42.71 kg 
+Joists: FJ175, FJ200 
+Joist Name: FJ22    Type: MSJ-400-45 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+BC1 90x45-MGP10 H0 ADS 
+LEW1 90x45-MGP10 H0 ADS 
+TC1 90x45-MGP10 H0 ADS 
+W1 90x45-MGP10 H0 ADS 
+W2 90x45-MGP10 H0 ADS 
+REW1 90x45-MGP10 H0 ADS 
+Plating 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+450 
+300 
+TL1 
+BL2 
+T1 
+B1 
+T2 
+B2 
+TR1 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+BR2 25x75-MN 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+0.12 
+0.69 
+S2 
+0.52 
+2.48 
+S3 
+0.32 
+1.67 
+0
+413 
+0
+413 
+22 
+0 3965 1218 1995 3943 
+S1 S2 S3 
+1
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+3965 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 2 35 of 45 
+(TN-012-015) 
+
+PAGE 37
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+14.82 kg 
+29.63 kg 
+Joists: FJ177, FJ178 
+Joist Name: FJ23    Type: MSJ-400-45 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+BC1 90x45-MGP10 H0 ADS 
+LEW1 90x45-MGP10 H0 ADS 
+TC1 90x45-MGP10 H0 ADS 
+W1 90x45-MGP10 H0 ADS 
+REW1 90x45-MGP10 H0 ADS 
+Plating 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+450 
+300 
+TL1 
+BL2 
+T1 
+B1 
+TR1 
+BR2 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+0.08 
+0.29 
+S2 
+0.44 
+2.46 
+S3 
+0.13 
+0.62 
+0
+413 
+0
+413 
+95 
+0 2680 1218 2775 
+S1 S2 S3 
+1
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+2775 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 2 36 of 45 
+(TN-012-015) 
+
+PAGE 38
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+15.35 kg 
+46.06 kg 
+Joists: FJ179, FJ180, FJ199 
+Joist Name: FJ24    Type: MSJ-400-45 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+BC1 90x45-MGP10 H0 ADS 
+LEW1 90x45-MGP10 H0 ADS 
+TC1 90x45-MGP10 H0 ADS 
+W1 90x45-MGP10 H0 ADS 
+REW1 90x45-MGP10 H0 ADS 
+Plating 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+450 
+300 
+TL1 
+BL2 
+T1 
+B1 
+TR1 
+BR2 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+0.32 
+1.62 
+S2 
+0.34 
+1.76 
+0
+413 
+0
+413 
+95 
+0 2680 1266 2775 
+S1 S2 
+1 1
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+2775 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 3 37 of 45 
+(TN-012-015) 
+
+PAGE 39
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+11.37 kg 
+45.46 kg 
+Joists: FJ181, FJ182, FJ183, FJ184 
+Joist Name: FJ25    Type: MSJ-400-45 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+BC1 90x45-MGP10 H0 ADS 
+LEW1 90x45-MGP10 H0 ADS 
+TC1 90x45-MGP10 H0 ADS 
+W1 90x45-MGP10 H0 ADS 
+REW1 90x45-MGP10 H0 ADS 
+Plating 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+450 
+300 
+TL1 
+BL2 
+T1 
+B1 
+TR1 
+BR2 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+0.24 
+1.18 
+S2 
+0.25 
+1.32 
+0
+413 
+0
+413 
+95 
+0 1960 546 2055 
+S1 S2 
+1 1
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+2055 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 4 38 of 45 
+(TN-012-015) 
+
+PAGE 40
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+29.77 kg 
+29.77 kg 
+Joists: FJ185 
+Joist Name: FJ26    Type: MSJ-400-45 P. Ladder 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+BC1 90x45-MGP10 H0 ADS 
+TC1 90x45-MGP10 H0 ADS 
+LEW1 90x45-MGP10 H0 ADS 
+W1 90x45-MGP10 H0 ADS 
+W2 90x45-MGP10 H0 ADS 
+W3 90x45-MGP10 H0 ADS 
+W4 90x45-MGP10 H0 ADS 
+Plating 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+450 
+300 
+TL1 
+BL2 
+T1 
+B1 
+T2 
+B2 
+T3 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+W5 
+W6 
+W7 
+W8 
+W9 
+W10 90x45-MGP10 H0 ADS 
+90x45-MGP10 H0 ADS 
+90x45-MGP10 H0 ADS 
+90x45-MGP10 H0 ADS 
+90x45-MGP10 H0 ADS 
+90x45-MGP10 H0 ADS JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+JD5 
+- 3 more members were not shown - 
+B3 25x75-MN 
+T4 25x75-MN 
+B4 25x75-MN 
+T5 25x75-MN 
+T6 25x75-MN 
+B5 25x75-MN 
+Joint 
+B6 
+T7 
+B7 
+T8 
+B8 
+T9 
+B9 
+T10 
+B10 
+T11 
+B11 
+T12 
+BR2 25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+25x75-MN 
+Nail Plate 
+- 2 more nail plates were not shown - 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+0.05 
+0.20 
+S2 
+0.13 
+0.67 
+S3 
+0.11 
+0.56 0.48 
+0.10 
+S4 
+0.15 
+0.04 
+S5 S14 
+0.05 
+0.20 0.67 
+S13 
+0.13 
+S12 
+0.56 
+0.11 
+S11 
+0.09 
+0.45 0.15 
+0.04 
+S10 S9 
+0.10 
+0.50 0.32 
+0.07 
+S8 S7 
+0.07 
+0.33 0.47 
+0.10 
+S6 
+0
+413 
+0
+413 
+22 22 
+22 
+0
+4590 446 896 1346 
+1583 
+1796 2246 
+2300 
+2750 
+3029 
+3200 3650 4100 4568 
+S1 S2 S3 S4 S5 S6 S7 S8 S9 S10 S11 S12 S13 S14 
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+4590 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: AS 1720.1-2010 Quantity: 1 39 of 45 
+(TN-012-015) 
+
+PAGE 41
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+6.14 kg 
+24.58 kg 
+Joists: SJ186, SJ187, SJ188, SJ189 
+Joist Name: SJ27    Type: 53x90-MGP10 H0 ADS 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+ST-Joist 53x90-MGP10 H0 ADS 
+Plating 
+JD5 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+0.17 
+0.39 
+S2 
+0.51 
+1.16 
+S3 
+0.37 
+0.65 0.25 
+-0.07 
+S4 
+0.83 
+0.14 
+S5 
+0.28 
+0.05 
+S6 
+ST-Joist not Designed by Multinail 
+0
+53 
+0
+53 
+0 2576 
+S1 S2 S3 S4 S5 S6 
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+2576 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: By Others Quantity: 4 40 of 45 
+(TN-012-015) 
+
+PAGE 42
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+6.14 kg 
+24.58 kg 
+Joists: SJ186, SJ187, SJ188, SJ189 
+Joist Name: SJ27    Type: 53x90-MGP10 H0 ADS 
+User Def. Load A1 
+50.00 kg/m² 
+A2 
+80.00 kg/m² 
+A3 
+8.70 kg/m² 
+Applied Load 
+DL 
+LL 
+WL Up 
+WL Dn 
+(kN) 
+(kN) 
+(kN) 
+(kN) 
+0
+53 
+0
+53 
+0 2576 
+A2 A3 
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+2576 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: By Others Quantity: 4 41 of 45 
+(TN-012-015) 
+
+PAGE 43
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+3.49 kg 
+13.98 kg 
+Joists: SJ190, SJ191, SJ192, SJ193 
+Joist Name: SJ28    Type: 53x90-MGP10 H0 ADS 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+ST-Joist 53x90-MGP10 H0 ADS 
+Plating 
+JD5 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+0.05 
+0.29 
+S2 
+0.09 
+0.53 
+S3 
+0.09 
+0.53 0.29 
+0.05 
+S4 
+ST-Joist not Designed by Multinail 
+0
+53 
+0
+53 
+0 1465 
+S1 S2 S3 S4 
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+1465 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: By Others Quantity: 4 42 of 45 
+(TN-012-015) 
+
+PAGE 44
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+3.49 kg 
+13.98 kg 
+Joists: SJ190, SJ191, SJ192, SJ193 
+Joist Name: SJ28    Type: 53x90-MGP10 H0 ADS 
+User Def. Load A1 
+80.00 kg/m² 
+A2 
+50.00 kg/m² 
+Applied Load 
+DL 
+LL 
+WL Up 
+WL Dn 
+(kN) 
+(kN) 
+(kN) 
+(kN) 
+0
+53 
+0
+53 
+0 1465 
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+1465 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: By Others Quantity: 4 43 of 45 
+(TN-012-015) 
+
+PAGE 45
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+3.10 kg 
+12.40 kg 
+Joists: SJ194, SJ195, SJ196, SJ197 
+Joist Name: SJ29    Type: 53x90-MGP10 H0 ADS 
+Vertical Reactions at Supports 
+Joint Nail Plate 
+Restraint 
+TIMBER / PLATES 
+Member Size 
+ST-Joist 53x90-MGP10 H0 ADS 
+Plating 
+JD5 
+1.35DL 
+1.2DL + 1.5LL (kN) 
+(kN) 
+S1 
+0.13 
+0.34 
+S2 
+0.51 
+1.22 
+S3 
+0.16 
+0.37 
+ST-Joist not Designed by Multinail 
+0
+53 
+0
+53 
+0 1300 
+S1 S2 S3 
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+1300 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: By Others Quantity: 4 44 of 45 
+(TN-012-015) 
+
+PAGE 46
+1Laminations: 
+K0964 Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+41 Keilor Park Drive, Keilor Park 3042 
+BB Truss & Timber Pty Ltd Job No: 
+Weight: 
+Total Weight: 
+3.10 kg 
+12.40 kg 
+Joists: SJ194, SJ195, SJ196, SJ197 
+Joist Name: SJ29    Type: 53x90-MGP10 H0 ADS 
+User Def. Load A1 
+80.00 kg/m² 
+A2 
+50.00 kg/m² 
+Applied Load 
+DL 
+LL 
+WL Up 
+WL Dn 
+(kN) 
+(kN) 
+(kN) 
+(kN) 
+0
+53 
+0
+53 
+0 1300 
+A1 
+Wall plates must be placed at supports only. 
+conjunction with Multinail Technical sheets. 
+All dimensions in millimetres. This drawing should be read in 
+10/04/2026 
+Floor 1.14.3 
+Joey Meriales Span: 
+Overhang: 
+Spacing: 
+1300 
+0/0 
+450 
+Floor Material: 
+Floor Covering: 
+Ceiling Material: 
+Ceiling Fixing: 
+Plaster 10mm Std Core (6.7 kg/m²) 
+Direct fix @ 450c 
+Application: 
+Live Load: 
+Point Load: 1.8 kN 
+1.5 kPa 
+General Areas 
+Ver: 
+Date: 
+Page: 
+Std Carpet + Underlay (8 kg/m²) 
+Particle (13.9 kg/m²) 
+Design: By Others Quantity: 4 45 of 45 
+(TN-012-015) 
+
+PAGE 47
+SPECIFICATIONS: 
+Structure: 
+Floor Appl: 
+Wind Speed: 
+Joist Type: 
+Flooring: 
+Flooring Size: 
+Ceiling: 
+Spacing: 
+Dist. Live Load: 
+Concat. Point Load: 
+Timber 
+Detailer: 
+Date: 
+Scale: 
+Job No: 
+BSPOKE LUXURY HOMES PTY LTD 
+LOT 735 15 LEICHHARDT AVE BURNSIDE VIC 3023 AUS House 
+General Areas 
+N2 
+MultiStrut - 413/360mm High 
+Particle 
+3600x900x19 
+Plaster 10mm Std Core 
+450 
+1.50 
+1.80 
+     Dry Timber 
+JOEY 
+3/04/2026 
+1 : 100 
+K0964 
+Floor 1.14.3 
+1B1 
+1B2 
+1B4 
+1L3 under 
+ST2 
+STRONGBACK 
+FJ1 
+FJ1 
+FJ1 
+FJ1 
+FJ2 
+FJ2 
+FJ2 
+FJ2 
+FJ2 
+FJ3 
+FJ3 
+FJ4 
+FJ4 
+FJ4 
+FJ5 
+FJ5 
+FJ5 
+FJ5 
+FJ5 
+FJ5 
+FJ5 
+FJ5 
+FJ5 
+FJ5 
+FJ5 
+FJ6 
+FJ7 
+FJ7 
+FJ7 
+FJ7 
+FJ7 
+FJ7 
+FJ7 
+FJ7 
+FJ7 
+FJ7 
+FJ8 
+FJ8 
+FJ8 
+FJ8 
+FJ9 
+FJ9 
+FJ9 
+FJ9 
+FJ9 
+FJ10 
+FJ11 
+FJ11 
+FJ11 
+FJ12 
+FJ12 
+FJ12 
+FJ12 
+FJ12 
+FJ12 
+FJ12 
+FJ13 
+FJ14 
+FJ15 
+FJ15 
+FJ15 
+FJ15 
+FJ15 
+FJ16 
+FJ16 
+FJ16 
+FJ17 
+FJ18 
+FJ18 
+FJ18 
+FJ18 
+FJ19 
+FJ20 
+FJ3 
+FJ3 
+FJ11 
+FJ21 
+FJ21 
+FJ21 
+FJ21 
+FJ22 
+FJ23 
+FJ23 
+FJ24 
+FJ24 
+FJ25 
+FJ25 
+FJ25 
+FJ25 
+FJ26 
+FJ7 FJ24 
+FJ22 
+Trusses to be erected in accordance with Australian Standard  AS4440 -1997 
+Trusses are not to be cut, modified 
+or altered without prior authorisation 
+NOTE 1 : All beams by others to engineers comps. 
+- Strongbacks - 140 x 35mm 
+TIMBER INFILL BY OTHERS PACKER IF REQUIRED 
+BY OTHERS 
+BOTTOM CHORD SUPPORT 
+TYPICAL BEAM CONNECTIONS 
+TOP CHORD SUPPORT 
+STRUT HANGER UB/UC/PFC BEAM UB/UC/PFC BEAM 
+NOTE 2 : Flooring to be fixed as per manufacturers specs 
+NOTE 3 : All steel beams to have infill as per detail 1 & 2 
+TIMBER INFILL BY OTHERS 
+NAIL VERTICAL WEB 
+TO TIMBER INFILL 
+NOTE 4 : Bearers to fully support all loadbearing walls by others 
+DETAIL 1 DETAIL 2 
+- Loadbearing W
+all 
+- Metal Brace 
+MS 413's 
+MELBOURNE: 9331 7075 
+BENDIGO: 5444 3636 
+BALLARAT: 5333 1100 
+Email: sales@bbtruss.com.au 
+Recess in Top Chord allowed where shown
+(additional packing may be required by others)
+Recessed MS joist under shower base
+METAL BRACING 
+1L6 under 
+1B5 
+STRONGBACK 
+STRONGBACK 
+STRONGBACK 
+STRONGBACK 
+STRONGBACK 
+STRONGBACK 
+STRONGBACK 
+1L2 under 
+ST1 ST1 
+1B3 
+1B7 
+STAIRVOID 
+2130 
+4509 
+4760 
+2090 
+2090 
+2490 3840 309 
+4680 1920 90 1190 
+7880 
+4951 2930 3450 2640 
+20610 
+2520 90 2000 90 3180 
+7880 
+5031 
+405 
+8 @
+ 450 
+207 
+990 
+150 450 
+410 
+450 
+340 
+990 
+310 
+17 @
+ 450 
+515 
+8 @
+ 450 
+540 
+3620 
+3832 
+3883 
+4170 
+3870 1150 2680 
+2640 
+4590 
+1920 
+MS 360's 
+MS 360's 

@@ -1,0 +1,22 @@
+Client:BSPOKE LUXURY HOMES PTY LTD BB Truss & Timber Pty Ltd Job No: K0964
+Site: LOT 735 15 LEICHHARDT AVE 41 Keilor Park Drive, Keilor Park 3042 Weight: 3.49 kg
+BURNSIDE VIC 3023 AUS Joist Name: SJ28 Type: 53x90-MGP10 H0 ADS Total Weight: 13.98 kg
+Ref: Joists: SJ190, SJ191, SJ192, SJ193 Laminations: 1
+TIMBER / PLATES
+Member Size Plating Restraint
+ST-Joist 53x90-MGP10 H0 ADS JD5
+ST-Joist not Designed by Multinail
+53 53
+0 0
+0 1465
+Joint Nail Plate
+Vertical Reactions at Supports
+S1 S2 S3 S4
+S1 S2 S3 S4
+1.35DL (kN) 0.05 0.09 0.09 0.05
+1.2DL + 1.5LL (kN) 0.29 0.53 0.53 0.29
+Span: 1465 Floor Material: Particle (13.9 kg/m²) Application: General Areas All dimensions in millimetres. This drawing should be read in Joey Meriales
+conjunction with Multinail Technical sheets. (TN-012-015)
+Overhang: 0/0 Floor Covering: Std Carpet + Underlay (8 kg/m²) Live Load: 1.5 kPa Wall plates must be placed at supports only. Ver: Floor 1.14.3
+Spacing: 450 Ceiling Material: Plaster 10mm Std Core (6.7 kg/m²) Point Load: 1.8 kN Date: 10/04/2026
+Quantity: 4 Ceiling Fixing: Direct fix @ 450c Design: By Others Page: 42 of 45

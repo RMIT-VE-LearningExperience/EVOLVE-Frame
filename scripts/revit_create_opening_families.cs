@@ -1,0 +1,1 @@
+try{return System.Reflection.Assembly.LoadFrom(@"C:\Users\Stormtrooper\Git\EVOLVE - Frame\tmp\revit-compiler\EvolveBuildHelpersV2.dll").GetType("EvolveRevit.Components").GetMethod("CreateFamilies").Invoke(null,new object[]{document});}catch(Exception ex){return new{failure=ex.ToString()};}
