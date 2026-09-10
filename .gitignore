@@ -5,6 +5,7 @@ tmp/
 *.blend1
 *.blend2
 output/learning/*.tar.gz
+*.mp4
 
 # Local Revit backups and machine-specific generated configuration.
 *.????.rvt
