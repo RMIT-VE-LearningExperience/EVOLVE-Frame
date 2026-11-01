@@ -1,0 +1,83 @@
+name: CI
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+defaults:
+  run:
+    working-directory: student-web
+
+jobs:
+  typecheck:
+    name: Typecheck (student-web)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: student-web/package-lock.json
+      - run: npm ci --no-audit --no-fund
+      - run: npx tsc --noEmit
+
+  unit-tests:
+    name: Unit tests (student-web)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: student-web/package-lock.json
+      - run: npm ci --no-audit --no-fund
+      - run: node --experimental-strip-types --test lib/*.test.ts
+
+  build:
+    name: Static build (student-web)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: student-web/package-lock.json
+      - run: npm ci --no-audit --no-fund
+      - run: npm run build
+
+  lint:
+    # Reported, not yet required: five pre-existing oxlint errors live in
+    # generated components/ui/ files. See docs/decisions/0001. Promote this job
+    # to a required check once those are fixed; do not suppress them to get green.
+    name: Lint (student-web, advisory)
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: student-web/package-lock.json
+      - run: npm ci --no-audit --no-fund
+      - run: npm run lint

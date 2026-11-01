@@ -1,0 +1,17 @@
+# Human review is required on every path. Agents never approve or merge.
+*                         @RMIT-VE-LearningExperience
+
+# Control plane: agent contracts, permissions, CI and decision records.
+/AGENTS.md                @RMIT-VE-LearningExperience
+/CLAUDE.md                @RMIT-VE-LearningExperience
+/.github/                 @RMIT-VE-LearningExperience
+/.github/CODEOWNERS       @RMIT-VE-LearningExperience
+/.codex/                  @RMIT-VE-LearningExperience
+/.claude/                 @RMIT-VE-LearningExperience
+/collaboration/           @RMIT-VE-LearningExperience
+/docs/decisions/          @RMIT-VE-LearningExperience
+
+# Source drawings and model binaries: changes need the owner, not an agent.
+/*.pdf                    @RMIT-VE-LearningExperience
+/*.rvt                    @RMIT-VE-LearningExperience
+/output/                  @RMIT-VE-LearningExperience

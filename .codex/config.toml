@@ -1,0 +1,11 @@
+# Codex project configuration for the collaborative agent workflow.
+# Loaded only when the project is trusted in Codex. See collaboration/README.md.
+
+approval_policy = "on-request"
+sandbox_mode = "workspace-write"
+
+[sandbox_workspace_write]
+# Network stays off unless a task contract explicitly requires a named source.
+network_access = false
+# No roots outside this worktree. The other agent's worktree must never be writable.
+writable_roots = []

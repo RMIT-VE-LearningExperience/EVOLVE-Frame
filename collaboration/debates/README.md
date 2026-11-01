@@ -1,0 +1,1 @@
+Committed final debate summaries and decision logs, one file per task, named `<yyyy-mm>-<slug>.md` and based on `../DECISION_LOG_TEMPLATE.md`. Raw CLI transcripts and relay inboxes stay in `.collab-runtime/`, which is ignored.

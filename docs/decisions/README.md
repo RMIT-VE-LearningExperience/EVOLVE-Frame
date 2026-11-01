@@ -1,0 +1,1 @@
+Architecture decision records for durable choices. Number sequentially: `NNNN-short-title.md`. Task-level debate outcomes live in `collaboration/debates/`; only decisions that outlast a single task belong here.
