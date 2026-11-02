@@ -4,7 +4,7 @@
 - Task/issue: `collaboration/tasks/2026-11-chris-discrepancy-review.md`
 - Base commit: 4aa9a31908ee6d9ab89d70c9b5decc977893eedb
 - Risk tier: low (documentation only)
-- Codex branch/commit: not yet run
+- Codex branch/commit: report delivered out of band on 2026-11-02 as CHRIS_3D_MODEL_REVIEW (md, docx, pdf); saved as `2026-11-chris-discrepancy-review.codex-blind.md`. No Codex commit has reached GitHub.
 - Claude branch/commit: `claude/discrepancies-chris-teacher-4annp0`, this commit
 - Integration commit: pending
 
@@ -66,24 +66,41 @@ No. No dimension was changed, no discrepancy was resolved, and the contract's tw
 
 ## Codex position and evidence
 
-Not yet run. To be completed from Codex's blind pass on the user's PC. Do not paste the Claude report above into Codex's inbox until Codex has produced its own.
+Codex's blind pass produced a 24-question review questionnaire for Chris, scoped to Phase 1, the Blender timber-frame file only. Full text in `2026-11-chris-discrepancy-review.codex-blind.md`. Summary of its position:
+
+- Identifies the exact file by name, size and SHA-256 (verified against the repo copy).
+- Fixed response vocabulary per question: CONFIRM MODEL, CORRECT AS NOTED, USE OTHER VALUE, REFER, OUT OF SCOPE, with "who else must confirm" fields, because Chris may not hold authority over architect, engineer or supplier conflicts.
+- P0 questions answered before any geometry moves: measurement-face convention, source precedence, acceptable tolerance, Blender origin and fixed references, floor datum, stair, garage and porch levels, wind classification.
+- P1 geometry questions Q08 to Q18A covering A01 to A10, D04, D06, the corner opening, bracing and the small residuals. P2 completeness questions Q19 to Q24.
+- Treats T5/T6 extensions as needing supplier confirmation because the audit does not state the T5 split.
+- Independently finds the porch 226 (Blender) vs 172 (Revit) disagreement.
+- Omits the stud-section question, the portal steel axis, fabrication-ID placement and the closed items R01, R03, C01, as outside Phase 1.
+- Ends with an additional-observations table, a sign-off block and a seven-step "what happens after Chris replies".
 
 ## Disagreements
 
-Pending Codex's report.
+Claude's round 1 response is in `2026-11-chris-discrepancy-review.claude-debate-1.md`. Codex's reply is pending.
+
+1. T5/T6 chord extensions: Codex wants supplier confirmation of the T5 split; Claude read the truss sheets and finds the split dimensioned (390 + 6150 + 140 = 6680; 345 + 950 + 100 = 1395). Claude keeps A08 as confirmed.
+2. Stud section: Codex omitted it; Claude traced it to an architectural 90x45 note versus an engineering 90x35-at-450 table row, with the Blender model following the engineering row and Revit the architectural note. Claude proposes it as a P1 question.
+3. Scope: Codex is Blender-only; Claude agrees for Phase 1 and proposes a Phase 2 appendix so the Revit-only rows and closed items stay with Chris.
+4. Format: Claude concedes Codex's questionnaire structure, REFER path, P0 questions Q02/Q03/Q03A, file identification and sign-off.
 
 ## Decisive tests or documentation
 
 The two logs and the handoff are the ground truth for this task. A row is correct if it cites a line in one of them. Codex's cross-review should check every row against its cited source and flag any number or sheet reference that does not trace.
 
+Run in round 1 by Claude: truss PDF pages 20 and 21 for the T5/T6 split; `member_inventory.csv` plus `source_audit/architectural-plain.txt` lines 2560 to 2574 and `engineering-plain.txt` lines 1539 to 1682 for stud sections; SHA-256 of the audited `.blend`.
+
 ## Decision
 
-Pending. The pack is a draft until Codex's blind pass and cross-review are complete and the user approves.
+Pending Codex's round 1 reply. Claude's proposed decision: one merged document on Codex's structure, with the Claude side-by-side model positions, the stud question, the T5/T6 figures and a Phase 2 appendix folded in. Proposed lead for the merge: Codex, with Claude cross-reviewing row by row.
 
 ## User input or override
 
 - 2026-11-01: user approved lifting the project `git push` deny rule once to publish the scaffold commit. Recorded in PR #1.
 - 2026-11-02: user directed Claude to run its blind pass in the cloud session now and Codex later on the PC ("go"). This departs from simultaneous blind passes; independence is preserved as long as Codex does not see this report first.
+- 2026-11-02: Codex's blind pass was produced on the user's PC and delivered to Claude by file upload. The user confirmed Codex had not seen the Claude report. Round 1 of the debate started on receipt.
 
 ## Consequences and residual risks
 
@@ -95,6 +112,7 @@ See section 5 above. Results recorded in the commit message.
 
 ## Follow-up work
 
-- Run Codex blind pass, relay, one debate round, Codex cross-review of this diff.
-- Fill the Codex, Disagreements and Decision sections above.
+- Relay `claude-debate-1.md` and the Claude pack to Codex; record Codex's reply as `codex-debate-1.md`.
+- If converged, Codex leads the merged document; Claude cross-reviews. If not, round 2, then escalate per policy.
+- Fill the Decision section above when the user approves the merged document.
 - After Chris answers: contract the correction tasks, one chain at a time, per the audit's correction sequence.
