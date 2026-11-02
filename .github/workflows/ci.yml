@@ -64,12 +64,13 @@ jobs:
       - run: npm run build
 
   lint:
-    # Reported, not yet required: five pre-existing oxlint errors live in
-    # generated components/ui/ files. See docs/decisions/0001. Promote this job
-    # to a required check once those are fixed; do not suppress them to get green.
+    # Advisory, not yet required: five pre-existing oxlint errors live in
+    # generated components/ui/ files. See docs/decisions/0001. The lint step
+    # is allowed to fail so the job reports success with a warning instead of
+    # a red check. Make the step strict and the job required once those errors
+    # are fixed; never suppress them to get green.
     name: Lint (student-web, advisory)
     runs-on: ubuntu-latest
-    continue-on-error: true
     steps:
       - uses: actions/checkout@v4
         with:
@@ -80,4 +81,11 @@ jobs:
           cache: npm
           cache-dependency-path: student-web/package-lock.json
       - run: npm ci --no-audit --no-fund
-      - run: npm run lint
+      - id: lint
+        continue-on-error: true
+        run: npm run lint
+      - if: steps.lint.outcome == 'failure'
+        run: |
+          echo "::warning title=Lint advisory::oxlint reported errors. Pre-existing errors are recorded in docs/decisions/0001; new errors are not allowed. See the lint step log."
+          echo "### Lint advisory" >> "$GITHUB_STEP_SUMMARY"
+          echo "oxlint reported errors (see the lint step log). Pre-existing errors are recorded in docs/decisions/0001-adopt-collaborative-agent-workflow.md. Do not add new ones." >> "$GITHUB_STEP_SUMMARY"

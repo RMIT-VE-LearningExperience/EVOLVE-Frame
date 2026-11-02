@@ -27,7 +27,7 @@ Verified on the base commit with Node 22:
 | `npm run build` | pass, static export in `dist/client` |
 | `npm run lint` | 5 pre-existing errors |
 
-The lint errors are in generated shadcn files: `hooks/use-mobile.ts` (setState in effect), `components/ui/item.tsx` (role list) and three `restrict-template-expressions` errors in `components/ui/chart.tsx`. The lint job is therefore advisory in CI and must not be suppressed. Fixing those five errors and promoting lint to a required check is follow-up work.
+The lint errors are in generated shadcn files: `hooks/use-mobile.ts` (setState in effect), `components/ui/item.tsx` (role list) and three `restrict-template-expressions` errors in `components/ui/chart.tsx`. The lint step is therefore allowed to fail inside an advisory CI job that reports a warning, and the errors must not be suppressed. Fixing those five errors and promoting lint to a required check is follow-up work.
 
 `npm ci` failed on the base commit because `package-lock.json` was missing the optional `@emnapi/core` and `@emnapi/runtime` entries. The lockfile was regenerated with `npm install`; no dependency versions changed.
 
