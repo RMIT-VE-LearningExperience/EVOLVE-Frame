@@ -13,7 +13,9 @@ An educational Blender model and student-facing construction explorer for the Le
 - `output/learning/LEARNING_GUIDE.md`: teaching prompts, sources and limitations.
 - `output/enclosure/`: provisional enclosure revision and material assumptions.
 - `output/timber_frame/audit/POSITION_AUDIT.md`: discrepancies held for Chris's review.
+- `output/CHRIS_REVIEW_PACK.md`: every open discrepancy from both logs in one table with a decision field per item, for Chris to fill in.
 - `scripts/`: model generation, auditing and rendering tools.
+- `collaboration/`: the two-agent (Claude Code + Codex) review workflow, task contracts and decision logs. Start at [collaboration/README.md](collaboration/README.md); the shared agent contract is [AGENTS.md](AGENTS.md).
 
 The original project PDFs and initial model remain in their existing locations. The website does not distribute the PDFs.
 

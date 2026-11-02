@@ -1,0 +1,41 @@
+# Coordinator policy for the collaborative agent workflow.
+# This is a proposed coordinator format read by the relay script, not a
+# built-in Codex or Claude Code file.
+version: 1
+base_branch: main
+max_debate_rounds: 2
+confidence_escalation_below: 0.75
+independent_first_pass: true
+require_human_merge: true
+require_human_for_risk: [medium, high]
+controls:
+  pause_file: collaboration/PAUSE
+  stop_file: collaboration/STOP
+  human_input_file: collaboration/HUMAN.local.md
+worktrees:
+  codex: ../EVOLVE-Frame-codex
+  claude: ../EVOLVE-Frame-claude
+  integration: ../EVOLVE-Frame-integration
+branches:
+  codex: agent/codex/<task-slug>
+  claude: agent/claude/<task-slug>
+  integration: integrate/<task-slug>
+permissions:
+  network_default: false
+  allow_agent_push: false
+  allow_agent_merge: false
+  allow_agent_deploy: false
+checks:
+  working_directory: student-web
+  required:
+    - npm ci --no-audit --no-fund
+    - npx tsc --noEmit
+    - node --experimental-strip-types --test lib/*.test.ts
+    - npm run build
+  advisory:
+    - npm run lint
+gates:
+  require_clean_base: true
+  require_cross_review: true
+  require_final_tests_on_integration_commit: true
+  require_decision_log: true

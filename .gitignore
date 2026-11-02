@@ -13,3 +13,9 @@ output/learning/*.tar.gz
 revit-portable/mcp-config.local.toml
 # Portable dependency snapshots are intentional repository inputs.
 !revit-portable/payload/*.zip
+
+# Collaborative agent workflow: ephemeral relay and control files.
+.collab-runtime/
+collaboration/PAUSE
+collaboration/STOP
+collaboration/HUMAN.local.md

@@ -1,0 +1,55 @@
+{
+  "permissions": {
+    "defaultMode": "default",
+    "disableBypassPermissionsMode": "disable",
+    "allow": [
+      "Bash(git status *)",
+      "Bash(git status)",
+      "Bash(git diff *)",
+      "Bash(git diff)",
+      "Bash(git log *)",
+      "Bash(git show *)",
+      "Bash(git worktree list)",
+      "Bash(npm ci *)",
+      "Bash(npm ci)",
+      "Bash(npm run lint)",
+      "Bash(npm run lint *)",
+      "Bash(npm run build)",
+      "Bash(npm run build *)",
+      "Bash(npx tsc --noEmit *)",
+      "Bash(npx tsc --noEmit)",
+      "Bash(node --experimental-strip-types --test *)"
+    ],
+    "ask": [
+      "Bash(git commit *)",
+      "Bash(git add *)",
+      "Bash(git worktree *)",
+      "Bash(npm install *)",
+      "WebFetch",
+      "WebSearch"
+    ],
+    "deny": [
+      "Read(.env)",
+      "Read(.env.*)",
+      "Read(**/.env)",
+      "Read(**/.env.*)",
+      "Read(secrets/**)",
+      "Read(revit-portable/mcp-config.local.toml)",
+      "Bash(git push *)",
+      "Bash(git push)",
+      "Bash(gh pr merge *)",
+      "Bash(gh pr create *)",
+      "Bash(git merge *)",
+      "Bash(git rebase *)",
+      "Bash(git reset --hard *)",
+      "Bash(git checkout -- *)",
+      "Bash(git clean *)",
+      "Bash(git branch -D *)",
+      "Bash(git worktree remove *)",
+      "Bash(rm *)",
+      "Bash(rmdir *)",
+      "Bash(Remove-Item *)",
+      "Bash(del *)"
+    ]
+  }
+}
