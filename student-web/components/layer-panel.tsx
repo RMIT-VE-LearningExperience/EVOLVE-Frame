@@ -8,7 +8,12 @@ import {
   AccordionContent,
 } from '@/components/ui/accordion';
 import { eligibleLayer, groupLayers, toggleLayers } from '@/lib/layer-groups';
-import { visiblePart, type Part, type ViewState } from '@/lib/explorer';
+import {
+  constructionStageForPart,
+  visiblePart,
+  type Part,
+  type ViewState,
+} from '@/lib/explorer';
 
 export function LayerPanel({
   parts,
@@ -71,9 +76,15 @@ export function LayerPanel({
                         <span>{p.label}</span>
                         {!available && (
                           <small>
-                            {p.stage > state.stage
-                              ? `Stage ${p.stage + 1}`
-                              : 'Cutaway'}
+                            {constructionStageForPart(p) > state.stage
+                              ? `Stage ${constructionStageForPart(p) + 1}`
+                              : state.cutaway && p.cut
+                                ? 'Cutaway'
+                                : p.detailOnly && !state.foundationDetail
+                                  ? 'Reveal detail'
+                                  : p.concealsDetail && state.foundationDetail
+                                    ? 'Detail revealed'
+                                : 'Unavailable'}
                           </small>
                         )}
                       </button>

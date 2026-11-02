@@ -64,6 +64,9 @@ export function groupLayers(parts: Part[], building: boolean) {
       parts: parts.filter((p) => (keys as readonly string[]).includes(p.key)),
     }))
     .filter((g) => g.parts.length);
+  const groundSystem = building ? parts.filter((p) => p.system) : [];
+  if (groundSystem.length)
+    groups.unshift({ label: 'Ground system', parts: groundSystem });
   const other = parts.filter((p) => !groups.some((g) => g.parts.includes(p)));
   if (other.length) groups.push({ label: 'Other layers', parts: other });
   return groups;

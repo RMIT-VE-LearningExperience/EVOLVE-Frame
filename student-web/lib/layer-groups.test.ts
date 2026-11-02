@@ -1,7 +1,11 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
-import { initialState, type Part } from './explorer.ts';
+import {
+  constructionStageForPart,
+  initialState,
+  type Part,
+} from './explorer.ts';
 import { groupLayers, toggleLayers } from './layer-groups.ts';
 const manifest = JSON.parse(
   await readFile(
@@ -42,7 +46,10 @@ void test('group actions cannot reveal future stages or cutaway faces', () => {
   };
   const result = toggleLayers(state, parts);
   for (const p of parts)
-    assert.equal(result.hidden.includes(p.key), p.stage > 0 || p.cut);
-  const unavailable = parts.filter((p) => p.stage > 0);
+    assert.equal(
+      result.hidden.includes(p.key),
+      constructionStageForPart(p) > 0 || p.cut,
+    );
+  const unavailable = parts.filter((p) => constructionStageForPart(p) > 0);
   assert.equal(toggleLayers(state, unavailable), state);
 });

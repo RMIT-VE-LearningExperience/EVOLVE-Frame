@@ -21,6 +21,8 @@ void test('navigation accepts valid state and rejects invalid or unrelated field
     model: 'window',
     stage: 0,
     cutaway: false,
+    foundation: 'waffle',
+    foundationDetail: false,
     explosion: 0.5,
     hidden: [],
     selected: null,
@@ -30,7 +32,7 @@ void test('navigation accepts valid state and rejects invalid or unrelated field
     [],
     {},
     { model: 'unknown' },
-    { model: 'building', stage: 4 },
+    { model: 'building', stage: 7 },
     { model: 'building', stage: 1.3 },
     { model: 'window', explosion: NaN },
     { model: 'window', explosion: 2 },
@@ -98,22 +100,28 @@ for (const key of modelKeys)
           'Missing material classification',
         );
       }
-      const counts = [0, 1, 2, 3].map(
+      const counts = [0, 1, 2, 3, 4, 5, 6].map(
         (stage) =>
           meshes.filter((m) =>
             visiblePart(m.userData as Part, { ...initialState, stage }),
           ).length,
       );
-      assert.ok(counts[0] > 0);
-      assert.ok(counts.every((n, i) => i === 0 || n > counts[i - 1]));
+      assert.equal(counts[0], 0);
+      assert.equal(counts[1], 0);
+      assert.ok(counts[2] > 0);
+      assert.ok(counts.every((n, i) => i < 2 || n >= counts[i - 1]));
+      assert.ok(counts[3] > counts[2]);
+      assert.ok(counts[4] > counts[3]);
+      assert.ok(counts[5] > counts[4]);
+      assert.ok(counts[6] > counts[5]);
       assert.ok(
         meshes.filter((m) =>
           visiblePart(m.userData as Part, {
             ...initialState,
-            stage: 3,
+            stage: 6,
             cutaway: true,
           }),
-        ).length < counts[3],
+        ).length < counts[6],
       );
       assert.ok(size.x > 25 && size.x < 30 && size.y > 7 && size.y < 10);
     }

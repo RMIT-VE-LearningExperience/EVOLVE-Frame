@@ -1,0 +1,71 @@
+name: Deploy Frame Lab to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'student-web/**'
+      - '.github/workflows/deploy-pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          package-manager-cache: false
+
+      - name: Install dependencies
+        working-directory: student-web
+        run: npm ci
+
+      - name: Check types
+        working-directory: student-web
+        run: npx tsc --noEmit
+
+      - name: Run model and interaction tests
+        working-directory: student-web
+        run: node --experimental-strip-types --test lib/*.test.ts
+
+      - name: Build the GitHub Pages export
+        working-directory: student-web
+        run: npm run build
+
+      - name: Prepare repository-relative asset paths
+        working-directory: student-web
+        run: node scripts/prepare-github-pages.mjs
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: student-web/dist/client
+
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
