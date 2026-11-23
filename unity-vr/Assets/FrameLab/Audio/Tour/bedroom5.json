@@ -1,0 +1,13 @@
+{
+  "sha256": "6b136fc5a9d63d3e6f1007ce1e44accd83c432af9750138ae7e926f51c6b0b12",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "This is bedroom five, our final bedroom stop. Look around with the walls visible, then reveal the frame for one last comparison. You can return to any room from the room list. Next room takes us outside, where we'll bring the whole building back into view before looking closely at a window assembly.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

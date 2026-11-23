@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "entries": 309,
+  "statuses": {
+    "partial": 181,
+    "unverified": 36,
+    "correct": 8,
+    "intentional_simplification": 15,
+    "missing": 51,
+    "incorrect": 18
+  },
+  "plan_evidence_checked": 308,
+  "source_sheets": 32,
+  "checks": [
+    "JSON/embedded payload agreement",
+    "Unique entry and HTML IDs",
+    "Complete sheet links",
+    "Every W01-W19 and DP01-DP13 present",
+    "Key bulkhead/theatre/kitchen/sun checks present",
+    "19 baseline measured window envelopes pass",
+    "15 baseline mesh room-span checks present; updated 26-span evidence is separate",
+    "Source-corrected sun is baked and editor-checked; wearer acceptance remains separate"
+  ],
+  "visual_preview": "This validator checks files/data only. Current architectural views are inspected separately from actual Unity renders."
+}

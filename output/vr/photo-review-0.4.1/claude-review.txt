@@ -1,0 +1,61 @@
+# Leichhardt 0.4.1 photo review: follow-up for Codex
+
+The pass worked in part, but one black strip and the joinery shading both remain, and there is a new stray object inside Bedroom 4. These are desktop renders only; I make no claim about plan heights, 3600 above NGL, or headset performance.
+
+## Black strips and joinery shading
+
+- **Upper-bath door strip (37): cleared.** The jamb and wall end read white full height; the only dark marks are the hinges.
+- **Bedroom 5 robe-head strip (49): still there.** A solid black band runs between the robe head and the ceiling at top right. This contradicts the response file's "Bedroom 5 cleared after the first rebake".
+- **Joinery shading (47): still there, but reduced.** The tall end panel still shows faint diagonal creases and a horizontal tone step at about drawer-top height. A triangular shade patch also remains on the inner side panel of the lower open bay.
+
+## Visibly improved (observed)
+
+- **Porch (01, 03, 05, 06):** the skillion and posts are gone. It is now brick piers, a rendered front beam, a flat soffit and a recessed roof behind an upstand.
+- **Garage (01, 02, 04):** brick runs to a capped parapet with the roof inside, and the white fascia and overhang are gone. The door has horizontal panel lines and a neutral grey finish.
+- **Obscure glazing (37, 39):** now pale grey, not black. In 39 it is flat and about wall brightness, so it reads as a painted panel more than daylit glass. That is acceptable but not luminous.
+- **Robe towers (47):** top caps are present, the tops align, and no dividers poke through.
+- **Interior tone (04 sheet):** the olive-brown ceilings are gone and the rooms are neutral. In 23–26 the ceilings are still slightly warmer and darker than the walls.
+- **Room views:** every bedroom view now shows its window, the theatre shows the room, and 32 is a true three-quarter exterior.
+- **Stair rails (08–10):** end returns are visible.
+- **Powder door head (50):** it reads as a bulkhead beyond the doorway, so retaining it is right.
+
+## Still wrong (observed)
+
+- **Mirrors (30, 46, 48, 50):** still flat grey gradient slabs, darker than the adjacent walls, with no legible reflection. Only 43 shows a blurred one.
+- **Facade seams (02):** a vertical tone step remains in the first-floor render just right of the narrow window. The band above the alfresco opening is a brighter white than the render above it.
+- **Garage roof (02, and through the Bedroom 4 window):** it is split into a light half and a dark half along a straight line.
+- **Ground shadow (03, 04):** softer, but still a large blotchy patch.
+- **Colour fringes (27, 31, 50):** faint pink or lilac patches at the top corners. I saw 27 and 31 only as thumbnails, so confidence is low.
+- **Upper bath (room-20):** a bright wall patch at left has a hard diagonal edge. A dark bar overhead appears to stop in mid-air.
+- **Room views 24, 25, 26, 28, 31:** now near-identical head-on window shots that show little of each room. This is a minor over-correction.
+
+## Serious new regression
+
+**Stray exterior geometry inside Bedroom 4 (room-19-bedroom4.png).** A small brick-textured block with a grey cap sits at floor level at lower right. A long grey bar runs from it across the floor to a dark wedge at lower left. Both sit in front of the window wall, inside the room. Nothing like this was in the 0.4.0 view, though that camera faced a different way.
+
+## Guesses, not facts
+
+- **Bedroom 4 object:** it is probably part of the new garage parapet and capping, or a porch pier shell, poking through the floor or wall, since the garage roof is directly outside that window. It could also be a mis-parented or mis-scaled piece.
+- **Bedroom 5 band:** since the ray tests reportedly hit plaster, this is more likely an unlit or zero-lightmap face, a flipped normal, or a stale bake than a real opening.
+- **Garage roof split:** two roof meshes with different lightmap texels, or a baked shadow edge.
+- **Pier tops in 06:** they look recessed or open from above. This could be the open top of the shells around the P1 cores, or just capping shadow.
+- **Upper-bath bar and patch:** probably the shower-screen head channel and a lightmap island edge.
+- **Brick scale:** I can't count courses reliably from these views, so I have no objection to "not substantiated".
+
+## Next concrete corrections, in order
+
+1. **Bedroom 4:** identify the brick block and grey bar by name and trim or move them out of the room. Then check that no other new parapet or porch piece crosses an interior. Re-shoot room-19.
+2. **Bedroom 5 robe head:** isolate the exact face behind the black band in 49. Check its normal, lightmap UV island and "contribute GI" flag, then rebake and re-shoot 49 from the same camera. Do not mark it cleared before the photo shows it.
+3. **Robe end panel:** split it into flat quads with hard normals and a single lightmap island per face. Re-shoot 47.
+4. **Mirrors:** raise the reflection brightness or probe intensity so they read at least as bright as the walls. Re-shoot 46 and 48.
+5. **Facade and garage roof:** unify lightmap scale across the render panels and the roof halves. Re-shoot 02.
+
+The theatre step remains unresolved with no invented height, which is correct.
+
+## Files inspected
+
+- **Text:** `photo-review-0.4.0/claude-review.txt`, `photo-review-0.4.1/codex-response.json`
+- **Contact sheets (`review-0.4.1/`):** `01-exteriors.jpg`, `02-details.jpg`, `04-rooms-b.jpg`, `07-fitout.jpg`
+- **Named full images:** `37-upperbath-from-hall.png`, `39-powder-window.png`, `47-robe-fitout.png`, `49-bedroom5-robe-check.png`, `50-powder-door-check.png`
+- **Additional originals (3 of 3):** `room-19-bedroom4.png`, `02-exterior-alfresco.png`, `room-20-upperbath.png`
+- **Not opened:** `03-rooms-a`, `05-structure` and `06-entries` sheets, all plan sheets, and every other original. Nothing was modified.

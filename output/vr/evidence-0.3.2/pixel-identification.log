@@ -1,0 +1,18 @@
+00:01.500  blend            | Read blend: "D:\Git\EVOLE Frame\output\vr\Leichhardt_VR.blend"
+Fab plugin active (v0.2.15), awaiting data on port 28889
+BlenderMCP addon registered
+Add-on not loaded: "Needle Engine Exporter for Blender", cause: module loaded with no associated file, __path__=_NamespacePath(['C:\\Users\\lawre\\AppData\\Roaming\\Blender Foundation\\Blender\\5.0\\scripts\\addons\\Needle Engine Exporter for Blender']), aborting!
+PIXEL stair 800 760 Stair finished tread 13 [21.895353317260742, 7.19999885559082, 2.415705919265747]
+PIXEL stair 800 775 Stair finished tread 13 [21.844194412231445, 7.19999885559082, 2.415705919265747]
+PIXEL stair 800 790 Stair finished tread 14 [21.69007682800293, 7.200000286102295, 2.601529598236084]
+PIXEL stair 800 803 Stair finished tread 14 [21.65134620666504, 7.200000286102295, 2.601529359817505]
+PIXEL stair 800 815 Stair finished tread 14 [21.616409301757812, 7.200000286102295, 2.601529121398926]
+PIXEL stair 800 850 Stair finished tread 15 [21.42876625061035, 7.1999993324279785, 2.787353038787842]
+PIXEL kitchen 1250 500 C3 portal north finished lining 0 [12.791067123413086, 7.019688606262207, 1.5301438570022583]
+PIXEL kitchen 1270 500 C3 portal north finished lining 3 [12.942773818969727, 7.0481367111206055, 1.5359151363372803]
+PIXEL kitchen 1290 500 C3 portal north finished lining 3 [12.942773818969727, 7.122694969177246, 1.5366387367248535]
+BlenderMCP addon unregistered
+Fab: pausing the listener
+Blender 5.0.1 (hash a3db93c5b259 built 2025-12-16 01:32:30)
+
+Blender quit

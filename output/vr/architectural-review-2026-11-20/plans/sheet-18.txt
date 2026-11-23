@@ -1,0 +1,109 @@
+BED 2 ROBE PLAN
+SCALE 1:50
+A
+3200
+ELEVATION A 2590 CEILING HEIGHT HANGING RAIL
+MELAMINE SHELVE
+SUPPORT
+PANEL
+HANGING RAIL 1650 3 X 820 x 2400 SLD HANGING RAIL
+SUPPORT
+PANEL
+HANGING RAIL
+BATH 2 1100 VB
+BATH PLAN 2
+SCALE 1:50
+D
+C
+A
+B
+600W X 450W TILED
+SHOWER NICHE
+2200
+ELEVATION A
+2110
+ELEVATION B
+2110
+ELEVATION D
+2200
+ELEVATION C
+700 900
+TPH TPH
+WC
+450
+C
+L
+TILES 2590 CEILING HEIGHT
+BEVELED
+EDGED MIRROR.
+MIRROR
+SH.
+20 1060 20
+TILES 720 X 2340H SHR
+900 900 1800 2000 1050 ROSE MIXER SCREEN
+ TILED SHOWER
+BASE 1200 TOWEL RAIL 1100 200 800 MIRROR CABINET
+550
+SH.
+TILES TILES
+ TILED SHOWER
+BASE
+650
+C
+L
+MIXER
+900 1200 450 NICHE
+700
+600 150
+NICHE
+900
+2600
+ELEVATION A 2590 CEILING HEIGHTHANGING RAIL
+MELAMINE SHELVE
+SUPPORT
+PANEL
+HANGING RAIL 1650 3 X 720 X 2400 SLD
+BED 5 ROBE PLAN
+SCALE 1:50
+A HANGING RAIL
+LINEN
+LINEN PLAN
+SCALE 1:50
+A
+1600
+ELEVATION A
+SH.
+SH.
+SH.
+SH. 2590 CEILING HEIGHT 450 450 450 450 1800
+2 X 620 X 2400
+MIRRORED SLIDING DOORS
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+REVISION DATE: BY: - DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024 E.C.
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+INTERNAL DETAILS
+1:50
+18
+GENERAL NOTES:
+- Locations of fixtures shown on plans are indicative only and may
+vary due to location of structural members and truss layouts. - All symbols, fittings, appliances and fixtures are indicative only
+actual item may be of different size or shape.
+- Refer to specifications for accurate details and description.
+- Cabinetry may be altered upon specialists advice.
+- Window sizes are nominal only exact figure may vary on site.
+- Minor adjustments to framing and or location of framing
+may be made for structural purposes.

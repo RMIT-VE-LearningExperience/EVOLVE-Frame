@@ -1,0 +1,13 @@
+{
+  "sha256": "2ea7233daebe074a62b72e0aea0d6cca156c58af99547bd83f6793a55d2ae420",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "We're now on the upper landing. The short fade moved you to the upper floor without a climbing motion. Look towards the stair opening and the balustrade, and notice how the floor framing turns around the void. Stay within your physical play area and use the buttons to move between rooms. Next room takes us into the theatre.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

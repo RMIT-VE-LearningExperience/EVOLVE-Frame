@@ -1,0 +1,22 @@
+{
+  "id": "1795165625246625900",
+  "version": "0.3.2",
+  "room": "retreat",
+  "error": "",
+  "changing": false,
+  "focused": true,
+  "guide": true,
+  "narration": true,
+  "detail": false,
+  "isolated": false,
+  "location": 13,
+  "hotspots": 9,
+  "visibleParts": 9,
+  "explosion": 0.0,
+  "zoom": 1.0,
+  "eye": {
+    "x": -21.026077270507812,
+    "y": 4.646977424621582,
+    "z": -2.060924530029297
+  }
+}

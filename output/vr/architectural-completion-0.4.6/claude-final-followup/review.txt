@@ -1,0 +1,37 @@
+# Gate 3 follow-up: updated verdict and evidence gaps
+
+**Verdict unchanged: ready for headset review of this scoped revision.** The three gaps from my main report are now closed or reduced to disclosed limitations. Nothing new blocks.
+
+## Gap 1: garage box gutter — closed visually
+The recaptured `79-garage-gutters.png` shows a recessed channel behind the parapet, below the roof surface. The roof covering stops at the channel edge, and there is an outlet fitting at each end. I cannot judge the 300×300×150 sump size from the image; that rests on the pack bounds.
+
+## Gap 2: niche framing — improved, limitation accepted
+The recaptured `83-niche-timber.png` is now legible. Head and sill trimmers between full-height members are visible. Several wall planes still overlap and nothing is highlighted, so I cannot tie each member to a specific niche from the image alone.
+
+There are no in-scene labels. The illustrative, unengineered status is carried only by the gallery title and report, which I accept as a disclosed limitation.
+
+## Gap 3: missing measurements — supplied, but mostly generator-reported
+
+| Source | What it covers |
+|---|---|
+| Independent saved-mesh checks (`mesh-checks.json`) | Zero drainage/structure intersections; seven mount probes; 13 open outlets; niche width, height, sill and depth |
+| Generation-time or extracted (`final-evidence-pack.json`) | 19 windows / 630 rays with no failures; 8/3/2 pipe counts; sump bounds; pipe centrelines; laundry bulkhead dimensions; niche side offsets 385/150/200; far linings preserved; 27 back rays; changed-member list |
+
+The pack values are internally consistent where I could check them:
+- **Sumps:** each set of bounds works out to 300×300×150.
+- **Niche cuts:** the cut heights match a 1200 sill plus trimmers on both floors.
+- **DP06:** the offset drops 0.4 m over 1.16 m, from X 19.30 to X 18.14.
+
+Consistency is not independent verification. The pack's own provenance says it includes generation-time assertions.
+
+## Notes on the pack (non-blocking)
+- **Porch sump and DP09:** the sump sits at Y 7.24–7.54 and DP09 at Y 8.20. The link between them is not shown in the pack, and I have only seen the porch at thumbnail size. Check it in the headset.
+- **Changed-member list:** it records before-bounds and cut volumes, not the new trimmer members or the after-state. Bath 2 lists "common stud.004" twice.
+- **Ensuite wall:** the list confirms two ground-floor studs are interrupted. The load path remains unassessed.
+
+## Still open
+- All source conflicts in section (c) of the main report.
+- The dark, unprofiled garage roof surface and richer structural teaching annotations, both deferred as future work.
+- Pipe strap spacing, which I could not verify visually.
+
+This is not engineering, hydraulic or source acceptance, and not completion of the 309-item checklist.

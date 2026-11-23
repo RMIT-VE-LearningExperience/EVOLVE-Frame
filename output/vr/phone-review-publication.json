@@ -1,0 +1,14 @@
+{
+  "project_id": "appgprj_6b003629adc081919b288dc51820b39a",
+  "deployment_id": "appgdep_6b0036ad3f4881918c204c43bf1befcf",
+  "version_id": "appgprj_6b003629adc081919b288dc51820b39a~appgver_b1a32e0ebcd0819195fa9e9d54bc7419",
+  "status": "succeeded",
+  "url": "https://leichhardt-model-review.lolepaille.chatgpt.site",
+  "access": "owner-private",
+  "images": 48,
+  "source_version": "0.4.0",
+  "commit_sha": "3bca7f55efa49a65f84dba3894f95c0f7f0774a2",
+  "source_directory": "sites/leichhardt-review",
+  "checks": ["All 48 image references exist", "JavaScript syntax passes", "Local HTTP response 200", "Native private deployment succeeded"],
+  "verification_limit": "No physical phone browser test performed. Image content is unchanged from the reviewed Unity renders."
+}

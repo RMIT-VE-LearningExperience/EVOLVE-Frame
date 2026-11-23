@@ -1,0 +1,13 @@
+{
+  "sha256": "839f75e9df2c07de05578803a6b247d89eb2df3bfcfb30bf9c5d1aa034251de9",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "Here is the window assembly. The inspection panel lets you control how far its layers separate. Point at the slider and hold the trigger to drag it. Point at the model and hold the grip to move or rotate the whole assembly. Zoom changes its size, and Reset all restores the starting view. Select a numbered hotspot or a component button to hear about that element. Isolate part gives it a clear view on its own. Press A to hide or show the guide. The Tour guide button returns to the main tour controls.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "1795165615345646900",
+  "version": "0.3.2",
+  "room": "pantry",
+  "error": "",
+  "changing": false,
+  "focused": true,
+  "guide": true,
+  "narration": true,
+  "detail": false,
+  "isolated": false,
+  "location": 7,
+  "hotspots": 9,
+  "visibleParts": 9,
+  "explosion": 0.0,
+  "zoom": 1.0,
+  "eye": {
+    "x": -19.29743194580078,
+    "y": 1.4862512350082397,
+    "z": -6.80106782913208
+  }
+}

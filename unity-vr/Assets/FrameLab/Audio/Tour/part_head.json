@@ -1,0 +1,13 @@
+{
+  "sha256": "287e90c783e848e117b48c00aaf4fb3eda46ad333461037bc89e0273acdbef07",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "The head flashing protects the top of the opening. Its outward projection helps direct water away from the window. Rotate it to compare its shape with the sill flashing below.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

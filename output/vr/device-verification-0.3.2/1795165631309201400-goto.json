@@ -1,0 +1,22 @@
+{
+  "id": "1795165631309201400",
+  "version": "0.3.2",
+  "room": "upperbath",
+  "error": "",
+  "changing": false,
+  "focused": true,
+  "guide": true,
+  "narration": true,
+  "detail": false,
+  "isolated": false,
+  "location": 19,
+  "hotspots": 9,
+  "visibleParts": 9,
+  "explosion": 0.0,
+  "zoom": 1.0,
+  "eye": {
+    "x": -13.29301643371582,
+    "y": 4.6403422355651855,
+    "z": -6.085268020629883
+  }
+}

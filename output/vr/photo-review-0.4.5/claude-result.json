@@ -1,0 +1,115 @@
+{
+  "duration_api_ms": 75925,
+  "stop_reason": "end_turn",
+  "session_id": "5fa82adf-f974-415b-b120-7c7385156c5b",
+  "total_cost_usd": 0.9917423999999999,
+  "usage": {
+    "input_tokens": 8,
+    "cache_creation_input_tokens": 44464,
+    "cache_read_input_tokens": 47472,
+    "output_tokens": 6769,
+    "output_tokens_details": {
+      "thinking_tokens": 2533
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 44464,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 4460,
+        "cache_read_input_tokens": 32475,
+        "cache_creation_input_tokens": 14593,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 14593
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "modelUsage": {
+    "claude-fable-5-2": {
+      "inputTokens": 8,
+      "outputTokens": 6769,
+      "cacheReadInputTokens": 47472,
+      "cacheCreationInputTokens": 44464,
+      "webSearchRequests": 0,
+      "costUSD": 0.9917423999999999,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 2533,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "permission_denials": [],
+  "terminal_reason": "completed",
+  "fast_mode_state": "off",
+  "fast_mode_disabled_reason": "sdk_opt_in_required",
+  "subagent_stats": {
+    "spawned": 0,
+    "requested": {
+      "background": 0,
+      "foreground": 0,
+      "unset": 0
+    },
+    "started_in_background": 0,
+    "max_depth": 0,
+    "spawned_by_subagents": 0,
+    "completed": 0,
+    "failed": 0,
+    "killed": {
+      "parent": 0,
+      "user": 0,
+      "system": 0
+    },
+    "refused": {
+      "depth_limit": 0,
+      "concurrency_limit": 0,
+      "budget": 0
+    },
+    "by_type": {}
+  },
+  "safety_stops": 0,
+  "is_error": false,
+  "num_turns": 20,
+  "subtype": "success",
+  "api_error_status": null,
+  "result": "**Leichhardt 0.4.4 screenshot review (read-only)**\n\nI read both contact sheets, all 12 previews, and parts of `vr_fixed_fitout.py`, `vr_room_shells.py` and grep hits in the other scripts. I did not open the plan sheets, so nothing below is checked against the drawings; \"code fact\" means confirmed in the scripts only.\n\n**Defects visible in the screenshots**\n\n1. **01 \u2013 exposed timber band at a ceiling/void edge.** A brown wood-grain strip sits between the white ceiling plane and the lined shaft above.\n   - Likely cause: the floor-zone edge between ground ceiling (2.73\u20132.74) and deck (3.14\u20133.159) has no vertical lining there. `vr_room_shells.py` only adds two \"Void edge/return soffit\" pieces, which are horizontal.\n   - Correction: add a plaster fascia from 2.73 to 3.159 around the full void perimeter. Do not recolour the framing member.\n\n2. **02 \u2013 thin full-height brown strip in the room corner beside the large window.** It reads as an exposed stud edge or an edge-on oak leaf between two lining ends; I can't tell which.\n   - Likely cause: the lining extension is only 10 mm where a wall end is not detected as \"joined\" (`extension=[.060 if join else .01]`).\n   - Correction: identify the object at that corner. If it is framing, close the corner with lining or an end return; if it is a door leaf, fix its position.\n\n3. **03 \u2013 black vertical slot at the right-hand door jamb.** This is an open cavity-slider pocket. `vr_architectural_finishes.py` records pocket detailing as \"provisional\".\n   - Correction: add a pocket-mouth jamb lining or split jamb so the cavity is not seen into.\n\n4. **04 \u2013 structural view, upper floor looks unsupported.** Web joists run over the ground frames, with an LVL-coloured beam on the right landing on a single stud line. I cannot confirm a missing support from this image.\n   - Likely cause: bearing members such as collection `03 Ground floor steel and LVL`, the column caps or the piers may be hidden in this view mode, or joist ends stop short of plates.\n   - Correction: check each joist end and beam end against a modelled plate, beam or post and report gaps in millimetres. Check which collections \"Hide walls\" toggles off. Add nothing that is not on the structural sheets.\n\n5. **05 \u2013 strip of grey carpet/concrete texture across a wet-room doorway between two tiled areas.** This is a finish error.\n   - Code fact: `ff_tiles` rectangles stop at the room bounds, and the threshold deck infill uses a different material.\n   - Correction: extend the tile, or add a threshold piece, through the wall thickness at wet-room doors.\n\n6. **06 \u2013 brown island back and brown plinths.**\n   - Code fact: `Island rear panel`, `Island plinth` and every `Kitchen \u2026 plinth` are assigned `ff_oak`. The geometry is fine; this is an unsupported material choice.\n   - Correction: check sheet 16 for a stated finish. If none, use the cabinet-white or a neutral \"unselected\" material and record it as unspecified.\n   - Upper cupboard handles sit at the lower edge of the wall cupboards, consistent with the 0.4.4 revision. No defect.\n\n7. **07, 12 \u2013 laundry.**\n   - A patterned (block/brick-like) vertical strip shows between the two open linen units. Code fact: the units are 1.47 m wide at 1.59 m centres, leaving a 120 mm gap.\n   - Likely cause: unlined wall or veneer is visible through that gap. This is probably the user's \"brickwork\". The script itself notes \"Laundry walls/bulkhead require full reconciliation\".\n   - Correction: close the gap with a filler panel or resize the units to the written widths, and confirm the plaster lining exists behind.\n   - The external door leaf is oak-brown, an unverified finish like the island.\n   - The left linen unit appears to crowd the door architrave. Check clearance.\n\n8. **08, 10, 11 \u2013 exposed eaves timber through upper windows.** Small timber members are visible outside the glass at the head and side, so the eave underside is unlined. This is real framing, correctly present but missing its soffit and fascia.\n   - Code fact: `vr_photo_review.py` only treated the porch and garage parapet.\n   - Correction: add eave soffit lining and fascia to the main roof only as the elevations and sections show. I have not verified the eave detail.\n\n9. **08, 09, 11 \u2013 upper bedroom floors show pale knotty timber.**\n   - Code fact: this is the `Upper floor deck` structural material with no floor finish above it. This is the main \"exposed timber in finished rooms\" item.\n   - Correction: add a finish layer per room only where the plans name one; otherwise use a neutral \"finish unselected\" material.\n\n10. **09 \u2013 dark continuous line between skirting and floor.** The skirting starts at the deck-top level and the deck is cut back at the wall core, leaving a hairline gap.\n    - Correction: run the deck or finish under the skirting, or drop the skirting 5\u201310 mm below floor level.\n\n**User issues not visible in the supplied images**\n\n- **Misplaced shower handle.** No screenshot shows a shower. From code only, there are two candidates:\n  - `door pull` is on the outside face, 100 mm off the centre split of two fixed panes, with no hinged or sliding leaf defined.\n  - The non-sheet-17 showers place the mixer directly under the rose at 1.05 m.\n  - A screenshot or the shower name is needed. Do not move the ensuite mixer, which follows a sheet-17 note.\n- **Rotation slider in window study.** No screenshot shows the isolated/exploded study. The 11 and 12 panels show only a \"Window study\" button. The likely files are `unity-vr/Assets/FrameLab/Scripts/FrameLabInspection.cs` and `FrameLabInspectionPanel.cs`, which I did not read. Recommend a yaw slider (0\u2013360\u00b0) rotating the isolated assembly about its vertical centroid axis, with reset on exit.\n- **Powder W03/under-stair lining.** Not shown; it remains unresolved.\n\n**Summary for Codex**\n\n- Finish errors: 1, 2, 3, 5, 7 (gap), 9, 10.\n- Material choices without source: 6, 7 (door leaf).\n- Real structure needing its lining: 8.\n- Needs measurement before any change: 4.",
+  "ttft_ms": 2125,
+  "type": "result",
+  "duration_ms": 76276,
+  "uuid": "bb8872f1-549d-4045-a96e-495c9d65f331",
+  "ttft_stream_ms": 1607,
+  "time_to_request_ms": 78,
+  "first_content_frame_ms": 1607,
+  "queued_turn_count": 0,
+  "result_index": 0,
+  "model_usage_since_last_result": {
+    "claude-fable-5-2": {
+      "inputTokens": 8,
+      "outputTokens": 6769,
+      "cacheReadInputTokens": 47472,
+      "cacheCreationInputTokens": 44464,
+      "webSearchRequests": 0,
+      "costUSD": 0.9917423999999999,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 2533,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  }
+}

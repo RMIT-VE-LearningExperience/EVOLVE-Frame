@@ -1,0 +1,13 @@
+{
+  "sha256": "7bc13fcf7d76c6ce63b17a0b4b3882545c05f6906c4be8288c1dee506eb4084c",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "You're in the pantry beside the kitchen. Compare this enclosed space with the open area you just left. The short return walls create a useful separation without dividing the whole living area. Take a moment to look through the doorway and understand how the rooms connect. Choose Next room to move into the family area.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

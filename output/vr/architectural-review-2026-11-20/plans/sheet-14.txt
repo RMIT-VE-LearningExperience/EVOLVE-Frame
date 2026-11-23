@@ -1,0 +1,146 @@
+FIRST FLOOR ELECTRICAL PLAN
+SCALE 1:100
+ARTIFICIAL LIGHTING TABLE
+ZONE AREA m2 MAX WATT ALLOWED PROPOSED WATT
+GROUND FLOOR AREA 136.28 681.40 384
+FIRST FLOOR AREA 157.27 786.35 384
+PORCH 4.47 17.88 12
+ALFRESCO 19.67 78.68 60
+GARAGE 39.00 117.00 24
+TOTAL 356.69 1681.31 864
+Single GPO ceiling mounted
+DBL GPO @ 300
+DBL GPO @ 1150
+SNGL GPO @ 300
+Smoke detectors
+Television point
+SYMBOLS No. POWER POINT OULETS
+ELECTRICAL LEGEND
+LIGHT FITTINGS
+OTHER OUTLETS & FITTINGS
+26
+17
+3
+5
+3
+1
+66 LED Down Light (12 watts)
+7
+2-way 5 2 - way switch
+Exhaust Fan 25l/s - Vented out Externally
+1 Exhaust Fan 40l/s - Vented out Externally
+4 DBL w/proof GPO @ 300mm AFFL
+8 W/proof External Flood Light (12 watt globe)
+TV
+D 4 Data point
+2 Fluorescent strip (12 watts)
+4 Pendant Light (12 watts)
+Note:
+All the above items are to be confirmed by owner / sub-contractor before ordering.
+Client to confirm with contractor all locations of light switches and power points.
+ARTIFICIAL LIGHTING REQUIREMENTS:
+The lamp power density or illumination power density of artificial lighting,
+excluding heaters that emit light, must not exceed:
+1. In Class 1 building - 5W/m.
+2. Verandah or Balcony attached to Class 1 building - 4W/m.
+3. In a Class 10 building - 3w/m.
+The number of lights per room may change but, the total number of wattage must not exceed the
+maximum allowances per each area. Refer to the electrical diagrams for maximum allowances per
+each area.
+STANDARD CONNECTIONS:
+- Provide single power point outlets to dishwasher, cook top & rangehood.
+- Provide stove in kitchen to be hard wired to the electrical switchboard.
+- Provide batten light & switch above man hole for roof access.
+- Provide single power points in roof for ducted heated & air conditioner if required.
+- Exhaust fans to be wired to light switch as per electrical plan.
+GENERAL NOTES:
+- Locations of fixtures shown on plans are indicative only and may vary due location of structural
+members and truss layouts.
+- All lighting and switching types are to be confirmed on site between the builder and sub-contractor
+prior to commencement of any wiring.
+- All symbols, fittings, appliances and fixtures are indicative only actual item may be of different size
+or shape.
+- Refer to specifications for accurate details and description.
+- Cabinetry may be altered upon specialists advice.
+- Window sizes are nominal only exact figure may vary on site.
+- Minor adjustments to framing and or location of framing may be made for structural purposes.
+GROUND FLOOR ELECTRICAL PLAN
+SCALE 1:100
+2-way
+2-way
+S/D
+S/D
+S/D
+TV
+D
+D
+TV
+D
+3 Stair Light
+2-way
+2-way
+2-way
+2-way
+HWS DW
+M/W
+REF SPACE WM
+TR LIN / BRM
+S
+SHR
+UP. MB &
+NBN LINEN
+NOOK
+PANTRY
+TAP
+TAP DR
+DR
+BIN 450W SH.
+ACCU
+GM
+VOID ROBE ROBE
+LINEN M/H
+4 Up and Down External Light (12 watt globe)
+DBL FLOODLIGHT
+6 Wall Light @ 1700mm AFFL (12 watt globe)
+DBL FLOODLIGHT
+CEILING SENSOR TO
+ACTIVATE DOWNLIGHT
+S/D
+DIMMER
+SWITCH
+REMOTE CONTROL
+CURTAIN TO VOID
+WINDOW
+2-way
+2-way
+GPO FOR DRYER - HEIGHT
+TO BE CONFIRMED ON SITE.
+TV
+D
+S/D
+SINGLE POWER POINT FOR RANGEHOOD.
+HEIGHT TO BE DETERMINED ON SITE BY
+CONTRACTOR.
+LIVING ROOM WALL LIGHTS
+TO HAVE DIMMER SWITCH
+1 Ceiling Fan
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+REVISION DATE: BY: - DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024 E.C.
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+ELECTRICAL PLAN
+1:100
+14

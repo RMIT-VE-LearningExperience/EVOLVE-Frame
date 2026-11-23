@@ -1,0 +1,13 @@
+{
+  "sha256": "06eb4e625665099c576bc67b32aa64dd99d4320b8a1f3b1bea1bfb670466a717",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "The studs, sill and head frame the opening and support the surrounding wall. Follow the vertical members to see where loads travel. Isolate this part to examine the complete rough opening.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

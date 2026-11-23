@@ -1,0 +1,691 @@
+{
+  "version": "0.3.1",
+  "captured_local": "20 Nov 2026 19:37",
+  "source": "Actual Unity URP scene renders, 1600 x 1000; menus hidden",
+  "shots": [
+    {
+      "file": "01-exterior-entry.png",
+      "title": "Entry and long elevation",
+      "category": "Exterior",
+      "position": {
+        "x": -35.0,
+        "y": 10.0,
+        "z": 15.0
+      },
+      "target": {
+        "x": -15.0,
+        "y": 2.0,
+        "z": -4.0
+      },
+      "fieldOfView": 60.0,
+      "number": 1,
+      "source_file": "01-exterior-entry.png"
+    },
+    {
+      "file": "02-exterior-alfresco.png",
+      "title": "Alfresco and garage end",
+      "category": "Exterior",
+      "position": {
+        "x": -3.0,
+        "y": 9.0,
+        "z": 13.0
+      },
+      "target": {
+        "x": -15.0,
+        "y": 2.0,
+        "z": -4.0
+      },
+      "fieldOfView": 60.0,
+      "number": 2,
+      "source_file": "02-exterior-alfresco.png"
+    },
+    {
+      "file": "03-exterior-rear-entry.png",
+      "title": "Rear elevation from entry end",
+      "category": "Exterior",
+      "position": {
+        "x": -35.0,
+        "y": 9.0,
+        "z": -20.0
+      },
+      "target": {
+        "x": -15.0,
+        "y": 2.0,
+        "z": -4.0
+      },
+      "fieldOfView": 60.0,
+      "number": 3,
+      "source_file": "03-exterior-rear-entry.png"
+    },
+    {
+      "file": "04-exterior-rear-garage.png",
+      "title": "Rear elevation from garage end",
+      "category": "Exterior",
+      "position": {
+        "x": 6.0,
+        "y": 10.0,
+        "z": -18.0
+      },
+      "target": {
+        "x": -12.0,
+        "y": 2.0,
+        "z": -4.0
+      },
+      "fieldOfView": 60.0,
+      "number": 4,
+      "source_file": "04-exterior-rear-garage.png"
+    },
+    {
+      "file": "05-canopy-under.png",
+      "title": "Entry canopy fascia and underside",
+      "category": "Details",
+      "position": {
+        "x": -30.5,
+        "y": 2.200000047683716,
+        "z": -3.4000000953674316
+      },
+      "target": {
+        "x": -27.700000762939453,
+        "y": 2.700000047683716,
+        "z": -6.099999904632568
+      },
+      "fieldOfView": 60.0,
+      "number": 5,
+      "source_file": "05-canopy-under.png"
+    },
+    {
+      "file": "06-canopy-top.png",
+      "title": "Entry canopy roof and gutter",
+      "category": "Details",
+      "position": {
+        "x": -30.0,
+        "y": 4.199999809265137,
+        "z": -6.199999809265137
+      },
+      "target": {
+        "x": -27.799999237060547,
+        "y": 2.9000000953674316,
+        "z": -6.199999809265137
+      },
+      "fieldOfView": 60.0,
+      "number": 6,
+      "source_file": "06-canopy-top.png"
+    },
+    {
+      "file": "07-alfresco-edge.png",
+      "title": "Alfresco fascia and soffit",
+      "category": "Details",
+      "position": {
+        "x": -9.5,
+        "y": 2.0999999046325684,
+        "z": 3.0
+      },
+      "target": {
+        "x": -9.5,
+        "y": 2.799999952316284,
+        "z": -1.5
+      },
+      "fieldOfView": 60.0,
+      "number": 7,
+      "source_file": "07-alfresco-edge.png"
+    },
+    {
+      "file": "08-stairs.png",
+      "title": "Complete stair and wall-side string",
+      "category": "Details",
+      "position": {
+        "x": -26.200000762939453,
+        "y": 1.649999976158142,
+        "z": -7.119999885559082
+      },
+      "target": {
+        "x": -22.299999237060547,
+        "y": 2.0999999046325684,
+        "z": -7.119999885559082
+      },
+      "fieldOfView": 60.0,
+      "number": 8,
+      "source_file": "08-stairs.png"
+    },
+    {
+      "file": "09-stair-junction.png",
+      "title": "Stair-to-wall junction close-up",
+      "category": "Details",
+      "position": {
+        "x": -25.600000381469727,
+        "y": 1.399999976158142,
+        "z": -7.300000190734863
+      },
+      "target": {
+        "x": -23.799999237060547,
+        "y": 1.2999999523162842,
+        "z": -7.75
+      },
+      "fieldOfView": 60.0,
+      "number": 9,
+      "source_file": "09-stair-junction.png"
+    },
+    {
+      "file": "10-stair-landing.png",
+      "title": "Upper stair landing and balustrade",
+      "category": "Details",
+      "position": {
+        "x": -20.450000762939453,
+        "y": 4.809000015258789,
+        "z": -7.199999809265137
+      },
+      "target": {
+        "x": -23.0,
+        "y": 2.5,
+        "z": -7.199999809265137
+      },
+      "fieldOfView": 60.0,
+      "number": 10,
+      "source_file": "10-stair-landing.png"
+    },
+    {
+      "file": "room-01-arrival.png",
+      "title": "Welcome",
+      "category": "Rooms",
+      "position": {
+        "x": -29.100000381469727,
+        "y": 1.649999976158142,
+        "z": -5.329999923706055
+      },
+      "target": {
+        "x": -25.100000381469727,
+        "y": 1.5,
+        "z": -5.330000400543213
+      },
+      "fieldOfView": 70.0,
+      "number": 11,
+      "source_file": "room-01-arrival.png"
+    },
+    {
+      "file": "room-02-entry.png",
+      "title": "Entry hall",
+      "category": "Rooms",
+      "position": {
+        "x": -25.600000381469727,
+        "y": 1.649999976158142,
+        "z": -5.5
+      },
+      "target": {
+        "x": -21.736297607421875,
+        "y": 1.5,
+        "z": -6.535275936126709
+      },
+      "fieldOfView": 70.0,
+      "number": 12,
+      "source_file": "room-02-entry.png"
+    },
+    {
+      "file": "room-03-bedroom1.png",
+      "title": "Bedroom 1",
+      "category": "Rooms",
+      "position": {
+        "x": -25.0,
+        "y": 1.649999976158142,
+        "z": -2.200000047683716
+      },
+      "target": {
+        "x": -22.171573638916016,
+        "y": 1.5,
+        "z": -5.0284271240234375
+      },
+      "fieldOfView": 70.0,
+      "number": 13,
+      "source_file": "room-03-bedroom1.png"
+    },
+    {
+      "file": "room-04-robe.png",
+      "title": "Walk-in robe",
+      "category": "Rooms",
+      "position": {
+        "x": -21.600000381469727,
+        "y": 1.649999976158142,
+        "z": -1.7999999523162842
+      },
+      "target": {
+        "x": -21.600000381469727,
+        "y": 1.5,
+        "z": -5.800000190734863
+      },
+      "fieldOfView": 70.0,
+      "number": 14,
+      "source_file": "room-04-robe.png"
+    },
+    {
+      "file": "room-05-ensuite.png",
+      "title": "Ensuite",
+      "category": "Rooms",
+      "position": {
+        "x": -19.299999237060547,
+        "y": 1.649999976158142,
+        "z": -1.7999999523162842
+      },
+      "target": {
+        "x": -23.1637020111084,
+        "y": 1.5,
+        "z": -2.835275888442993
+      },
+      "fieldOfView": 70.0,
+      "number": 15,
+      "source_file": "room-05-ensuite.png"
+    },
+    {
+      "file": "room-06-powder.png",
+      "title": "Powder room",
+      "category": "Rooms",
+      "position": {
+        "x": -20.799999237060547,
+        "y": 1.649999976158142,
+        "z": -6.599999904632568
+      },
+      "target": {
+        "x": -20.799999237060547,
+        "y": 1.5,
+        "z": -2.5999999046325684
+      },
+      "fieldOfView": 70.0,
+      "number": 16,
+      "source_file": "room-06-powder.png"
+    },
+    {
+      "file": "room-07-kitchen.png",
+      "title": "Kitchen and meals",
+      "category": "Rooms",
+      "position": {
+        "x": -16.399999618530273,
+        "y": 1.649999976158142,
+        "z": -5.900000095367432
+      },
+      "target": {
+        "x": -12.536296844482422,
+        "y": 1.5,
+        "z": -4.864724159240723
+      },
+      "fieldOfView": 70.0,
+      "number": 17,
+      "source_file": "room-07-kitchen.png"
+    },
+    {
+      "file": "room-08-pantry.png",
+      "title": "Pantry",
+      "category": "Rooms",
+      "position": {
+        "x": -19.299999237060547,
+        "y": 1.649999976158142,
+        "z": -6.800000190734863
+      },
+      "target": {
+        "x": -15.299999237060547,
+        "y": 1.5,
+        "z": -6.800000190734863
+      },
+      "fieldOfView": 70.0,
+      "number": 18,
+      "source_file": "room-08-pantry.png"
+    },
+    {
+      "file": "room-09-family.png",
+      "title": "Family area",
+      "category": "Rooms",
+      "position": {
+        "x": -15.100000381469727,
+        "y": 1.649999976158142,
+        "z": -1.7999999523162842
+      },
+      "target": {
+        "x": -15.100000381469727,
+        "y": 1.5,
+        "z": -5.800000190734863
+      },
+      "fieldOfView": 70.0,
+      "number": 19,
+      "source_file": "room-09-family.png"
+    },
+    {
+      "file": "room-10-laundry.png",
+      "title": "Laundry",
+      "category": "Rooms",
+      "position": {
+        "x": -7.599999904632568,
+        "y": 1.649999976158142,
+        "z": -6.199999809265137
+      },
+      "target": {
+        "x": -7.599999904632568,
+        "y": 1.5,
+        "z": -2.1999998092651367
+      },
+      "fieldOfView": 70.0,
+      "number": 20,
+      "source_file": "room-10-laundry.png"
+    },
+    {
+      "file": "room-11-garage.png",
+      "title": "Garage",
+      "category": "Rooms",
+      "position": {
+        "x": -3.0,
+        "y": 1.649999976158142,
+        "z": -5.800000190734863
+      },
+      "target": {
+        "x": -6.464101791381836,
+        "y": 1.5,
+        "z": -3.8000006675720215
+      },
+      "fieldOfView": 70.0,
+      "number": 21,
+      "source_file": "room-11-garage.png"
+    },
+    {
+      "file": "room-12-landing.png",
+      "title": "Upper landing",
+      "category": "Rooms",
+      "position": {
+        "x": -21.299999237060547,
+        "y": 4.809000015258789,
+        "z": -5.400000095367432
+      },
+      "target": {
+        "x": -25.299999237060547,
+        "y": 4.809000015258789,
+        "z": -5.40000057220459
+      },
+      "fieldOfView": 60.0,
+      "number": 22,
+      "source_file": "room-12-landing.png"
+    },
+    {
+      "file": "room-13-theatre.png",
+      "title": "Theatre",
+      "category": "Rooms",
+      "position": {
+        "x": -25.700000762939453,
+        "y": 4.809000015258789,
+        "z": -2.4000000953674316
+      },
+      "target": {
+        "x": -21.700000762939453,
+        "y": 4.809000015258789,
+        "z": -2.40000057220459
+      },
+      "fieldOfView": 60.0,
+      "number": 23,
+      "source_file": "room-13-theatre.png"
+    },
+    {
+      "file": "room-14-retreat.png",
+      "title": "Retreat",
+      "category": "Rooms",
+      "position": {
+        "x": -21.0,
+        "y": 4.809000015258789,
+        "z": -2.0999999046325684
+      },
+      "target": {
+        "x": -21.0,
+        "y": 4.658999919891357,
+        "z": -6.099999904632568
+      },
+      "fieldOfView": 70.0,
+      "number": 24,
+      "source_file": "room-14-retreat.png"
+    },
+    {
+      "file": "room-15-study.png",
+      "title": "Study",
+      "category": "Rooms",
+      "position": {
+        "x": -18.200000762939453,
+        "y": 4.809000015258789,
+        "z": -2.0
+      },
+      "target": {
+        "x": -20.200000762939453,
+        "y": 4.658999919891357,
+        "z": -5.464101314544678
+      },
+      "fieldOfView": 70.0,
+      "number": 25,
+      "source_file": "room-15-study.png"
+    },
+    {
+      "file": "room-16-bedroom2.png",
+      "title": "Bedroom 2",
+      "category": "Rooms",
+      "position": {
+        "x": -14.699999809265137,
+        "y": 4.809000015258789,
+        "z": -1.5
+      },
+      "target": {
+        "x": -12.699999809265137,
+        "y": 4.658999919891357,
+        "z": -4.964101314544678
+      },
+      "fieldOfView": 70.0,
+      "number": 26,
+      "source_file": "room-16-bedroom2.png"
+    },
+    {
+      "file": "room-17-bathroom2.png",
+      "title": "Bathroom beside Bedroom 2",
+      "category": "Rooms",
+      "position": {
+        "x": -11.699999809265137,
+        "y": 4.809000015258789,
+        "z": -1.0
+      },
+      "target": {
+        "x": -12.735276222229004,
+        "y": 4.658999919891357,
+        "z": -4.863703727722168
+      },
+      "fieldOfView": 70.0,
+      "number": 27,
+      "source_file": "room-17-bathroom2.png"
+    },
+    {
+      "file": "room-18-bedroom3.png",
+      "title": "Bedroom 3",
+      "category": "Rooms",
+      "position": {
+        "x": -8.399999618530273,
+        "y": 4.809000015258789,
+        "z": -1.600000023841858
+      },
+      "target": {
+        "x": -12.399999618530273,
+        "y": 4.658999919891357,
+        "z": -1.5999997854232788
+      },
+      "fieldOfView": 70.0,
+      "number": 28,
+      "source_file": "room-18-bedroom3.png"
+    },
+    {
+      "file": "room-19-bedroom4.png",
+      "title": "Bedroom 4",
+      "category": "Rooms",
+      "position": {
+        "x": -8.5,
+        "y": 4.809000015258789,
+        "z": -6.199999809265137
+      },
+      "target": {
+        "x": -12.5,
+        "y": 4.809000015258789,
+        "z": -6.200000286102295
+      },
+      "fieldOfView": 60.0,
+      "number": 29,
+      "source_file": "room-19-bedroom4.png"
+    },
+    {
+      "file": "room-20-upperbath.png",
+      "title": "Upper bathroom",
+      "category": "Rooms",
+      "position": {
+        "x": -13.300000190734863,
+        "y": 4.809000015258789,
+        "z": -6.099999904632568
+      },
+      "target": {
+        "x": -12.264723777770996,
+        "y": 4.658999919891357,
+        "z": -2.2362966537475586
+      },
+      "fieldOfView": 70.0,
+      "number": 30,
+      "source_file": "room-20-upperbath.png"
+    },
+    {
+      "file": "room-21-bedroom5.png",
+      "title": "Bedroom 5",
+      "category": "Rooms",
+      "position": {
+        "x": -17.100000381469727,
+        "y": 4.809000015258789,
+        "z": -6.199999809265137
+      },
+      "target": {
+        "x": -14.271573066711426,
+        "y": 4.658999919891357,
+        "z": -3.371572971343994
+      },
+      "fieldOfView": 70.0,
+      "number": 31,
+      "source_file": "room-21-bedroom5.png"
+    },
+    {
+      "file": "room-22-exterior.png",
+      "title": "Exterior overview",
+      "category": "Rooms",
+      "position": {
+        "x": -16.0,
+        "y": 1.649999976158142,
+        "z": 3.5999999046325684
+      },
+      "target": {
+        "x": -16.0,
+        "y": 1.5,
+        "z": 7.599999904632568
+      },
+      "fieldOfView": 70.0,
+      "number": 32,
+      "source_file": "01-exterior-entry.png"
+    },
+    {
+      "file": "33-frame-overview.png",
+      "title": "Frame with walls and roof hidden",
+      "category": "Structure",
+      "position": {
+        "x": -31.0,
+        "y": 5.5,
+        "z": 8.0
+      },
+      "target": {
+        "x": -17.0,
+        "y": 3.0,
+        "z": -3.0
+      },
+      "fieldOfView": 60.0,
+      "number": 33,
+      "source_file": "33-frame-overview.png"
+    },
+    {
+      "file": "34-frame-stairs.png",
+      "title": "Stair framing and floor connections",
+      "category": "Structure",
+      "position": {
+        "x": -25.5,
+        "y": 1.649999976158142,
+        "z": -5.699999809265137
+      },
+      "target": {
+        "x": -22.299999237060547,
+        "y": 2.0999999046325684,
+        "z": -7.099999904632568
+      },
+      "fieldOfView": 60.0,
+      "number": 34,
+      "source_file": "34-frame-stairs.png"
+    },
+    {
+      "file": "35-bedroom5-from-hall.png",
+      "title": "Bedroom 5 entry from hall",
+      "category": "Entries",
+      "position": {
+        "x": -15.5600004196167,
+        "y": 4.809000015258789,
+        "z": -3.549999952316284
+      },
+      "target": {
+        "x": -15.5600004196167,
+        "y": 4.400000095367432,
+        "z": -5.400000095367432
+      },
+      "fieldOfView": 100.0,
+      "number": 35,
+      "source_file": "35-bedroom5-from-hall.png"
+    },
+    {
+      "file": "36-bedroom5-from-room.png",
+      "title": "Bedroom 5 entry and completed return",
+      "category": "Entries",
+      "position": {
+        "x": -16.399999618530273,
+        "y": 4.809000015258789,
+        "z": -6.25
+      },
+      "target": {
+        "x": -15.600000381469727,
+        "y": 4.400000095367432,
+        "z": -4.519999980926514
+      },
+      "fieldOfView": 75.0,
+      "number": 36,
+      "source_file": "36-bedroom5-from-room.png"
+    },
+    {
+      "file": "37-upperbath-from-hall.png",
+      "title": "Upper bathroom entry from hall",
+      "category": "Entries",
+      "position": {
+        "x": -12.760000228881836,
+        "y": 4.809000015258789,
+        "z": -3.549999952316284
+      },
+      "target": {
+        "x": -12.760000228881836,
+        "y": 4.400000095367432,
+        "z": -5.599999904632568
+      },
+      "fieldOfView": 100.0,
+      "number": 37,
+      "source_file": "37-upperbath-from-hall.png"
+    },
+    {
+      "file": "38-upperbath-from-room.png",
+      "title": "Upper bathroom wall and ceiling junction",
+      "category": "Entries",
+      "position": {
+        "x": -12.920000076293945,
+        "y": 4.809000015258789,
+        "z": -6.25
+      },
+      "target": {
+        "x": -12.75,
+        "y": 4.5,
+        "z": -4.519999980926514
+      },
+      "fieldOfView": 75.0,
+      "number": 38,
+      "source_file": "38-upperbath-from-room.png"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "result": "PASS",
+  "timestamp": "2026-11-21T10:03:17.782525+11:00",
+  "scope": "Reinstalled requested current build, verified exact installed APK hash, version and launch activity. No scene repair was included in this push.",
+  "serial": "PA94Y0MGJ9180026G",
+  "model": "A9210",
+  "package": "au.edu.evolve.framelab",
+  "application_label": "Leichhardt",
+  "version": "0.4.4",
+  "version_code": 12,
+  "apk_sha256": "c27a4d2b306e1ce313c7a1e53ae6dddb1bf9c06e3957b4301a03889a88f32e79",
+  "installed_apk_sha256": "c27a4d2b306e1ce313c7a1e53ae6dddb1bf9c06e3957b4301a03889a88f32e79",
+  "launch_command_accepted": true,
+  "live_gameplay_verified": false,
+  "powder_junction": "Unresolved; checked and recorded, geometry unchanged.",
+  "final_checked": "2026-11-21T10:04:08.952946+11:00",
+  "awake_at_launch": true,
+  "awake_at_final_check": false,
+  "app_process_id": 17597,
+  "session_status_check": "No response before timeout; headset returned to sleep and Unity logged onPause / surface destroyed without focus."
+}

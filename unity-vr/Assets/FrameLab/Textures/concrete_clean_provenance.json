@@ -1,0 +1,6 @@
+{
+  "tool": "Built-in image_gen",
+  "file": "concrete_clean_albedo.png",
+  "purpose": "Clean concrete appearance; generated visual texture",
+  "prompt": "Use case: photorealistic-natural. Asset type: tileable PBR albedo texture for a freshly poured and cured smooth concrete house slab, for use as a floor material in Unity. Square orthographic photograph covering a continuous seamless surface edge to edge. Light neutral grey, matte, extremely fine subtle aggregate and restrained cloudy mottling, trowelled but not polished. Even flat diffuse illumination with no baked shadows or highlights and no vignette. No cracks, no seams, no tile lines, no borders, no dirt, no rust, no paint, no text, no watermarks. Clean architectural concrete. Avoid brown, orange and yellow cast. Fine realistic texture, low contrast, seamless all four edges."
+}

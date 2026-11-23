@@ -1,0 +1,2148 @@
+[
+  {
+    "action": "status",
+    "value": 0,
+    "state": {
+      "id": "1795249542726580900",
+      "version": "0.4.6",
+      "room": "arrival",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 0,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -29.101938247680664,
+        "y": 1.2021656036376953,
+        "z": -6.241552829742432
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 0,
+    "state": {
+      "id": "1795249552952240500",
+      "version": "0.4.6",
+      "room": "arrival",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 0,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -29.0517520904541,
+        "y": 1.2404704093933105,
+        "z": -6.226425647735596
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 1,
+    "state": {
+      "id": "1795249553691072800",
+      "version": "0.4.6",
+      "room": "entry",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 1,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -25.608537673950195,
+        "y": 1.2431646585464478,
+        "z": -5.481783866882324
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 2,
+    "state": {
+      "id": "1795249554782218700",
+      "version": "0.4.6",
+      "room": "bedroom1",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 2,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -25.008575439453125,
+        "y": 1.2366586923599243,
+        "z": -2.2170071601867676
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 3,
+    "state": {
+      "id": "1795249555863179500",
+      "version": "0.4.6",
+      "room": "robe",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 3,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -21.596282958984375,
+        "y": 1.237944483757019,
+        "z": -1.7978852987289429
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 4,
+    "state": {
+      "id": "1795249556954385900",
+      "version": "0.4.6",
+      "room": "ensuite",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 4,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -19.719947814941406,
+        "y": 1.2372535467147827,
+        "z": -1.9495917558670044
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 5,
+    "state": {
+      "id": "1795249557701679500",
+      "version": "0.4.6",
+      "room": "powder",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 5,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -21.069744110107422,
+        "y": 1.2375308275222778,
+        "z": -6.650311470031738
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 6,
+    "state": {
+      "id": "1795249558778822600",
+      "version": "0.4.6",
+      "room": "kitchen",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 6,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -16.39626693725586,
+        "y": 1.2381093502044678,
+        "z": -6.649319648742676
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 7,
+    "state": {
+      "id": "1795249562359598100",
+      "version": "0.4.6",
+      "room": "pantry",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 7,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -19.302425384521484,
+        "y": 1.2323142290115356,
+        "z": -6.801607131958008
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 8,
+    "state": {
+      "id": "1795249563446069900",
+      "version": "0.4.6",
+      "room": "family",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 8,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -15.095691680908203,
+        "y": 1.2331047058105469,
+        "z": -1.7985947132110596
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 9,
+    "state": {
+      "id": "1795249564529225400",
+      "version": "0.4.6",
+      "room": "laundry",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 9,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -7.6014275550842285,
+        "y": 1.2346779108047485,
+        "z": -6.20018196105957
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 10,
+    "state": {
+      "id": "1795249565609618100",
+      "version": "0.4.6",
+      "room": "garage",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 10,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -3.0143473148345947,
+        "y": 1.2528057098388672,
+        "z": -5.828900337219238
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 11,
+    "state": {
+      "id": "1795249569933460700",
+      "version": "0.4.6",
+      "room": "landing",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 11,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -21.313217163085938,
+        "y": 4.418509006500244,
+        "z": -5.46292781829834
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 12,
+    "state": {
+      "id": "1795249571017541000",
+      "version": "0.4.6",
+      "room": "theatre",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 12,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -23.895370483398438,
+        "y": 4.3802690505981445,
+        "z": -3.479499340057373
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 13,
+    "state": {
+      "id": "1795249571763910500",
+      "version": "0.4.6",
+      "room": "retreat",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 13,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -21.003385543823242,
+        "y": 4.377082824707031,
+        "z": -2.0988147258758545
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 14,
+    "state": {
+      "id": "1795249572847013100",
+      "version": "0.4.6",
+      "room": "study",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 14,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -18.20893669128418,
+        "y": 4.37604284286499,
+        "z": -1.9973487854003906
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 15,
+    "state": {
+      "id": "1795249573586248600",
+      "version": "0.4.6",
+      "room": "bedroom2",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 15,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -14.701736450195312,
+        "y": 4.3736371994018555,
+        "z": -1.5004239082336426
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 16,
+    "state": {
+      "id": "1795249574667440100",
+      "version": "0.4.6",
+      "room": "bathroom2",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 16,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -11.700450897216797,
+        "y": 4.376889228820801,
+        "z": -0.999730110168457
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 17,
+    "state": {
+      "id": "1795249575409969600",
+      "version": "0.4.6",
+      "room": "bedroom3",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 17,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -8.399629592895508,
+        "y": 4.378262519836426,
+        "z": -1.6006839275360107
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 18,
+    "state": {
+      "id": "1795249576491696900",
+      "version": "0.4.6",
+      "room": "bedroom4",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 18,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -8.499421119689941,
+        "y": 4.3783111572265625,
+        "z": -6.200273513793945
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 19,
+    "state": {
+      "id": "1795249577240517700",
+      "version": "0.4.6",
+      "room": "upperbath",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 19,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -13.299581527709961,
+        "y": 4.378606796264648,
+        "z": -6.10017204284668
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 20,
+    "state": {
+      "id": "1795249582030548700",
+      "version": "0.4.6",
+      "room": "bedroom5",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 20,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -17.11849594116211,
+        "y": 4.387540340423584,
+        "z": -6.187505722045898
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 21,
+    "state": {
+      "id": "1795249582780056900",
+      "version": "0.4.6",
+      "room": "exterior",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 21,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -15.970077514648438,
+        "y": 1.2257291078567505,
+        "z": 3.603121757507324
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "menu",
+    "value": 0,
+    "state": {
+      "id": "1795249583857426000",
+      "version": "0.4.6",
+      "room": "exterior",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": false,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 21,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -15.957019805908203,
+        "y": 1.2277536392211914,
+        "z": 3.6074142456054688
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "menu",
+    "value": 0,
+    "state": {
+      "id": "1795249584263277000",
+      "version": "0.4.6",
+      "room": "exterior",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 21,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -15.942657470703125,
+        "y": 1.2319904565811157,
+        "z": 3.6220614910125732
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 6,
+    "state": {
+      "id": "1795249584675358000",
+      "version": "0.4.6",
+      "room": "kitchen",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 6,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -16.399110794067383,
+        "y": 1.2628302574157715,
+        "z": -6.640559196472168
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "fitting",
+    "value": 0,
+    "state": {
+      "id": "1795249585762325500",
+      "version": "0.4.6",
+      "room": "kitchen",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 6,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -16.40818977355957,
+        "y": 1.2236559391021729,
+        "z": -6.65220308303833
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        false,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "fitting",
+    "value": 0,
+    "state": {
+      "id": "1795249586170737200",
+      "version": "0.4.6",
+      "room": "kitchen",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 6,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -16.44064712524414,
+        "y": 1.2175132036209106,
+        "z": -6.65187931060791
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "fitting",
+    "value": 1,
+    "state": {
+      "id": "1795249586578550200",
+      "version": "0.4.6",
+      "room": "kitchen",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 6,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -16.49325942993164,
+        "y": 1.2229008674621582,
+        "z": -6.618512153625488
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        false,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "fitting",
+    "value": 1,
+    "state": {
+      "id": "1795249586986011900",
+      "version": "0.4.6",
+      "room": "kitchen",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 6,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -16.511653900146484,
+        "y": 1.2239277362823486,
+        "z": -6.593763828277588
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "fitting",
+    "value": 2,
+    "state": {
+      "id": "1795249587385980300",
+      "version": "0.4.6",
+      "room": "kitchen",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 6,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -16.508787155151367,
+        "y": 1.2243610620498657,
+        "z": -6.597188949584961
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        false,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "fitting",
+    "value": 2,
+    "state": {
+      "id": "1795249587789023400",
+      "version": "0.4.6",
+      "room": "kitchen",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 6,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -16.50766944885254,
+        "y": 1.225258231163025,
+        "z": -6.599415302276611
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "fitting",
+    "value": 3,
+    "state": {
+      "id": "1795249588198226800",
+      "version": "0.4.6",
+      "room": "kitchen",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 6,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -16.506309509277344,
+        "y": 1.229534387588501,
+        "z": -6.599668979644775
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        false,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "fitting",
+    "value": 3,
+    "state": {
+      "id": "1795249588606937000",
+      "version": "0.4.6",
+      "room": "kitchen",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 6,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -16.504724502563477,
+        "y": 1.2306479215621948,
+        "z": -6.600857257843018
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "fitting",
+    "value": 4,
+    "state": {
+      "id": "1795249589013126200",
+      "version": "0.4.6",
+      "room": "kitchen",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 6,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -16.503673553466797,
+        "y": 1.2312726974487305,
+        "z": -6.601692199707031
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        true
+      ]
+    }
+  },
+  {
+    "action": "fitting",
+    "value": 4,
+    "state": {
+      "id": "1795249589414309100",
+      "version": "0.4.6",
+      "room": "kitchen",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 6,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -16.464963912963867,
+        "y": 1.230725884437561,
+        "z": -6.640128135681152
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "fitting",
+    "value": 5,
+    "state": {
+      "id": "1795249589816079000",
+      "version": "0.4.6",
+      "room": "kitchen",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 6,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -16.45171356201172,
+        "y": 1.2304632663726807,
+        "z": -6.646804332733154
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ]
+    }
+  },
+  {
+    "action": "fitting",
+    "value": 5,
+    "state": {
+      "id": "1795249590218892100",
+      "version": "0.4.6",
+      "room": "kitchen",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 6,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -16.450502395629883,
+        "y": 1.2307121753692627,
+        "z": -6.647515296936035
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "all-fittings",
+    "value": 0,
+    "state": {
+      "id": "1795249590623873500",
+      "version": "0.4.6",
+      "room": "kitchen",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 6,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -16.45111656188965,
+        "y": 1.2304316759109497,
+        "z": -6.649202346801758
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "action": "goto",
+    "value": 10,
+    "state": {
+      "id": "1795249594276180700",
+      "version": "0.4.6",
+      "room": "garage",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 10,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -2.9993913173675537,
+        "y": 1.1926870346069336,
+        "z": -5.802033424377441
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "action": "walls",
+    "value": 0,
+    "state": {
+      "id": "1795249595016881000",
+      "version": "0.4.6",
+      "room": "garage",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 10,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -3.013634443283081,
+        "y": 1.21181321144104,
+        "z": -5.768521785736084
+      },
+      "framing": true,
+      "roofHidden": false,
+      "fittingsShown": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "action": "walls",
+    "value": 0,
+    "state": {
+      "id": "1795249599670279100",
+      "version": "0.4.6",
+      "room": "garage",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 10,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -3.0892279148101807,
+        "y": 1.2622054815292358,
+        "z": -5.745876789093018
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "action": "roof",
+    "value": 0,
+    "state": {
+      "id": "1795249600069105200",
+      "version": "0.4.6",
+      "room": "garage",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 10,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -3.0884807109832764,
+        "y": 1.2610042095184326,
+        "z": -5.744299411773682
+      },
+      "framing": false,
+      "roofHidden": true,
+      "fittingsShown": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "action": "roof",
+    "value": 0,
+    "state": {
+      "id": "1795249600475658100",
+      "version": "0.4.6",
+      "room": "garage",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 10,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -3.086994171142578,
+        "y": 1.2598732709884644,
+        "z": -5.74336051940918
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  {
+    "action": "all-fittings",
+    "value": 1,
+    "state": {
+      "id": "1795249600885712100",
+      "version": "0.4.6",
+      "room": "garage",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 10,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -3.0767438411712646,
+        "y": 1.2466446161270142,
+        "z": -5.739948272705078
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "study",
+    "value": 0,
+    "state": {
+      "id": "1795249601290206900",
+      "version": "0.4.6",
+      "room": "window",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": true,
+      "isolated": false,
+      "location": 10,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": 9.996943473815918,
+        "y": 1.2442538738250732,
+        "z": 6.500848770141602
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "explode",
+    "value": 0.45,
+    "state": {
+      "id": "1795249602025024700",
+      "version": "0.4.6",
+      "room": "layers",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": true,
+      "isolated": false,
+      "location": 10,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.44999998807907104,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": 9.994256973266602,
+        "y": 1.2436342239379883,
+        "z": 6.501668453216553
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "zoom",
+    "value": 1.15,
+    "state": {
+      "id": "1795249602430709200",
+      "version": "0.4.6",
+      "room": "layers",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": true,
+      "isolated": false,
+      "location": 10,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.44999998807907104,
+      "zoom": 1.149999976158142,
+      "rotation": 0.0,
+      "eye": {
+        "x": 9.995031356811523,
+        "y": 1.243356466293335,
+        "z": 6.501401901245117
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "rotation",
+    "value": -180,
+    "state": {
+      "id": "1795249602837541100",
+      "version": "0.4.6",
+      "room": "layers",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": true,
+      "isolated": false,
+      "location": 10,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.44999998807907104,
+      "zoom": 1.149999976158142,
+      "rotation": -180.0,
+      "eye": {
+        "x": 9.99453353881836,
+        "y": 1.2436212301254272,
+        "z": 6.501356601715088
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "rotation",
+    "value": -90,
+    "state": {
+      "id": "1795249603244585100",
+      "version": "0.4.6",
+      "room": "layers",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": true,
+      "isolated": false,
+      "location": 10,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.44999998807907104,
+      "zoom": 1.149999976158142,
+      "rotation": -90.0,
+      "eye": {
+        "x": 9.994314193725586,
+        "y": 1.2438414096832275,
+        "z": 6.501067161560059
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "rotation",
+    "value": 0,
+    "state": {
+      "id": "1795249603644697200",
+      "version": "0.4.6",
+      "room": "layers",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": true,
+      "isolated": false,
+      "location": 10,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.44999998807907104,
+      "zoom": 1.149999976158142,
+      "rotation": 0.0,
+      "eye": {
+        "x": 9.994275093078613,
+        "y": 1.2439171075820923,
+        "z": 6.500648021697998
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "rotation",
+    "value": 90,
+    "state": {
+      "id": "1795249604042531900",
+      "version": "0.4.6",
+      "room": "layers",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": true,
+      "isolated": false,
+      "location": 10,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.44999998807907104,
+      "zoom": 1.149999976158142,
+      "rotation": 90.0,
+      "eye": {
+        "x": 9.994548797607422,
+        "y": 1.243751883506775,
+        "z": 6.500682830810547
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "rotation",
+    "value": 180,
+    "state": {
+      "id": "1795249604444242300",
+      "version": "0.4.6",
+      "room": "layers",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": true,
+      "isolated": false,
+      "location": 10,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.44999998807907104,
+      "zoom": 1.149999976158142,
+      "rotation": 180.0,
+      "eye": {
+        "x": 9.995545387268066,
+        "y": 1.2438390254974365,
+        "z": 6.500551223754883
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "part",
+    "value": 3,
+    "state": {
+      "id": "1795249604847399400",
+      "version": "0.4.6",
+      "room": "layers",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": true,
+      "isolated": false,
+      "location": 10,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.44999998807907104,
+      "zoom": 1.149999976158142,
+      "rotation": 180.0,
+      "eye": {
+        "x": 10.00341796875,
+        "y": 1.2430086135864258,
+        "z": 6.501802444458008
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "isolate",
+    "value": 0,
+    "state": {
+      "id": "1795249605251998900",
+      "version": "0.4.6",
+      "room": "layers",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": true,
+      "isolated": true,
+      "location": 10,
+      "hotspots": 9,
+      "visibleParts": 1,
+      "explosion": 0.44999998807907104,
+      "zoom": 1.149999976158142,
+      "rotation": 180.0,
+      "eye": {
+        "x": 10.009963035583496,
+        "y": 1.2426180839538574,
+        "z": 6.503150939941406
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "rotation",
+    "value": -45,
+    "state": {
+      "id": "1795249605647923100",
+      "version": "0.4.6",
+      "room": "layers",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": true,
+      "isolated": true,
+      "location": 10,
+      "hotspots": 9,
+      "visibleParts": 1,
+      "explosion": 0.44999998807907104,
+      "zoom": 1.149999976158142,
+      "rotation": -45.0,
+      "eye": {
+        "x": 10.007895469665527,
+        "y": 1.2423828840255737,
+        "z": 6.504038333892822
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "reset-study",
+    "value": 0,
+    "state": {
+      "id": "1795249607519100200",
+      "version": "0.4.6",
+      "room": "window",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": true,
+      "isolated": false,
+      "location": 10,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": 10.004639625549316,
+        "y": 1.2423526048660278,
+        "z": 6.504323959350586
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  },
+  {
+    "action": "restart",
+    "value": 0,
+    "state": {
+      "id": "1795249607917512900",
+      "version": "0.4.6",
+      "room": "arrival",
+      "error": "",
+      "changing": false,
+      "focused": true,
+      "guide": true,
+      "narration": true,
+      "detail": false,
+      "isolated": false,
+      "location": 0,
+      "hotspots": 9,
+      "visibleParts": 9,
+      "explosion": 0.0,
+      "zoom": 1.0,
+      "rotation": 0.0,
+      "eye": {
+        "x": -29.10035514831543,
+        "y": 1.2426084280014038,
+        "z": -6.235065460205078
+      },
+      "framing": false,
+      "roofHidden": false,
+      "fittingsShown": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  }
+]

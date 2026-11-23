@@ -1,0 +1,341 @@
+{
+  "source_sheet": 19,
+  "room": "Upper bathroom at the end of the tour",
+  "wall_coverage": "Full height on all room faces, with existing window/door openings retained.",
+  "floor_module_mm": [
+    600,
+    600
+  ],
+  "wall_module_mm": [
+    600,
+    300
+  ],
+  "grout_mm": 2.5,
+  "finish_selection": "Illustrative matte warm-neutral porcelain; no tile product/size schedule supplied.",
+  "floor_surface": "Continuous 3 mm finish; material joints do not expose the substrate.",
+  "wall_objects": [
+    {
+      "name": "FF North wall | lining.005",
+      "face": "north including window reveals",
+      "bounds": [
+        [
+          12.345000267028809,
+          12.50667667388916
+        ],
+        [
+          7.775000095367432,
+          7.784999847412109
+        ],
+        [
+          3.1590001583099365,
+          5.730000019073486
+        ]
+      ]
+    },
+    {
+      "name": "FF North wall | lining.006",
+      "face": "north including window reveals",
+      "bounds": [
+        [
+          12.50667667388916,
+          13.176676750183105
+        ],
+        [
+          7.775000095367432,
+          7.784999847412109
+        ],
+        [
+          3.1590001583099365,
+          4.159999847412109
+        ]
+      ]
+    },
+    {
+      "name": "FF North wall | lining.007",
+      "face": "north including window reveals",
+      "bounds": [
+        [
+          12.50667667388916,
+          13.176676750183105
+        ],
+        [
+          7.775000095367432,
+          7.784999847412109
+        ],
+        [
+          5.420000076293945,
+          5.730000019073486
+        ]
+      ]
+    },
+    {
+      "name": "FF North wall | lining.008",
+      "face": "north including window reveals",
+      "bounds": [
+        [
+          13.176676750183105,
+          14.3149995803833
+        ],
+        [
+          7.775000095367432,
+          7.784999847412109
+        ],
+        [
+          3.1590001583099365,
+          5.730000019073486
+        ]
+      ]
+    },
+    {
+      "name": "FF North wall | opening return.004",
+      "face": "north including window reveals",
+      "bounds": [
+        [
+          12.50667667388916,
+          12.516676902770996
+        ],
+        [
+          7.775000095367432,
+          7.894999980926514
+        ],
+        [
+          4.159999847412109,
+          5.420000076293945
+        ]
+      ]
+    },
+    {
+      "name": "FF North wall | opening return.005",
+      "face": "north including window reveals",
+      "bounds": [
+        [
+          13.16667652130127,
+          13.176676750183105
+        ],
+        [
+          7.775000095367432,
+          7.894999980926514
+        ],
+        [
+          4.159999847412109,
+          5.420000076293945
+        ]
+      ]
+    },
+    {
+      "name": "FF North wall | opening return.006",
+      "face": "north including window reveals",
+      "bounds": [
+        [
+          12.516676902770996,
+          13.16667652130127
+        ],
+        [
+          7.775000095367432,
+          7.894999980926514
+        ],
+        [
+          5.409999847412109,
+          5.420000076293945
+        ]
+      ]
+    },
+    {
+      "name": "FF North wall | opening return.007",
+      "face": "north including window reveals",
+      "bounds": [
+        [
+          12.516676902770996,
+          13.16667652130127
+        ],
+        [
+          7.775000095367432,
+          7.894999980926514
+        ],
+        [
+          4.159999847412109,
+          4.170000076293945
+        ]
+      ]
+    },
+    {
+      "name": "FF WC bath division | lining.002",
+      "face": "west",
+      "bounds": [
+        [
+          12.335000038146973,
+          12.345000267028809
+        ],
+        [
+          4.605000019073486,
+          7.775000095367432
+        ],
+        [
+          3.1590001583099365,
+          5.730000019073486
+        ]
+      ]
+    },
+    {
+      "name": "FF Bath hall | lining",
+      "face": "entry",
+      "bounds": [
+        [
+          12.345000267028809,
+          12.444999694824219
+        ],
+        [
+          4.595000267028809,
+          4.605000019073486
+        ],
+        [
+          3.1590001583099365,
+          5.730000019073486
+        ]
+      ]
+    },
+    {
+      "name": "FF Bath hall | lining.003",
+      "face": "entry",
+      "bounds": [
+        [
+          12.444999694824219,
+          13.21500015258789
+        ],
+        [
+          4.595000267028809,
+          4.605000019073486
+        ],
+        [
+          5.527000427246094,
+          5.730000019073486
+        ]
+      ]
+    },
+    {
+      "name": "FF Bath hall | lining.005",
+      "face": "entry",
+      "bounds": [
+        [
+          13.21500015258789,
+          13.3149995803833
+        ],
+        [
+          4.595000267028809,
+          4.605000019073486
+        ],
+        [
+          3.1590001583099365,
+          5.730000019073486
+        ]
+      ]
+    },
+    {
+      "name": "FF Bath robe division | lining",
+      "face": "east",
+      "bounds": [
+        [
+          14.3149995803833,
+          14.324999809265137
+        ],
+        [
+          5.204999923706055,
+          7.775000095367432
+        ],
+        [
+          3.1590001583099365,
+          5.730000019073486
+        ]
+      ]
+    },
+    {
+      "name": "FF Linen north | lining",
+      "face": "south return",
+      "bounds": [
+        [
+          13.319999694824219,
+          14.3149995803833
+        ],
+        [
+          5.195000171661377,
+          5.204999923706055
+        ],
+        [
+          3.1590001583099365,
+          5.730000019073486
+        ]
+      ]
+    },
+    {
+      "name": "FF Linen north | end return",
+      "face": "south return",
+      "bounds": [
+        [
+          13.319999694824219,
+          13.329999923706055
+        ],
+        [
+          5.09499979019165,
+          5.195000171661377
+        ],
+        [
+          3.1590001583099365,
+          5.730000019073486
+        ]
+      ]
+    },
+    {
+      "name": "FF Linen west | lining",
+      "face": "entry return",
+      "bounds": [
+        [
+          13.3149995803833,
+          13.319999694824219
+        ],
+        [
+          4.605000019073486,
+          5.160000324249268
+        ],
+        [
+          3.1590001583099365,
+          5.730000019073486
+        ]
+      ]
+    },
+    {
+      "name": "FF Linen west | lining.001",
+      "face": "entry return",
+      "bounds": [
+        [
+          13.319999694824219,
+          13.324999809265137
+        ],
+        [
+          4.605000019073486,
+          5.09499979019165
+        ],
+        [
+          3.1590001583099365,
+          5.730000019073486
+        ]
+      ]
+    }
+  ],
+  "removed_skirtings": [
+    "FF North wall | skirting.004",
+    "FF North wall | skirting.005",
+    "FF North wall | skirting.006",
+    "FF WC bath division | skirting.002",
+    "FF Bath hall | skirting",
+    "FF Bath hall | skirting.002",
+    "FF Bath robe division | skirting",
+    "FF Linen north | skirting",
+    "FF Linen west | skirting"
+  ],
+  "unresolved": [
+    "Niche now modelled;60mm depth and timber trimming illustrative, load path not assessed. Shower floor recess/falls remain unresolved.",
+    "Existing upper floor/ceiling datums retained pending whole-model coordination."
+  ],
+  "checks": "PASS: six wall zones, retained apertures, no duplicate wall skin, continuous level floor.",
+  "niche_completion": "architectural-completion-0.4.6/wet-details.json"
+}

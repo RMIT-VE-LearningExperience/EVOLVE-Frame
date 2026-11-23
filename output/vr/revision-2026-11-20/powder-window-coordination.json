@@ -1,0 +1,896 @@
+{
+  "basis": "Written window chains on architectural07, scheduled sizes on11, scaled column/jamb alignment on07/08 and S09. C2(F) full height confirmed by engineering schedule. Absolute jamb registration and steel connections remain illustrative, not a dimensioned engineering setout.",
+  "column_old_x": 20.875703811645508,
+  "column_new_x": 20.708179885864258,
+  "column_shift_mm": -167.5,
+  "upper_window_shift_mm": 0,
+  "powder_window_size_mm": [
+    810,
+    2120
+  ],
+  "upper_window_size_mm": [
+    850,
+    1800
+  ],
+  "powder_window_position_unchanged": false,
+  "window_moves": [
+    {
+      "window": "W05 meals",
+      "old_centre_x": 10.809425354003906,
+      "new_centre_x": 10.927679885864256,
+      "shift_mm": 118.3
+    },
+    {
+      "window": "W04 kitchen",
+      "old_centre_x": 16.595975875854492,
+      "new_centre_x": 16.75767988586426,
+      "shift_mm": 161.7
+    },
+    {
+      "window": "W03 powder",
+      "old_centre_x": 20.958145141601562,
+      "new_centre_x": 21.15767988586426,
+      "shift_mm": 199.5
+    },
+    {
+      "window": "W02 entry",
+      "old_centre_x": 25.0754976272583,
+      "new_centre_x": 25.927679885864258,
+      "shift_mm": 852.2
+    }
+  ],
+  "written_window_gaps_m": [
+    3.72,
+    3.24,
+    3.96
+  ],
+  "registration_status": "SCALED: C2 centre within20.69..20.73 range; W10 original position retained. Requires drawing coordination for construction.",
+  "stair_layout_unchanged": true,
+  "updated_facade_and_wrap_panels": [
+    "GF North wall | Ground brick veneer.002",
+    "GF North wall | Ground brick veneer.003",
+    "GF North wall | Ground brick veneer.004",
+    "GF North wall | Ground brick veneer.005",
+    "GF North wall | Ground brick veneer.006",
+    "GF North wall | Ground brick veneer.007",
+    "GF North wall | Ground brick veneer.008",
+    "GF North wall | Ground brick veneer.009",
+    "GF North wall | Ground brick veneer.010",
+    "GF North wall | Ground brick veneer.011",
+    "GF North wall | Ground brick veneer.012",
+    "GF North wall | Ground brick veneer.013",
+    "GF North wall | Ground brick veneer.014",
+    "GF North wall | Wall wrap.002",
+    "GF North wall | Wall wrap.003",
+    "GF North wall | Wall wrap.004",
+    "GF North wall | Wall wrap.005",
+    "GF North wall | Wall wrap.006",
+    "GF North wall | Wall wrap.007",
+    "GF North wall | Wall wrap.008",
+    "GF North wall | Wall wrap.009",
+    "GF North wall | Wall wrap.010",
+    "GF North wall | Wall wrap.011",
+    "GF North wall | Wall wrap.012",
+    "GF North wall | Wall wrap.013",
+    "GF North wall | Wall wrap.014"
+  ],
+  "connected_head_members": [
+    "ST1 150x100x6 RHS profile 1",
+    "ST1 150x100x6 RHS profile 2",
+    "ST1 150x100x6 RHS profile 3",
+    "ST1 150x100x6 RHS profile 4"
+  ],
+  "timber_clearance_trims": [
+    "GF North wall | bottom plate.001",
+    "GF North wall | top plate lower",
+    "GF North wall | top plate upper",
+    "GF North wall | W03 powder king stud replaced by steel pier",
+    "GF North wall | W03 powder jack stud replaced by steel pier",
+    "GF North wall | W03 powder LVL lintel",
+    "GF North wall | nogging.020",
+    "GF North wall | nogging.052",
+    "FF North wall | bottom plate",
+    "FF North wall | top plate lower",
+    "FF North wall | top plate upper",
+    "FF North wall | W10 stair king stud.001 replaced by steel pier",
+    "FF North wall | W10 stair jack stud.001 replaced by steel pier",
+    "FF North wall | W10 stair LVL lintel",
+    "FF North wall | W10 stair sill"
+  ],
+  "result": "PASS",
+  "window_checks": [
+    {
+      "window": "W03 powder",
+      "clear_glazing_rays": 30
+    },
+    {
+      "window": "W10 stair",
+      "clear_glazing_rays": 30
+    }
+  ],
+  "column_internal_clearance_rays": 48,
+  "glazing_samples": [
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -20.86157974243164,
+        "y": 0.4873999357223511,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -20.86157974243164,
+        "y": 0.4873999357223511,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -20.86157974243164,
+        "y": 1.3399999737739563,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -20.86157974243164,
+        "y": 1.3399999737739563,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -20.86157974243164,
+        "y": 2.1926000118255615,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -20.86157974243164,
+        "y": 2.1926000118255615,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -20.981430053710938,
+        "y": 0.4873999357223511,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -20.981430053710938,
+        "y": 0.4873999357223511,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -20.981430053710938,
+        "y": 1.3399999737739563,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -20.981430053710938,
+        "y": 1.3399999737739563,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -20.981430053710938,
+        "y": 2.1926000118255615,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -20.981430053710938,
+        "y": 2.1926000118255615,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -21.15768051147461,
+        "y": 0.4873999357223511,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -21.15768051147461,
+        "y": 0.4873999357223511,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -21.15768051147461,
+        "y": 1.3399999737739563,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -21.15768051147461,
+        "y": 1.3399999737739563,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -21.15768051147461,
+        "y": 2.1926000118255615,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -21.15768051147461,
+        "y": 2.1926000118255615,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -21.33393096923828,
+        "y": 0.4873999357223511,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -21.33393096923828,
+        "y": 0.4873999357223511,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -21.33393096923828,
+        "y": 1.3399999737739563,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -21.33393096923828,
+        "y": 1.3399999737739563,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -21.33393096923828,
+        "y": 2.1926000118255615,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -21.33393096923828,
+        "y": 2.1926000118255615,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -21.45378128051758,
+        "y": 0.4873999357223511,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -21.45378128051758,
+        "y": 0.4873999357223511,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -21.45378128051758,
+        "y": 1.3399999737739563,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -21.45378128051758,
+        "y": 1.3399999737739563,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -21.45378128051758,
+        "y": 2.1926000118255615,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W03 powder",
+      "position": {
+        "x": -21.45378128051758,
+        "y": 2.1926000118255615,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -19.925778427124023,
+        "y": 3.8017999649047853,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -19.925778427124023,
+        "y": 3.8017999649047853,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -19.925778427124023,
+        "y": 4.519999980926514,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -19.925778427124023,
+        "y": 4.519999980926514,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -19.925778427124023,
+        "y": 5.238199996948242,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -19.925778427124023,
+        "y": 5.238199996948242,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.052428245544434,
+        "y": 3.8017999649047853,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.052428245544434,
+        "y": 3.8017999649047853,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.052428245544434,
+        "y": 4.519999980926514,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.052428245544434,
+        "y": 4.519999980926514,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.052428245544434,
+        "y": 5.238199996948242,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.052428245544434,
+        "y": 5.238199996948242,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.238677978515625,
+        "y": 3.8017999649047853,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.238677978515625,
+        "y": 3.8017999649047853,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.238677978515625,
+        "y": 4.519999980926514,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.238677978515625,
+        "y": 4.519999980926514,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.238677978515625,
+        "y": 5.238199996948242,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.238677978515625,
+        "y": 5.238199996948242,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.424927711486816,
+        "y": 3.8017999649047853,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.424927711486816,
+        "y": 3.8017999649047853,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.424927711486816,
+        "y": 4.519999980926514,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.424927711486816,
+        "y": 4.519999980926514,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.424927711486816,
+        "y": 5.238199996948242,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.424927711486816,
+        "y": 5.238199996948242,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.551577529907227,
+        "y": 3.8017999649047853,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.551577529907227,
+        "y": 3.8017999649047853,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.551577529907227,
+        "y": 4.519999980926514,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.551577529907227,
+        "y": 4.519999980926514,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.551577529907227,
+        "y": 5.238199996948242,
+        "z": -7.6
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "window": "W10 stair",
+      "position": {
+        "x": -20.551577529907227,
+        "y": 5.238199996948242,
+        "z": -8.2
+      },
+      "direction": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    }
+  ],
+  "head_connection": "ST1 meets post east face; 1B2, stair trimmer and adjacent joist butt against its inner face. Redundant timber rim replaced by steel with 45 mm bearing pack above.",
+  "extended_head_overlap_check": "PASS"
+}

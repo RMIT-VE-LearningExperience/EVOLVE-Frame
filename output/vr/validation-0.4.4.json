@@ -1,0 +1,100 @@
+{
+  "validated_local": "2026-11-21T09:22:48.417225+11:00",
+  "application_version": "0.4.4",
+  "android_version_code": 12,
+  "application_label": "Leichhardt",
+  "package": "au.edu.evolve.framelab",
+  "release_state": "Leichhardt 0.4.4 installed on PICO; 46 on-device functional commands passed, including all 22 tour stops. One recovered diagnostic bridge exception recorded. Visual/model acceptance and sustained performance remain open.",
+  "apk_bytes": 99035653,
+  "apk_sha256": "c27a4d2b306e1ce313c7a1e53ae6dddb1bf9c06e3957b4301a03889a88f32e79",
+  "installed_apk_hash_matches_build": true,
+  "source_blend_preserved": true,
+  "source_blend_sha256": "dba309decf25d9178f9c0d460cdc32ebaeec739d94e46ad1e524b8f2ee222e0b",
+  "model_triangles": 215344,
+  "model_material_batches": 81,
+  "targeted_geometry": {
+    "written_spans": 26,
+    "rebuilt_openings": 20,
+    "windows": 19,
+    "window_rays": 630
+  },
+  "fixed_fitout": {
+    "objects": 600,
+    "triangles": 18344,
+    "acceptance": "Partial; product forms and some setouts illustrative."
+  },
+  "lighting_states": {
+    "WallsShown": 4,
+    "WallsHidden": 2,
+    "WallsHiddenRoofHidden": 1,
+    "WallsShownRoofHidden": 3,
+    "EmptyWallsShown": 3,
+    "EmptyWallsHidden": 1,
+    "EmptyWallsHiddenRoofHidden": 1,
+    "EmptyWallsShownRoofHidden": 3
+  },
+  "static_reflections": {
+    "probes": 5,
+    "resolution": 128,
+    "runtime_reflection_cameras": 0,
+    "mirrors": "Approximate cubemap reflections; no avatar or accurate planar reflections."
+  },
+  "editor_result": "PASS",
+  "review_images": 58,
+  "review_gallery": "output/vr/review-0.4.4/index.html",
+  "apk_build": "PASS",
+  "pico_install": "PASS",
+  "pico_session_ready": true,
+  "pico_control_suite": "PASS_WITH_DIAGNOSTIC_WARNING",
+  "pico_control_commands": 46,
+  "pico_metrics": [
+    {
+      "frames": 1727,
+      "fps": 86.3,
+      "frame_p95_ms": 11.11,
+      "gpu_ms": null,
+      "refresh_hz": 90.0
+    },
+    {
+      "frames": 1710,
+      "fps": 85.5,
+      "frame_p95_ms": 22.22,
+      "gpu_ms": null,
+      "refresh_hz": 90.0
+    }
+  ],
+  "wearer_validation": "Physical buttons/grips, stereo appearance, comfort and sustained performance are not certified by automated tests.",
+  "unresolved": [
+    "Theatre floor step height/high side and 2340 mm door versus nominal bulkhead soffit.",
+    "Finished ceiling/floor datums and final garage/porch parapet heights; form corrected but dimensions still provisional.",
+    "Downpipes/rainheads/spreaders, services and remaining checklist items.",
+    "Niches, shower set-downs, wall finishes, accessories, fridge coordination and sliding robe doors.",
+    "Absolute structural column/window/brace setout includes scaled coordination; engineering acceptance remains open.",
+    "See the item-by-item Claude photo response for remaining visible defects and verification scope.",
+    "Powder W03/stair underside junction remains unresolved; this test did not change geometry.",
+    "Measured 85.5-86.3 fps in two short development-build samples at 90 Hz with rapid travel/screenshots; sustained performance remains unverified.",
+    "One recoverable USB diagnostic bridge null-reference exception; atomic command transport added to test harness only."
+  ],
+  "cost": "No purchases or overage. Existing offline narration retained. No model API used for this visibility revision; previous Claude review retained as historical evidence.",
+  "photo_review": "output/vr/photo-review-0.4.4/codex-response.json",
+  "scope": "Architectural review build. Targeted checks do not constitute whole-model acceptance.",
+  "evidence": "output/vr/evidence-0.4.4",
+  "visibility": {
+    "groups": [
+      "Kitchen",
+      "Laundry",
+      "Wardrobes and linen",
+      "Vanities and mirrors",
+      "Showers",
+      "Toilets"
+    ],
+    "controls": "Guide > Fittings; independent groups plus hide/show all; A recalls guide.",
+    "stairs": "Wall hiding removes finished balustrade and underside lining and uses timber on the retained treads, risers and stringers. No overlapping model copies.",
+    "tests": "Six UI toggle callbacks, per-group renderer/collider isolation, wall/floor independence, remaining fitting lightmap indices, empty lighting selection, stair materials, room persistence and restart restoration.",
+    "lighting": "Eight baked shell states; mixed groups retain their original per-fitting baked shading over the empty-room shell. Fine inter-object shadows/bounce for arbitrary partial selections are approximate.",
+    "reflections": "Five static room probes, each with furnished and empty captures; disabled in open-wall/roof modes. No new runtime reflection cameras or lights.",
+    "cost": "Same 215344 triangles, 81 export material batches (13 more than 0.4.3); additional offline lightmaps. Sustained headset performance unmeasured."
+  },
+  "live_checked_local": "2026-11-21T10:18:23.939393+11:00",
+  "pico_live_evidence": "output/vr/device-verification-0.4.4/live-2026-11-21/suite-result.json"
+}

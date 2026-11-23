@@ -1,0 +1,19 @@
+{
+  "result": "PASS",
+  "timestamp": "2026-11-21T09:22:48.135049+11:00",
+  "scope": "Installed package identity, application label, version and exact APK hash. Live gameplay is a separate check.",
+  "serial": "PA94Y0MGJ9180026G",
+  "model": "A9210",
+  "application_label": "Leichhardt",
+  "package": "au.edu.evolve.framelab",
+  "version": "0.4.4",
+  "version_code": 12,
+  "apk": "D:\\Git\\EVOLE Frame\\unity-vr\\Builds\\Android\\Leichhardt-PICO.apk",
+  "apk_sha256": "c27a4d2b306e1ce313c7a1e53ae6dddb1bf9c06e3957b4301a03889a88f32e79",
+  "installed_apk_sha256": "c27a4d2b306e1ce313c7a1e53ae6dddb1bf9c06e3957b4301a03889a88f32e79",
+  "awake": false,
+  "live_session_verified": true,
+  "live_session_scope": "Cold startup, all 22 room stops and control handlers via local USB bridge; see separate live suite and its diagnostic warning. No physical-button, acoustic or sustained-performance certification.",
+  "live_verification": "live-2026-11-21/suite-result.json",
+  "live_checked": "2026-11-21T10:18:23.939393+11:00"
+}

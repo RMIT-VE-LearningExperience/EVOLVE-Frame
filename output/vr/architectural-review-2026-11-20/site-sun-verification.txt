@@ -1,0 +1,1 @@
+PASS: Leichhardt site sun. 8 checks: 09:00/12:00/15:00 numerical references, three drawing shadow directions, Unity light ray direction and ground-facing rays. Default 22 September 2026 15:00 AEST; azimuth 305.066 deg, elevation 35.820 deg. Source configuration checked; scene rebake and headset appearance remain pending.

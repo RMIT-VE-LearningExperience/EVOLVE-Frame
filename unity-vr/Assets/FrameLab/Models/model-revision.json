@@ -1,0 +1,1233 @@
+{
+  "source": "output\\learning\\Leichhardt_Learning_Experience.blend",
+  "source_sha256": "dba309decf25d9178f9c0d460cdc32ebaeec739d94e46ad1e524b8f2ee222e0b",
+  "source_unchanged": true,
+  "w04_sill_mm": 905,
+  "w04_head_mm": 1419,
+  "bevelled_timber_members": 2821,
+  "bevel_width_mm": 0.8,
+  "removed_exact_duplicate_solids": [],
+  "triangles": 229320,
+  "batches": 81,
+  "changes": [
+    {
+      "object": "GF North wall | W04 kitchen jack stud",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen jack stud.001",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen LVL lintel",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen sill",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen sill cripple",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen head cripple",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen sill cripple.001",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen head cripple.001",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen sill cripple.002",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen head cripple.002",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen sill cripple.003",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen head cripple.003",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "OPENING | W04 kitchen",
+      "action": "Lowered complete window proxy 514 mm"
+    },
+    {
+      "object": "GF North wall | Ground brick veneer.006",
+      "action": "Refitted membrane/masonry to corrected W04 opening"
+    },
+    {
+      "object": "GF North wall | Ground brick veneer.007",
+      "action": "Refitted membrane/masonry to corrected W04 opening"
+    },
+    {
+      "object": "GF North wall | Wall wrap.006",
+      "action": "Refitted membrane/masonry to corrected W04 opening"
+    },
+    {
+      "object": "GF North wall | Wall wrap.007",
+      "action": "Refitted membrane/masonry to corrected W04 opening"
+    },
+    {
+      "object": "W04 kitchen | glass.001",
+      "action": "Removed generic subdivision from scheduled single fixed light"
+    },
+    {
+      "object": "W04 kitchen | mullion",
+      "action": "Removed generic subdivision from scheduled single fixed light"
+    },
+    {
+      "object": "FF stair balustrade",
+      "action": "Rebuilt over floor trimmer, closed corner joint, bottom at structural deck datum"
+    },
+    {
+      "object": "FF void balustrade",
+      "action": "Rebuilt over floor trimmer, closed corner joint, bottom at structural deck datum"
+    },
+    {
+      "object": "Wall bracing",
+      "action": "41 straps/panels seated on the stud face, behind lining"
+    },
+    {
+      "object": "FF Hall C diagonal",
+      "action": "Relocated 0.596 m into solid wall bay, clearing Bedroom 2 door; visual coordination"
+    },
+    {
+      "object": "Steel column heads",
+      "action": "Six closed bearing caps coordinated to beam undersides"
+    },
+    {
+      "object": "C1 alfresco west baseplate",
+      "action": "Recessed plate/anchors below finished slab and extended column foot to bearing face"
+    },
+    {
+      "object": "C1 alfresco middle baseplate",
+      "action": "Recessed plate/anchors below finished slab and extended column foot to bearing face"
+    },
+    {
+      "object": "C1 nook baseplate",
+      "action": "Recessed plate/anchors below finished slab and extended column foot to bearing face"
+    },
+    {
+      "object": "C3 portal south baseplate",
+      "action": "Recessed plate/anchors below finished slab and extended column foot to bearing face"
+    },
+    {
+      "object": "C3 portal north baseplate",
+      "action": "Recessed plate/anchors below finished slab and extended column foot to bearing face"
+    },
+    {
+      "object": "C1 living baseplate",
+      "action": "Recessed plate/anchors below finished slab and extended column foot to bearing face"
+    },
+    {
+      "object": "C2 full height stair A baseplate",
+      "action": "Recessed plate/anchors below finished slab and extended column foot to bearing face"
+    },
+    {
+      "object": "C2 full height stair B baseplate",
+      "action": "Recessed plate/anchors below finished slab and extended column foot to bearing face"
+    },
+    {
+      "object": "Complete staircase",
+      "action": "16 timber treads, 17 closed risers, 3 fitted stringers, newels, balusters, handrails and brackets; connected to finished landing"
+    },
+    {
+      "object": "FF Bed 5 west",
+      "action": "Extended incomplete partition to hall framing; sheet 08 has no side passage here"
+    },
+    {
+      "object": "FF WC bath division",
+      "action": "Extended incomplete partition to hall framing; sheet 08 has no side passage here"
+    },
+    {
+      "object": "FF Bed 5 south",
+      "action": "Rebuilt framing for scheduled leaf plus jamb/reveal allowances; retained hinge-side position"
+    },
+    {
+      "object": "FF Bath hall",
+      "action": "Rebuilt framing for scheduled leaf plus jamb/reveal allowances; retained hinge-side position"
+    },
+    {
+      "object": "Dimension-driven interior layout",
+      "action": "Rebuilt 44 wall runs from architectural chains, including correct bedroom/WIR/linen door locations, theatre boxes and stair enclosure."
+    },
+    {
+      "object": "W06/W07 registration",
+      "action": "Kept1510x1260 W07 within corrected ensuite; preserved written1800 gap to3060-wide W06. Frame and skins regenerated together."
+    },
+    {
+      "object": "Retained illustrative braces",
+      "action": "Seated on revised wall faces and cleared window/door apertures; structural setout remains unverified."
+    },
+    {
+      "object": "Room shell",
+      "action": "318 opening-aware lining pieces; deck retains stair void; ceilings removable"
+    },
+    {
+      "object": "GF North wall | Ground brick veneer",
+      "action": "Trimmed exterior skin corner extension out of garage interior"
+    },
+    {
+      "object": "GF North wall | Wall wrap",
+      "action": "Trimmed exterior skin corner extension out of garage interior"
+    },
+    {
+      "object": "D02 laundry | door leaf",
+      "action": "Replaced structural plywood proxy with finished door timber; schedule D01/D02"
+    },
+    {
+      "object": "D01 double entry | door leaf",
+      "action": "Replaced structural plywood proxy with finished door timber; schedule D01/D02"
+    },
+    {
+      "object": "Interior finish coordination",
+      "action": "Added garage ceiling, glazed D05 corner stacker, finished door material, doorway casings and theatre platform deck/fascias"
+    },
+    {
+      "object": "Entry canopy and alfresco",
+      "action": "Completed matching pitched metal canopy with fascia, soffit and gutter; enclosed exposed alfresco floor edge and added continuous lower soffit"
+    },
+    {
+      "object": "Garage roof",
+      "action": "Completed metal covering on measured T5 pitch, seams, perimeter fascia and gutter; retained roof toggle"
+    },
+    {
+      "object": "Bedroom 5 and upper bathroom entries",
+      "action": "Sheet 08 door proportions, complete wall returns, finished jambs and open painted leaves; geometric portal and lining checks passed"
+    },
+    {
+      "object": "Exterior contacts and visible finishes",
+      "action": {
+        "stair_wall_members_trimmed": [
+          "Powder east | top plate lower",
+          "Powder east | top plate upper",
+          "Powder east | common stud.001",
+          "Powder east | common stud.005",
+          "Powder east | common stud.006",
+          "Powder east | lining",
+          "Powder east | lining.002"
+        ],
+        "stair_obstruction_ray_checks": "PASS",
+        "ground_grade_m": -0.06,
+        "masonry_bearing_strips": 27,
+        "canopy_post_core": "P1 90 x 90 F7 H3 treated pine; S09/S10",
+        "canopy_finish": "Illustrative warm white paint, removable in structural view",
+        "meals_column": "C3 portal north, 200 x 100 x 6 RHS retained; S09/S10. Removable 10 mm illustrative lining.",
+        "entry_door": "Scheduled timber; split double leaves, satin finish and illustrative bronze pulls"
+      }
+    },
+    {
+      "object": "Architectural ceiling/stair finishes",
+      "action": "10 bulkhead zones added; stair enclosure and1m wall handrails; unsupported theatre platform height removed and remains unresolved."
+    },
+    {
+      "object": "Window schedule finishes",
+      "action": "W09 fixed pane, W01 sidelight/3-stack layout, obscure glazing for5 wet-room windows. No runtime blur or refraction."
+    },
+    {
+      "object": "Fixed joinery and fixtures",
+      "action": "622 lightweight parts / 18864 triangles; source15-19; unresolved details remain listed."
+    },
+    {
+      "object": "Claude photo review response",
+      "action": [
+        "Porch now has hollow470x590 masonry piers, rendered side returns/front beam, soffit and concealed roof; P1 timber cores retained.",
+        "Garage exposed fascia/eaves replaced by brick parapet and thin metal cap; covering recessed inside veneer.",
+        "Single garage door slab replaced with six neutral metal panels and five recessed joints.",
+        "Handrail ends return to their wall; open robe towers receive tops at their existing specified2016mm height."
+      ],
+      "unresolved": [
+        "Porch footprint follows retained P1 cores; written pier sizes470x590 used, absolute setout remains provisional.",
+        "Porch parapet3.245 and garage parapet3.65 are temporarily coordinated above existing trusses. Plan heights/NGL and supplier truss datum require reconciliation.",
+        "Theatre floor division remains unresolved; no platform height invented."
+      ]
+    },
+    {
+      "object": "Upper bathroom tiling",
+      "action": "Full-height tiled finishes replace plaster materials; painted skirting removed. All wet-room floor blocks replaced by continuous surfaces with narrow material grout."
+    },
+    {
+      "object": "Photo revision0.4.5",
+      "action": [
+        {
+          "item": "D01 front door registration",
+          "old_centre_y": 5.327108308672905,
+          "new_centre_y": 6.234999999999999,
+          "rough_width": 1.64
+        },
+        {
+          "item": "Laundry linen divider",
+          "frame_width_m": 0.09,
+          "finished_width_m": 0.12
+        },
+        {
+          "item": "Garage veneer in laundry",
+          "new_south_limit_y": 7.98
+        },
+        {
+          "item": "North/east perimeter floor rim",
+          "section_m": [
+            0.045,
+            0.4
+          ],
+          "pieces": 8,
+          "basis": "Complete existing rim around external wall above the void; retained upper/lower wall levels. Connection details remain illustrative."
+        },
+        {
+          "item": "Entry void south fascia",
+          "height_m": 0.419
+        },
+        {
+          "item": "Main roof eave soffits",
+          "pieces": 4,
+          "thickness_m": 0.01
+        },
+        {
+          "item": "Wet room doorway tile continuations",
+          "count": 6,
+          "finish_thickness_m": 0.003
+        },
+        {
+          "item": "Door jamb/casing bake grouping",
+          "material": "VR Plaster junction returns",
+          "geometry": "unchanged"
+        },
+        {
+          "item": "Skirting bake grouping",
+          "material": "VR Plaster skirting trim",
+          "geometry": "unchanged; higher bake density and non-occluding trim"
+        },
+        {
+          "item": "Robe opening junction",
+          "clear_width_m": 0.8,
+          "centre_y": 3.455,
+          "basis": "15mm scaled shift aligns north finished jamb with adjoining wall faceY3.855; no filler overlaps"
+        }
+      ],
+      "limitations": [
+        "Finish colours and hardware product shapes are illustrative.",
+        "D01 horizontal centre is scaled within the written3110 entry; scheduled width retained.",
+        "Floor-zone rim continuation is an illustrative closure of the existing framing system, not an engineered connection design."
+      ]
+    },
+    {
+      "object": "Architectural detail completion046",
+      "action": "Full-height wet finishes,3 actual niches with recorded illustrative trimming,7 mounted fittings, laundry bulkhead."
+    },
+    {
+      "object": "Drainage046",
+      "action": "8 downpipes,3 rainheads,2 spreaders,connected garage/porch channels and3 sumps;90mm pipes; source conflicts explicit."
+    },
+    {
+      "object": "Powder/stair window and C2(F) pier",
+      "action": {
+        "basis": "Written window chains on architectural07, scheduled sizes on11, scaled column/jamb alignment on07/08 and S09. C2(F) full height confirmed by engineering schedule. Absolute jamb registration and steel connections remain illustrative, not a dimensioned engineering setout.",
+        "column_old_x": 20.875703811645508,
+        "column_new_x": 20.708179885864258,
+        "column_shift_mm": -167.5,
+        "upper_window_shift_mm": 0,
+        "powder_window_size_mm": [
+          810,
+          2120
+        ],
+        "upper_window_size_mm": [
+          850,
+          1800
+        ],
+        "powder_window_position_unchanged": false,
+        "window_moves": [
+          {
+            "window": "W05 meals",
+            "old_centre_x": 10.809425354003906,
+            "new_centre_x": 10.927679885864256,
+            "shift_mm": 118.3
+          },
+          {
+            "window": "W04 kitchen",
+            "old_centre_x": 16.595975875854492,
+            "new_centre_x": 16.75767988586426,
+            "shift_mm": 161.7
+          },
+          {
+            "window": "W03 powder",
+            "old_centre_x": 20.958145141601562,
+            "new_centre_x": 21.15767988586426,
+            "shift_mm": 199.5
+          },
+          {
+            "window": "W02 entry",
+            "old_centre_x": 25.0754976272583,
+            "new_centre_x": 25.927679885864258,
+            "shift_mm": 852.2
+          }
+        ],
+        "written_window_gaps_m": [
+          3.72,
+          3.24,
+          3.96
+        ],
+        "registration_status": "SCALED: C2 centre within20.69..20.73 range; W10 original position retained. Requires drawing coordination for construction.",
+        "stair_layout_unchanged": true,
+        "updated_facade_and_wrap_panels": [
+          "GF North wall | Ground brick veneer.002",
+          "GF North wall | Ground brick veneer.003",
+          "GF North wall | Ground brick veneer.004",
+          "GF North wall | Ground brick veneer.005",
+          "GF North wall | Ground brick veneer.006",
+          "GF North wall | Ground brick veneer.007",
+          "GF North wall | Ground brick veneer.008",
+          "GF North wall | Ground brick veneer.009",
+          "GF North wall | Ground brick veneer.010",
+          "GF North wall | Ground brick veneer.011",
+          "GF North wall | Ground brick veneer.012",
+          "GF North wall | Ground brick veneer.013",
+          "GF North wall | Ground brick veneer.014",
+          "GF North wall | Wall wrap.002",
+          "GF North wall | Wall wrap.003",
+          "GF North wall | Wall wrap.004",
+          "GF North wall | Wall wrap.005",
+          "GF North wall | Wall wrap.006",
+          "GF North wall | Wall wrap.007",
+          "GF North wall | Wall wrap.008",
+          "GF North wall | Wall wrap.009",
+          "GF North wall | Wall wrap.010",
+          "GF North wall | Wall wrap.011",
+          "GF North wall | Wall wrap.012",
+          "GF North wall | Wall wrap.013",
+          "GF North wall | Wall wrap.014"
+        ],
+        "connected_head_members": [
+          "ST1 150x100x6 RHS profile 1",
+          "ST1 150x100x6 RHS profile 2",
+          "ST1 150x100x6 RHS profile 3",
+          "ST1 150x100x6 RHS profile 4"
+        ],
+        "timber_clearance_trims": [
+          "GF North wall | bottom plate.001",
+          "GF North wall | top plate lower",
+          "GF North wall | top plate upper",
+          "GF North wall | W03 powder king stud replaced by steel pier",
+          "GF North wall | W03 powder jack stud replaced by steel pier",
+          "GF North wall | W03 powder LVL lintel",
+          "GF North wall | nogging.020",
+          "GF North wall | nogging.052",
+          "FF North wall | bottom plate",
+          "FF North wall | top plate lower",
+          "FF North wall | top plate upper",
+          "FF North wall | W10 stair king stud.001 replaced by steel pier",
+          "FF North wall | W10 stair jack stud.001 replaced by steel pier",
+          "FF North wall | W10 stair LVL lintel",
+          "FF North wall | W10 stair sill"
+        ],
+        "result": "PASS",
+        "window_checks": [
+          {
+            "window": "W03 powder",
+            "clear_glazing_rays": 30
+          },
+          {
+            "window": "W10 stair",
+            "clear_glazing_rays": 30
+          }
+        ],
+        "column_internal_clearance_rays": 48,
+        "glazing_samples": [
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -20.86157974243164,
+              "y": 0.4873999357223511,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -20.86157974243164,
+              "y": 0.4873999357223511,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -20.86157974243164,
+              "y": 1.3399999737739563,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -20.86157974243164,
+              "y": 1.3399999737739563,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -20.86157974243164,
+              "y": 2.1926000118255615,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -20.86157974243164,
+              "y": 2.1926000118255615,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -20.981430053710938,
+              "y": 0.4873999357223511,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -20.981430053710938,
+              "y": 0.4873999357223511,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -20.981430053710938,
+              "y": 1.3399999737739563,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -20.981430053710938,
+              "y": 1.3399999737739563,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -20.981430053710938,
+              "y": 2.1926000118255615,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -20.981430053710938,
+              "y": 2.1926000118255615,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -21.15768051147461,
+              "y": 0.4873999357223511,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -21.15768051147461,
+              "y": 0.4873999357223511,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -21.15768051147461,
+              "y": 1.3399999737739563,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -21.15768051147461,
+              "y": 1.3399999737739563,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -21.15768051147461,
+              "y": 2.1926000118255615,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -21.15768051147461,
+              "y": 2.1926000118255615,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -21.33393096923828,
+              "y": 0.4873999357223511,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -21.33393096923828,
+              "y": 0.4873999357223511,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -21.33393096923828,
+              "y": 1.3399999737739563,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -21.33393096923828,
+              "y": 1.3399999737739563,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -21.33393096923828,
+              "y": 2.1926000118255615,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -21.33393096923828,
+              "y": 2.1926000118255615,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -21.45378128051758,
+              "y": 0.4873999357223511,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -21.45378128051758,
+              "y": 0.4873999357223511,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -21.45378128051758,
+              "y": 1.3399999737739563,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -21.45378128051758,
+              "y": 1.3399999737739563,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -21.45378128051758,
+              "y": 2.1926000118255615,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W03 powder",
+            "position": {
+              "x": -21.45378128051758,
+              "y": 2.1926000118255615,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -19.925778427124023,
+              "y": 3.8017999649047853,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -19.925778427124023,
+              "y": 3.8017999649047853,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -19.925778427124023,
+              "y": 4.519999980926514,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -19.925778427124023,
+              "y": 4.519999980926514,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -19.925778427124023,
+              "y": 5.238199996948242,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -19.925778427124023,
+              "y": 5.238199996948242,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.052428245544434,
+              "y": 3.8017999649047853,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.052428245544434,
+              "y": 3.8017999649047853,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.052428245544434,
+              "y": 4.519999980926514,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.052428245544434,
+              "y": 4.519999980926514,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.052428245544434,
+              "y": 5.238199996948242,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.052428245544434,
+              "y": 5.238199996948242,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.238677978515625,
+              "y": 3.8017999649047853,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.238677978515625,
+              "y": 3.8017999649047853,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.238677978515625,
+              "y": 4.519999980926514,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.238677978515625,
+              "y": 4.519999980926514,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.238677978515625,
+              "y": 5.238199996948242,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.238677978515625,
+              "y": 5.238199996948242,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.424927711486816,
+              "y": 3.8017999649047853,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.424927711486816,
+              "y": 3.8017999649047853,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.424927711486816,
+              "y": 4.519999980926514,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.424927711486816,
+              "y": 4.519999980926514,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.424927711486816,
+              "y": 5.238199996948242,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.424927711486816,
+              "y": 5.238199996948242,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.551577529907227,
+              "y": 3.8017999649047853,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.551577529907227,
+              "y": 3.8017999649047853,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.551577529907227,
+              "y": 4.519999980926514,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.551577529907227,
+              "y": 4.519999980926514,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.551577529907227,
+              "y": 5.238199996948242,
+              "z": -7.6
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          {
+            "window": "W10 stair",
+            "position": {
+              "x": -20.551577529907227,
+              "y": 5.238199996948242,
+              "z": -8.2
+            },
+            "direction": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          }
+        ],
+        "head_connection": "ST1 meets post east face; 1B2, stair trimmer and adjacent joist butt against its inner face. Redundant timber rim replaced by steel with 45 mm bearing pack above.",
+        "extended_head_overlap_check": "PASS"
+      }
+    }
+  ],
+  "remaining": "Other position-audit items remain open; this is a partial coordinated revision."
+}

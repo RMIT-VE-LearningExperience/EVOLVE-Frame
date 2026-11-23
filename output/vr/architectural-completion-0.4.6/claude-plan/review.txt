@@ -1,0 +1,63 @@
+# Plan review: 0.4.6 architectural completion
+
+**Verdict:** the plan is sound in intent and can proceed to the drawing-findings gate, but six gaps should be closed before modelling starts. This is not engineering or design acceptance.
+
+## What I inspected
+- **Read:** `work-plan.txt`, `baseline-items.json`, `vr_architectural_finishes.py`, `vr_bathroom_tiles.py`, sheet-08 and sheet-17 at display resolution, and `vr_fixed_fitout.py` lines 1–31 and 175–304, plus one grep of that file.
+- **Not inspected:** sheets 02–07, 11–12, 14–16, 18–19; the 0.4.5 blend, Unity scene or renders; any downpipe or gutter script; the output JSON reports; the fitout post-pass near line 368.
+- **Consequence:** "current model" statements below are script facts, not measured geometry. I checked nothing about downpipes beyond the sheet 08 markers.
+
+## Gaps in the plan
+1. **Stale baseline rows.**
+   - BH-ALL-01 says "No 340 bulkhead objects exist", but the finishes script creates 10 bulkhead zones.
+   - RM-FF-14 still quotes a 4389.8 span beside a note saying it was rebuilt to within 1 mm.
+   - Several wet-room rows carry boilerplate first-pass notes.
+   - Step 7 should re-measure every row; DP rows saying "NONE" need a current-model check before being repeated.
+2. **Orientation naming conflict.** Sheet 08's north arrow points page-left. The script's "Theatre west" band is the retreat (north) side and its "south" band is the west side, while the baseline uses true compass. Fix the names or add a mapping before the findings stage.
+3. **Upper-floor vertical datum.** Theatre and hall bulkheads sit at z 5.390–5.730, but the fitout uses a 3.159 deck. Soffit clearance is therefore about 2231, not the 2250 claimed in the script basis. The 2340 door head would intrude about 109 mm in the model (90 on paper). Step 5 should state the datum for each measurement.
+4. **Wet-room scope is not enumerated.** `vr_bathroom_tiles.py` covers only the sheet 19 upper bathroom. "Full-height wet-room finishes" needs a room list (powder, ensuite, ensuite WC, Bath 2, upper WC) and a source sheet for each.
+5. **Niche and tile build order.** The tile pass re-materials whole lining objects by name and bounds and asserts six zones. Cutting niches will split those objects, so the plan should state the order and update the assertions.
+6. **Downpipe prerequisites.** The plan does not say whether eave or box gutters exist to connect to, how pipes get from the eave line back to the wall face, or how they terminate at ground.
+
+## Dangerous assumptions checked on the sheets
+
+**Theatre (sheet 08)**
+- **Written:** chains 90|330|90|3880 and 420|90|3480|90|420; "2300 PLATFORM | 2000"; in-plan "420" and "510"; "340mm DROP DOWN BULKHEAD"; "STEP DOWN" arrow; door "820 X 2340H".
+- **No platform height appears on this sheet.** The 420 and 510 are horizontal widths, so the script's removal of the 420 rise is correct.
+- **High side is unresolved.** The 2300 platform zone is at the door and retreat end; the arrow direction is ambiguous at this resolution.
+- **Section A-A will probably not help.** Its marker cuts through Bath/Bed 3, not the theatre (inference; sheet 12 not read).
+- **The 90 mm inboard elements are unresolved.** They are dimensioned on three sides, not the W8 side, and the 3880/3480 inner spans are also labelled "THEATRE". Full-height lining versus bulkhead fascia is open.
+- **W8-side band depth is unwritten.** The script's roughly 500 is scaled and correctly marked provisional.
+- **Hall bulkhead extent is a scaled inference.** The leader meets a long dashed line that may coincide with roof-over linework. It needs a zoomed crop.
+
+**Laundry (sheet 17, Elevation B)**
+- **Written:** label "300MM PLASTER BULKHEAD"; vertical chain 340|800|700|900, which sums to the 2740 ceiling height written on Elevation A.
+- **340 is the defensible basis.** It closes the chain, matches the 340 general note on sheet 08, and matches the existing overhead tops at 2.400.
+- **The conflict stays logged.** "300" may be an error or may mean horizontal projection; nothing on the sheet settles it.
+- **Projection is unwritten.** The laundry plan shows no bulkhead hatch. Matching the model's 380 overhead depth would be an inference.
+- **Length is 3090 nominal**, drawn across the stacked dryer/WM bay too. The model run is 3.07.
+
+**Ensuite niche and fittings (sheet 17)**
+- **Niche:** Elevation A gives 400|1000|400 across the 1800 wall, with 1200 then 450 vertically. The 1200 is floor to niche underside and 450 is the niche height; a scaled check agrees (head about 1650). The second "W" in "1000W X 450W" reads as a typo for H.
+- **Niche depth is not given.** The wall appears internal on the plan, which limits the recess to the stud depth.
+- **Datum is unstated.** The model shower is 1770 clear, so the 400s are presumably frame-to-frame. The findings should state which.
+- **Mixer** (550 across, 1000 high) sits on the same wall, below the niche.
+- **Towel ring:** 1200 high is written; horizontal position is scaled only.
+- **Toilet paper holder:** 900 high, 700 from the cistern-end wall, both written.
+- **The "50 recessed" base was not found on sheet 17.** It is unverified by me, and must not be applied to the upper-floor showers without a source: recessing into timber floor structure is a structural flag.
+
+## Safe to implement
+- Laundry bulkhead at 340 drop over the bench run, with projection flagged illustrative and the 300/340 conflict retained.
+- Ensuite niche as a real recess, with trimming of cut studs flagged and no breakthrough of the far-side lining.
+- Towel ring and paper holders at their written heights, with scaled positions labelled as such.
+- The 13 downpipe instances, 90 mm minimum diameter, straps at no more than 1800 centres, terminated visibly at ground. I count 8 DP, 3 DP/RWH, 2 S/DP and three sump symbols on sheet 08, which supports two garage sumps on that sheet (DP-15).
+- Keep the theatre door bay omitted and the platform height null.
+
+## Acceptance checks to add
+- Bulkhead soffit and drop measured from a named floor datum, with each object's bounds compared to its basis.
+- Laundry bulkhead underside against overhead tops, with no coplanar overlap at 2.400.
+- Niches: opening dimensions, sill and head heights, recess depth less than the wall core, far-side lining unchanged, five tiled inner faces, no surface-mounted box.
+- Fittings: contact with the wall face and height to a stated reference point.
+- Downpipes: count 8/3/2, wall contact, straps at 1800 or less, no ray hits on the 19 windows or the doors, each top joined to a gutter or rainwater head.
+- Theatre: platform height still null, door still 2340, conflict flags present in the JSON.
+- The 26 spans, 20 portals, 19 windows and eight visibility states unchanged.

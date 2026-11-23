@@ -1,0 +1,345 @@
+{
+  "status": "PASS",
+  "scope": "26 written frame-face spans,9 rays through each rebuilt opening, and staircase member extents. Does not certify furnishings, all external geometry, structural design, or unresolved theatre step/bulkhead coordination.",
+  "dimensions": [
+    {
+      "name": "Powder width",
+      "drawing_mm": 1600,
+      "mesh_mm": 1600.0,
+      "pass": true
+    },
+    {
+      "name": "Powder depth",
+      "drawing_mm": 2590,
+      "mesh_mm": 2590.0,
+      "pass": true
+    },
+    {
+      "name": "Entry depth",
+      "drawing_mm": 3110,
+      "mesh_mm": 3110.0,
+      "pass": true
+    },
+    {
+      "name": "Bed1 width",
+      "drawing_mm": 4000,
+      "mesh_mm": 4000.0,
+      "pass": true
+    },
+    {
+      "name": "Bed1 depth",
+      "drawing_mm": 4500,
+      "mesh_mm": 4500.0,
+      "pass": true
+    },
+    {
+      "name": "WIR1 width",
+      "drawing_mm": 2270,
+      "mesh_mm": 2270.0,
+      "pass": true
+    },
+    {
+      "name": "WIR1 depth",
+      "drawing_mm": 3780,
+      "mesh_mm": 3780.0,
+      "pass": true
+    },
+    {
+      "name": "Ensuite width",
+      "drawing_mm": 1800,
+      "mesh_mm": 1800.0,
+      "pass": true
+    },
+    {
+      "name": "Ensuite depth",
+      "drawing_mm": 3780,
+      "mesh_mm": 3780.0,
+      "pass": true
+    },
+    {
+      "name": "Bed4 width",
+      "drawing_mm": 4680,
+      "mesh_mm": 4680.0,
+      "pass": true
+    },
+    {
+      "name": "Bed4 depth",
+      "drawing_mm": 3200,
+      "mesh_mm": 3200.0,
+      "pass": true
+    },
+    {
+      "name": "UpperWC width",
+      "drawing_mm": 1000,
+      "mesh_mm": 1000.0,
+      "pass": true
+    },
+    {
+      "name": "UpperWC depth",
+      "drawing_mm": 2110,
+      "mesh_mm": 2110.0,
+      "pass": true
+    },
+    {
+      "name": "Upperbath width",
+      "drawing_mm": 2000,
+      "mesh_mm": 2000.0,
+      "pass": true
+    },
+    {
+      "name": "Bed5 width",
+      "drawing_mm": 4310,
+      "mesh_mm": 4310.0,
+      "pass": true
+    },
+    {
+      "name": "Bed5 depth",
+      "drawing_mm": 3200,
+      "mesh_mm": 3200.0,
+      "pass": true
+    },
+    {
+      "name": "Bath2 width",
+      "drawing_mm": 2200,
+      "mesh_mm": 2200.0,
+      "pass": true
+    },
+    {
+      "name": "Bath2 depth",
+      "drawing_mm": 2110,
+      "mesh_mm": 2110.0,
+      "pass": true
+    },
+    {
+      "name": "Bed2 width excluding robe",
+      "drawing_mm": 3310,
+      "mesh_mm": 3310.0,
+      "pass": true
+    },
+    {
+      "name": "Bed2 depth",
+      "drawing_mm": 3200,
+      "mesh_mm": 3200.0,
+      "pass": true
+    },
+    {
+      "name": "Study width",
+      "drawing_mm": 2400,
+      "mesh_mm": 2400.0,
+      "pass": true
+    },
+    {
+      "name": "Study depth",
+      "drawing_mm": 3200,
+      "mesh_mm": 3200.0,
+      "pass": true
+    },
+    {
+      "name": "Retreat width",
+      "drawing_mm": 3000,
+      "mesh_mm": 3000.0,
+      "pass": true
+    },
+    {
+      "name": "Theatre width",
+      "drawing_mm": 4300,
+      "mesh_mm": 4300.0,
+      "pass": true
+    },
+    {
+      "name": "Theatre depth",
+      "drawing_mm": 4500,
+      "mesh_mm": 4500.0,
+      "pass": true
+    },
+    {
+      "name": "Upper hall width",
+      "drawing_mm": 1120,
+      "mesh_mm": 1120.0,
+      "pass": true
+    }
+  ],
+  "portals": [
+    {
+      "wall": "Powder south",
+      "opening": "Powder door",
+      "usage": "walk-through",
+      "probe_depth_m": 0.45,
+      "rays": 9,
+      "obstructions": [],
+      "pass": true
+    },
+    {
+      "wall": "Entry bedroom division",
+      "opening": "Bedroom 1 door",
+      "usage": "walk-through",
+      "probe_depth_m": 0.45,
+      "rays": 9,
+      "obstructions": [],
+      "pass": true
+    },
+    {
+      "wall": "Ensuite WIR division",
+      "opening": "Ensuite access",
+      "usage": "walk-through",
+      "probe_depth_m": 0.45,
+      "rays": 9,
+      "obstructions": [],
+      "pass": true
+    },
+    {
+      "wall": "WIR bedroom division",
+      "opening": "WIR access",
+      "usage": "walk-through",
+      "probe_depth_m": 0.45,
+      "rays": 9,
+      "obstructions": [],
+      "pass": true
+    },
+    {
+      "wall": "Ensuite WC partition",
+      "opening": "WC door",
+      "usage": "walk-through",
+      "probe_depth_m": 0.45,
+      "rays": 9,
+      "obstructions": [],
+      "pass": true
+    },
+    {
+      "wall": "FF Bed 4 and robes",
+      "opening": "WIR4 slider",
+      "usage": "walk-through",
+      "probe_depth_m": 0.45,
+      "rays": 9,
+      "obstructions": [],
+      "pass": true
+    },
+    {
+      "wall": "FF Robes hall wall",
+      "opening": "WIR3 slider",
+      "usage": "walk-through",
+      "probe_depth_m": 0.45,
+      "rays": 9,
+      "obstructions": [],
+      "pass": true
+    },
+    {
+      "wall": "FF Bed 4 WC division",
+      "opening": "Bed 4 door",
+      "usage": "walk-through",
+      "probe_depth_m": 0.45,
+      "rays": 9,
+      "obstructions": [],
+      "pass": true
+    },
+    {
+      "wall": "FF Bath hall",
+      "opening": "Bathroom door",
+      "usage": "walk-through",
+      "probe_depth_m": 0.45,
+      "rays": 9,
+      "obstructions": [],
+      "pass": true
+    },
+    {
+      "wall": "FF Bath hall",
+      "opening": "Upper linen sliders",
+      "usage": "storage aperture",
+      "probe_depth_m": 0.13,
+      "rays": 9,
+      "obstructions": [],
+      "pass": true
+    },
+    {
+      "wall": "FF WC south",
+      "opening": "WC door",
+      "usage": "walk-through",
+      "probe_depth_m": 0.45,
+      "rays": 9,
+      "obstructions": [],
+      "pass": true
+    },
+    {
+      "wall": "FF Bed 5 west",
+      "opening": "Bed 5 robe sliders",
+      "usage": "storage aperture",
+      "probe_depth_m": 0.13,
+      "rays": 9,
+      "obstructions": [],
+      "pass": true
+    },
+    {
+      "wall": "FF Bed 5 south",
+      "opening": "Bed 5 door",
+      "usage": "walk-through",
+      "probe_depth_m": 0.45,
+      "rays": 9,
+      "obstructions": [],
+      "pass": true
+    },
+    {
+      "wall": "FF Study retreat division",
+      "opening": "Study door",
+      "usage": "walk-through",
+      "probe_depth_m": 0.45,
+      "rays": 9,
+      "obstructions": [],
+      "pass": true
+    },
+    {
+      "wall": "FF Bath 2 bedroom wall",
+      "opening": "Bath 2 door",
+      "usage": "walk-through",
+      "probe_depth_m": 0.45,
+      "rays": 9,
+      "obstructions": [],
+      "pass": true
+    },
+    {
+      "wall": "FF Bath 2 east",
+      "opening": "Bed 2 door",
+      "usage": "walk-through",
+      "probe_depth_m": 0.45,
+      "rays": 9,
+      "obstructions": [],
+      "pass": true
+    },
+    {
+      "wall": "FF Theatre north",
+      "opening": "Theatre entry",
+      "usage": "walk-through",
+      "probe_depth_m": 0.45,
+      "rays": 9,
+      "obstructions": [],
+      "pass": true
+    },
+    {
+      "wall": "Ensuite WIR second skin",
+      "opening": "Ensuite access second skin",
+      "usage": "walk-through",
+      "probe_depth_m": 0.45,
+      "rays": 9,
+      "obstructions": [],
+      "pass": true
+    },
+    {
+      "wall": "FF Bed 2 robe front",
+      "opening": "Bed 2 robe sliders",
+      "usage": "storage aperture",
+      "probe_depth_m": 0.13,
+      "rays": 9,
+      "obstructions": [],
+      "pass": true
+    },
+    {
+      "wall": "FF Bed 3 hall stub",
+      "opening": "Bed 3 door",
+      "usage": "walk-through",
+      "probe_depth_m": 0.45,
+      "rays": 9,
+      "obstructions": [],
+      "pass": true
+    }
+  ],
+  "failures": []
+}

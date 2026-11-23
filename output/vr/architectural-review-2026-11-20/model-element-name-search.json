@@ -1,0 +1,123 @@
+{
+  "scope": "Name-index evidence only; absence of a name is not by itself proof of absent geometry. Cross-check generator scripts and gallery images.",
+  "groups": {
+    "bulkheads": {
+      "count": 5,
+      "object_names": [
+        "D05 meals bulkhead",
+        "D05 meals bulkhead.001",
+        "D05 family bulkhead",
+        "D05 meals bulkhead end",
+        "D05 family bulkhead end"
+      ],
+      "search_terms": [
+        "bulkhead"
+      ]
+    },
+    "downpipes_rainheads": {
+      "count": 0,
+      "object_names": [],
+      "search_terms": [
+        "downpipe",
+        "rainhead",
+        "rainwater head",
+        "spreader"
+      ]
+    },
+    "joinery_fixtures": {
+      "count": 0,
+      "object_names": [],
+      "search_terms": [
+        "vanity",
+        "cabinet",
+        "island",
+        "toilet",
+        "washbasin",
+        "shower screen",
+        "pantry shelf",
+        "laundry trough"
+      ]
+    },
+    "stair": {
+      "count": 69,
+      "object_names": [
+        "Stair finished tread 01",
+        "Stair closed riser 01",
+        "Stair finished tread 02",
+        "Stair closed riser 02",
+        "Stair finished tread 03",
+        "Stair closed riser 03",
+        "Stair finished tread 04",
+        "Stair closed riser 04",
+        "Stair finished tread 05",
+        "Stair closed riser 05",
+        "Stair finished tread 06",
+        "Stair closed riser 06",
+        "Stair finished tread 07",
+        "Stair closed riser 07",
+        "Stair finished tread 08",
+        "Stair closed riser 08",
+        "Stair finished tread 09",
+        "Stair closed riser 09",
+        "Stair finished tread 10",
+        "Stair closed riser 10",
+        "Stair finished tread 11",
+        "Stair closed riser 11",
+        "Stair finished tread 12",
+        "Stair closed riser 12",
+        "Stair finished tread 13",
+        "Stair closed riser 13",
+        "Stair finished tread 14",
+        "Stair closed riser 14",
+        "Stair finished tread 15",
+        "Stair closed riser 15",
+        "Stair finished tread 16",
+        "Stair closed riser 16",
+        "Stair landing riser",
+        "Stair fitted stringer 1",
+        "Stair fitted stringer 2",
+        "Stair fitted stringer 3",
+        "Stair oak handrail",
+        "Stair landing handrail",
+        "Stair baluster 01",
+        "Stair baluster 02",
+        "Stair baluster 03",
+        "Stair baluster 04",
+        "Stair baluster 05",
+        "Stair baluster 06",
+        "Stair baluster 07",
+        "Stair baluster 08",
+        "Stair baluster 09",
+        "Stair baluster 10",
+        "Stair baluster 11",
+        "Stair baluster 12",
+        "Stair baluster 13",
+        "Stair baluster 14",
+        "Stair baluster 16",
+        "Stair baluster 17",
+        "Stair baluster 18",
+        "Stair baluster 19",
+        "Stair baluster 20",
+        "Stair baluster 21",
+        "Stair baluster 22",
+        "Stair baluster 23",
+        "Stair baluster 24",
+        "Stair baluster 25",
+        "Stair baluster 26",
+        "Stair baluster 27",
+        "Stair baluster 28",
+        "Stair baluster 29",
+        "Stair baluster 30",
+        "Stair baluster 31",
+        "Stair wall handrail"
+      ],
+      "search_terms": [
+        "tread",
+        "riser",
+        "stringer",
+        "handrail",
+        "baluster"
+      ]
+    }
+  }
+}

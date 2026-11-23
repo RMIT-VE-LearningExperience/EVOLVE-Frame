@@ -1,0 +1,41 @@
+ARCHITECTURAL FINDINGS / PROPOSED MODEL DECISIONS - 0.4.6
+Evidence: architectural sheets 02,04,07,08,11,12,15,17,18,19 visually reviewed; current 0.4.5 object bounds in baseline-objects.json. Model is an educational reconstruction, not construction documentation.
+
+DATUM / DIRECTIONS
+Page left = north, top = east, right = south, bottom = west. Blender X right,Y up,Z height. Existing named north/south/west/east objects use page directions, not compass. Keep identifiers for compatibility; add true-cardinal metadata. GF datum0, FF structural3.140, deck3.159, tile3.162. FF ceilings5.730, bulkhead soffits5.390:2231 above deck,2250 above structural. Do not silently reset the whole model datum.
+
+BULKHEADS
+10 existing zones actually measured in baseline; original checklist NONE statements are stale. Laundry missing. Sheet17 elevation B chain340+800+700+900=2740, consistent overhead top2400. Use340 drop,3090 nominal run (3070 within finishes),380 depth matching current cupboards. Depth illustrative; conflicting300 label remains open. Include appliance bay. No platform rise specified: keep theatre floor flat/unresolved; preserve2340 door and omitted door bay, don't pretend2250 soffit clears it. Theatre W08 head5420 is30 above soffit5390; need window-side soffit recess/coordination rather than hiding glazing. Section12 misses theatre. Kitchen/nook/hall extents remain scaled, not written acceptance.
+
+WET FINISHES AND FITTINGS
+Powder: sheet15 full-height tiles drawn A/B/C; no elevation D supplied. Tile full room as visual completion, east wall coverage inference. TPH900 high,600 from west/cistern wall on north/window wall. Existing vanity1300 visually modelled; not part of cabinetry fabrication scope.
+Ensuite/WC: sheet17 full-height tiles A-E. Niche1000 wide450 HIGH despite450W typo, underside1200/head1650, centred on1800 nominal north/page-top wall (400 each nominal side;385 finished in1770 room). Mixer550/1000 below it. Towel ring1200 high on east/page-right wall, horizontal position scaled. TPH south/page-bottom wall900 high,700 from west/cistern wall.
+Bath2: sheet18 niche on WEST/page-left wall,600 wide450 high, sill1200,150 from north corner nominal; use150 finished side offset. Towel rail1200 high east/page-right wall beside vanity; TPH900 high south wall,700 from west/cistern wall. Full-height tiles all four walls per A-D.
+Upper bathroom: sheet19 niche EAST/page-right wall,900 wide450 high,sill1200;200 each nominal end within1300 shower. Towel rail1200 on west/page-left wall, horizontal position scaled. Existing full-height tiles retained.
+Upper WC: sheet19 A full-height tile window/end wall; B shows only100 high tiled skirting. Do not tile all walls full-height. TPH900 high on east/page-right side wall700 from cistern/end wall.
+Floor height reference for fittings/niches: finished tile surface GF.003/FF3.162. Shapes and tile module600x300 illustrative. Mounts contact the finished wall, not floating. Fittings must follow existing removable vanities/showers/toilets groups.
+
+NICHE CONSTRUCTION PROPOSAL FOR REVIEW
+All three openings overlap generated common timber studs/noggins. These studs were illustrative reconstruction, not detailed engineering setout. Create real lining openings and five tiled inner faces,60mm clear recess depth. Explicitly reframe only intersecting generated common studs/noggins with visible full-depth timber jambs/sill/head; no steel, primary beams, top/bottom plates or far-side lining removed. Record every changed member and mark trimming sections/connection engineering unresolved, not accepted. Opening checks must raycast unobstructed to back and confirm adjacent far-side lining unchanged. Build tiles first, then niche cut; original six-zone upper-bath assertion remains before cuts, final coverage/niche checks after. Shower slab/floor recess50 is NOT niche depth; retain unresolved floor recess until slab/floor coordination rather than lowering whole shower fixtures.
+
+DRAINAGE
+Current 9639-object model has main eave gutters, no pipes/rainheads, no concealed garage/porch box gutters. Main gutter baseZ5.5555, north/page-top centreY8.50,south/page-bottomY-.62,west/page-leftX5.76,east/page-rightX27.61. Garage roof slopes toY2.425 lowedgeZ3.007; porch slopes toX28.405 lowedgeZ3.103. Add continuous internal box gutters at these low edges, with3 sumps300x300x150 (two garage sheet08/14, one porch). Trim roof covering to gutter edge instead of overlaying channel on it. Sump routes through parapet to external rainheads are inferred but modelled connected.
+Sheet08 eight DP,three DP/RWH,two S/DP. Above-ground reconstruction; no underground network invented. 90mm pipes, straps <=1800 centre spacing. Model round routes with low-sided joined elbows, not disconnected cylinders. S/DP terminate on lower roofs with spreader bars, not at ground.
+Registration from symbols/adjacent walls, not label text anchors. Coordinates below are proposed Blender metres and remain scaled unless stated:
+DP01 east/T wall: X6.73,Y8.10 (before laundry door).
+DP02 east/T wall: X15.23,Y8.10 (between W05/W04).
+DP03 east/T wall: X26.59,Y8.10 (clear end nib; source scaled symbol near26.3 conflicts retained W02 ending26.33, so adjusted within end nib).
+DP04 west/B wall: X6.425,Y-.32 against alfresco pier.
+DP05 west/B wall: X13.12,Y-.22 at family end.
+DP06 west/B wall: upperX19.30, lowerX18.14. GF07 andFF08/roof04 disagree. Provisional above-window dogleg in floor bandZ2.65-3.05 avoids W07 (X18.71..20.20,head2.40); both source endpoints remain in register, route inferred.
+DP07 west/B wall: X26.50,Y-.22.
+DP08 south/R wall: X27.21,Y.18 beside W01 (glass startsY.565). 750 annotation appears window set-back from bottom outer-wall edge, NOT dimension to DP centre; don't assert750 pipe position.
+DP09 porch DP/RWH: X28.20,Y8.20, connect east/T-end sump.
+DP10 garage DP/RWH: X.28,Y2.25, connect north/L-end sump.
+DP11 garage DP/RWH: X6.05,Y2.25, connect south/R-end sump.
+DP12 upper north/L S/DP: X6.16,Y7.65 onto garage roof; no long ground drop.
+DP13 upper south/R S/DP: X27.20,Y7.65 onto porch roof; no long ground drop.
+Wall offset must vary at brick/render ledge and straps connect actual faces; pipe tops dogleg back from eave outlets. Ground lines extend to visible ground/slab datum; connection design below grade unresolved. Three sump count follows08; second garage absent on04 remains cross-sheet inconsistency.
+
+ACCEPTANCE
+Need measured new-geometry JSON, source-to-object mapping, niche openings/back/clearance, far-side lining checks, recorded timber changes, mounted fitting heights, bulkhead contact/clearance,8/3/2 pipe count,3 sumps,pipe-window/door envelope exclusion and connectivity,structural-only visibility. Existing26spans/20portals/19windows regressions. Actual Unity captures and Claude final review. Not a309-item whole-plan acceptance.

@@ -1,0 +1,1089 @@
+--------- beginning of main
+11-21 09:49:31.323 14404 14404 I zygote64: setSvpTask pid 14404 tid 14404 pri 3 packageName au.edu.evolve.framelab fg 1 startType 0
+11-21 09:49:31.323 14404 14404 I zygote64: setSvpFgState tid 14404 fg 1
+11-21 09:49:31.316 14404 14404 W usap64  : type=1400 audit(0.0:79015): avc:  denied  { write } for  name="syseventsw" dev="tmpfs" ino=1286 scontext=u:r:zygote:s0 tcontext=u:object_r:syseventsw_socket:s0 tclass=sock_file permissive=0
+11-21 09:49:31.316 14404 14404 W usap64  : type=1400 audit(0.0:79016): avc:  denied  { write } for  name="syseventsw" dev="tmpfs" ino=1286 scontext=u:r:zygote:s0 tcontext=u:object_r:syseventsw_socket:s0 tclass=sock_file permissive=0
+11-21 09:49:31.334 14404 14404 I evolve.framelab: Late-enabling -Xcheck:jni
+11-21 09:49:31.348 14404 14404 I evolve.framelab: Using CollectorTypeCC GC.
+--------- beginning of system
+11-21 09:49:31.366 14404 18543 I ActivityThread: onBindApplication, processName: au.edu.evolve.framelab, displayId: -1, initDensityDpi: 640
+11-21 09:49:31.377 14404 18543 I SysMonitorFwBridge: sISysMonitorFwFactory = android.app.SysMonitorFwFactoryImpl@2bb9015
+11-21 09:49:31.378 14404 14404 I LoadedApk: add sharememory/verifytool jar
+11-21 09:49:31.381 14404 14404 W ziparchive: Unable to open '/data/app/~~uBpZtWY7H8hDQh8ey9748A==/au.edu.evolve.framelab-4TnZ7tO52i6fBfqej8_Bhg==/base.dm': No such file or directory
+11-21 09:49:31.381 14404 14404 W ziparchive: Unable to open '/data/app/~~uBpZtWY7H8hDQh8ey9748A==/au.edu.evolve.framelab-4TnZ7tO52i6fBfqej8_Bhg==/base.dm': No such file or directory
+11-21 09:49:31.392 14404 14404 E ANDR-BPERF-JNI: com.bytedance.util.BPerformance: loading JNI
+11-21 09:49:31.392 14404 14404 I Perf    : Connecting to perf service.
+11-21 09:49:31.403 14404 14404 I evolve.framelab: hprofopt setDumpFlag: 0
+11-21 09:49:31.403 14404 14404 W ActivityThread: notifyAppLaunchStatus au.edu.evolve.framelab com.unity3d.player.UnityPlayerActivity
+11-21 09:49:31.406 14404 14404 I ActivityThread: updateApplicationDisplay from: -1 to: 0
+11-21 09:49:31.417 14404 14404 E SYS_DEFAULT_LOG: class android.app.ISysMonitorFwFactory$8|IRecoverActions|setCurActivity|SYS_DEFAULT_FUN_CONTENT
+11-21 09:49:31.417 14404 14404 E SYS_DEFAULT_LOG: class android.app.ISysMonitorFwFactory$8|IRecoverActions|setCurActivity|SYS_DEFAULT_FUN_CONTENT
+11-21 09:49:31.457 14404 14404 I IL2CPP  : JNI_OnLoad
+11-21 09:49:31.474 14404 14404 I Unity   : resumeUnity
+11-21 09:49:31.480 14404 14404 E SYS_DEFAULT_LOG: class android.app.ISysMonitorFwFactory$8|IRecoverActions|setCurActivity|SYS_DEFAULT_FUN_CONTENT
+11-21 09:49:31.481 14404 14404 I Unity   : onResume
+11-21 09:49:31.486 14404 18557 W ziparchive: Unable to open '/system/framework/QXPerformance.dm': No such file or directory
+11-21 09:49:31.486 14404 18557 W ziparchive: Unable to open '/system/framework/QXPerformance.dm': No such file or directory
+11-21 09:49:31.496 14404 14404 E RmClient: DelayInfoManager
+11-21 09:49:31.496 14404 14404 E RmClient: open(13) /dev/k_rs_cpufreqinfo fail(Permission denied)
+11-21 09:49:31.504 14404 14404 W evolve.framelab: type=1400 audit(0.0:79017): avc:  denied  { read } for  name="u:object_r:vendor_display_prop:s0" dev="tmpfs" ino=405 scontext=u:r:untrusted_app:s0:c170,c256,c512,c768 tcontext=u:object_r:vendor_display_prop:s0 tclass=file permissive=0
+11-21 09:49:31.510 14404 14404 W libc    : Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+11-21 09:49:31.511 14404 14404 I ViewRootImplExt: setScaleInfo, ViewRootImpl[au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity] scaleChanged=false, byServer=false, isHwui=false
+11-21 09:49:31.511 14404 14404 W evolve.framelab: SetSurfaceScaleInfo, width=4320, height=2160, scale=0.000000
+11-21 09:49:31.517 14404 14404 W libc    : Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+11-21 09:49:31.520 14404 14404 I ViewRootImpl: Will skip draw vr actvity :au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity
+11-21 09:49:31.521 14404 14404 I ViewRootImpl: Will skip draw vr actvity :au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity
+11-21 09:49:31.523 14404 18555 I Unity   : MemoryManager: Using 'Dynamic Heap' Allocator.
+11-21 09:49:31.523 14404 18555 I Unity   : Mimalloc is enabled and will override the Dynamic Heap and Dual Thread (Main and MainThread) allocators.
+11-21 09:49:31.537 14404 14404 I Unity   : windowFocusChanged: true
+11-21 09:49:31.546 14404 18555 I Unity   : SetGameState: isLoading: true, mode: UNKNOWN, label: -2, quality: -1
+11-21 09:49:31.562 14404 18555 E Unity   : java.lang.ClassNotFoundException: Didn't find class "com.google.android.play.core.assetpacks.AssetPackManager" on path: DexPathList[[zip file "/system/framework/sys-verifytool.jar", zip file "/system/framework/sys-sharememory.jar", zip file "/data/app/~~uBpZtWY7H8hDQh8ey9748A==/au.edu.evolve.framelab-4TnZ7tO52i6fBfqej8_Bhg==/base.apk"],nativeLibraryDirectories=[/data/app/~~uBpZtWY7H8hDQh8ey9748A==/au.edu.evolve.framelab-4TnZ7tO52i6fBfqej8_Bhg==/lib/arm64, /data/app/~~uBpZtWY7H8hDQh8ey9748A==/au.edu.evolve.framelab-4TnZ7tO52i6fBfqej8_Bhg==/base.apk!/lib/arm64-v8a, /system/lib64, /system/lib64/soundfx, /system/lib64/vklayer, /system/lib64/gleslayers, /system_ext/lib64]]
+11-21 09:49:31.569 14404 18555 I Unity   : SystemInfo CPU = ARM64 FP ASIMD AES, Cores = 6, Memory = 11736mb
+11-21 09:49:31.569 14404 18555 I Unity   : SystemInfo ARM big.LITTLE configuration: 4 big (mask: 0x3c), 2 little (mask: 0x3)
+11-21 09:49:31.569 14404 18555 I Unity   : ApplicationInfo 'au.edu.evolve.framelab', Version '0.4.5', Min API Level '29', Target API Level '36'
+11-21 09:49:31.569 14404 18555 I Unity   : Built from '6000.6/staging' branch, Version '6000.6.9f1 (8c45277fb9c5)', Build type 'Development', Scripting Backend 'il2cpp', CPU 'arm64-v8a', Stripping 'Enabled'
+11-21 09:49:31.569 14404 18555 I Unity   : Device Model 'Pico A94Y0', OS 'Android OS 14 (API 34)'
+11-21 09:49:31.578 14404 14404 I ViewRootImplExt: setScaleInfo, ViewRootImpl[au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity] scaleChanged=false, byServer=false, isHwui=false
+11-21 09:49:31.578 14404 14404 W evolve.framelab: SetSurfaceScaleInfo, width=4320, height=2160, scale=0.000000
+11-21 09:49:31.579 14404 14404 I ViewRootImpl: Will skip draw vr actvity :au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity
+11-21 09:49:31.715 14404 18555 I Unity   : Company Name: EVOLVE Learning
+11-21 09:49:31.715 14404 18555 I Unity   : Product Name: Leichhardt
+11-21 09:49:31.719 14404 14404 I ViewRootImpl: Will skip draw vr actvity :au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity
+11-21 09:49:31.720 14404 18555 E HardwareProfiles: Status: Not active
+11-21 09:49:31.727 14404 18555 W PicoXR  : context addr is 0x7b22105f58.
+11-21 09:49:31.739 14404 18555 E PxrLoader: Error [GENERAL | xrEnumerateInstanceExtensionProperties | PxrLoader] : RuntimeInterface::LoadRuntime supports XR_KHR_LOADER_INIT_SUPPORT!
+11-21 09:49:31.739 14404 18555 E APxrRuntime: Java_com_pico_xr_openxr_1runtime_DriverLoader_nativeGetProcAddr: InitializeLoaderKHR!
+11-21 09:49:31.739 14404 18555 E APxrRuntime: abel, xrInitializeLoaderKHR
+11-21 09:49:31.740 14404 18555 W libc    : Access denied finding property "ro.debuggable"
+11-21 09:49:31.740 14404 18555 E APxrRuntime: Java_com_pico_xr_openxr_1runtime_DriverLoader_nativeGetProcAddr: NegotiateLoaderRuntimeInterface!
+11-21 09:49:31.740 14404 18555 E PxrRuntime: xrNegotiateLoaderRuntimeInterface
+11-21 09:49:31.740 14404 18555 I PxrLoader: Info [GENERAL | xrEnumerateInstanceExtensionProperties | PxrLoader] : RuntimeInterface::LoadRuntime succeeded loading runtime defined in manifest file  using interface version 1 and OpenXR API version 1.1
+11-21 09:49:31.740 14404 18555 E APxrRuntime: ExtensionConfig, cloudExtensionCount 0,openxr common 0,openxr10 0,openxr11 0,experimental 0,pico only 0,private 0,third party 0,hidden 0
+11-21 09:49:31.741 14404 18555 I Unity   : [XR] [528852491440] [09:49:31.741][Info   ] Available Layers: (0)
+11-21 09:49:31.741 14404 18555 I PxrLoader: Info [GENERAL | xrCreateInstance:  | PxrLoader] : app API version:1.1  pxrLoader current version:1.0.24
+11-21 09:49:31.741 14404 18555 E PxrLoader: Error [GENERAL | xrCreateInstance | PxrLoader] : xrCreateInstance called with invalid API version 1.1.  Max supported version is 1.0
+11-21 09:49:31.741 14404 18555 I PxrLoader: Info [GENERAL | xrCreateInstance:  | PxrLoader] : app API version:1.0  pxrLoader current version:1.0.24
+11-21 09:49:31.742 14404 18555 I PxrConfigServiceClient: [###][###:75]: connect configuration service, using time: 0
+11-21 09:49:31.745 14404 18555 E oxr_config: sdk_boundary_EnableSeethroughDelayLog=0
+11-21 09:49:31.745 14404 18555 E oxr_config: sdk_boundary_ReportSeethroughDelayData=1
+11-21 09:49:31.745 14404 18555 E oxr_config:   xrMrEngineSupport is 1
+11-21 09:49:31.745 14404 18555 E oxr_config: ctrltype updateConfigControllerInfo 842 xrControllerType 8
+11-21 09:49:31.747 14404 18555 E APxrRuntime: getPackageManagerInfo : {"app_fps":0,"eyebufferHeight":0,"eyebufferWidth":0}
+11-21 09:49:31.747 14404 18555 E APxrRuntime:  oxr_instance_create ,package_name au.edu.evolve.framelab,eyebuffer (0,0),packageFps 0, isGLTileRender 0
+11-21 09:49:31.747 14404 18555 E PxrConfigServiceClient: [###][###:122]: find configname: au.edu.evolve.framelab value is null, please check it!
+11-21 09:49:31.747 14404 18555 E APxrRuntime:  oxr_instance_create ,package_name au.edu.evolve.framelab,PxrPerformanceParams refreshRate 0,resolutionRate 0.000000, cpuLevel 0, gpuLevel 0, ffrLevel 0
+11-21 09:49:31.747 14404 18555 W APxrRuntime: debug_get_log_option_persist.pxr.log_IPC_LOG raw:(null)
+11-21 09:49:31.752 14404 18555 I pico-ipc-client: Client(long nativePointer)
+11-21 09:49:31.752 14404 18555 W APxrRuntime: ipc_client_android start to initiate the guardian and persistence client object info
+11-21 09:49:31.754 14404 18555 I PersistenceClient: Client(long nativePointer)
+11-21 09:49:31.763 14404 18555 I pico-ipc-client: blockingConnect
+11-21 09:49:31.763 14404 18555 I pico-ipc-client: bind
+11-21 09:49:31.766 14404 18609 I pico-ipc-client: onServiceConnected
+11-21 09:49:31.767 14404 18609 I pico-ipc-client: au.edu.evolve.framelab,Runtime versionCode 200201388
+11-21 09:49:31.769 14404 18555 W APxrRuntime: Connect success, fd=115
+11-21 09:49:31.770 14404 18555 E APxrRuntime: is_selabel_priv_app getline u:r:untrusted_app:s0:c170,c256,c512,c768
+11-21 09:49:31.770 14404 18555 I TrackingClient: [###][###:105]: onFirstRef TRACKER_COUNT 5
+11-21 09:49:31.772 14404 18555 I TrackingClient: mLoglevel 0
+11-21 09:49:31.772 14404 18555 I TrackingClient: [###][###:112]: Connect service, name: pvrtracking
+11-21 09:49:31.772 14404 18555 I TrackingClient: [###][###:158]: ServiceStatus update, status: 1
+11-21 09:49:31.772 14404 18555 I TrackingClient: [###][###:158]: ServiceStatus update, status: 2
+11-21 09:49:31.772 14404 18555 I TrackingClient: [onServiceConnected]
+11-21 09:49:31.772 14404 18555 I TrackingClient: mmap success, 514008 size
+11-21 09:49:31.772 14404 18555 I TrackingClient: setShareMemoryFD 113
+11-21 09:49:31.772 14404 18555 I TrackingClient: initializeShareMemory start
+11-21 09:49:31.773 14404 18555 I TrackingClient: initializeShareMemory, fake pose mode 0
+11-21 09:49:31.773 14404 18555 I TrackingClient: initializeShareMemory, hook hand tracking mode 0.
+11-21 09:49:31.773 14404 18555 I TrackingClient: initializeShareMemory end
+11-21 09:49:31.773 14404 18555 I TrackingClient: [###][###:2024]: reset notify state 00000000000000000000000000000000
+11-21 09:49:31.773 14404 18555 E TrackingClient: getSwiftTrackerExtDevInfo: cant do operation in tracker Mode: 0
+11-21 09:49:31.773 14404 18555 E TrackingClient: extDev updateTrackerExtDevStatus: faild!
+11-21 09:49:31.773 14404 18555 I TrackingClient: [###][###:858]: key 3, size 4
+11-21 09:49:31.773 14404 18555 E APxrRuntime: ism->num_isdevs:5 
+11-21 09:49:31.773 14404 18555 E APxrRuntime: ism->num_itracks:5 
+11-21 09:49:31.774 14404 18555 E APxrRuntime: ctrltype xrt_controller_device_set_name_str 483 deviceModel 8
+11-21 09:49:31.774 14404 18555 E APxrRuntime: controllertype  xrt_controller_device_set_name_str 507 deviceModel 8 xdev->name 6
+11-21 09:49:31.774 14404 18555 E APxrRuntime: ctrltype xrt_controller_device_set_name_str 483 deviceModel 8
+11-21 09:49:31.774 14404 18555 E APxrRuntime: controllertype  xrt_controller_device_set_name_str 507 deviceModel 8 xdev->name 6
+11-21 09:49:31.774 14404 18555 E APxrRuntime: ii->num_xtracks:5 
+11-21 09:49:31.774 14404 18555 E APxrRuntime: ism->num_isdevs:5 
+11-21 09:49:31.774 14404 18555 E APxrRuntime: isdev->name: 1
+11-21 09:49:31.774 14404 18555 E APxrRuntime: XRT_DEVICE_GENERIC_HMD, 0
+11-21 09:49:31.774 14404 18555 E APxrRuntime: isdev->name: 6
+11-21 09:49:31.774 14404 18555 E APxrRuntime: XRT_DEVICE_GENERIC_DEVICE, 1
+11-21 09:49:31.774 14404 18555 E APxrRuntime: isdev->name: 6
+11-21 09:49:31.774 14404 18555 E APxrRuntime: XRT_DEVICE_GENERIC_DEVICE, 2
+11-21 09:49:31.774 14404 18555 E APxrRuntime: isdev->name: 6
+11-21 09:49:31.774 14404 18555 E APxrRuntime: XRT_DEVICE_GENERIC_DEVICE, 3
+11-21 09:49:31.774 14404 18555 E APxrRuntime: isdev->name: 12
+11-21 09:49:31.774 14404 18555 W APxrRuntime: oxr_instance_create u_device_assign_xdev_roles sys->num_xdevs = 16,NUM_XDEVS  = 16
+11-21 09:49:31.774 14404 18555 E APxrRuntime: runtime oxr_instance_create u_device_assign_xdev_roles sys->role.left = 1,sys->role.right  = 2
+11-21 09:49:31.774 14404 18555 E PCTP    : PCTP upload:{"pkg_name":"au.edu.evolve.framelab","type":"fov","value":"104","power_need":true}
+11-21 09:49:31.775 14404 18555 E APxrRuntime: oxr_instance, texture_redirect_mark_interface2 0
+11-21 09:49:31.775 14404 18555 E APxrRuntime: oxr_instance, redirect hook_result==0, result==0 
+11-21 09:49:31.775 14404 18555 E PxrConfigServiceClient: [###][###:122]: find configname: key_et_enable value is null, please check it!
+11-21 09:49:31.775 14404 18555 W oxr_config: from config service, et  enable 0
+11-21 09:49:31.775 14404 18555 E PxrConfigServiceClient: [###][###:122]: find configname: key_ft_enable value is null, please check it!
+11-21 09:49:31.775 14404 18555 W oxr_config: from config service, ft  enable 0
+11-21 09:49:31.775 14404 18555 I evolve.framelab: SysPerfTracker acquireUIFirst pid 14404
+11-21 09:49:31.775 14404 18555 E APxrRuntime: update client version shm: 0.4.5, version: 0.4.5
+11-21 09:49:31.777 14404 18555 I PxrLoader: Info [GENERAL | xrCreateInstance | PxrLoader] : LoaderInstance::CreateInstance succeeded with 0 layers enabled and runtime interface - created instance = 0xb4000079467a53c0
+11-21 09:49:31.777 14404 18555 W APxrRuntime: debug_get_log_option_persist.pxr.log_XRT_COMPOSITOR_LOG raw:(null)
+11-21 09:49:31.779 14404 18555 I vulkan  : Loaded layer VK_LAYER_PICO
+11-21 09:49:31.783 14404 18555 I AdrenoVK-0: ===== BEGIN DUMP OF OVERRIDDEN SETTINGS =====
+11-21 09:49:31.783 14404 18555 I AdrenoVK-0: ===== END DUMP OF OVERRIDDEN SETTINGS =====
+11-21 09:49:31.786 14404 18555 I AdrenoVK-0: QUALCOMM build          : 796d02fee9, Ia74af94f1a
+11-21 09:49:31.786 14404 18555 I AdrenoVK-0: Build Date              : 03/15/24
+11-21 09:49:31.786 14404 18555 I AdrenoVK-0: Shader Compiler Version : E031.46.00.00
+11-21 09:49:31.786 14404 18555 I AdrenoVK-0: Local Branch            : 
+11-21 09:49:31.786 14404 18555 I AdrenoVK-0: Remote Branch           : refs/tags/AU_LINUX_ANDROID_LA.VENDOR.14.3.4.11.00.00.1126.111
+11-21 09:49:31.786 14404 18555 I AdrenoVK-0: Remote Branch           : NONE
+11-21 09:49:31.786 14404 18555 I AdrenoVK-0: Reconstruct Branch      : NOTHING
+11-21 09:49:31.786 14404 18555 I AdrenoVK-0: Build Config            : S P 16.1.2 AArch64
+11-21 09:49:31.786 14404 18555 I AdrenoVK-0: Driver Path             : /vendor/lib64/hw/vulkan.adreno.so
+11-21 09:49:31.786 14404 18555 I AdrenoVK-0: Driver Version          : 0772.0
+11-21 09:49:31.786 14404 18555 I AdrenoVK-0: PFP                     : 0x01511181
+11-21 09:49:31.786 14404 18555 I AdrenoVK-0: ME                      : 0x00000000
+11-21 09:49:31.786 14404 18555 I AdrenoVK-0: Application Name    : Leichhardt
+11-21 09:49:31.786 14404 18555 I AdrenoVK-0: Application Version : 0x00000001
+11-21 09:49:31.786 14404 18555 I AdrenoVK-0: Engine Name         : Unity
+11-21 09:49:31.786 14404 18555 I AdrenoVK-0: Engine Version      : 0x00000001
+11-21 09:49:31.786 14404 18555 I AdrenoVK-0: Api Version         : 0x00401000
+11-21 09:49:31.787 14404 18555 W APxrRuntime: Did not find runtime suggested GPU, fall back to GPU 0
+11-21 09:49:31.789 14404 18555 I vulkan  : Loaded layer VK_LAYER_PICO
+11-21 09:49:31.791 14404 18555 I AdrenoVK-0: QUALCOMM build          : 796d02fee9, Ia74af94f1a
+11-21 09:49:31.791 14404 18555 I AdrenoVK-0: Build Date              : 03/15/24
+11-21 09:49:31.791 14404 18555 I AdrenoVK-0: Shader Compiler Version : E031.46.00.00
+11-21 09:49:31.791 14404 18555 I AdrenoVK-0: Local Branch            : 
+11-21 09:49:31.791 14404 18555 I AdrenoVK-0: Remote Branch           : refs/tags/AU_LINUX_ANDROID_LA.VENDOR.14.3.4.11.00.00.1126.111
+11-21 09:49:31.791 14404 18555 I AdrenoVK-0: Remote Branch           : NONE
+11-21 09:49:31.791 14404 18555 I AdrenoVK-0: Reconstruct Branch      : NOTHING
+11-21 09:49:31.791 14404 18555 I AdrenoVK-0: Build Config            : S P 16.1.2 AArch64
+11-21 09:49:31.791 14404 18555 I AdrenoVK-0: Driver Path             : /vendor/lib64/hw/vulkan.adreno.so
+11-21 09:49:31.791 14404 18555 I AdrenoVK-0: Driver Version          : 0772.0
+11-21 09:49:31.791 14404 18555 I AdrenoVK-0: PFP                     : 0x01511181
+11-21 09:49:31.791 14404 18555 I AdrenoVK-0: ME                      : 0x00000000
+11-21 09:49:31.791 14404 18555 I AdrenoVK-0: Application Name    : Leichhardt
+11-21 09:49:31.791 14404 18555 I AdrenoVK-0: Application Version : 0x00000001
+11-21 09:49:31.791 14404 18555 I AdrenoVK-0: Engine Name         : Unity
+11-21 09:49:31.791 14404 18555 I AdrenoVK-0: Engine Version      : 0x00000001
+11-21 09:49:31.791 14404 18555 I AdrenoVK-0: Api Version         : 0x00401000
+11-21 09:49:31.791 14404 18555 W APxrRuntime: Did not find runtime suggested GPU, fall back to GPU 0
+11-21 09:49:31.792 14404 18555 I PicoLayer: Engine doesn't support 'VK_KHR_fragment_shading_rate', we disabled it now.
+11-21 09:49:31.792 14404 18555 I PicoLayer: Engine doesn't support 'VK_KHR_fragment_shading_rate', we disabled it now.
+11-21 09:49:31.792 14404 18555 I PicoLayer: Engine doesn't support 'VK_KHR_fragment_shading_rate', we disabled it now.
+11-21 09:49:31.792 14404 18555 I PicoLayer: Engine doesn't support 'VK_KHR_fragment_shading_rate', we disabled it now.
+11-21 09:49:31.814 14404 18555 I MediaRouter: Skip setBluetoothA2dpOn(): types=8388615, isPlaybackActive()=false, BT route=null
+11-21 09:49:31.824 14404 18555 I FastMixerState: sMaxFastTracks = 8
+11-21 09:49:31.829 14404 18555 I AAudio  : AAudioStreamBuilder_openStream() called ----------------------------------------
+11-21 09:49:31.829 14404 18555 I AudioStreamBuilder: rate   =  24000, channels  = 2, channelMask = 0x80000003, format   = 5, sharing = SH, dir = OUTPUT
+11-21 09:49:31.829 14404 18555 I AudioStreamBuilder: device =      0, sessionId = 0, perfMode = 12, callback: ON with frames = 512
+11-21 09:49:31.829 14404 18555 I AudioStreamBuilder: usage  =      0, contentType = 0, inputPreset = 0, allowedCapturePolicy = 0
+11-21 09:49:31.829 14404 18555 I AudioStreamBuilder: privacy sensitive = false, opPackageName = (null), attributionTag = (null)
+11-21 09:49:31.839 14404 18555 I AAudio  : AAudioStreamBuilder_openStream() returns 0 = AAUDIO_OK for s#1 ----------------
+11-21 09:49:32.099 14404 18555 I Unity   : XRGeneral Settings awakening...
+11-21 09:49:32.099 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:49:32.099 14404 18555 I Unity   : UnityEngine.XR.Management.XRGeneralSettings:Awake()
+11-21 09:49:32.099 14404 18555 I Unity   : 
+11-21 09:49:32.110 14404 18555 I IL2CPP  : Locale en-GB
+11-21 09:49:32.146 14404 18555 I Unity   : Loading OpenXR loader library at path: openxr_loader
+11-21 09:49:32.146 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:49:32.146 14404 18555 I Unity   : UnityEngine.XR.OpenXR.OpenXRLoaderBase:LoadOpenXRSymbols()
+11-21 09:49:32.146 14404 18555 I Unity   : UnityEngine.XR.OpenXR.OpenXRLoaderBase:InitializeInternal()
+11-21 09:49:32.146 14404 18555 I Unity   : UnityEngine.XR.OpenXR.OpenXRLoaderBase:Initialize()
+11-21 09:49:32.146 14404 18555 I Unity   : UnityEngine.XR.Management.XRManagerSettings:InitializeLoaderSync()
+11-21 09:49:32.146 14404 18555 I Unity   : 
+11-21 09:49:32.147 14404 18555 E APxrRuntime: ipc_client_android_destory ii = 0xb4000079471a2300
+11-21 09:49:32.147 14404 18555 E APxrRuntime: [ipc_client_android_destroy][2048] ipc_sense_client destroy ica
+11-21 09:49:32.147 14404 18555 I pico-ipc-client: markAsDiscardedByNative()
+11-21 09:49:32.147 14404 18555 I pico-ipc-client: shutdown()
+11-21 09:49:32.150 14404 18555 I evolve.framelab: SysPerfTracker releaseUIFirst pid 14404
+11-21 09:49:32.150 14404 18555 I PxrLoader: Info [GENERAL | xrDestroyInstance | PxrLoader] : RuntimeInterface::UnloadRuntime - Unloading RuntimeInterface
+11-21 09:49:32.150 14404 18555 I PxrLoader: Info [GENERAL |  | PxrLoader] : RuntimeInterface being destroyed.
+11-21 09:49:32.154 14404 18555 W PicoXR  : context addr is 0x7b22106038.
+11-21 09:49:32.154 14404 18555 E PxrLoader: Error [GENERAL | xrEnumerateInstanceExtensionProperties | PxrLoader] : RuntimeInterface::LoadRuntime supports XR_KHR_LOADER_INIT_SUPPORT!
+11-21 09:49:32.154 14404 18555 E APxrRuntime: Java_com_pico_xr_openxr_1runtime_DriverLoader_nativeGetProcAddr: InitializeLoaderKHR!
+11-21 09:49:32.154 14404 18555 E APxrRuntime: abel, xrInitializeLoaderKHR
+11-21 09:49:32.154 14404 18555 E APxrRuntime: Java_com_pico_xr_openxr_1runtime_DriverLoader_nativeGetProcAddr: NegotiateLoaderRuntimeInterface!
+11-21 09:49:32.154 14404 18555 E PxrRuntime: xrNegotiateLoaderRuntimeInterface
+11-21 09:49:32.154 14404 18555 I PxrLoader: Info [GENERAL | xrEnumerateInstanceExtensionProperties | PxrLoader] : RuntimeInterface::LoadRuntime succeeded loading runtime defined in manifest file  using interface version 1 and OpenXR API version 1.1
+11-21 09:49:32.154 14404 18555 E APxrRuntime: ExtensionConfig, cloudExtensionCount 0,openxr common 0,openxr10 0,openxr11 0,experimental 0,pico only 0,private 0,third party 0,hidden 0
+11-21 09:49:32.168 14404 18555 I Unity   : [XR] [528852491440] [09:49:32.168][Info   ] Available Layers: (0)
+11-21 09:49:32.168 14404 18555 I PxrLoader: Info [GENERAL | xrCreateInstance:  | PxrLoader] : app API version:1.1  pxrLoader current version:1.0.24
+11-21 09:49:32.168 14404 18555 E PxrLoader: Error [GENERAL | xrCreateInstance | PxrLoader] : xrCreateInstance called with invalid API version 1.1.  Max supported version is 1.0
+11-21 09:49:32.168 14404 18555 I PxrLoader: Info [GENERAL | xrCreateInstance:  | PxrLoader] : app API version:1.0  pxrLoader current version:1.0.24
+11-21 09:49:32.171 14404 18555 E oxr_config: sdk_boundary_EnableSeethroughDelayLog=0
+11-21 09:49:32.171 14404 18555 E oxr_config: sdk_boundary_ReportSeethroughDelayData=1
+11-21 09:49:32.171 14404 18555 E oxr_config:   xrMrEngineSupport is 1
+11-21 09:49:32.171 14404 18555 E oxr_config: ctrltype updateConfigControllerInfo 842 xrControllerType 8
+11-21 09:49:32.172 14404 18555 E APxrRuntime: getPackageManagerInfo : {"app_fps":0,"eyebufferHeight":0,"eyebufferWidth":0}
+11-21 09:49:32.172 14404 18555 E APxrRuntime:  oxr_instance_create ,package_name au.edu.evolve.framelab,eyebuffer (0,0),packageFps 0, isGLTileRender 0
+11-21 09:49:32.172 14404 18555 E PxrConfigServiceClient: [###][###:122]: find configname: au.edu.evolve.framelab value is null, please check it!
+11-21 09:49:32.172 14404 18555 E APxrRuntime:  oxr_instance_create ,package_name au.edu.evolve.framelab,PxrPerformanceParams refreshRate 0,resolutionRate 0.000000, cpuLevel 0, gpuLevel 0, ffrLevel 0
+11-21 09:49:32.174 14404 18555 I pico-ipc-client: Client(long nativePointer)
+11-21 09:49:32.174 14404 18555 W APxrRuntime: ipc_client_android start to initiate the guardian and persistence client object info
+11-21 09:49:32.174 14404 18555 I PersistenceClient: Client(long nativePointer)
+11-21 09:49:32.182 14404 18555 I pico-ipc-client: blockingConnect
+11-21 09:49:32.182 14404 18555 I pico-ipc-client: bind
+11-21 09:49:32.185 14404 18625 I pico-ipc-client: onServiceConnected
+11-21 09:49:32.185 14404 18625 I pico-ipc-client: au.edu.evolve.framelab,Runtime versionCode 200201388
+11-21 09:49:32.187 14404 18555 W APxrRuntime: Connect success, fd=128
+11-21 09:49:32.187 14404 18555 E APxrRuntime: is_selabel_priv_app getline u:r:untrusted_app:s0:c170,c256,c512,c768
+11-21 09:49:32.187 14404 18555 E APxrRuntime: ism->num_isdevs:5 
+11-21 09:49:32.187 14404 18555 E APxrRuntime: ism->num_itracks:5 
+11-21 09:49:32.187 14404 18555 E APxrRuntime: ctrltype xrt_controller_device_set_name_str 483 deviceModel 8
+11-21 09:49:32.187 14404 18555 E APxrRuntime: controllertype  xrt_controller_device_set_name_str 507 deviceModel 8 xdev->name 6
+11-21 09:49:32.188 14404 18555 E APxrRuntime: ctrltype xrt_controller_device_set_name_str 483 deviceModel 8
+11-21 09:49:32.188 14404 18555 E APxrRuntime: controllertype  xrt_controller_device_set_name_str 507 deviceModel 8 xdev->name 6
+11-21 09:49:32.188 14404 18555 E APxrRuntime: ii->num_xtracks:5 
+11-21 09:49:32.188 14404 18555 E APxrRuntime: ism->num_isdevs:5 
+11-21 09:49:32.188 14404 18555 E APxrRuntime: isdev->name: 1
+11-21 09:49:32.188 14404 18555 E APxrRuntime: XRT_DEVICE_GENERIC_HMD, 0
+11-21 09:49:32.188 14404 18555 E APxrRuntime: isdev->name: 6
+11-21 09:49:32.188 14404 18555 E APxrRuntime: XRT_DEVICE_GENERIC_DEVICE, 1
+11-21 09:49:32.188 14404 18555 E APxrRuntime: isdev->name: 6
+11-21 09:49:32.188 14404 18555 E APxrRuntime: XRT_DEVICE_GENERIC_DEVICE, 2
+11-21 09:49:32.188 14404 18555 E APxrRuntime: isdev->name: 6
+11-21 09:49:32.188 14404 18555 E APxrRuntime: XRT_DEVICE_GENERIC_DEVICE, 3
+11-21 09:49:32.188 14404 18555 E APxrRuntime: isdev->name: 12
+11-21 09:49:32.188 14404 18555 W APxrRuntime: oxr_instance_create u_device_assign_xdev_roles sys->num_xdevs = 16,NUM_XDEVS  = 16
+11-21 09:49:32.188 14404 18555 E APxrRuntime: runtime oxr_instance_create u_device_assign_xdev_roles sys->role.left = 1,sys->role.right  = 2
+11-21 09:49:32.188 14404 18555 E PCTP    : PCTP upload:{"pkg_name":"au.edu.evolve.framelab","type":"fov","value":"104","power_need":true}
+11-21 09:49:32.188 14404 18555 E APxrRuntime: oxr_instance, texture_redirect_mark_interface2 0
+11-21 09:49:32.188 14404 18555 E APxrRuntime: oxr_instance, redirect hook_result==0, result==0 
+11-21 09:49:32.188 14404 18555 E PxrConfigServiceClient: [###][###:122]: find configname: key_et_enable value is null, please check it!
+11-21 09:49:32.188 14404 18555 W oxr_config: from config service, et  enable 0
+11-21 09:49:32.189 14404 18555 E PxrConfigServiceClient: [###][###:122]: find configname: key_ft_enable value is null, please check it!
+11-21 09:49:32.189 14404 18555 W oxr_config: from config service, ft  enable 0
+11-21 09:49:32.189 14404 18555 I evolve.framelab: SysPerfTracker acquireUIFirst pid 14404
+11-21 09:49:32.189 14404 18555 E APxrRuntime: update client version shm: 0.4.5, version: 0.4.5
+11-21 09:49:32.190 14404 18555 I PxrLoader: Info [GENERAL | xrCreateInstance | PxrLoader] : LoaderInstance::CreateInstance succeeded with 0 layers enabled and runtime interface - created instance = 0xb4000079469e5680
+11-21 09:49:32.206 14404 18555 E SensorManager: getFullSensorList check calling is 10170
+11-21 09:49:32.206 14404 18555 W Unity   : Orientation Listener cannot detect orientation.
+11-21 09:49:32.206 14404 18555 I Unity   : SetGameState: isLoading: false, mode: UNKNOWN, label: -1, quality: 0
+11-21 09:49:32.242 14404 18555 W APxrRuntime: Did not find runtime suggested GPU, fall back to GPU 0
+11-21 09:49:32.242 14404 18555 E APxrRuntime: xsi.is_spatial = 0
+11-21 09:49:32.244 14404 18555 E APxrRuntime: ipc_guardian_android_blocking_connect unsupported
+11-21 09:49:32.244 14404 18555 E APxrRuntime: ipc_mrservice_android_blocking_connect unsupported
+11-21 09:49:32.257 14404 18555 E APxrRuntime: running_mode fixed latency found:0,set: 3.000000
+11-21 09:49:32.257 14404 18555 E APxrRuntime: running_mode work_harder found:0, set: 0
+11-21 09:49:32.257 14404 18555 E APxrRuntime: running_mode detail_log found:0, set: 0
+11-21 09:49:32.257 14404 18555 E APxrRuntime: running_mode margin found:0, set: 0.000000s
+11-21 09:49:32.257 14404 18555 E APxrRuntime: running_mode fix_fps found:0, set: 0.000000
+11-21 09:49:32.257 14404 18555 E APxrRuntime: running_mode fix_padding found:0, set: 0.000000
+11-21 09:49:32.257 14404 18555 E APxrRuntime: running_mode virtual_fetch found:0, set: 0
+11-21 09:49:32.257 14404 18555 E APxrRuntime: debug_marker function disabled
+11-21 09:49:32.257 14404 18555 W APxrRuntime: oxr_session_create newly_installed_app: 0,32
+11-21 09:49:32.257 14404 18555 W xrt_session: oxr_session_manage_state, client: au.edu.evolve.framelab, action=1, state=XR_SESSION_STATE_UNKNOWN
+11-21 09:49:32.257 14404 18555 W xrt_session: oxr_session_change_state from 0 to 1
+11-21 09:49:32.258 14404 18555 E APxrRuntime: oxr_session_create floor_height 1.287174
+11-21 09:49:32.258 14404 18555 W pico-ipc-client: prefetch_app 0
+11-21 09:49:32.258 14404 14404 W pico-ipc-client: prefetch_app 0
+11-21 09:49:32.259 14404 18555 W oxr_config: from config service, oxr_get_motion_tracking_enable  enable 0
+11-21 09:49:32.259 14404 14404 I pico-ipc-client: registerActivityLifecycleCallbacks activity:com.unity3d.player.UnityPlayerActivity@4e02d54, resume:true, preload:false
+11-21 09:49:32.259 14404 14404 I SurfaceViewFinder: SurfaceViewFinder found SurfaceView of unity!
+11-21 09:49:32.260 14404 14404 I EngineListener: Window Focus:true, Surface created:true, App preload:false
+11-21 09:49:32.260 14404 14404 I EngineListener: Activity resume:true, Window Focus:true, Surface created:true, App preload:false, Achieved:true
+11-21 09:49:32.260 14404 14404 E APxrRuntime: Native activity resumed name = au.edu.evolve.framelab
+11-21 09:49:32.260 14404 14404 W xrt_session: au.edu.evolve.framelab, session_on_foucus_changed
+11-21 09:49:32.265 14404 14404 W xrt_session: au.edu.evolve.framelab, session_on_activity_resume: in: 0x1
+11-21 09:49:32.265 14404 14404 W APxrRuntime: Java_com_pico_picoopenxr_ipc_Client_NativeActivityResumed: 0xb400007946f63400
+11-21 09:49:32.266 14404 18629 I Choreographer: UnityChoreographer packageName: au.edu.evolve.framelab false 0
+11-21 09:49:32.280 14404 14404 I ViewRootImplExt: setScaleInfo, ViewRootImpl[au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity] scaleChanged=false, byServer=false, isHwui=false
+11-21 09:49:32.280 14404 14404 W evolve.framelab: SetSurfaceScaleInfo, width=4320, height=2160, scale=0.000000
+11-21 09:49:32.280 14404 14404 I ViewRootImpl: Will skip draw vr actvity :au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity
+11-21 09:49:32.303 14404 18555 I Unity   : SetGameState: isLoading: true, mode: UNKNOWN, label: 0, quality: 0
+11-21 09:49:32.349 14404 18555 W xrt_session: au.edu.evolve.framelab: client: oxr_session_handler_xrtCompositorEventResumeChange, receive RESUME changed event
+11-21 09:49:32.349 14404 18555 W xrt_session: oxr_session_manage_state, client: au.edu.evolve.framelab, action=2, state=XR_SESSION_STATE_IDLE
+11-21 09:49:32.349 14404 18555 E xrt_session: oxr_session_manage_state: client au.edu.evolve.framelab reiceive resumed when session is idle:activity resumed:1
+11-21 09:49:32.349 14404 18555 W xrt_session: oxr_session_change_state from 1 to 2
+11-21 09:49:32.349 14404 18555 I Unity   : [XR] [528852491440] [09:49:32.349][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_UNKNOWN->XR_SESSION_STATE_IDLE session=-5476376626006328960 time=0
+11-21 09:49:32.350 14404 18555 I Unity   : [XR] [528852491440] [09:49:32.350][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_IDLE->XR_SESSION_STATE_READY session=-5476376626006328960 time=0
+11-21 09:49:32.351 14404 18555 E APxrRuntime: pxr_set_trackingorigin level type 0, xrEnableFloorLevel 1
+11-21 09:49:32.352 14404 18555 W APxrRuntime: TopApp 1
+11-21 09:49:32.352 14404 18555 E APxrRuntime: set_desired_fps:invalid param,0.013889,0
+11-21 09:49:32.352 14404 18555 W APxrRuntime: set_desired_fps done,-1,13.888889,0,0
+11-21 09:49:32.353 14404 18555 E APxrRuntime: Call error '-1'!, func: ipc_compositor_set_config
+11-21 09:49:32.353 14404 18555 E APxrRuntime: oxr_session_set_android_application_thread_khr enter
+11-21 09:49:32.353 14404 18555 E APxrRuntime: oxr_session_set_android_application_thread_khr enter
+11-21 09:49:32.361 14404 18555 W APxrRuntime: actionsystem runtime oxr_session_attach_action_sets 1359 after oxr_find_profile_for_device, profiles.left path str = /interaction_profiles/bytedance/pico4s_controller 
+11-21 09:49:33.295 14404 18611 E APxrRuntime: createInfo->format = 0x0000002b,c->info.formats[0] = 0x0000002b
+11-21 09:49:33.295 14404 18611 E APxrRuntime: srgb_format_convert
+11-21 09:49:33.295 14404 18611 I vulkan  : Loaded layer VK_LAYER_PICO
+11-21 09:49:33.298 14404 18611 I AdrenoVK-0: QUALCOMM build          : 796d02fee9, Ia74af94f1a
+11-21 09:49:33.298 14404 18611 I AdrenoVK-0: Build Date              : 03/15/24
+11-21 09:49:33.298 14404 18611 I AdrenoVK-0: Shader Compiler Version : E031.46.00.00
+11-21 09:49:33.298 14404 18611 I AdrenoVK-0: Local Branch            : 
+11-21 09:49:33.298 14404 18611 I AdrenoVK-0: Remote Branch           : refs/tags/AU_LINUX_ANDROID_LA.VENDOR.14.3.4.11.00.00.1126.111
+11-21 09:49:33.298 14404 18611 I AdrenoVK-0: Remote Branch           : NONE
+11-21 09:49:33.298 14404 18611 I AdrenoVK-0: Reconstruct Branch      : NOTHING
+11-21 09:49:33.298 14404 18611 I AdrenoVK-0: Build Config            : S P 16.1.2 AArch64
+11-21 09:49:33.298 14404 18611 I AdrenoVK-0: Driver Path             : /vendor/lib64/hw/vulkan.adreno.so
+11-21 09:49:33.298 14404 18611 I AdrenoVK-0: Driver Version          : 0772.0
+11-21 09:49:33.298 14404 18611 I AdrenoVK-0: PFP                     : 0x01511181
+11-21 09:49:33.298 14404 18611 I AdrenoVK-0: ME                      : 0x00000000
+11-21 09:49:33.298 14404 18611 I AdrenoVK-0: Application Name    : oopc
+11-21 09:49:33.298 14404 18611 I AdrenoVK-0: Application Version : 0x00400000
+11-21 09:49:33.298 14404 18611 I AdrenoVK-0: Engine Name         : null
+11-21 09:49:33.298 14404 18611 I AdrenoVK-0: Engine Version      : 0x00400000
+11-21 09:49:33.298 14404 18611 I AdrenoVK-0: Api Version         : 0x00401000
+11-21 09:49:33.296 14404 14404 W Thread-5: type=1400 audit(0.0:79043): avc:  denied  { read } for  name="qcom,system" dev="tmpfs" ino=927 scontext=u:r:untrusted_app:s0:c170,c256,c512,c768 tcontext=u:object_r:vendor_dmabuf_system_heap_device:s0 tclass=chr_file permissive=0
+11-21 09:49:33.296 14404 14404 W Thread-5: type=1400 audit(0.0:79044): avc:  denied  { read } for  name="qcom,system" dev="tmpfs" ino=927 scontext=u:r:untrusted_app:s0:c170,c256,c512,c768 tcontext=u:object_r:vendor_dmabuf_system_heap_device:s0 tclass=chr_file permissive=0
+11-21 09:49:33.296 14404 14404 W Thread-5: type=1400 audit(0.0:79045): avc:  denied  { read } for  name="qcom,system" dev="tmpfs" ino=927 scontext=u:r:untrusted_app:s0:c170,c256,c512,c768 tcontext=u:object_r:vendor_dmabuf_system_heap_device:s0 tclass=chr_file permissive=0
+11-21 09:49:33.296 14404 14404 W Thread-5: type=1400 audit(0.0:79046): avc:  denied  { read } for  name="qcom,system" dev="tmpfs" ino=927 scontext=u:r:untrusted_app:s0:c170,c256,c512,c768 tcontext=u:object_r:vendor_dmabuf_system_heap_device:s0 tclass=chr_file permissive=0
+11-21 09:49:33.296 14404 14404 W Thread-5: type=1400 audit(0.0:79047): avc:  denied  { read } for  name="qcom,system" dev="tmpfs" ino=927 scontext=u:r:untrusted_app:s0:c170,c256,c512,c768 tcontext=u:object_r:vendor_dmabuf_system_heap_device:s0 tclass=chr_file permissive=0
+11-21 09:49:33.298 14404 18611 I PicoLayer: Engine doesn't support 'VK_KHR_fragment_shading_rate', we disabled it now.
+11-21 09:49:33.300 14404 18611 E DMABUFHEAPS: No ion heap of name qcom,system exists
+11-21 09:49:33.300 14404 18611 E DMABUFHEAPS: No ion heap of name qcom,system exists
+11-21 09:49:33.300 14404 18611 I DMABUFHEAPS: Using DMA-BUF heap named: system
+11-21 09:49:33.300 14404 18611 E DMABUFHEAPS: No ion heap of name qcom,system exists
+11-21 09:49:33.300 14404 18611 E DMABUFHEAPS: No ion heap of name qcom,system exists
+11-21 09:49:33.300 14404 18611 E DMABUFHEAPS: No ion heap of name qcom,system exists
+11-21 09:49:33.300 14404 18611 E DMABUFHEAPS: No ion heap of name qcom,system exists
+11-21 09:49:33.302 14404 18611 E APxrRuntime: oxr_create_swapchain(), createInfo->width:1920, createInfo->height:1920, createInfo->arraySize:2
+11-21 09:49:33.302 14404 18611 W xrt_session: oxr_session_manage_state, client: au.edu.evolve.framelab, action=3, state=XR_SESSION_STATE_READY
+11-21 09:49:33.302 14404 18611 W xrt_session: oxr_session_change_state from 2 to 3
+11-21 09:49:33.303 14404 18555 W xrt_session: oxr_session_handler_xrtCompositorEventStateChange: client: au.edu.evolve.framelab, 1,1:3
+11-21 09:49:33.303 14404 18555 W xrt_session: oxr_session_manage_state, client: au.edu.evolve.framelab, action=5, state=XR_SESSION_STATE_SYNCHRONIZED
+11-21 09:49:33.303 14404 18555 W xrt_session: oxr_session_change_state from 3 to 4
+11-21 09:49:33.303 14404 18555 W APxrRuntime: oxr_session_change_state------------0xb4000079469e5680    0xb40000794693a500
+11-21 09:49:33.303 14404 18555 W APxrRuntime: ipc_instance_activity_focusable_changed------------0xb40000794693a500    0xb40000794693a690   0xb40000794693a6e8
+11-21 09:49:33.303 14404 18555 W APxrRuntime: ipc_client_activity_focusable_changed------------0xb400007946f63400    0xb400007946f63420
+11-21 09:49:33.304 14404 18555 W xrt_session: oxr_session_change_state from 4 to 5
+11-21 09:49:33.304 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_READY->XR_SESSION_STATE_SYNCHRONIZED session=-5476376626006328960 time=0
+11-21 09:49:33.304 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_VISIBLE session=-5476376626006328960 time=0
+11-21 09:49:33.304 14404 14404 W xrt_session: au.edu.evolve.framelab, session_on_foucus_changed
+11-21 09:49:33.304 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_VISIBLE->XR_SESSION_STATE_FOCUSED session=-5476376626006328960 time=0
+11-21 09:49:33.304 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] 
+11-21 09:49:33.304 14404 18555 I Unity   : 
+11-21 09:49:33.304 14404 18555 I Unity   : ==== Start Unity OpenXR Diagnostic Report ====
+11-21 09:49:33.304 14404 18555 I Unity   : 
+11-21 09:49:33.304 14404 18555 I Unity   : 
+11-21 09:49:33.304 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] ==== Report Reason: System Startup Completed ====
+11-21 09:49:33.304 14404 18555 I Unity   : 
+11-21 09:49:33.304 14404 18555 I Unity   : 
+11-21 09:49:33.304 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] ==== OpenXR Settings ====
+11-21 09:49:33.304 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] 
+11-21 09:49:33.304 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] Symmetric Projection: False
+11-21 09:49:33.304 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] Stereo Rendering Mode: SinglePassInstanced
+11-21 09:49:33.304 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] Latency Optimization: PrioritizeRendering
+11-21 09:49:33.304 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] Color Submission Modes: kRenderTextureFormatGroup8888
+11-21 09:49:33.304 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] Depth Submission Mode: None
+11-21 09:49:33.304 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] Space Warp Motion Vector Texture Format: RGBA16f
+11-21 09:49:33.304 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] Optimize Buffer Discards: False
+11-21 09:49:33.304 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] Multiview Render Regions Optimization Mode: None
+11-21 09:49:33.304 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] Use OpenXR Predicted Time: True
+11-21 09:49:33.304 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] Foveated Rendering API: SRPFoveation
+11-21 09:49:33.304 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] 
+11-21 09:49:33.304 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] ==== OpenXR Provider Info ====
+11-21 09:49:33.304 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] 
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.304][Info   ] Provider Version: ecb5f4e-dirty
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ] App: Leichhardt #122702851
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ] Engine: 6000.6.9f1 #90215425
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ] 
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ] ==== Vulkan ====
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ] 
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ] Depth Support Available: Yes
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ] 
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ] Enable: XR_KHR_vulkan_enable2
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ] 
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ] ==== OpenXR Runtime Info ====
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ] 
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ] Available Runtime Extensions: (143)
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_body_tracking: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_controller_interaction: Version=2
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_future_progress: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_spatial_anchor: Version=2
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_spatial_anchor_sharing: Version=2
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_spatial_mesh: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_spatial_plane: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_spatial_scene: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_spatial_sensing: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EPIC_view_configuration_fov: Version=2
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXTX_overlay: Version=5
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_active_action_set_priority: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_composition_layer_inverted_alpha: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_debug_utils: Version=5
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_eye_gaze_interaction: Version=2
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_future: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_hand_interaction: Version=2
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_hand_tracking: Version=4
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_performance_settings: Version=4
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_spatial_anchor: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_spatial_entity: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_spatial_persistence: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_spatial_persistence_operations: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_spatial_plane_tracking: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_user_presence: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_view_configuration_depth_range: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_FB_composition_layer_alpha_blend: Version=3
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_FB_composition_layer_image_layout: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_FB_composition_layer_secure_content: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_FB_composition_layer_settings: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_FB_display_refresh_rate: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_FB_foveation: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_FB_foveation_configuration: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_FB_foveation_vulkan: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_FB_passthrough: Version=4
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_FB_space_warp: Version=2
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_FB_swapchain_update_state: Version=3
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_FB_swapchain_update_state_android_surface: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_FB_swapchain_update_state_opengl_es: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_FB_swapchain_update_state_vulkan: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_FB_triangle_mesh: Version=2
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_KHR_android_create_instance: Version=3
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_KHR_android_surface_swapchain: Version=4
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_KHR_android_thread_settings: Version=6
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_KHR_composition_layer_color_scale_bias: Version=5
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_KHR_composition_layer_cube: Version=8
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_KHR_composition_layer_cylinder: Version=4
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_KHR_composition_layer_depth: Version=6
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_KHR_composition_layer_equirect: Version=3
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_KHR_composition_layer_equirect2: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_KHR_convert_timespec_time: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_KHR_loader_init: Version=2
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_KHR_loader_init_android: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_KHR_opengl_es_enable: Version=9
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_KHR_vulkan_enable: Version=9
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_KHR_vulkan_enable2: Version=3
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_KHR_vulkan_swapchain_format_list: Version=5
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_META_foveation_eye_tracked: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_META_vulkan_swapchain_create_info: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_MND_headless: Version=3
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_MSFT_composition_layer_reprojection: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_frame_synthesis: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_interaction_render_model: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_local_floor: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_palm_pose: Version=3
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_render_model: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_uuid: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_KHR_locate_spaces: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_KHR_maintenance1: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_android_blast_buffer_queue_swapchain: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_composition_layer_opaque_rect: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_spatial_runtime: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_swapchain_update_state_android_blast_buffer_queue: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_view_state_stage_pose: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_android_controller_function_ext_enable: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_auto_scene_capture: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_camera_image: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_configuration: Version=2
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_controller_interaction: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_frame_end: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_layer_color_matrix: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_scene_capture: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_scene_capture_creation: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_semi_auto_scene_capture: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_spatial_anchor: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_spatial_anchor_sharing: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_spatial_mesh: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_spatial_sensing: Version=2
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_spatial_plane: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_transform_background_color: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_view_state: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_anchor_entity: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_anchor_entity_persistence: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_anchor_entity_persistence_private: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_anchor_entity_quality: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_async_task: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_auto_room_capture: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_composition_layer_color_matrix: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_composition_layer_eac: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_composition_layer_fisheye: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_composition_layer_settings: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_composition_layer_vst_mask: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_facial_simulation: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_haptic_audioclip: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_human_occlusion_ext: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_motion_tracking: Version=2
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_mr_management: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_room_scene: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_scene_label: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_semi_auto_room_capture: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_spatial_anchor_discovery: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_spatial_anchor_persistence: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_spatial_localization_and_tracking: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_spatial_scene_1: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_BD_spatial_tracking_state: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_EXT_environment_blend_mode_state: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_MetricsTool_ext: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_body_tracking: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_boundary: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_composition_layer_fisheye: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_configs_ext: Version=2
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_eye_tracking: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_frame_end_info_ext: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_hand_tracking: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_haptic_pcm: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_ipd: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_layer_settings: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_passthrough: Version=2
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_performance_metrics: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_reset_sensor: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_view_frustum: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_view_frustum_ext: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_view_ipd: Version=1
+11-21 09:49:33.305 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.305][Info   ]   XR_PICO_view_state_ext_enable: Version=1
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_PICO_adaptive_resolution: Version=1
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_PICO_body_tracking2: Version=1
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_PICO_expand_device: Version=1
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_PICO_external_camera: Version=1
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_PICO_motion_tracking: Version=1
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_PICO_readback_tensor: Version=2
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_PICO_readback_tensor_opengles: Version=1
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_PICO_readback_tensor_vulkan: Version=1
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_PICO_virtual_boundary: Version=1
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] Available Layers: (0)
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] Runtime Name: Pico XRRuntime()
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] Runtime Version: 36481.57721.123
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] Form factor: XR_FORM_FACTOR_HEAD_MOUNTED_DISPLAY
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] Runtime extensions enabled: (11)
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_BD_controller_interaction: Version=2
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_EXT_local_floor: Version=1
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_EXT_user_presence: Version=1
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_KHR_android_create_instance: Version=3
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_KHR_composition_layer_depth: Version=6
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_KHR_vulkan_enable2: Version=3
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_FB_composition_layer_secure_content: Version=1
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_FB_foveation: Version=1
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_FB_foveation_configuration: Version=1
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_FB_swapchain_update_state: Version=3
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_KHR_android_thread_settings: Version=6
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] Available Reference Spaces: (4)
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_REFERENCE_SPACE_TYPE_VIEW
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_REFERENCE_SPACE_TYPE_LOCAL
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_REFERENCE_SPACE_TYPE_STAGE
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_REFERENCE_SPACE_TYPE_LOCAL_FLOOR
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] Instance Id  : 0x469e5680
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] System Id    : 0x1
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] Session Id   : 0x46a3f980
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] Available View Configuration Types: (1)
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_VIEW_CONFIGURATION_TYPE_PRIMARY_STEREO (Selected): FovMutable=False
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]     [0]: Recommended: Width=1920, Height=1920, SampleCount=1
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]     [0]:     Maximum: Width=2560, Height=2560, SampleCount=1
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]     [1]: Recommended: Width=1920, Height=1920, SampleCount=1
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]     [1]:     Maximum: Width=2560, Height=2560, SampleCount=1
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] Skip Present To Main Screen: Yes
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] Available Environment Blend Modes: (2)
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_ENVIRONMENT_BLEND_MODE_OPAQUE (Selected)
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   XR_ENVIRONMENT_BLEND_MODE_ALPHA_BLEND
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] Features requested to be enabled: (2)
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   PICO Support: Version=1.4.1, Company="PICO"
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   PICO4 Ultra Touch Controller Profile: Version=1.0.0, Company="PICO", Extensions="XR_BD_controller_interaction"
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] Requested feature extensions not supported by runtime: (0)
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] System Properties: Name="PICO 4 Ultra Enterprise HMD", VendorId=42
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] System Graphics Properties: MaxWidth=16384, MaxHeight=16384, MaxLayers=16
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] System Tracking Properties: OrientationTracking=True, PositionTracking=True
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] ==== OpenXR API Spec Version ====
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] XrInstance Created with OpenXR API Version: 1.0.34
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] ==== OpenXR Input ====
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] Action Sets (1): 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]   pico4ultracontroller: ActionCount=18
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] ==== OpenXR Swapchain Details ====
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] Render Mode: Single Pass Instanced
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] Latency Optimization: Prioritize Rendering
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] Color Submission Mode: RGBA, 8 bits per channel (LDR)
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] Depth Submission Mode: None
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] Swapchain Format Preferences: 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    kRenderTextureFormatGroup8888
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] Swapchain Formats: 
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ] [c:VK_FORMAT_R8G8B8A8_SRGB]
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R8_UNORM
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R8G8_UNORM
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R8G8B8A8_UNORM
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R8_SNORM
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R8G8_SNORM
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R5G6B5_UNORM_PACK16
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_A2B10G10R10_UNORM_PACK32
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R8G8B8A8_SNORM
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R16_UNORM
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R16G16_UNORM
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R16G16B16A16_UNORM
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R16_SNORM
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R16G16_SNORM
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R16G16B16A16_SNORM
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R16_UINT
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R16G16_UINT
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R16G16B16A16_UINT
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R16_SINT
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R16G16_SINT
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R16G16B16A16_SINT
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R16_SFLOAT
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R16G16_SFLOAT
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_R16G16B16A16_SFLOAT
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_A1R5G5B5_UNORM_PACK16
+11-21 09:49:33.306 14404 18555 I Unity   : [XR] [528852491440] [09:49:33.306][Info   ]    VK_FORMAT_ETC2_R8G8B8_UNORM_BLOCK
+11-21 09:49:33.309 14404 18555 W RmClient: Rm::create() mRm 0xb4000079470ffe00
+11-21 09:49:33.309 14404 18555 I SysMtpClient: Get SysMtpService start!
+11-21 09:49:33.309 14404 18555 E DataBuffer: map fd(142) fdSize(135200) address(0x7b37a25000)
+11-21 09:49:33.310 14404 18555 E DataBuffer: map fd(143) fdSize(1568) address(0x7c08fc6000)
+11-21 09:49:33.310 14404 18555 E DataBuffer: map fd(144) fdSize(108576) address(0x7c08f15000)
+11-21 09:49:33.310 14404 18555 E DataBuffer: map fd(145) fdSize(589856) address(0x7b24286000)
+11-21 09:49:33.310 14404 18555 E DataBuffer: map fd(146) fdSize(6176) address(0x7c08fc4000)
+11-21 09:49:33.320 14404 14404 I ViewRootImpl: Will skip draw vr actvity :au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity
+11-21 09:49:33.444 14404 18555 I TrackingClient: [###][###:1467]: createSharedMemoryReader sm_tracking_controller_data
+11-21 09:49:33.449 14404 18611 E PCTP    : PCTP upload:{"pkg_name":"au.edu.evolve.framelab","type":"eyebuffer","value":"1920,1920","power_need":true}
+11-21 09:49:33.454 14404 18628 I PxrMetric: FPS=0/90,MTP=-114.68ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=0.00ms,FrmGpu=0.00ms,FrmTime=0.00ms,ATWGPU=0.00ms,VsyncDelay=0,GPU=0%/0Mhz,GPUTemp=0.0C,LayerCnt=0,Pkg=au.edu.evolve.framelab,FrmId=2
+11-21 09:49:33.692 14404 18611 I evolve.framelab: SysPerfTracker acquireUIFirst pid 18611
+11-21 09:49:34.454 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 63, 491909446716979
+11-21 09:49:34.458 14404 18628 I PxrMetric: FPS=0/90,MTP=32.12ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.64ms,FrmGpu=4.89ms,FrmTime=6.55ms,ATWGPU=2.00ms,VsyncDelay=2,GPU=52%/456Mhz,GPUTemp=41.4C,LayerCnt=4,Pkg=au.edu.evolve.framelab,FrmId=64
+11-21 09:49:34.930 14404 18629 I Choreographer: UnityChoreographer opt start....
+11-21 09:49:35.461 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491910453723020
+11-21 09:49:35.465 14404 18628 I PxrMetric: FPS=63/90,MTP=26.02ms,AppSW=off,FrmEarly=2,FrmLate=0,FrmCpu=1.89ms,FrmGpu=4.24ms,FrmTime=6.15ms,ATWGPU=1.57ms,VsyncDelay=1,GPU=45%/456Mhz,GPUTemp=40.7C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=154
+11-21 09:49:36.462 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491911454137968
+11-21 09:49:36.466 14404 18628 I PxrMetric: FPS=89/90,MTP=25.72ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.04ms,FrmGpu=4.00ms,FrmTime=6.05ms,ATWGPU=1.63ms,VsyncDelay=1,GPU=50%/456Mhz,GPUTemp=41.1C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=244
+11-21 09:49:36.551 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:49:36.551 14404 18555 E SensorClient: Controller_Client_info ,pret:2036747.199085,imut:2036747.161711,P:-0.534627,-0.379324,-0.419914,Q:0.878311,-0.245165,0.145774,0.383685,type:0
+11-21 09:49:36.903 14404 18555 I Unity   : SetGameState: isLoading: false, mode: UNKNOWN, label: 0, quality: 0
+11-21 09:49:36.906 14404 18555 I Unity   : FRAME_LAB_TELEMETRY_STARTED 0.4.5
+11-21 09:49:36.906 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:49:36.906 14404 18555 I Unity   : 
+11-21 09:49:36.918 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220370568090500 status
+11-21 09:49:36.918 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:49:36.918 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:49:36.918 14404 18555 I Unity   : 
+11-21 09:49:36.964 14404 18555 I Unity   : FRAME_LAB_SESSION_READY 0.4.5 room=arrival guide=True narration=True
+11-21 09:49:36.964 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:49:36.964 14404 18555 I Unity   : FrameLab.<Start>d__56:MoveNext()
+11-21 09:49:36.964 14404 18555 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+11-21 09:49:36.964 14404 18555 I Unity   : 
+11-21 09:49:37.471 14404 18628 I PxrMetric: FPS=90/90,MTP=38.89ms,AppSW=off,FrmEarly=0,FrmLate=15,FrmCpu=3.36ms,FrmGpu=10.69ms,FrmTime=14.07ms,ATWGPU=1.84ms,VsyncDelay=2,GPU=99%/456Mhz,GPUTemp=42.1C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=315
+11-21 09:49:37.472 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 72, 491912464785363
+11-21 09:49:38.478 14404 18628 I PxrMetric: FPS=71/90,MTP=31.96ms,AppSW=off,FrmEarly=2,FrmLate=8,FrmCpu=2.52ms,FrmGpu=11.67ms,FrmTime=14.21ms,ATWGPU=1.48ms,VsyncDelay=2,GPU=94%/599Mhz,GPUTemp=44.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=403
+11-21 09:49:38.478 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 88, 491913470947238
+11-21 09:49:39.481 14404 18628 I PxrMetric: FPS=87/90,MTP=36.83ms,AppSW=off,FrmEarly=0,FrmLate=5,FrmCpu=2.64ms,FrmGpu=9.01ms,FrmTime=11.66ms,ATWGPU=1.98ms,VsyncDelay=2,GPU=99%/599Mhz,GPUTemp=46.8C,LayerCnt=4,Pkg=au.edu.evolve.framelab,FrmId=491
+11-21 09:49:39.484 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 88, 491914476571561
+11-21 09:49:39.596 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:49:39.596 14404 18555 E SensorClient: Controller_Client_info ,pret:2036750.254660,imut:2036750.206237,P:-0.534627,-0.379324,-0.419914,Q:0.878311,-0.245165,0.145774,0.383685,type:0
+11-21 09:49:40.487 14404 18628 I PxrMetric: FPS=88/90,MTP=31.66ms,AppSW=off,FrmEarly=0,FrmLate=1,FrmCpu=2.44ms,FrmGpu=9.40ms,FrmTime=11.86ms,ATWGPU=1.56ms,VsyncDelay=2,GPU=89%/599Mhz,GPUTemp=46.8C,LayerCnt=4,Pkg=au.edu.evolve.framelab,FrmId=581
+11-21 09:49:40.489 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491915481268643
+11-21 09:49:41.488 14404 18628 I PxrMetric: FPS=89/90,MTP=30.05ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.54ms,FrmGpu=10.75ms,FrmTime=13.32ms,ATWGPU=1.75ms,VsyncDelay=2,GPU=85%/599Mhz,GPUTemp=46.8C,LayerCnt=4,Pkg=au.edu.evolve.framelab,FrmId=671
+11-21 09:49:41.500 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491916492458226
+11-21 09:49:41.835 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220380725109100 goto
+11-21 09:49:41.835 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:49:41.835 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:49:41.835 14404 18555 I Unity   : 
+11-21 09:49:42.385 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:49:42.385 14404 18555 E SensorClient: Controller_Client_info ,pret:2036753.032503,imut:2036752.994904,P:-0.534627,-0.379324,-0.419914,Q:0.878311,-0.245165,0.145774,0.383685,type:0
+11-21 09:49:42.499 14404 18628 I PxrMetric: FPS=90/90,MTP=30.52ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.96ms,FrmGpu=11.07ms,FrmTime=14.06ms,ATWGPU=1.37ms,VsyncDelay=2,GPU=98%/599Mhz,GPUTemp=43.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=762
+11-21 09:49:42.510 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491917502565205
+11-21 09:49:43.045 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220381810362900 goto
+11-21 09:49:43.045 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:49:43.045 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:49:43.045 14404 18555 I Unity   : 
+11-21 09:49:43.511 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 84, 491918503868226
+11-21 09:49:43.512 14404 18628 I PxrMetric: FPS=90/90,MTP=30.43ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.85ms,FrmGpu=12.36ms,FrmTime=15.23ms,ATWGPU=1.36ms,VsyncDelay=2,GPU=99%/599Mhz,GPUTemp=43.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=847
+11-21 09:49:43.975 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220382899636800 goto
+11-21 09:49:43.975 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:49:43.975 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:49:43.975 14404 18555 I Unity   : 
+11-21 09:49:44.517 14404 18628 I PxrMetric: FPS=84/90,MTP=35.33ms,AppSW=off,FrmEarly=0,FrmLate=12,FrmCpu=2.34ms,FrmGpu=8.25ms,FrmTime=10.61ms,ATWGPU=1.45ms,VsyncDelay=2,GPU=99%/599Mhz,GPUTemp=44.1C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=931
+11-21 09:49:44.518 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 84, 491919510937184
+11-21 09:49:44.886 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220383650109600 goto
+11-21 09:49:44.886 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:49:44.886 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:49:44.886 14404 18555 I Unity   : 
+11-21 09:49:45.307 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:49:45.307 14404 18555 E SensorClient: Controller_Client_info ,pret:2036755.954795,imut:2036755.918442,P:-0.534627,-0.379324,-0.419914,Q:0.919280,-0.309519,0.081509,0.229081,type:0
+11-21 09:49:45.520 14404 18628 I PxrMetric: FPS=84/90,MTP=30.62ms,AppSW=off,FrmEarly=0,FrmLate=3,FrmCpu=2.66ms,FrmGpu=10.57ms,FrmTime=13.25ms,ATWGPU=1.53ms,VsyncDelay=2,GPU=84%/492Mhz,GPUTemp=43.4C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=1021
+11-21 09:49:45.521 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491920513593798
+11-21 09:49:45.811 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220384732865700 goto
+11-21 09:49:45.811 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:49:45.811 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:49:45.811 14404 18555 I Unity   : 
+11-21 09:49:46.533 14404 18628 I PxrMetric: FPS=90/90,MTP=31.60ms,AppSW=off,FrmEarly=0,FrmLate=1,FrmCpu=2.76ms,FrmGpu=12.60ms,FrmTime=15.38ms,ATWGPU=1.67ms,VsyncDelay=2,GPU=99%/599Mhz,GPUTemp=43.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=1103
+11-21 09:49:46.533 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 81, 491921525933225
+11-21 09:49:46.724 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220385481329700 goto
+11-21 09:49:46.724 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:49:46.724 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:49:46.724 14404 18555 I Unity   : 
+11-21 09:49:47.540 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 86, 491922532244266
+11-21 09:49:47.540 14404 18628 I PxrMetric: FPS=81/90,MTP=37.23ms,AppSW=off,FrmEarly=0,FrmLate=15,FrmCpu=3.14ms,FrmGpu=9.53ms,FrmTime=12.68ms,ATWGPU=1.96ms,VsyncDelay=2,GPU=84%/599Mhz,GPUTemp=44.4C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=1189
+11-21 09:49:47.641 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220386564179100 goto
+11-21 09:49:47.641 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:49:47.641 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:49:47.641 14404 18555 I Unity   : 
+11-21 09:49:48.245 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:49:48.245 14404 18555 E SensorClient: Controller_Client_info ,pret:2036758.899310,imut:2036758.855864,P:-0.534627,-0.379324,-0.419914,Q:0.919280,-0.309519,0.081509,0.229081,type:0
+11-21 09:49:48.543 14404 18628 I PxrMetric: FPS=85/90,MTP=31.74ms,AppSW=off,FrmEarly=2,FrmLate=0,FrmCpu=2.19ms,FrmGpu=9.78ms,FrmTime=11.99ms,ATWGPU=1.42ms,VsyncDelay=2,GPU=73%/599Mhz,GPUTemp=43.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=1279
+11-21 09:49:48.544 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491923536801505
+11-21 09:49:49.544 14404 18628 I PxrMetric: FPS=90/90,MTP=32.15ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.43ms,FrmGpu=10.17ms,FrmTime=12.61ms,ATWGPU=1.60ms,VsyncDelay=2,GPU=78%/545Mhz,GPUTemp=46.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=1369
+11-21 09:49:49.555 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491924547868588
+11-21 09:49:50.544 14404 18628 I PxrMetric: FPS=90/90,MTP=32.53ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.39ms,FrmGpu=11.51ms,FrmTime=13.91ms,ATWGPU=1.57ms,VsyncDelay=2,GPU=97%/599Mhz,GPUTemp=47.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=1455
+11-21 09:49:50.577 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 86, 491925569156817
+11-21 09:49:51.109 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:49:51.110 14404 18555 E SensorClient: Controller_Client_info ,pret:2036761.766045,imut:2036761.719902,P:-0.534627,-0.379324,-0.419914,Q:0.919280,-0.309519,0.081509,0.229081,type:0
+11-21 09:49:51.284 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220390197101900 goto
+11-21 09:49:51.284 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:49:51.284 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:49:51.284 14404 18555 I Unity   : 
+11-21 09:49:51.549 14404 18628 I PxrMetric: FPS=86/90,MTP=37.43ms,AppSW=off,FrmEarly=0,FrmLate=8,FrmCpu=2.49ms,FrmGpu=9.81ms,FrmTime=12.31ms,ATWGPU=1.44ms,VsyncDelay=2,GPU=96%/599Mhz,GPUTemp=45.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=1541
+11-21 09:49:51.584 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 87, 491926576570879
+11-21 09:49:52.194 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220390940608700 goto
+11-21 09:49:52.194 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:49:52.194 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:49:52.194 14404 18555 I Unity   : 
+11-21 09:49:52.549 14404 18628 I PxrMetric: FPS=86/90,MTP=39.49ms,AppSW=off,FrmEarly=0,FrmLate=2,FrmCpu=2.71ms,FrmGpu=10.79ms,FrmTime=13.52ms,ATWGPU=1.48ms,VsyncDelay=2,GPU=94%/599Mhz,GPUTemp=45.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=1627
+11-21 09:49:52.594 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 87, 491927586217337
+11-21 09:49:53.108 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220392037545300 goto
+11-21 09:49:53.108 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:49:53.108 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:49:53.108 14404 18555 I Unity   : 
+11-21 09:49:53.549 14404 18628 I PxrMetric: FPS=86/90,MTP=38.90ms,AppSW=off,FrmEarly=2,FrmLate=5,FrmCpu=2.62ms,FrmGpu=10.02ms,FrmTime=12.65ms,ATWGPU=1.52ms,VsyncDelay=2,GPU=84%/599Mhz,GPUTemp=46.1C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=1717
+11-21 09:49:53.595 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491928587066503
+11-21 09:49:53.953 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:49:53.953 14404 18555 E SensorClient: Controller_Client_info ,pret:2036764.599446,imut:2036764.562122,P:-0.534627,-0.379324,-0.419914,Q:0.919280,-0.309519,0.081509,0.229081,type:0
+11-21 09:49:54.023 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220392777088400 goto
+11-21 09:49:54.023 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:49:54.023 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:49:54.023 14404 18555 I Unity   : 
+11-21 09:49:54.556 14404 18628 I PxrMetric: FPS=90/90,MTP=30.42ms,AppSW=off,FrmEarly=1,FrmLate=0,FrmCpu=2.16ms,FrmGpu=9.46ms,FrmTime=11.64ms,ATWGPU=1.40ms,VsyncDelay=1,GPU=97%/599Mhz,GPUTemp=45.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=1807
+11-21 09:49:54.601 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491929593841607
+11-21 09:49:55.556 14404 18628 I PxrMetric: FPS=89/90,MTP=29.88ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.86ms,FrmGpu=9.45ms,FrmTime=11.33ms,ATWGPU=1.47ms,VsyncDelay=1,GPU=84%/599Mhz,GPUTemp=47.1C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=1897
+11-21 09:49:55.613 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491930605293742
+11-21 09:49:56.556 14404 18628 I PxrMetric: FPS=90/90,MTP=29.13ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.82ms,FrmGpu=9.26ms,FrmTime=11.09ms,ATWGPU=1.45ms,VsyncDelay=1,GPU=82%/599Mhz,GPUTemp=47.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=1987
+11-21 09:49:56.614 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491931606169939
+11-21 09:49:56.734 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:49:56.734 14404 18555 E SensorClient: Controller_Client_info ,pret:2036767.377290,imut:2036767.344839,P:-0.534627,-0.379324,-0.419914,Q:0.919280,-0.309519,0.081509,0.229081,type:0
+11-21 09:49:57.556 14404 18628 I PxrMetric: FPS=90/90,MTP=28.53ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.73ms,FrmGpu=9.14ms,FrmTime=10.88ms,ATWGPU=1.49ms,VsyncDelay=1,GPU=80%/599Mhz,GPUTemp=48.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=2077
+11-21 09:49:57.614 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491932606804835
+11-21 09:49:58.557 14404 18628 I PxrMetric: FPS=90/90,MTP=28.95ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.97ms,FrmGpu=9.41ms,FrmTime=11.39ms,ATWGPU=1.52ms,VsyncDelay=1,GPU=84%/599Mhz,GPUTemp=47.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=2167
+11-21 09:49:58.625 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491933617259157
+11-21 09:49:58.882 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220397536899700 goto
+11-21 09:49:58.882 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:49:58.882 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:49:58.882 14404 18555 I Unity   : 
+11-21 09:49:59.567 14404 18628 I PxrMetric: FPS=90/90,MTP=32.12ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.59ms,FrmGpu=11.38ms,FrmTime=13.99ms,ATWGPU=2.07ms,VsyncDelay=2,GPU=99%/599Mhz,GPUTemp=46.1C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=2253
+11-21 09:49:59.568 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:49:59.568 14404 18555 E SensorClient: Controller_Client_info ,pret:2036770.221802,imut:2036770.206126,P:-0.534627,-0.379324,-0.419914,Q:0.925987,-0.324966,0.062528,0.181755,type:0
+11-21 09:49:59.636 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 86, 491934628180667
+11-21 09:49:59.805 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220398617829600 goto
+11-21 09:49:59.805 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:49:59.805 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:49:59.805 14404 18555 I Unity   : 
+11-21 09:50:00.573 14404 18628 I PxrMetric: FPS=85/90,MTP=34.49ms,AppSW=off,FrmEarly=1,FrmLate=5,FrmCpu=2.99ms,FrmGpu=9.67ms,FrmTime=12.67ms,ATWGPU=1.57ms,VsyncDelay=2,GPU=96%/599Mhz,GPUTemp=46.1C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=2343
+11-21 09:50:00.640 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491935632634573
+11-21 09:50:01.031 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220399707887500 goto
+11-21 09:50:01.031 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:01.031 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:01.031 14404 18555 I Unity   : 
+11-21 09:50:01.579 14404 18628 I PxrMetric: FPS=89/90,MTP=31.52ms,AppSW=off,FrmEarly=2,FrmLate=0,FrmCpu=2.61ms,FrmGpu=10.79ms,FrmTime=13.42ms,ATWGPU=1.42ms,VsyncDelay=2,GPU=93%/599Mhz,GPUTemp=46.1C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=2433
+11-21 09:50:01.645 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491936637911240
+11-21 09:50:01.903 14404 18555 I Unity   : FRAME_LAB_METRICS frames=1754 fps=87.7 frame_p95_ms=11.11 gpu_ms=-1.00 refresh_hz=90.0
+11-21 09:50:01.903 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:01.903 14404 18555 I Unity   : FrameLab.FrameLabTelemetry:Update()
+11-21 09:50:01.903 14404 18555 I Unity   : 
+11-21 09:50:01.947 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220400790723400 goto
+11-21 09:50:01.947 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:01.947 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:01.947 14404 18555 I Unity   : 
+11-21 09:50:02.357 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:50:02.357 14404 18555 E SensorClient: Controller_Client_info ,pret:2036773.010757,imut:2036772.965811,P:-0.534627,-0.379324,-0.419914,Q:0.926477,-0.326249,0.060682,0.177539,type:0
+11-21 09:50:02.579 14404 18628 I PxrMetric: FPS=90/90,MTP=31.34ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.51ms,FrmGpu=10.82ms,FrmTime=13.34ms,ATWGPU=1.47ms,VsyncDelay=1,GPU=89%/599Mhz,GPUTemp=46.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=2523
+11-21 09:50:02.657 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491937649061448
+11-21 09:50:03.170 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220401870878800 goto
+11-21 09:50:03.170 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:03.170 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:03.170 14404 18555 I Unity   : 
+11-21 09:50:03.590 14404 18628 I PxrMetric: FPS=90/90,MTP=28.22ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.39ms,FrmGpu=10.23ms,FrmTime=12.63ms,ATWGPU=1.42ms,VsyncDelay=1,GPU=92%/599Mhz,GPUTemp=46.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=2614
+11-21 09:50:03.669 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491938661178218
+11-21 09:50:04.091 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220402956295700 goto
+11-21 09:50:04.091 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:04.091 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:04.091 14404 18555 I Unity   : 
+11-21 09:50:04.594 14404 18628 I PxrMetric: FPS=90/90,MTP=43.78ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.64ms,FrmGpu=15.87ms,FrmTime=18.53ms,ATWGPU=1.55ms,VsyncDelay=3,GPU=93%/599Mhz,GPUTemp=46.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=2693
+11-21 09:50:04.674 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 77, 491939666723947
+11-21 09:50:05.325 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220404026767600 goto
+11-21 09:50:05.325 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:05.325 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:05.325 14404 18555 I Unity   : 
+11-21 09:50:05.534 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:50:05.534 14404 18555 E SensorClient: Controller_Client_info ,pret:2036776.188611,imut:2036776.145210,P:-0.534627,-0.379324,-0.419914,Q:0.926477,-0.326249,0.060682,0.177539,type:0
+11-21 09:50:05.596 14404 18628 I PxrMetric: FPS=79/90,MTP=34.76ms,AppSW=off,FrmEarly=0,FrmLate=28,FrmCpu=2.42ms,FrmGpu=11.12ms,FrmTime=13.56ms,ATWGPU=1.48ms,VsyncDelay=2,GPU=94%/599Mhz,GPUTemp=46.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=2759
+11-21 09:50:05.684 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 69, 491940676820978
+11-21 09:50:06.253 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220405107914100 goto
+11-21 09:50:06.253 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:06.253 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:06.253 14404 18555 I Unity   : 
+11-21 09:50:06.599 14404 18628 I PxrMetric: FPS=66/90,MTP=33.24ms,AppSW=off,FrmEarly=0,FrmLate=11,FrmCpu=2.61ms,FrmGpu=10.73ms,FrmTime=13.35ms,ATWGPU=1.30ms,VsyncDelay=2,GPU=81%/599Mhz,GPUTemp=46.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=2849
+11-21 09:50:06.688 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491941680764415
+11-21 09:50:07.469 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220406191141400 goto
+11-21 09:50:07.469 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:07.469 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:07.469 14404 18555 I Unity   : 
+11-21 09:50:07.599 14404 18628 I PxrMetric: FPS=90/90,MTP=32.30ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.39ms,FrmGpu=10.12ms,FrmTime=12.54ms,ATWGPU=1.44ms,VsyncDelay=2,GPU=94%/599Mhz,GPUTemp=46.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=2939
+11-21 09:50:07.690 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491942682635508
+11-21 09:50:08.016 14404 14404 W FinalizerDaemon: type=1400 audit(0.0:79073): avc:  denied  { getopt } for  path="/dev/socket/usap_pool_primary" scontext=u:r:untrusted_app:s0:c170,c256,c512,c768 tcontext=u:r:zygote:s0 tclass=unix_stream_socket permissive=0
+11-21 09:50:08.490 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:50:08.490 14404 18555 E SensorClient: Controller_Client_info ,pret:2036779.144237,imut:2036779.102469,P:-0.534627,-0.379324,-0.419914,Q:0.926477,-0.326249,0.060682,0.177539,type:0
+11-21 09:50:08.608 14404 18628 I PxrMetric: FPS=90/90,MTP=37.59ms,AppSW=off,FrmEarly=0,FrmLate=14,FrmCpu=2.36ms,FrmGpu=12.81ms,FrmTime=15.19ms,ATWGPU=1.59ms,VsyncDelay=2,GPU=93%/599Mhz,GPUTemp=46.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=3013
+11-21 09:50:08.697 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 73, 491943689410091
+11-21 09:50:09.614 14404 18628 I PxrMetric: FPS=73/90,MTP=31.74ms,AppSW=off,FrmEarly=0,FrmLate=13,FrmCpu=2.35ms,FrmGpu=13.30ms,FrmTime=15.67ms,ATWGPU=1.47ms,VsyncDelay=2,GPU=99%/599Mhz,GPUTemp=49.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=3092
+11-21 09:50:09.707 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 79, 491944699827174
+11-21 09:50:10.619 14404 18628 I PxrMetric: FPS=79/90,MTP=39.18ms,AppSW=off,FrmEarly=0,FrmLate=13,FrmCpu=2.20ms,FrmGpu=13.55ms,FrmTime=15.77ms,ATWGPU=1.41ms,VsyncDelay=2,GPU=97%/599Mhz,GPUTemp=50.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=3167
+11-21 09:50:10.712 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 75, 491945704599205
+11-21 09:50:11.620 14404 18628 I PxrMetric: FPS=75/90,MTP=37.40ms,AppSW=off,FrmEarly=0,FrmLate=15,FrmCpu=2.54ms,FrmGpu=13.22ms,FrmTime=15.78ms,ATWGPU=1.52ms,VsyncDelay=2,GPU=91%/599Mhz,GPUTemp=50.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=3243
+11-21 09:50:11.724 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 77, 491946716555923
+11-21 09:50:11.764 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:50:11.764 14404 18555 E SensorClient: Controller_Client_info ,pret:2036782.422093,imut:2036782.375089,P:-0.534627,-0.379324,-0.419914,Q:0.926477,-0.326249,0.060682,0.177539,type:0
+11-21 09:50:11.765 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220410666023000 goto
+11-21 09:50:11.765 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:11.765 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:11.765 14404 18555 I Unity   : 
+11-21 09:50:12.627 14404 18628 I PxrMetric: FPS=76/90,MTP=38.63ms,AppSW=off,FrmEarly=0,FrmLate=12,FrmCpu=2.95ms,FrmGpu=10.01ms,FrmTime=12.97ms,ATWGPU=1.49ms,VsyncDelay=2,GPU=89%/599Mhz,GPUTemp=47.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=3329
+11-21 09:50:12.675 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220411417143500 goto
+11-21 09:50:12.675 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:12.675 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:12.675 14404 18555 I Unity   : 
+11-21 09:50:12.727 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 87, 491947719350610
+11-21 09:50:13.596 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220412500957600 menu
+11-21 09:50:13.596 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:13.596 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:13.596 14404 18555 I Unity   : 
+11-21 09:50:13.631 14404 18628 I PxrMetric: FPS=85/90,MTP=36.68ms,AppSW=off,FrmEarly=1,FrmLate=6,FrmCpu=2.85ms,FrmGpu=12.55ms,FrmTime=15.42ms,ATWGPU=1.65ms,VsyncDelay=2,GPU=93%/599Mhz,GPUTemp=47.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=3409
+11-21 09:50:13.731 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 79, 491948723181704
+11-21 09:50:14.211 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220412909182900 menu
+11-21 09:50:14.211 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:14.211 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:14.211 14404 18555 I Unity   : 
+11-21 09:50:14.517 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220413323601200 goto
+11-21 09:50:14.517 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:14.517 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:14.517 14404 18555 I Unity   : 
+11-21 09:50:14.639 14404 18628 I PxrMetric: FPS=80/90,MTP=39.15ms,AppSW=off,FrmEarly=0,FrmLate=11,FrmCpu=2.62ms,FrmGpu=10.60ms,FrmTime=13.24ms,ATWGPU=1.51ms,VsyncDelay=2,GPU=92%/599Mhz,GPUTemp=47.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=3491
+11-21 09:50:14.741 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 83, 491949733130974
+11-21 09:50:14.786 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:50:14.786 14404 18555 E SensorClient: Controller_Client_info ,pret:2036785.444388,imut:2036785.395816,P:-0.534627,-0.379324,-0.419914,Q:0.926477,-0.326249,0.060682,0.177539,type:0
+11-21 09:50:15.638 14404 18628 I PxrMetric: FPS=81/90,MTP=37.21ms,AppSW=off,FrmEarly=2,FrmLate=4,FrmCpu=3.03ms,FrmGpu=9.28ms,FrmTime=12.33ms,ATWGPU=1.35ms,VsyncDelay=2,GPU=84%/545Mhz,GPUTemp=47.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=3581
+11-21 09:50:15.744 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220414399015200 fitting
+11-21 09:50:15.744 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:15.744 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:15.744 14404 18555 I Unity   : 
+11-21 09:50:15.750 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491950742641495
+11-21 09:50:16.046 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220414804507100 fitting
+11-21 09:50:16.046 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:16.046 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:16.046 14404 18555 I Unity   : 
+11-21 09:50:16.347 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220415219932100 fitting
+11-21 09:50:16.347 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:16.347 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:16.347 14404 18555 I Unity   : 
+11-21 09:50:16.640 14404 18628 I PxrMetric: FPS=90/90,MTP=39.57ms,AppSW=off,FrmEarly=1,FrmLate=0,FrmCpu=2.66ms,FrmGpu=11.88ms,FrmTime=14.55ms,ATWGPU=1.55ms,VsyncDelay=2,GPU=99%/599Mhz,GPUTemp=47.1C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=3665
+11-21 09:50:16.755 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 84, 491951747872328
+11-21 09:50:16.965 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220415630461000 fitting
+11-21 09:50:16.965 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:16.965 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:16.965 14404 18555 I Unity   : 
+11-21 09:50:17.276 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220416030121700 fitting
+11-21 09:50:17.276 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:17.276 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:17.276 14404 18555 I Unity   : 
+11-21 09:50:17.580 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220416426987200 fitting
+11-21 09:50:17.580 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:17.580 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:17.580 14404 18555 I Unity   : 
+11-21 09:50:17.647 14404 18628 I PxrMetric: FPS=84/90,MTP=31.19ms,AppSW=off,FrmEarly=0,FrmLate=9,FrmCpu=2.75ms,FrmGpu=11.34ms,FrmTime=14.11ms,ATWGPU=1.44ms,VsyncDelay=1,GPU=93%/599Mhz,GPUTemp=47.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=3753
+11-21 09:50:17.667 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:50:17.667 14404 18555 E SensorClient: Controller_Client_info ,pret:2036788.311122,imut:2036788.277706,P:-0.534627,-0.379324,-0.419914,Q:0.926477,-0.326249,0.060682,0.177539,type:0
+11-21 09:50:17.759 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 88, 491952751697171
+11-21 09:50:17.890 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220416831818200 fitting
+11-21 09:50:17.890 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:17.890 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:17.890 14404 18555 I Unity   : 
+11-21 09:50:18.502 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220417241131700 fitting
+11-21 09:50:18.502 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:18.502 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:18.502 14404 18555 I Unity   : 
+11-21 09:50:18.657 14404 18628 I PxrMetric: FPS=87/90,MTP=31.10ms,AppSW=off,FrmEarly=0,FrmLate=3,FrmCpu=2.64ms,FrmGpu=11.36ms,FrmTime=14.02ms,ATWGPU=1.50ms,VsyncDelay=1,GPU=89%/599Mhz,GPUTemp=47.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=3841
+11-21 09:50:18.759 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 87, 491953751916806
+11-21 09:50:18.809 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220417650460900 fitting
+11-21 09:50:18.809 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:18.809 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:18.809 14404 18555 I Unity   : 
+11-21 09:50:19.116 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220418054858100 fitting
+11-21 09:50:19.116 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:19.116 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:19.116 14404 18555 I Unity   : 
+11-21 09:50:19.666 14404 18628 I PxrMetric: FPS=87/90,MTP=30.92ms,AppSW=off,FrmEarly=0,FrmLate=3,FrmCpu=2.69ms,FrmGpu=11.19ms,FrmTime=13.89ms,ATWGPU=1.44ms,VsyncDelay=2,GPU=93%/599Mhz,GPUTemp=47.1C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=3929
+11-21 09:50:19.725 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220418463900600 fitting
+11-21 09:50:19.725 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:19.725 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:19.725 14404 18555 I Unity   : 
+11-21 09:50:19.768 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 88, 491954760896285
+11-21 09:50:20.036 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220418863235400 fitting
+11-21 09:50:20.036 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:20.036 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:20.036 14404 18555 I Unity   : 
+11-21 09:50:20.344 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220419269141900 all-fittings
+11-21 09:50:20.344 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:20.344 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:20.344 14404 18555 I Unity   : 
+11-21 09:50:20.527 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:50:20.527 14404 18555 E SensorClient: Controller_Client_info ,pret:2036791.177858,imut:2036791.137777,P:-0.534627,-0.379324,-0.419914,Q:0.926477,-0.326249,0.060682,0.177539,type:0
+11-21 09:50:20.672 14404 18628 I PxrMetric: FPS=87/90,MTP=38.76ms,AppSW=off,FrmEarly=0,FrmLate=4,FrmCpu=2.74ms,FrmGpu=10.72ms,FrmTime=13.48ms,ATWGPU=1.80ms,VsyncDelay=2,GPU=94%/599Mhz,GPUTemp=47.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=4018
+11-21 09:50:20.774 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 89, 491955766098680
+11-21 09:50:21.678 14404 18628 I PxrMetric: FPS=88/90,MTP=30.63ms,AppSW=off,FrmEarly=1,FrmLate=1,FrmCpu=2.38ms,FrmGpu=10.75ms,FrmTime=13.16ms,ATWGPU=1.50ms,VsyncDelay=2,GPU=96%/599Mhz,GPUTemp=50.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=4108
+11-21 09:50:21.778 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491956770144357
+11-21 09:50:21.901 14404 18555 I Unity   : FRAME_LAB_METRICS frames=1666 fps=83.3 frame_p95_ms=22.22 gpu_ms=-1.00 refresh_hz=90.0
+11-21 09:50:21.901 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:21.901 14404 18555 I Unity   : FrameLab.FrameLabTelemetry:Update()
+11-21 09:50:21.901 14404 18555 I Unity   : 
+11-21 09:50:22.678 14404 18628 I PxrMetric: FPS=90/90,MTP=33.08ms,AppSW=off,FrmEarly=0,FrmLate=2,FrmCpu=2.51ms,FrmGpu=11.57ms,FrmTime=14.11ms,ATWGPU=1.47ms,VsyncDelay=2,GPU=55%/599Mhz,GPUTemp=49.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=4189
+11-21 09:50:22.782 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 81, 491957774066232
+11-21 09:50:23.424 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:50:23.424 14404 18555 E SensorClient: Controller_Client_info ,pret:2036794.077926,imut:2036794.035534,P:-0.534627,-0.379324,-0.419914,Q:0.926477,-0.326249,0.060682,0.177539,type:0
+11-21 09:50:23.686 14404 18628 I PxrMetric: FPS=81/90,MTP=36.78ms,AppSW=off,FrmEarly=0,FrmLate=8,FrmCpu=2.78ms,FrmGpu=11.22ms,FrmTime=14.02ms,ATWGPU=1.46ms,VsyncDelay=2,GPU=96%/599Mhz,GPUTemp=49.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=4278
+11-21 09:50:23.787 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 89, 491958779293002
+11-21 09:50:24.686 14404 18628 I PxrMetric: FPS=88/90,MTP=37.19ms,AppSW=off,FrmEarly=0,FrmLate=3,FrmCpu=2.54ms,FrmGpu=12.34ms,FrmTime=14.90ms,ATWGPU=1.58ms,VsyncDelay=2,GPU=99%/599Mhz,GPUTemp=50.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=4364
+11-21 09:50:24.796 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 86, 491959788373054
+11-21 09:50:25.513 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220424396985700 goto
+11-21 09:50:25.513 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:25.513 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:25.513 14404 18555 I Unity   : 
+11-21 09:50:25.687 14404 18628 I PxrMetric: FPS=86/90,MTP=32.36ms,AppSW=off,FrmEarly=0,FrmLate=8,FrmCpu=2.74ms,FrmGpu=11.44ms,FrmTime=14.21ms,ATWGPU=1.93ms,VsyncDelay=2,GPU=99%/599Mhz,GPUTemp=48.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=4447
+11-21 09:50:25.808 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 84, 491960800632949
+11-21 09:50:26.330 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:50:26.330 14404 18555 E SensorClient: Controller_Client_info ,pret:2036796.989107,imut:2036796.941225,P:-0.534627,-0.379324,-0.419914,Q:0.926477,-0.326249,0.060682,0.177539,type:0
+11-21 09:50:26.688 14404 18628 I PxrMetric: FPS=83/90,MTP=31.84ms,AppSW=off,FrmEarly=0,FrmLate=4,FrmCpu=2.29ms,FrmGpu=9.88ms,FrmTime=12.19ms,ATWGPU=1.61ms,VsyncDelay=2,GPU=88%/492Mhz,GPUTemp=47.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=4537
+11-21 09:50:26.737 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220425473376100 walls
+11-21 09:50:26.737 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:26.737 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:26.737 14404 18555 I Unity   : 
+11-21 09:50:26.812 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491961804692532
+11-21 09:50:27.700 14404 18628 I PxrMetric: FPS=90/90,MTP=31.22ms,AppSW=off,FrmEarly=1,FrmLate=0,FrmCpu=1.80ms,FrmGpu=9.74ms,FrmTime=11.55ms,ATWGPU=1.67ms,VsyncDelay=1,GPU=78%/492Mhz,GPUTemp=49.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=4628
+11-21 09:50:27.812 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491962804816698
+11-21 09:50:28.700 14404 18628 I PxrMetric: FPS=90/90,MTP=31.36ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.89ms,FrmGpu=9.96ms,FrmTime=11.87ms,ATWGPU=1.82ms,VsyncDelay=1,GPU=84%/456Mhz,GPUTemp=49.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=4718
+11-21 09:50:28.823 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491963815679302
+11-21 09:50:29.122 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:50:29.122 14404 18555 E SensorClient: Controller_Client_info ,pret:2036799.766951,imut:2036799.731879,P:-0.534627,-0.379324,-0.419914,Q:0.926477,-0.326249,0.060682,0.177539,type:0
+11-21 09:50:29.700 14404 18628 I PxrMetric: FPS=90/90,MTP=30.84ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.91ms,FrmGpu=9.69ms,FrmTime=11.61ms,ATWGPU=1.66ms,VsyncDelay=1,GPU=89%/456Mhz,GPUTemp=49.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=4808
+11-21 09:50:29.824 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491964816288156
+11-21 09:50:30.700 14404 18628 I PxrMetric: FPS=90/90,MTP=30.81ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.02ms,FrmGpu=9.61ms,FrmTime=11.65ms,ATWGPU=1.64ms,VsyncDelay=1,GPU=84%/456Mhz,GPUTemp=49.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=4898
+11-21 09:50:30.705 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220429436725600 walls
+11-21 09:50:30.705 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:30.705 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:30.705 14404 18555 I Unity   : 
+11-21 09:50:30.835 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491965827083156
+11-21 09:50:31.015 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220429843020500 roof
+11-21 09:50:31.015 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:31.015 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:31.015 14404 18555 I Unity   : 
+11-21 09:50:31.315 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220430255106900 roof
+11-21 09:50:31.315 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:31.315 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:31.315 14404 18555 I Unity   : 
+11-21 09:50:31.701 14404 18628 I PxrMetric: FPS=90/90,MTP=30.05ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.17ms,FrmGpu=9.41ms,FrmTime=11.59ms,ATWGPU=1.66ms,VsyncDelay=1,GPU=85%/545Mhz,GPUTemp=47.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=4988
+11-21 09:50:31.836 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491966828528207
+11-21 09:50:31.900 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:50:31.900 14404 18555 E SensorClient: Controller_Client_info ,pret:2036802.544796,imut:2036802.510632,P:-0.534627,-0.379324,-0.419914,Q:0.926477,-0.326249,0.060682,0.177539,type:0
+11-21 09:50:31.927 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220430658005600 all-fittings
+11-21 09:50:31.927 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:31.927 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:31.927 14404 18555 I Unity   : 
+11-21 09:50:32.238 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220431063757100 study
+11-21 09:50:32.238 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:32.238 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:32.238 14404 18555 I Unity   : 
+11-21 09:50:32.755 14404 18628 I PxrMetric: FPS=90/90,MTP=-263.16ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.17ms,FrmGpu=9.90ms,FrmTime=12.09ms,ATWGPU=1.58ms,VsyncDelay=1,GPU=87%/545Mhz,GPUTemp=47.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5052
+11-21 09:50:32.836 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 60, 491967828890082
+11-21 09:50:33.303 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220432131967100 explode
+11-21 09:50:33.303 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:33.303 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:33.303 14404 18555 I Unity   : 
+11-21 09:50:33.614 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220432531535700 zoom
+11-21 09:50:33.614 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:33.614 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:33.614 14404 18555 I Unity   : 
+11-21 09:50:33.755 14404 18628 I PxrMetric: FPS=61/90,MTP=29.09ms,AppSW=off,FrmEarly=0,FrmLate=33,FrmCpu=2.65ms,FrmGpu=9.47ms,FrmTime=12.14ms,ATWGPU=1.92ms,VsyncDelay=1,GPU=91%/492Mhz,GPUTemp=47.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5143
+11-21 09:50:33.846 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491968838355967
+11-21 09:50:34.215 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220432935467500 rotation
+11-21 09:50:34.215 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:34.215 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:34.215 14404 18555 I Unity   : 
+11-21 09:50:34.526 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220433344786400 rotation
+11-21 09:50:34.526 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:34.526 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:34.526 14404 18555 I Unity   : 
+11-21 09:50:34.756 14404 18628 I PxrMetric: FPS=91/90,MTP=28.20ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.66ms,FrmGpu=8.97ms,FrmTime=11.64ms,ATWGPU=1.50ms,VsyncDelay=1,GPU=74%/545Mhz,GPUTemp=47.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5233
+11-21 09:50:34.826 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220433752344100 rotation
+11-21 09:50:34.826 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:34.826 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:34.826 14404 18555 I Unity   : 
+11-21 09:50:34.847 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491969839580133
+11-21 09:50:35.013 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:50:35.013 14404 18555 E SensorClient: Controller_Client_info ,pret:2036805.667092,imut:2036805.622598,P:-0.534627,-0.379324,-0.419914,Q:0.926477,-0.326249,0.060682,0.177539,type:0
+11-21 09:50:35.448 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220434158278800 rotation
+11-21 09:50:35.448 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:35.448 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:35.448 14404 18555 I Unity   : 
+11-21 09:50:35.758 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220434556883500 rotation
+11-21 09:50:35.758 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:35.758 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:35.758 14404 18555 I Unity   : 
+11-21 09:50:35.768 14404 18628 I PxrMetric: FPS=90/90,MTP=31.51ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.49ms,FrmGpu=10.06ms,FrmTime=12.57ms,ATWGPU=1.83ms,VsyncDelay=2,GPU=77%/492Mhz,GPUTemp=47.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5324
+11-21 09:50:35.857 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491970849745914
+11-21 09:50:36.059 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220434962045100 part
+11-21 09:50:36.059 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:36.059 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:36.059 14404 18555 I Unity   : 
+11-21 09:50:36.671 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220435360802100 isolate
+11-21 09:50:36.671 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:36.671 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:36.671 14404 18555 I Unity   : 
+11-21 09:50:36.778 14404 18628 I PxrMetric: FPS=90/90,MTP=30.55ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.43ms,FrmGpu=9.26ms,FrmTime=11.71ms,ATWGPU=1.90ms,VsyncDelay=1,GPU=76%/492Mhz,GPUTemp=47.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5415
+11-21 09:50:36.858 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491971850912684
+11-21 09:50:36.972 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220435766000700 rotation
+11-21 09:50:36.972 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:36.972 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:36.972 14404 18555 I Unity   : 
+11-21 09:50:37.780 14404 18628 I PxrMetric: FPS=90/90,MTP=30.77ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.20ms,FrmGpu=9.92ms,FrmTime=12.13ms,ATWGPU=1.67ms,VsyncDelay=1,GPU=79%/456Mhz,GPUTemp=48.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5505
+11-21 09:50:37.791 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:50:37.791 14404 18555 E SensorClient: Controller_Client_info ,pret:2036808.444936,imut:2036808.401352,P:-0.534627,-0.379324,-0.419914,Q:0.926477,-0.326249,0.060682,0.177539,type:0
+11-21 09:50:37.870 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491972862034715
+11-21 09:50:38.791 14404 18628 I PxrMetric: FPS=90/90,MTP=30.02ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.36ms,FrmGpu=9.35ms,FrmTime=11.72ms,ATWGPU=1.64ms,VsyncDelay=1,GPU=76%/492Mhz,GPUTemp=49.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5596
+11-21 09:50:38.793 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220437695361400 reset-study
+11-21 09:50:38.793 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:38.793 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:38.793 14404 18555 I Unity   : 
+11-21 09:50:38.880 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491973872907215
+11-21 09:50:39.405 14404 18555 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795220438095239100 restart
+11-21 09:50:39.405 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:39.405 14404 18555 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 09:50:39.405 14404 18555 I Unity   : 
+11-21 09:50:39.791 14404 18628 I PxrMetric: FPS=90/90,MTP=28.41ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.93ms,FrmGpu=11.91ms,FrmTime=14.85ms,ATWGPU=1.63ms,VsyncDelay=1,GPU=72%/492Mhz,GPUTemp=47.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5681
+11-21 09:50:39.885 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 85, 491974877586173
+11-21 09:50:40.642 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:50:40.642 14404 18555 E SensorClient: Controller_Client_info ,pret:2036811.289449,imut:2036811.251508,P:-0.534627,-0.379324,-0.419914,Q:0.926477,-0.326249,0.060682,0.177539,type:0
+11-21 09:50:40.792 14404 18628 I PxrMetric: FPS=85/90,MTP=31.11ms,AppSW=off,FrmEarly=1,FrmLate=11,FrmCpu=2.51ms,FrmGpu=11.39ms,FrmTime=13.92ms,ATWGPU=2.04ms,VsyncDelay=1,GPU=94%/599Mhz,GPUTemp=49.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5770
+11-21 09:50:40.894 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491975886864454
+11-21 09:50:41.793 14404 18628 I PxrMetric: FPS=89/90,MTP=29.99ms,AppSW=off,FrmEarly=0,FrmLate=3,FrmCpu=2.54ms,FrmGpu=11.33ms,FrmTime=13.88ms,ATWGPU=1.45ms,VsyncDelay=1,GPU=99%/599Mhz,GPUTemp=49.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5856
+11-21 09:50:41.896 14404 18555 I Unity   : FRAME_LAB_METRICS frames=1737 fps=86.8 frame_p95_ms=11.11 gpu_ms=-1.00 refresh_hz=90.0
+11-21 09:50:41.896 14404 18555 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 09:50:41.896 14404 18555 I Unity   : FrameLab.FrameLabTelemetry:Update()
+11-21 09:50:41.896 14404 18555 I Unity   : 
+11-21 09:50:41.907 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 86, 491976899897318
+11-21 09:50:42.794 14404 18628 I PxrMetric: FPS=86/90,MTP=38.77ms,AppSW=off,FrmEarly=0,FrmLate=3,FrmCpu=2.85ms,FrmGpu=10.41ms,FrmTime=13.27ms,ATWGPU=1.69ms,VsyncDelay=2,GPU=94%/599Mhz,GPUTemp=50.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5946
+11-21 09:50:42.917 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491977909586588
+11-21 09:50:43.476 14404 18555 E SensorClient: Client_edition: 20240724A
+11-21 09:50:43.476 14404 18555 E SensorClient: Controller_Client_info ,pret:2036814.122850,imut:2036814.085797,P:-0.534627,-0.379324,-0.419914,Q:0.926477,-0.326249,0.060682,0.177539,type:0
+11-21 09:50:43.800 14404 18628 I PxrMetric: FPS=90/90,MTP=30.86ms,AppSW=off,FrmEarly=1,FrmLate=0,FrmCpu=2.50ms,FrmGpu=10.92ms,FrmTime=13.44ms,ATWGPU=1.41ms,VsyncDelay=2,GPU=92%/599Mhz,GPUTemp=50.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=6036
+11-21 09:50:43.923 14404 18611 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 491978915217526

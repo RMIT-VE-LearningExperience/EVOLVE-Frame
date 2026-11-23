@@ -1,0 +1,490 @@
+{
+  "method": "Measured between inward faces of current candidate mesh wall plates. This is a dimensional reconciliation check, not finished-room or whole-room acceptance.",
+  "limits": "Drawing face convention, plaster thickness, stepped walls, robes and bulkhead boxed returns must be reconciled. A small difference is not automatically a defect or a pass. Ensuite model span currently includes the omitted VD/recess zone.",
+  "results": [
+    {
+      "checklist_id": "RM-GF-01",
+      "room": "Garage",
+      "sheet": 7,
+      "axes": [
+        {
+          "axis": "X",
+          "walls": [
+            "Garage outer end",
+            "GF Laundry west"
+          ],
+          "frame_faces_m": [
+            0.2383,
+            6.38
+          ],
+          "drawing_nominal_mm": 6000,
+          "actual_frame_span_mm": 6141.7,
+          "difference_mm": 141.7
+        },
+        {
+          "axis": "Y",
+          "walls": [
+            "Garage south",
+            "Garage rear"
+          ],
+          "frame_faces_m": [
+            2.5535,
+            9.277
+          ],
+          "drawing_nominal_mm": 6500,
+          "actual_frame_span_mm": 6723.5,
+          "difference_mm": 223.5
+        }
+      ],
+      "large_difference": true
+    },
+    {
+      "checklist_id": "RM-GF-08",
+      "room": "Powder",
+      "sheet": 7,
+      "axes": [
+        {
+          "axis": "X",
+          "walls": [
+            "Powder west",
+            "Powder east"
+          ],
+          "frame_faces_m": [
+            20.0239,
+            21.5808
+          ],
+          "drawing_nominal_mm": 1600,
+          "actual_frame_span_mm": 1556.9,
+          "difference_mm": -43.1
+        },
+        {
+          "axis": "Y",
+          "walls": [
+            "Powder south",
+            "GF North wall"
+          ],
+          "frame_faces_m": [
+            5.1724,
+            7.79
+          ],
+          "drawing_nominal_mm": 2590,
+          "actual_frame_span_mm": 2617.6,
+          "difference_mm": 27.6
+        }
+      ],
+      "large_difference": false
+    },
+    {
+      "checklist_id": "RM-GF-09",
+      "room": "Entry hall",
+      "sheet": 7,
+      "axes": [
+        {
+          "axis": "Y",
+          "walls": [
+            "Entry bedroom division",
+            "GF North wall"
+          ],
+          "frame_faces_m": [
+            3.9739,
+            7.79
+          ],
+          "drawing_nominal_mm": 3110,
+          "actual_frame_span_mm": 3816.1,
+          "difference_mm": 706.1
+        }
+      ],
+      "large_difference": true
+    },
+    {
+      "checklist_id": "RM-GF-10",
+      "room": "Corridor beside powder",
+      "sheet": 7,
+      "axes": [
+        {
+          "axis": "Y",
+          "walls": [
+            "Entry suite division",
+            "Powder south"
+          ],
+          "frame_faces_m": [
+            3.9739,
+            5.0824
+          ],
+          "drawing_nominal_mm": 1100,
+          "actual_frame_span_mm": 1108.5,
+          "difference_mm": 8.5
+        }
+      ],
+      "large_difference": false
+    },
+    {
+      "checklist_id": "RM-GF-11",
+      "room": "Bed 1",
+      "sheet": 7,
+      "axes": [
+        {
+          "axis": "X",
+          "walls": [
+            "WIR bedroom division",
+            "GF East entry and bedroom"
+          ],
+          "frame_faces_m": [
+            22.8281,
+            26.9
+          ],
+          "drawing_nominal_mm": 4000,
+          "actual_frame_span_mm": 4071.9,
+          "difference_mm": 71.9
+        },
+        {
+          "axis": "Y",
+          "walls": [
+            "GF South family and suite",
+            "Entry bedroom division"
+          ],
+          "frame_faces_m": [
+            0.09,
+            3.8839
+          ],
+          "drawing_nominal_mm": 4500,
+          "actual_frame_span_mm": 3793.9,
+          "difference_mm": -706.1
+        }
+      ],
+      "large_difference": true
+    },
+    {
+      "checklist_id": "RM-GF-12",
+      "room": "WIR 1",
+      "sheet": 7,
+      "axes": [
+        {
+          "axis": "X",
+          "walls": [
+            "Ensuite WIR division",
+            "WIR bedroom division"
+          ],
+          "frame_faces_m": [
+            20.2242,
+            22.7381
+          ],
+          "drawing_nominal_mm": 2270,
+          "actual_frame_span_mm": 2513.9,
+          "difference_mm": 243.9
+        },
+        {
+          "axis": "Y",
+          "walls": [
+            "GF South family and suite",
+            "Entry suite division"
+          ],
+          "frame_faces_m": [
+            0.09,
+            3.8839
+          ],
+          "drawing_nominal_mm": 3780,
+          "actual_frame_span_mm": 3793.9,
+          "difference_mm": 13.9
+        }
+      ],
+      "large_difference": true
+    },
+    {
+      "checklist_id": "RM-GF-13",
+      "room": "Ensuite overall zone",
+      "sheet": 7,
+      "axes": [
+        {
+          "axis": "X",
+          "walls": [
+            "Ensuite west",
+            "Ensuite WIR division"
+          ],
+          "frame_faces_m": [
+            18.0208,
+            20.1342
+          ],
+          "drawing_nominal_mm": 1800,
+          "actual_frame_span_mm": 2113.4,
+          "difference_mm": 313.4
+        },
+        {
+          "axis": "Y",
+          "walls": [
+            "GF South family and suite",
+            "Entry suite division"
+          ],
+          "frame_faces_m": [
+            0.09,
+            3.8839
+          ],
+          "drawing_nominal_mm": 3780,
+          "actual_frame_span_mm": 3793.9,
+          "difference_mm": 13.9
+        }
+      ],
+      "large_difference": true
+    },
+    {
+      "checklist_id": "RM-FF-01",
+      "room": "Bed 4",
+      "sheet": 8,
+      "axes": [
+        {
+          "axis": "X",
+          "walls": [
+            "FF West wall",
+            "FF Bed 4 WC division"
+          ],
+          "frame_faces_m": [
+            6.47,
+            11.2371
+          ],
+          "drawing_nominal_mm": 4680,
+          "actual_frame_span_mm": 4767.1,
+          "difference_mm": 87.1
+        },
+        {
+          "axis": "Y",
+          "walls": [
+            "FF Bed 4 and robes",
+            "FF North wall"
+          ],
+          "frame_faces_m": [
+            4.5698,
+            7.79
+          ],
+          "drawing_nominal_mm": 3200,
+          "actual_frame_span_mm": 3220.2,
+          "difference_mm": 20.2
+        }
+      ],
+      "large_difference": true
+    },
+    {
+      "checklist_id": "RM-FF-04",
+      "room": "Upper WC",
+      "sheet": 8,
+      "axes": [
+        {
+          "axis": "X",
+          "walls": [
+            "FF Bed 4 WC division",
+            "FF WC bath division"
+          ],
+          "frame_faces_m": [
+            11.3271,
+            12.1951
+          ],
+          "drawing_nominal_mm": 1000,
+          "actual_frame_span_mm": 868.0,
+          "difference_mm": -132.0
+        }
+      ],
+      "large_difference": true
+    },
+    {
+      "checklist_id": "RM-FF-07",
+      "room": "Bed 5",
+      "sheet": 8,
+      "axes": [
+        {
+          "axis": "X",
+          "walls": [
+            "FF Bed 5 west",
+            "FF Bed 5 east"
+          ],
+          "frame_faces_m": [
+            15.0479,
+            19.3916
+          ],
+          "drawing_nominal_mm": 4310,
+          "actual_frame_span_mm": 4343.7,
+          "difference_mm": 33.7
+        },
+        {
+          "axis": "Y",
+          "walls": [
+            "FF Bed 5 south",
+            "FF North wall"
+          ],
+          "frame_faces_m": [
+            4.5698,
+            7.79
+          ],
+          "drawing_nominal_mm": 3200,
+          "actual_frame_span_mm": 3220.2,
+          "difference_mm": 20.2
+        }
+      ],
+      "large_difference": false
+    },
+    {
+      "checklist_id": "RM-FF-10",
+      "room": "Bath 2",
+      "sheet": 8,
+      "axes": [
+        {
+          "axis": "X",
+          "walls": [
+            "FF Bath 2 west",
+            "FF Bath 2 east"
+          ],
+          "frame_faces_m": [
+            10.6364,
+            12.7298
+          ],
+          "drawing_nominal_mm": 2200,
+          "actual_frame_span_mm": 2093.4,
+          "difference_mm": -106.6
+        },
+        {
+          "axis": "Y",
+          "walls": [
+            "FF South wall",
+            "FF Bath 2 bedroom wall"
+          ],
+          "frame_faces_m": [
+            0.09,
+            2.1847
+          ],
+          "drawing_nominal_mm": 2110,
+          "actual_frame_span_mm": 2094.7,
+          "difference_mm": -15.3
+        }
+      ],
+      "large_difference": true
+    },
+    {
+      "checklist_id": "RM-FF-11",
+      "room": "Bed 2 including robe zone",
+      "sheet": 8,
+      "axes": [
+        {
+          "axis": "X",
+          "walls": [
+            "FF Bath 2 east",
+            "FF Bed 2 study division"
+          ],
+          "frame_faces_m": [
+            12.8198,
+            16.8962
+          ],
+          "drawing_nominal_mm": 4000,
+          "actual_frame_span_mm": 4076.4,
+          "difference_mm": 76.4
+        },
+        {
+          "axis": "Y",
+          "walls": [
+            "FF South wall",
+            "FF Bed 2 study hall"
+          ],
+          "frame_faces_m": [
+            0.09,
+            3.2219
+          ],
+          "drawing_nominal_mm": 3200,
+          "actual_frame_span_mm": 3131.9,
+          "difference_mm": -68.1
+        }
+      ],
+      "large_difference": true
+    },
+    {
+      "checklist_id": "RM-FF-12",
+      "room": "Study",
+      "sheet": 8,
+      "axes": [
+        {
+          "axis": "X",
+          "walls": [
+            "FF Bed 2 study division",
+            "FF Study retreat division"
+          ],
+          "frame_faces_m": [
+            16.9862,
+            19.3916
+          ],
+          "drawing_nominal_mm": 2400,
+          "actual_frame_span_mm": 2405.4,
+          "difference_mm": 5.4
+        },
+        {
+          "axis": "Y",
+          "walls": [
+            "FF South wall",
+            "FF Bed 2 study hall"
+          ],
+          "frame_faces_m": [
+            0.09,
+            3.2219
+          ],
+          "drawing_nominal_mm": 3200,
+          "actual_frame_span_mm": 3131.9,
+          "difference_mm": -68.1
+        }
+      ],
+      "large_difference": true
+    },
+    {
+      "checklist_id": "RM-FF-13",
+      "room": "Retreat",
+      "sheet": 8,
+      "axes": [
+        {
+          "axis": "X",
+          "walls": [
+            "FF Study retreat division",
+            "FF Theatre west"
+          ],
+          "frame_faces_m": [
+            19.4816,
+            22.4885
+          ],
+          "drawing_nominal_mm": 3000,
+          "actual_frame_span_mm": 3006.9,
+          "difference_mm": 6.9
+        }
+      ],
+      "large_difference": false
+    },
+    {
+      "checklist_id": "RM-FF-14",
+      "room": "Theatre outer wall enclosure",
+      "sheet": 8,
+      "axes": [
+        {
+          "axis": "X",
+          "walls": [
+            "FF Theatre west",
+            "FF East wall"
+          ],
+          "frame_faces_m": [
+            22.5785,
+            26.9
+          ],
+          "drawing_nominal_mm": 4300,
+          "actual_frame_span_mm": 4321.5,
+          "difference_mm": 21.5
+        },
+        {
+          "axis": "Y",
+          "walls": [
+            "FF South wall",
+            "FF Theatre north"
+          ],
+          "frame_faces_m": [
+            0.09,
+            4.4798
+          ],
+          "drawing_nominal_mm": 4500,
+          "actual_frame_span_mm": 4389.8,
+          "difference_mm": -110.2
+        }
+      ],
+      "large_difference": true
+    }
+  ]
+}

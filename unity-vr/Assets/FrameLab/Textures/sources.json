@@ -1,0 +1,106 @@
+[
+  {
+    "asset": "concrete_floor_01",
+    "channel": "Diffuse",
+    "file": "concrete_floor_01_diff_1k.jpg",
+    "source": "https://polyhaven.com/a/concrete_floor_01",
+    "license": "CC0",
+    "bytes": 755740
+  },
+  {
+    "asset": "concrete_floor_01",
+    "channel": "nor_gl",
+    "file": "concrete_floor_01_nor_gl_1k.jpg",
+    "source": "https://polyhaven.com/a/concrete_floor_01",
+    "license": "CC0",
+    "bytes": 909898
+  },
+  {
+    "asset": "kloofendal_48d_partly_cloudy_puresky",
+    "channel": "sky",
+    "file": "kloofendal_48d_partly_cloudy_puresky_2k.hdr",
+    "source": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky",
+    "license": "CC0",
+    "bytes": 5451493
+  },
+  {
+    "asset": "leafy_grass",
+    "channel": "Diffuse",
+    "file": "leafy_grass_diff_1k.jpg",
+    "source": "https://polyhaven.com/a/leafy_grass",
+    "license": "CC0",
+    "bytes": 1195394
+  },
+  {
+    "asset": "leafy_grass",
+    "channel": "nor_gl",
+    "file": "leafy_grass_nor_gl_1k.jpg",
+    "source": "https://polyhaven.com/a/leafy_grass",
+    "license": "CC0",
+    "bytes": 1466049
+  },
+  {
+    "asset": "wood_planks",
+    "channel": "Diffuse",
+    "file": "wood_planks_diff_1k.jpg",
+    "source": "https://polyhaven.com/a/wood_planks",
+    "license": "CC0",
+    "bytes": 609525
+  },
+  {
+    "asset": "wood_planks",
+    "channel": "nor_gl",
+    "file": "wood_planks_nor_gl_1k.jpg",
+    "source": "https://polyhaven.com/a/wood_planks",
+    "license": "CC0",
+    "bytes": 652441
+  },
+  {
+    "asset": "plywood",
+    "channel": "Diffuse",
+    "file": "plywood_diff_1k.jpg",
+    "source": "https://polyhaven.com/a/plywood",
+    "license": "CC0",
+    "bytes": 882059
+  },
+  {
+    "asset": "plywood",
+    "channel": "nor_gl",
+    "file": "plywood_nor_gl_1k.jpg",
+    "source": "https://polyhaven.com/a/plywood",
+    "license": "CC0",
+    "bytes": 648222
+  },
+  {
+    "asset": "fine_grained_wood",
+    "channel": "Diffuse",
+    "file": "fine_grained_wood_col_1k.jpg",
+    "source": "https://polyhaven.com/a/fine_grained_wood",
+    "license": "CC0",
+    "bytes": 336305
+  },
+  {
+    "asset": "fine_grained_wood",
+    "channel": "nor_gl",
+    "file": "fine_grained_wood_nor_gl_1k.jpg",
+    "source": "https://polyhaven.com/a/fine_grained_wood",
+    "license": "CC0",
+    "bytes": 193626
+  },
+  {
+    "asset": "smooth_concrete_floor",
+    "channel": "Diffuse",
+    "file": "smooth_concrete_floor_diff_1k.jpg",
+    "source": "https://polyhaven.com/a/smooth_concrete_floor",
+    "license": "CC0",
+    "bytes": 861674
+  },
+  {
+    "asset": "smooth_concrete_floor",
+    "channel": "nor_gl",
+    "file": "smooth_concrete_floor_nor_gl_1k.jpg",
+    "source": "https://polyhaven.com/a/smooth_concrete_floor",
+    "license": "CC0",
+    "bytes": 529251
+  }
+]

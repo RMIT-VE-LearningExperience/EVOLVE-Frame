@@ -1,0 +1,115 @@
+{
+  "duration_api_ms": 127984,
+  "stop_reason": "end_turn",
+  "session_id": "bb97e48a-3f0f-4931-bcbf-4244bcacffda",
+  "total_cost_usd": 1.7666271999999998,
+  "usage": {
+    "input_tokens": 8,
+    "cache_creation_input_tokens": 81451,
+    "cache_read_input_tokens": 44536,
+    "output_tokens": 11361,
+    "output_tokens_details": {
+      "thinking_tokens": 5179
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 81451,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 4,
+        "output_tokens": 8960,
+        "cache_read_input_tokens": 37655,
+        "cache_creation_input_tokens": 46400,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 46400
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "modelUsage": {
+    "claude-fable-5-2": {
+      "inputTokens": 8,
+      "outputTokens": 11361,
+      "cacheReadInputTokens": 44536,
+      "cacheCreationInputTokens": 81451,
+      "webSearchRequests": 0,
+      "costUSD": 1.7666271999999998,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 5179,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "permission_denials": [],
+  "terminal_reason": "completed",
+  "fast_mode_state": "off",
+  "fast_mode_disabled_reason": "sdk_opt_in_required",
+  "subagent_stats": {
+    "spawned": 0,
+    "requested": {
+      "background": 0,
+      "foreground": 0,
+      "unset": 0
+    },
+    "started_in_background": 0,
+    "max_depth": 0,
+    "spawned_by_subagents": 0,
+    "completed": 0,
+    "failed": 0,
+    "killed": {
+      "parent": 0,
+      "user": 0,
+      "system": 0
+    },
+    "refused": {
+      "depth_limit": 0,
+      "concurrency_limit": 0,
+      "budget": 0
+    },
+    "by_type": {}
+  },
+  "safety_stops": 0,
+  "is_error": false,
+  "num_turns": 31,
+  "subtype": "success",
+  "api_error_status": null,
+  "result": "# Photo review of Unity 0.4.0 \u2014 handoff to Codex\n\n## Overall assessment\n\nThe house is recognisable and the interior shell is mostly closed, but it does not yet read as accurate or premium. The two biggest problems are both confirmed against the elevations: the porch and the garage roof edge are built as different forms from the plans. After that, the weak points are lighting and tone (brown-olive ceilings, yellow over-exposed render, black \"obscure\" glass), a few open gaps, and tour viewpoints that face blank walls. These are desktop renders; nothing here says anything about PICO performance.\n\n## Findings\n\n**PHOTO-01 \u2014 Critical \u2014 Porch is the wrong form**\n- **Images:** 01, 03, 05, 06, 11.\n- **Visible:** a thin skillion canopy with dark sheet roof and gutter on two slim white posts.\n- **Plan:** Sheet 09 South Elevation B shows a parapet porch dimensioned 3600 \"parapet height at NGL\", with a 1320 brick pier and \"rendered blue board, packed out to align with brick piers\". East Elevation A shows a 1440-wide rendered block, 3340/3600 high, carrying the meter box. Sheet 07 shows the porch 1440 deep with 590 and 470 piers. Sheet 08 shows a roof with a box-gutter sump over the porch.\n- **Instruction:** remove the skillion and posts. Build brick piers at the plan positions, a rendered parapet/beam to 3600 above NGL aligned with the pier faces, a flat soffit, and a concealed roof behind the parapet.\n- **Proof:** re-shoot 01, 05 and 06, plus an orthographic south view and an orthographic east view overlaid on sheet 09.\n\n**PHOTO-02 \u2014 Critical \u2014 Garage roof edge is the wrong form**\n- **Images:** 02, 04.\n- **Visible:** a deep white fascia band on top of the brick and a roof sheet oversailing the walls. The garage door is a featureless blue-grey slab.\n- **Plan:** Sheet 10 North Elevation D and West Elevation C, and sheet 09 East, show brick running full height to a 3600 parapet with no fascia or overhang. Sheet 08 shows a 5\u00b0 Colorbond roof inside the parapet. Elevation D notes an \"overhead sectional panel lift garage door\".\n- **Instruction:** take the brick to the 3600 parapet on all exposed sides with a thin capping. Drop the 5\u00b0 roof inside it and delete the white band and overhang. Give the door horizontal panel lines and a neutral finish.\n- **Proof:** re-shoot 02 and 04, plus an orthographic north view against sheet 10.\n\n**PHOTO-03 \u2014 High \u2014 Open black gaps upstairs**\n- **Images:** 31, 37.\n- **Visible:** in 31, a black wedge between the Bedroom 5 robe head and the ceiling. In 37, a full-height black strip at the left of the upper-bath door frame.\n- **Plan:** sheet 08 notes robe doors at 2400 under a 2590 ceiling, so an infill panel above the robe is required.\n- **Instruction:** add a plaster infill above the robe head to the ceiling. Close the wall end or cavity at the bath door with lining and architrave. Then check every robe and linen head upstairs for the same gap.\n- **Proof:** re-shoot 31 and 37 with no black pixels at the junctions, plus one view of each other robe head.\n\n**PHOTO-04 \u2014 High \u2014 Obscure glazing renders as opaque black, mirrors as grey-green slabs**\n- **Images:** glazing 39, 30, 37, 38, 46; mirrors 16, 43, 46, 48.\n- **Visible:** the powder window is a near-black panel; the upper-bath window is dark grey. Mirrors are flat grey-green.\n- **Plan:** sheets 09/10 mark \"obscure glazing\" on these windows, which means translucent, not dark.\n- **Instruction:** use a light frosted material (pale neutral, high transmission look, slight emissive or unlit tint so it reads bright from inside). Give mirrors a neutral light-silver material with a baked reflection probe or cubemap; no realtime reflection.\n- **Proof:** re-shoot 39, 46 and 48.\n\n**PHOTO-05 \u2014 High \u2014 Interior tone is muddy; exterior render is yellow and blown out**\n- **Images:** 22\u201329, 31 (ceilings); 09, 28, 31 (fringing); 07, 32 (render); 04 (ground shadow).\n- **Visible:**\n  - Upstairs ceilings are darker than the walls and olive-brown; walls are grey-beige.\n  - Lilac/pink fringes run along wall-ceiling and stringer junctions, which looks like lightmap bleed or compression.\n  - The first-floor render in 07 is over-exposed cream-yellow with no surface definition.\n  - The ground shadow in 04 is blotchy with a hard edge.\n- **Instruction:**\n  - Make ceilings the brightest interior surface (neutral white albedo, more ambient/bounce).\n  - Shift the light and ambient colour toward neutral-warm and remove the yellow bias from the render albedo.\n  - Lower exterior exposure so the render holds tone.\n  - Increase lightmap padding and fix compression to remove the fringes.\n  - Soften and even out the ground shadow.\n- **Proof:** re-shoot 07, 23, 28 and 04; ceilings should sample lighter than walls and there should be no coloured fringe.\n\n**PHOTO-06 \u2014 Medium \u2014 Brick texture is oversized**\n- **Images:** 05, 07, 32.\n- **Visible:** the 590 alfresco pier shows about 1.5 bricks across, and the entry door height spans roughly 15 courses. That is about 1.7\u20131.8\u00d7 real size.\n- **Instruction:** rescale the UVs to a 230 \u00d7 76 brick with 10 mm joints (86 mm course). The 590 pier should then show about 2.5 bricks and a 2340 door about 27 courses.\n- **Proof:** re-shoot 07 and 05 and count.\n\n**PHOTO-07 \u2014 Medium \u2014 Facade panel seams and steps**\n- **Images:** 01, 02, 07.\n- **Visible:** vertical seams with tone or plane steps in the first-floor render, and in 07 a misaligned patch at the bottom edge above the alfresco beam.\n- **Instruction:** make the render faces coplanar and share one material and lightmap scale, or merge the panels. Keep only deliberate articulation joints as thin, consistent grooves.\n- **Proof:** re-shoot 07 and 02 at raking light.\n- **Check alongside:** sheet 10 calls for rendered Hebel \"above sliding door in lieu of brickwork\" over the alfresco and garage sliders. In 02 that zone looks brick, but I could not confirm it at this resolution.\n\n**PHOTO-08 \u2014 Medium \u2014 Robe joinery defects**\n- **Images:** 47, 14.\n- **Visible:** the tall end panel shows diagonal shading creases from bad normals or triangulation. Thin dividers poke above the top shelf, and the tower tops do not line up.\n- **Plan:** sheet 07 notes \"2 x 2016mm high x 607mm wide drawer towers\".\n- **Instruction:** rebuild the panels as clean boxes with hard normals. Set both towers to 2016 high and 607 wide, with dividers finishing flush to the top panel.\n- **Proof:** re-shoot 47.\n\n**PHOTO-09 \u2014 Medium \u2014 Stair rail details**\n- **Images:** 09, 10.\n- **Visible:** handrails end in blunt square cuts with no return. In 10, a second timber strip runs along the right wall below the handrail; it could be a duplicate or embedded member, or the dwarf-wall capping seen edge-on. I can't tell which from this view.\n- **Plan:** sheet 07 notes \"full height wall with 1.0m high handrail\"; sheet 08 notes a \"1200mm high dwarf wall with capping, with 1.0m handrail to the inside of the stairs\". The 17 risers appear consistent.\n- **Instruction:** identify the second strip and delete it if it is a duplicate. Confirm the rail is at 1000 above the nosing line and the capping at 1200. Add short returns at the rail ends.\n- **Proof:** re-shoot 10, plus a side view of the top junction between rail and dwarf wall.\n\n**PHOTO-10 \u2014 Medium \u2014 Tour viewpoints are poorly placed**\n- **Images:** 15, 32, 13, 23, 25, 26, 28, 29.\n- **Visible:**\n  - 15 \"Ensuite\" looks into the walk-in robe.\n  - 32 \"Exterior overview\" is a close-up of one brick wall and one window.\n  - 13, 25, 26, 28 and 29 face blank walls or doors, and 23 (Theatre) faces a blank wall.\n- **Instruction:** re-aim each room view from the door-side corner toward the window and main fitout. Put 15 inside the ensuite facing the vanity and shower. Make 32 a true three-quarter exterior view at eye height.\n- **Proof:** a new rooms contact sheet where each bedroom view shows its window.\n\n**PHOTO-11 \u2014 Low, uncertain \u2014 Stub at the powder door head**\n- **Images:** 16 (thumbnail only).\n- **Visible:** a small block below the door head inside the opening. It may be a legitimate bulkhead beyond the door or a protruding member.\n- **Instruction:** inspect it; no change if it is the bulkhead shown on sheet 07.\n\n## Suggested order\n\n1. PHOTO-01 and PHOTO-02, the two facade form corrections.\n2. PHOTO-05 and PHOTO-04, lighting and materials in one pass.\n3. PHOTO-03, the gap closures.\n4. PHOTO-06 and PHOTO-07.\n5. PHOTO-10, then PHOTO-08 and PHOTO-09.\n\n## Must stay unresolved\n\n- **Theatre platform and step:** sheet 08 shows \"PLATFORM 2300\" and \"STEP DOWN\" with no height. The model floor is flat (23). Do not invent a height or direction.\n- **Porch parapet top:** the plans give 3600 at NGL on one elevation and 3340/3600 on the other. Use 3600 and flag it.\n- **Render and brick colours:** the plans say \"selected\" only. Aim for neutral, with no claim of accuracy.\n\n## Plan omissions (not defects in the render; low priority)\n\nThe whirlybird, the solar panel, and the hot water unit, air-conditioning condenser and meter box on the east elevation are not modelled.\n\n## What I read\n\n- **Contact sheets:** all seven (01-exteriors, 02-details, 03-rooms-a, 04-rooms-b, 05-structure, 06-entries, 07-fitout), plus manifest.json. All 48 views were covered through the sheets.\n- **Original PNGs:** 01-exterior-entry, 02-exterior-alfresco, 04-exterior-rear-garage, 05-canopy-under, 07-alfresco-edge, 09-stair-junction, 10-stair-landing, room-05-ensuite, room-12-landing, room-13-theatre, room-21-bedroom5, 37-upperbath-from-hall, 39-powder-window, 47-robe-fitout.\n- **Plan sheets:** sheet-07, 08, 09 and 10 PNGs.\n- **Not read:** sheets 11, 12 and 15\u201319. Kitchen, bathroom and laundry fitout and window sizes are therefore not checked against the schedule. Findings on images I saw only as thumbnails (06, 14, 16, 30, 32, 43, 46, 48) carry lower confidence.",
+  "ttft_ms": 2251,
+  "type": "result",
+  "duration_ms": 128537,
+  "uuid": "629fd17b-68b0-4d9b-9494-094b0bf81eba",
+  "ttft_stream_ms": 1546,
+  "time_to_request_ms": 79,
+  "first_content_frame_ms": 1547,
+  "queued_turn_count": 0,
+  "result_index": 0,
+  "model_usage_since_last_result": {
+    "claude-fable-5-2": {
+      "inputTokens": 8,
+      "outputTokens": 11361,
+      "cacheReadInputTokens": 44536,
+      "cacheCreationInputTokens": 81451,
+      "webSearchRequests": 0,
+      "costUSD": 1.7666271999999998,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 5179,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  }
+}

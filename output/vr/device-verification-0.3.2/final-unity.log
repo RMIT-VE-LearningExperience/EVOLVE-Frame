@@ -1,0 +1,391 @@
+--------- beginning of system
+11-20 18:36:33.820 15164 17457 I ActivityThread: onBindApplication, processName: au.edu.evolve.framelab, displayId: -1, initDensityDpi: 640
+11-20 18:36:33.824 15164 17457 I SysMonitorFwBridge: sISysMonitorFwFactory = android.app.SysMonitorFwFactoryImpl@2e7c5cc
+11-20 18:36:33.831 15164 15164 I LoadedApk: add sharememory/verifytool jar
+11-20 18:36:33.863 15164 15164 I ActivityThread: updateApplicationDisplay from: -1 to: 0
+11-20 18:36:33.876 15164 15164 E SYS_DEFAULT_LOG: class android.app.ISysMonitorFwFactory$8|IRecoverActions|setCurActivity|SYS_DEFAULT_FUN_CONTENT
+11-20 18:36:33.877 15164 15164 E SYS_DEFAULT_LOG: class android.app.ISysMonitorFwFactory$8|IRecoverActions|setCurActivity|SYS_DEFAULT_FUN_CONTENT
+11-20 18:36:33.934 15164 15164 E SYS_DEFAULT_LOG: class android.app.ISysMonitorFwFactory$8|IRecoverActions|setCurActivity|SYS_DEFAULT_FUN_CONTENT
+11-20 18:36:33.966 15164 15164 I ViewRootImplExt: setScaleInfo, ViewRootImpl[au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity] scaleChanged=false, byServer=false, isHwui=false
+11-20 18:36:34.022 15164 15164 I ViewRootImplExt: setScaleInfo, ViewRootImpl[au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity] scaleChanged=false, byServer=false, isHwui=false
+11-20 18:36:34.658 15164 15164 I ViewRootImplExt: setScaleInfo, ViewRootImpl[au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity] scaleChanged=false, byServer=false, isHwui=false
+--------- beginning of main
+11-20 18:37:24.845 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437177417436869
+11-20 18:37:25.647 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165644249288800 explode
+11-20 18:37:25.647 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:25.647 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:25.647 15164 17470 I Unity   : 
+11-20 18:37:25.766 15164 17540 I PxrMetric: FPS=89/90,MTP=28.67ms,AppSW=off,FrmEarly=0,FrmLate=9,FrmCpu=2.19ms,FrmGpu=9.25ms,FrmTime=11.45ms,ATWGPU=1.62ms,VsyncDelay=1,GPU=79%/492Mhz,GPUTemp=51.9C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=4380
+11-20 18:37:25.847 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 82, 437178419167337
+11-20 18:37:26.259 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165644688924800 explode
+11-20 18:37:26.259 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:26.259 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:26.259 15164 17470 I Unity   : 
+11-20 18:37:26.559 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165645131634200 explode
+11-20 18:37:26.559 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:26.559 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:26.559 15164 17470 I Unity   : 
+11-20 18:37:26.767 15164 17540 I PxrMetric: FPS=82/90,MTP=30.39ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.16ms,FrmGpu=9.61ms,FrmTime=11.79ms,ATWGPU=1.89ms,VsyncDelay=1,GPU=85%/456Mhz,GPUTemp=51.9C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=4470
+11-20 18:37:26.858 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437179429781191
+11-20 18:37:27.158 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:37:27.158 15164 17470 E SensorClient: Controller_Client_info ,pret:1982015.391059,imut:1982015.347967,P:-0.789218,-0.432354,-0.077595,Q:0.790041,-0.454199,0.241947,0.333167,type:0
+11-20 18:37:27.171 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165645562149000 explode
+11-20 18:37:27.171 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:27.171 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:27.171 15164 17470 I Unity   : 
+11-20 18:37:27.769 15164 17540 I PxrMetric: FPS=90/90,MTP=29.79ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.14ms,FrmGpu=9.53ms,FrmTime=11.68ms,ATWGPU=1.66ms,VsyncDelay=1,GPU=82%/492Mhz,GPUTemp=53.6C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=4560
+11-20 18:37:27.858 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437180430427545
+11-20 18:37:28.780 15164 17540 I PxrMetric: FPS=90/90,MTP=29.71ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.27ms,FrmGpu=9.69ms,FrmTime=11.97ms,ATWGPU=1.77ms,VsyncDelay=1,GPU=85%/492Mhz,GPUTemp=54.6C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=4651
+11-20 18:37:28.870 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437181442201399
+11-20 18:37:29.305 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165647836360000 part
+11-20 18:37:29.305 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:29.305 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:29.305 15164 17470 I Unity   : 
+11-20 18:37:29.616 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165648265733400 isolate
+11-20 18:37:29.616 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:29.616 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:29.616 15164 17470 I Unity   : 
+11-20 18:37:29.780 15164 17540 I PxrMetric: FPS=90/90,MTP=28.95ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.07ms,FrmGpu=9.30ms,FrmTime=11.38ms,ATWGPU=1.64ms,VsyncDelay=1,GPU=82%/492Mhz,GPUTemp=51.9C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=4741
+11-20 18:37:29.882 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437182453681919
+11-20 18:37:29.946 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:37:29.946 15164 17470 E SensorClient: Controller_Client_info ,pret:1982018.168904,imut:1982018.136786,P:-0.789218,-0.432354,-0.077595,Q:0.790041,-0.454199,0.241947,0.333167,type:0
+11-20 18:37:30.227 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165648696253100 isolate
+11-20 18:37:30.227 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:30.227 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:30.227 15164 17470 I Unity   : 
+11-20 18:37:30.538 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165649133035000 part
+11-20 18:37:30.538 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:30.538 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:30.538 15164 17470 I Unity   : 
+11-20 18:37:30.790 15164 17540 I PxrMetric: FPS=90/90,MTP=29.49ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.18ms,FrmGpu=9.52ms,FrmTime=11.71ms,ATWGPU=1.78ms,VsyncDelay=1,GPU=81%/492Mhz,GPUTemp=52.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=4832
+11-20 18:37:30.893 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437183464637387
+11-20 18:37:31.149 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165649562429400 isolate
+11-20 18:37:31.149 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:31.149 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:31.149 15164 17470 I Unity   : 
+11-20 18:37:31.449 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165649996158200 isolate
+11-20 18:37:31.449 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:31.449 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:31.449 15164 17470 I Unity   : 
+11-20 18:37:31.760 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165650431653800 part
+11-20 18:37:31.760 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:31.760 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:31.760 15164 17470 I Unity   : 
+11-20 18:37:31.792 15164 17540 I PxrMetric: FPS=90/90,MTP=29.79ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.31ms,FrmGpu=9.98ms,FrmTime=12.30ms,ATWGPU=1.62ms,VsyncDelay=1,GPU=80%/456Mhz,GPUTemp=51.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=4922
+11-20 18:37:31.903 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437184475290877
+11-20 18:37:32.371 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165650860184800 isolate
+11-20 18:37:32.371 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:32.371 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:32.371 15164 17470 I Unity   : 
+11-20 18:37:32.672 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165651291765600 isolate
+11-20 18:37:32.672 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:32.672 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:32.672 15164 17470 I Unity   : 
+11-20 18:37:32.724 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:37:32.724 15164 17470 E SensorClient: Controller_Client_info ,pret:1982020.946748,imut:1982020.913704,P:-0.789218,-0.432354,-0.077595,Q:0.790041,-0.454199,0.241947,0.333167,type:0
+11-20 18:37:32.802 15164 17540 I PxrMetric: FPS=90/90,MTP=27.29ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.14ms,FrmGpu=9.57ms,FrmTime=11.72ms,ATWGPU=1.68ms,VsyncDelay=1,GPU=75%/456Mhz,GPUTemp=51.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5013
+11-20 18:37:32.915 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437185486773897
+11-20 18:37:33.283 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165651725701900 part
+11-20 18:37:33.283 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:33.283 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:33.283 15164 17470 I Unity   : 
+11-20 18:37:33.595 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165652158311400 isolate
+11-20 18:37:33.595 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:33.595 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:33.595 15164 17470 I Unity   : 
+11-20 18:37:33.802 15164 17540 I PxrMetric: FPS=90/90,MTP=28.94ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.97ms,FrmGpu=9.21ms,FrmTime=11.19ms,ATWGPU=1.68ms,VsyncDelay=1,GPU=88%/456Mhz,GPUTemp=51.9C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5103
+11-20 18:37:33.915 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437186487226188
+11-20 18:37:34.205 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165652586345700 isolate
+11-20 18:37:34.205 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:34.205 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:34.205 15164 17470 I Unity   : 
+11-20 18:37:34.516 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165653020928500 part
+11-20 18:37:34.516 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:34.516 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:34.516 15164 17470 I Unity   : 
+11-20 18:37:34.813 15164 17540 I PxrMetric: FPS=90/90,MTP=27.46ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.22ms,FrmGpu=9.57ms,FrmTime=11.80ms,ATWGPU=1.82ms,VsyncDelay=1,GPU=99%/456Mhz,GPUTemp=51.9C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5194
+11-20 18:37:34.816 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165653464239600 isolate
+11-20 18:37:34.816 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:34.816 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:34.816 15164 17470 I Unity   : 
+11-20 18:37:34.926 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437187497716136
+11-20 18:37:35.417 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165653892423400 isolate
+11-20 18:37:35.417 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:35.417 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:35.417 15164 17470 I Unity   : 
+11-20 18:37:35.504 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:37:35.504 15164 17470 E SensorClient: Controller_Client_info ,pret:1982023.735703,imut:1982023.694588,P:-0.789218,-0.432354,-0.077595,Q:0.790041,-0.454199,0.241947,0.333167,type:0
+11-20 18:37:35.727 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165654329981200 part
+11-20 18:37:35.727 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:35.727 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:35.727 15164 17470 I Unity   : 
+11-20 18:37:35.824 15164 17540 I PxrMetric: FPS=90/90,MTP=27.85ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.09ms,FrmGpu=9.90ms,FrmTime=12.00ms,ATWGPU=1.59ms,VsyncDelay=1,GPU=82%/492Mhz,GPUTemp=51.9C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5285
+11-20 18:37:35.937 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437188508898792
+11-20 18:37:36.327 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165654751789300 isolate
+11-20 18:37:36.327 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:36.327 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:36.327 15164 17470 I Unity   : 
+11-20 18:37:36.639 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165655186341800 isolate
+11-20 18:37:36.639 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:36.639 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:36.639 15164 17470 I Unity   : 
+11-20 18:37:36.834 15164 17540 I PxrMetric: FPS=90/90,MTP=29.82ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.14ms,FrmGpu=9.82ms,FrmTime=11.97ms,ATWGPU=1.51ms,VsyncDelay=1,GPU=74%/492Mhz,GPUTemp=51.9C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5376
+11-20 18:37:36.948 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437189520369677
+11-20 18:37:36.949 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165655623581100 part
+11-20 18:37:36.949 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:36.949 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:36.949 15164 17470 I Unity   : 
+11-20 18:37:37.560 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165656056827300 isolate
+11-20 18:37:37.560 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:37.560 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:37.560 15164 17470 I Unity   : 
+11-20 18:37:37.835 15164 17540 I PxrMetric: FPS=90/90,MTP=29.11ms,AppSW=off,FrmEarly=0,FrmLate=2,FrmCpu=2.00ms,FrmGpu=8.83ms,FrmTime=10.83ms,ATWGPU=1.54ms,VsyncDelay=1,GPU=85%/545Mhz,GPUTemp=51.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5466
+11-20 18:37:37.860 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165656484886700 isolate
+11-20 18:37:37.860 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:37.860 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:37.860 15164 17470 I Unity   : 
+11-20 18:37:37.959 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437190530646499
+11-20 18:37:38.281 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:37:38.281 15164 17470 E SensorClient: Controller_Client_info ,pret:1982026.513547,imut:1982026.471506,P:-0.789218,-0.432354,-0.077595,Q:0.790041,-0.454199,0.241947,0.333167,type:0
+11-20 18:37:38.471 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165656925712500 part
+11-20 18:37:38.471 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:38.471 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:38.471 15164 17470 I Unity   : 
+11-20 18:37:38.771 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165657354410000 isolate
+11-20 18:37:38.771 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:38.771 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:38.771 15164 17470 I Unity   : 
+11-20 18:37:38.847 15164 17540 I PxrMetric: FPS=90/90,MTP=29.46ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.04ms,FrmGpu=9.37ms,FrmTime=11.42ms,ATWGPU=1.69ms,VsyncDelay=1,GPU=81%/492Mhz,GPUTemp=51.9C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5557
+11-20 18:37:38.959 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437191531423843
+11-20 18:37:39.383 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165657791059100 isolate
+11-20 18:37:39.383 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:39.383 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:39.383 15164 17470 I Unity   : 
+11-20 18:37:39.694 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165658224365600 part
+11-20 18:37:39.694 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:39.694 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:39.694 15164 17470 I Unity   : 
+11-20 18:37:39.847 15164 17540 I PxrMetric: FPS=90/90,MTP=27.59ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.15ms,FrmGpu=9.78ms,FrmTime=11.94ms,ATWGPU=1.76ms,VsyncDelay=1,GPU=80%/456Mhz,GPUTemp=51.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5647
+11-20 18:37:39.970 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437192542281446
+11-20 18:37:39.994 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165658650906500 isolate
+11-20 18:37:39.994 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:39.994 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:39.994 15164 17470 I Unity   : 
+11-20 18:37:40.605 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165659089616900 isolate
+11-20 18:37:40.605 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:40.605 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:40.605 15164 17470 I Unity   : 
+11-20 18:37:40.848 15164 17540 I PxrMetric: FPS=90/90,MTP=27.64ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.23ms,FrmGpu=10.19ms,FrmTime=12.43ms,ATWGPU=1.67ms,VsyncDelay=1,GPU=82%/456Mhz,GPUTemp=51.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5737
+11-20 18:37:40.916 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165659519638000 zoom
+11-20 18:37:40.916 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:40.916 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:40.916 15164 17470 I Unity   : 
+11-20 18:37:40.981 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437193553406706
+11-20 18:37:41.068 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:37:41.068 15164 17470 E SensorClient: Controller_Client_info ,pret:1982029.291391,imut:1982029.256358,P:-0.789218,-0.432354,-0.077595,Q:0.790041,-0.454199,0.241947,0.333167,type:0
+11-20 18:37:41.516 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165659953852700 rotate
+11-20 18:37:41.516 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:41.516 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:41.516 15164 17470 I Unity   : 
+11-20 18:37:41.827 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165660382265700 reset-study
+11-20 18:37:41.827 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:41.827 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:41.827 15164 17470 I Unity   : 
+11-20 18:37:41.857 15164 17540 I PxrMetric: FPS=90/90,MTP=27.05ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.25ms,FrmGpu=9.56ms,FrmTime=11.83ms,ATWGPU=1.62ms,VsyncDelay=1,GPU=84%/492Mhz,GPUTemp=51.9C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5828
+11-20 18:37:41.982 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437194554064987
+11-20 18:37:42.438 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165660814874400 restart
+11-20 18:37:42.438 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:42.438 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:37:42.438 15164 17470 I Unity   : 
+11-20 18:37:42.858 15164 17540 I PxrMetric: FPS=90/90,MTP=29.97ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.42ms,FrmGpu=11.31ms,FrmTime=13.75ms,ATWGPU=1.63ms,VsyncDelay=1,GPU=84%/492Mhz,GPUTemp=52.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=5913
+11-20 18:37:42.992 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 86, 437195564253737
+11-20 18:37:43.866 15164 17540 I PxrMetric: FPS=85/90,MTP=32.55ms,AppSW=off,FrmEarly=0,FrmLate=9,FrmCpu=2.17ms,FrmGpu=10.33ms,FrmTime=12.52ms,ATWGPU=1.59ms,VsyncDelay=2,GPU=91%/599Mhz,GPUTemp=52.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=6004
+11-20 18:37:43.899 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:37:43.899 15164 17470 E SensorClient: Controller_Client_info ,pret:1982032.124792,imut:1982032.088814,P:-0.789218,-0.432354,-0.077595,Q:0.790041,-0.454199,0.241947,0.333167,type:0
+11-20 18:37:44.001 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437196572780143
+11-20 18:37:44.269 15164 17470 I Unity   : FRAME_LAB_METRICS frames=1787 fps=89.3 frame_p95_ms=11.11 gpu_ms=-1.00 refresh_hz=90.0
+11-20 18:37:44.269 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:37:44.269 15164 17470 I Unity   : FrameLab.FrameLabTelemetry:Update()
+11-20 18:37:44.269 15164 17470 I Unity   : 
+11-20 18:37:44.867 15164 17540 I PxrMetric: FPS=90/90,MTP=29.69ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.06ms,FrmGpu=10.09ms,FrmTime=12.16ms,ATWGPU=1.57ms,VsyncDelay=2,GPU=87%/599Mhz,GPUTemp=52.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=6094
+11-20 18:37:45.001 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437197573549361
+11-20 18:37:45.867 15164 17540 I PxrMetric: FPS=90/90,MTP=31.69ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.04ms,FrmGpu=10.26ms,FrmTime=12.31ms,ATWGPU=1.96ms,VsyncDelay=2,GPU=87%/599Mhz,GPUTemp=52.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=6184
+11-20 18:37:46.013 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437198585148580
+11-20 18:37:46.679 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:37:46.679 15164 17470 E SensorClient: Controller_Client_info ,pret:1982034.913748,imut:1982034.869700,P:-0.789218,-0.432354,-0.077595,Q:0.790041,-0.454199,0.241947,0.333167,type:0
+11-20 18:37:46.867 15164 17540 I PxrMetric: FPS=90/90,MTP=32.16ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.32ms,FrmGpu=10.70ms,FrmTime=13.03ms,ATWGPU=1.52ms,VsyncDelay=2,GPU=96%/599Mhz,GPUTemp=51.9C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=6274
+11-20 18:37:47.024 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437199595621600
+11-20 18:37:47.868 15164 17540 I PxrMetric: FPS=90/90,MTP=31.81ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.24ms,FrmGpu=10.62ms,FrmTime=12.88ms,ATWGPU=1.58ms,VsyncDelay=2,GPU=94%/599Mhz,GPUTemp=52.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=6364
+11-20 18:37:48.024 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437200596077954
+11-20 18:37:48.868 15164 17540 I PxrMetric: FPS=90/90,MTP=29.02ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.13ms,FrmGpu=10.49ms,FrmTime=12.65ms,ATWGPU=1.72ms,VsyncDelay=1,GPU=91%/599Mhz,GPUTemp=52.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=6454
+11-20 18:37:49.036 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437201607640401
+11-20 18:37:49.458 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:37:49.458 15164 17470 E SensorClient: Controller_Client_info ,pret:1982037.691591,imut:1982037.648601,P:-0.789218,-0.432354,-0.077595,Q:0.790041,-0.454199,0.241947,0.333167,type:0
+11-20 18:37:49.868 15164 17540 I PxrMetric: FPS=90/90,MTP=30.78ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.19ms,FrmGpu=10.57ms,FrmTime=12.78ms,ATWGPU=1.50ms,VsyncDelay=1,GPU=94%/599Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=6544
+11-20 18:37:50.036 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437202607967953
+11-20 18:37:50.869 15164 17540 I PxrMetric: FPS=90/90,MTP=29.72ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.94ms,FrmGpu=10.00ms,FrmTime=11.96ms,ATWGPU=1.43ms,VsyncDelay=1,GPU=85%/599Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=6634
+11-20 18:37:51.048 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437203619917171
+11-20 18:37:51.869 15164 17540 I PxrMetric: FPS=90/90,MTP=29.99ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.99ms,FrmGpu=10.29ms,FrmTime=12.30ms,ATWGPU=1.91ms,VsyncDelay=1,GPU=89%/599Mhz,GPUTemp=52.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=6724
+11-20 18:37:52.059 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437204630666338
+11-20 18:37:52.245 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:37:52.245 15164 17470 E SensorClient: Controller_Client_info ,pret:1982040.469436,imut:1982040.435437,P:-0.789218,-0.432354,-0.077595,Q:0.790041,-0.454199,0.241947,0.333167,type:0
+11-20 18:37:52.869 15164 17540 I PxrMetric: FPS=90/90,MTP=28.40ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.79ms,FrmGpu=8.88ms,FrmTime=10.68ms,ATWGPU=1.48ms,VsyncDelay=1,GPU=81%/599Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=6814
+11-20 18:37:53.059 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437205631271754
+11-20 18:37:53.880 15164 17540 I PxrMetric: FPS=90/90,MTP=29.30ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.80ms,FrmGpu=9.76ms,FrmTime=11.57ms,ATWGPU=1.63ms,VsyncDelay=1,GPU=88%/492Mhz,GPUTemp=52.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=6905
+11-20 18:37:54.070 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437206642545660
+11-20 18:37:54.880 15164 17540 I PxrMetric: FPS=90/90,MTP=29.61ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.91ms,FrmGpu=10.04ms,FrmTime=11.97ms,ATWGPU=1.70ms,VsyncDelay=1,GPU=89%/492Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=6995
+11-20 18:37:55.024 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:37:55.024 15164 17470 E SensorClient: Controller_Client_info ,pret:1982043.247280,imut:1982043.214339,P:-0.789218,-0.432354,-0.077595,Q:0.790041,-0.454199,0.241947,0.333167,type:0
+11-20 18:37:55.082 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437207653742222
+11-20 18:37:55.881 15164 17540 I PxrMetric: FPS=90/90,MTP=28.88ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.78ms,FrmGpu=9.47ms,FrmTime=11.26ms,ATWGPU=1.69ms,VsyncDelay=1,GPU=83%/492Mhz,GPUTemp=52.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=7085
+11-20 18:37:56.082 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437208654070399
+11-20 18:37:56.890 15164 17540 I PxrMetric: FPS=90/90,MTP=32.68ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.25ms,FrmGpu=10.88ms,FrmTime=13.16ms,ATWGPU=2.42ms,VsyncDelay=2,GPU=99%/599Mhz,GPUTemp=52.9C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=7171
+11-20 18:37:57.090 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 86, 437209661585607
+11-20 18:37:57.860 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:37:57.860 15164 17470 E SensorClient: Controller_Client_info ,pret:1982046.091792,imut:1982046.077763,P:-0.789218,-0.432354,-0.077595,Q:0.640997,-0.645110,0.307216,0.280313,type:0
+11-20 18:37:57.891 15164 17540 I PxrMetric: FPS=85/90,MTP=28.89ms,AppSW=off,FrmEarly=1,FrmLate=5,FrmCpu=1.80ms,FrmGpu=9.11ms,FrmTime=10.92ms,ATWGPU=1.47ms,VsyncDelay=1,GPU=70%/599Mhz,GPUTemp=52.9C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=7261
+11-20 18:37:58.093 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437210665133054
+11-20 18:37:58.891 15164 17540 I PxrMetric: FPS=90/90,MTP=28.43ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.70ms,FrmGpu=9.02ms,FrmTime=10.73ms,ATWGPU=1.85ms,VsyncDelay=1,GPU=81%/456Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=7351
+11-20 18:37:59.104 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437211676531491
+11-20 18:37:59.147 15164 17470 E APxrRuntime: inputdevicechange oxr_session_poll 1255 package_name au.edu.evolve.framelab sess->state 5 XRT_DEVICE_INPUTDEVICE_CHANGED push_XrEventDataControllerEvent
+11-20 18:37:59.902 15164 17540 I PxrMetric: FPS=90/90,MTP=30.30ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.13ms,FrmGpu=10.26ms,FrmTime=12.41ms,ATWGPU=1.43ms,VsyncDelay=1,GPU=96%/599Mhz,GPUTemp=53.9C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=7442
+11-20 18:38:00.114 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437212686518887
+11-20 18:38:00.637 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:38:00.637 15164 17470 E SensorClient: Controller_Client_info ,pret:1982048.869636,imut:1982048.854682,P:-0.327532,0.123401,0.865201,Q:0.065036,-0.988530,-0.136306,-0.000443,type:0
+11-20 18:38:00.903 15164 17540 I PxrMetric: FPS=90/90,MTP=29.58ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.00ms,FrmGpu=9.84ms,FrmTime=11.87ms,ATWGPU=1.72ms,VsyncDelay=1,GPU=84%/599Mhz,GPUTemp=54.6C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=7532
+11-20 18:38:01.126 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437213697994043
+11-20 18:38:01.913 15164 17540 I PxrMetric: FPS=90/90,MTP=28.37ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.15ms,FrmGpu=10.16ms,FrmTime=12.32ms,ATWGPU=1.45ms,VsyncDelay=1,GPU=88%/599Mhz,GPUTemp=54.9C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=7623
+11-20 18:38:02.137 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437214709060032
+11-20 18:38:02.919 15164 17540 I PxrMetric: FPS=90/90,MTP=38.70ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.24ms,FrmGpu=12.05ms,FrmTime=14.30ms,ATWGPU=1.61ms,VsyncDelay=2,GPU=89%/599Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=7708
+11-20 18:38:03.143 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 84, 437215715487479
+11-20 18:38:03.515 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:38:03.515 15164 17470 E SensorClient: Controller_Client_info ,pret:1982051.747483,imut:1982051.732760,P:-0.358472,0.289911,0.875056,Q:-0.263978,-0.947795,-0.167274,0.063406,type:0
+11-20 18:38:03.924 15164 17540 I PxrMetric: FPS=84/90,MTP=30.89ms,AppSW=off,FrmEarly=0,FrmLate=14,FrmCpu=2.57ms,FrmGpu=10.93ms,FrmTime=13.51ms,ATWGPU=1.53ms,VsyncDelay=2,GPU=98%/599Mhz,GPUTemp=52.9C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=7795
+11-20 18:38:04.146 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 88, 437216718234146
+11-20 18:38:04.269 15164 17470 I Unity   : FRAME_LAB_METRICS frames=1786 fps=89.3 frame_p95_ms=11.11 gpu_ms=-1.00 refresh_hz=90.0
+11-20 18:38:04.269 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:38:04.269 15164 17470 I Unity   : FrameLab.FrameLabTelemetry:Update()
+11-20 18:38:04.269 15164 17470 I Unity   : 
+11-20 18:38:04.935 15164 17540 I PxrMetric: FPS=87/90,MTP=32.48ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.21ms,FrmGpu=11.08ms,FrmTime=13.31ms,ATWGPU=1.57ms,VsyncDelay=2,GPU=99%/599Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=7886
+11-20 18:38:05.157 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437217729361697
+11-20 18:38:05.939 15164 17540 I PxrMetric: FPS=90/90,MTP=39.30ms,AppSW=off,FrmEarly=0,FrmLate=1,FrmCpu=2.11ms,FrmGpu=11.35ms,FrmTime=13.47ms,ATWGPU=1.62ms,VsyncDelay=2,GPU=91%/599Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=7971
+11-20 18:38:06.165 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 85, 437218737285343
+11-20 18:38:06.366 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:38:06.366 15164 17470 E SensorClient: Controller_Client_info ,pret:1982054.591995,imut:1982054.583068,P:-0.358562,0.273252,0.845408,Q:-0.120616,-0.981651,-0.121010,0.084679,type:0
+11-20 18:38:06.943 15164 17540 I PxrMetric: FPS=85/90,MTP=33.68ms,AppSW=off,FrmEarly=0,FrmLate=6,FrmCpu=2.67ms,FrmGpu=11.58ms,FrmTime=14.27ms,ATWGPU=1.41ms,VsyncDelay=2,GPU=97%/599Mhz,GPUTemp=52.9C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=8059
+11-20 18:38:07.172 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 88, 437219744151749
+11-20 18:38:07.946 15164 17540 I PxrMetric: FPS=88/90,MTP=32.53ms,AppSW=off,FrmEarly=0,FrmLate=5,FrmCpu=2.54ms,FrmGpu=11.40ms,FrmTime=13.96ms,ATWGPU=1.42ms,VsyncDelay=2,GPU=95%/599Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=8147
+11-20 18:38:08.178 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 89, 437220749902425
+11-20 18:38:08.951 15164 17540 I PxrMetric: FPS=88/90,MTP=38.64ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.76ms,FrmGpu=10.35ms,FrmTime=13.12ms,ATWGPU=1.30ms,VsyncDelay=2,GPU=98%/599Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=8238
+11-20 18:38:09.180 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437221751986331
+11-20 18:38:09.191 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:38:09.191 15164 17470 E SensorClient: Controller_Client_info ,pret:1982057.425396,imut:1982057.409576,P:-0.406650,-0.054420,0.579718,Q:0.520962,-0.844457,-0.121918,0.025038,type:0
+11-20 18:38:09.958 15164 17540 I PxrMetric: FPS=91/90,MTP=31.87ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.27ms,FrmGpu=10.90ms,FrmTime=13.18ms,ATWGPU=1.51ms,VsyncDelay=2,GPU=94%/599Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=8328
+11-20 18:38:10.191 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 89, 437222762628987
+11-20 18:38:10.958 15164 17540 I PxrMetric: FPS=89/90,MTP=30.07ms,AppSW=off,FrmEarly=0,FrmLate=2,FrmCpu=1.84ms,FrmGpu=9.63ms,FrmTime=11.49ms,ATWGPU=1.46ms,VsyncDelay=1,GPU=80%/599Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=8416
+11-20 18:38:11.192 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437223763568934
+11-20 18:38:11.969 15164 17540 I PxrMetric: FPS=88/90,MTP=31.29ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.19ms,FrmGpu=10.73ms,FrmTime=12.94ms,ATWGPU=1.53ms,VsyncDelay=2,GPU=90%/599Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=8507
+11-20 18:38:11.992 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:38:11.992 15164 17470 E SensorClient: Controller_Client_info ,pret:1982060.225462,imut:1982060.210297,P:-0.419550,-0.047781,0.486015,Q:0.682516,-0.725078,-0.071184,0.058015,type:0
+11-20 18:38:12.203 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437224774670757
+11-20 18:38:12.969 15164 17540 I PxrMetric: FPS=90/90,MTP=30.93ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.11ms,FrmGpu=10.79ms,FrmTime=12.92ms,ATWGPU=1.49ms,VsyncDelay=1,GPU=94%/599Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=8597
+11-20 18:38:13.203 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437225775159559
+11-20 18:38:13.970 15164 17540 I PxrMetric: FPS=90/90,MTP=28.45ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.16ms,FrmGpu=10.68ms,FrmTime=12.86ms,ATWGPU=1.72ms,VsyncDelay=1,GPU=87%/599Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=8687
+11-20 18:38:14.214 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437226786329246
+11-20 18:38:14.739 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165693414392000 study
+11-20 18:38:14.739 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:38:14.739 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:38:14.739 15164 17470 I Unity   : 
+11-20 18:38:14.780 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:38:14.780 15164 17470 E SensorClient: Controller_Client_info ,pret:1982063.003307,imut:1982062.995150,P:-0.408470,-0.045361,0.496447,Q:0.676877,-0.730332,-0.085784,0.033069,type:0
+11-20 18:38:14.913 15164 17470 E APxrRuntime:  abc oxr_action_apply_haptic_feedback
+11-20 18:38:14.977 15164 17540 I PxrMetric: FPS=90/90,MTP=29.65ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.91ms,FrmGpu=9.08ms,FrmTime=12.00ms,ATWGPU=1.30ms,VsyncDelay=2,GPU=91%/599Mhz,GPUTemp=52.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=8778
+11-20 18:38:15.215 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437227787461850
+11-20 18:38:15.671 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165694179136300 zoom
+11-20 18:38:15.671 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:38:15.671 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:38:15.671 15164 17470 I Unity   : 
+11-20 18:38:15.971 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165694606564300 reset-study
+11-20 18:38:15.971 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:38:15.971 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:38:15.971 15164 17470 I Unity   : 
+11-20 18:38:15.979 15164 17540 I PxrMetric: FPS=90/90,MTP=28.60ms,AppSW=off,FrmEarly=0,FrmLate=1,FrmCpu=2.15ms,FrmGpu=9.44ms,FrmTime=11.60ms,ATWGPU=1.69ms,VsyncDelay=1,GPU=94%/492Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=8868
+11-20 18:38:16.226 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437228798054089
+11-20 18:38:16.572 15164 17470 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795165695041804900 restart
+11-20 18:38:16.572 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:38:16.572 15164 17470 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-20 18:38:16.572 15164 17470 I Unity   : 
+11-20 18:38:16.982 15164 17540 I PxrMetric: FPS=90/90,MTP=29.49ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.25ms,FrmGpu=11.32ms,FrmTime=13.59ms,ATWGPU=1.80ms,VsyncDelay=1,GPU=86%/492Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=8953
+11-20 18:38:17.235 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 86, 437229807507161
+11-20 18:38:17.606 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:38:17.606 15164 17470 E SensorClient: Controller_Client_info ,pret:1982065.836708,imut:1982065.823642,P:-0.351398,-0.037967,0.653726,Q:0.401782,-0.900340,-0.120633,0.115791,type:0
+11-20 18:38:17.990 15164 17540 I PxrMetric: FPS=85/90,MTP=31.86ms,AppSW=off,FrmEarly=0,FrmLate=8,FrmCpu=2.06ms,FrmGpu=10.00ms,FrmTime=12.08ms,ATWGPU=1.50ms,VsyncDelay=2,GPU=86%/599Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=9044
+11-20 18:38:18.247 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437230818816848
+11-20 18:38:18.990 15164 17540 I PxrMetric: FPS=90/90,MTP=31.49ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.02ms,FrmGpu=10.03ms,FrmTime=12.06ms,ATWGPU=1.52ms,VsyncDelay=2,GPU=89%/599Mhz,GPUTemp=52.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=9134
+11-20 18:38:19.258 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437231830079400
+11-20 18:38:19.991 15164 17540 I PxrMetric: FPS=90/90,MTP=31.30ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.06ms,FrmGpu=10.12ms,FrmTime=12.20ms,ATWGPU=1.53ms,VsyncDelay=2,GPU=89%/599Mhz,GPUTemp=52.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=9224
+11-20 18:38:20.270 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437232841569869
+11-20 18:38:20.392 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:38:20.392 15164 17470 E SensorClient: Controller_Client_info ,pret:1982068.625662,imut:1982068.608496,P:-0.404385,0.101917,0.801716,Q:0.110937,-0.988076,-0.030950,0.102186,type:0
+11-20 18:38:20.991 15164 17540 I PxrMetric: FPS=90/90,MTP=31.15ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.09ms,FrmGpu=10.15ms,FrmTime=12.26ms,ATWGPU=1.49ms,VsyncDelay=1,GPU=86%/599Mhz,GPUTemp=52.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=9314
+11-20 18:38:21.281 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437233852892004
+11-20 18:38:21.991 15164 17540 I PxrMetric: FPS=90/90,MTP=31.39ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.24ms,FrmGpu=10.40ms,FrmTime=12.66ms,ATWGPU=1.44ms,VsyncDelay=2,GPU=89%/599Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=9404
+11-20 18:38:22.292 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437234863822784
+11-20 18:38:22.992 15164 17540 I PxrMetric: FPS=90/90,MTP=30.66ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.13ms,FrmGpu=10.33ms,FrmTime=12.47ms,ATWGPU=1.40ms,VsyncDelay=1,GPU=89%/599Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=9494
+11-20 18:38:23.170 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:38:23.170 15164 17470 E SensorClient: Controller_Client_info ,pret:1982071.403507,imut:1982071.385417,P:-0.357184,0.147057,0.849953,Q:0.026787,-0.992986,-0.062082,0.096991,type:0
+11-20 18:38:23.303 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437235875458722
+11-20 18:38:23.993 15164 17540 I PxrMetric: FPS=90/90,MTP=28.84ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.80ms,FrmGpu=9.16ms,FrmTime=10.98ms,ATWGPU=1.50ms,VsyncDelay=1,GPU=99%/599Mhz,GPUTemp=52.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=9584
+11-20 18:38:24.273 15164 17470 I Unity   : FRAME_LAB_METRICS frames=1783 fps=89.1 frame_p95_ms=11.11 gpu_ms=-1.00 refresh_hz=90.0
+11-20 18:38:24.273 15164 17470 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:38:24.273 15164 17470 I Unity   : FrameLab.FrameLabTelemetry:Update()
+11-20 18:38:24.273 15164 17470 I Unity   : 
+11-20 18:38:24.305 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437236876899971
+11-20 18:38:25.003 15164 17540 I PxrMetric: FPS=90/90,MTP=29.51ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.83ms,FrmGpu=9.88ms,FrmTime=11.72ms,ATWGPU=1.67ms,VsyncDelay=1,GPU=94%/492Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=9675
+11-20 18:38:25.316 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437237888117315
+11-20 18:38:25.959 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:38:25.959 15164 17470 E SensorClient: Controller_Client_info ,pret:1982074.181351,imut:1982074.176222,P:-0.429216,0.101572,0.792197,Q:0.116282,-0.985918,-0.045477,-0.111251,type:0
+11-20 18:38:26.014 15164 17540 I PxrMetric: FPS=90/90,MTP=28.92ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.75ms,FrmGpu=9.29ms,FrmTime=11.05ms,ATWGPU=1.94ms,VsyncDelay=1,GPU=86%/599Mhz,GPUTemp=52.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=9766
+11-20 18:38:26.327 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437238899465283
+11-20 18:38:27.015 15164 17540 I PxrMetric: FPS=90/90,MTP=27.76ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.79ms,FrmGpu=9.92ms,FrmTime=11.72ms,ATWGPU=1.53ms,VsyncDelay=1,GPU=80%/545Mhz,GPUTemp=52.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=9856
+11-20 18:38:27.337 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437239909557939
+11-20 18:38:28.026 15164 17540 I PxrMetric: FPS=90/90,MTP=28.66ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.71ms,FrmGpu=9.26ms,FrmTime=10.98ms,ATWGPU=1.54ms,VsyncDelay=1,GPU=84%/545Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=9947
+11-20 18:38:28.338 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437240910302313
+11-20 18:38:28.736 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:38:28.736 15164 17470 E SensorClient: Controller_Client_info ,pret:1982076.959195,imut:1982076.953144,P:-0.580704,-0.096015,0.336027,Q:0.946253,-0.223118,0.233022,0.022892,type:0
+11-20 18:38:29.036 15164 17540 I PxrMetric: FPS=90/90,MTP=29.66ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.73ms,FrmGpu=10.07ms,FrmTime=11.81ms,ATWGPU=1.59ms,VsyncDelay=1,GPU=84%/492Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=10038
+11-20 18:38:29.349 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437241921082678
+11-20 18:38:30.038 15164 17540 I PxrMetric: FPS=90/90,MTP=28.66ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=1.73ms,FrmGpu=9.36ms,FrmTime=11.10ms,ATWGPU=1.53ms,VsyncDelay=1,GPU=84%/545Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=10128
+11-20 18:38:30.360 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 437242931973302
+11-20 18:38:31.048 15164 17540 I PxrMetric: FPS=90/90,MTP=30.51ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.03ms,FrmGpu=10.56ms,FrmTime=12.61ms,ATWGPU=1.75ms,VsyncDelay=1,GPU=84%/599Mhz,GPUTemp=52.5C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=10219
+11-20 18:38:31.381 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 89, 437243952623458
+11-20 18:38:31.581 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:38:31.581 15164 17470 E SensorClient: Controller_Client_info ,pret:1982079.814818,imut:1982079.799489,P:-0.818268,-0.436495,-0.096378,Q:0.763740,-0.493542,0.264290,0.321352,type:0
+11-20 18:38:32.058 15164 17540 I PxrMetric: FPS=90/90,MTP=32.97ms,AppSW=off,FrmEarly=0,FrmLate=8,FrmCpu=2.27ms,FrmGpu=11.65ms,FrmTime=13.94ms,ATWGPU=1.69ms,VsyncDelay=2,GPU=97%/599Mhz,GPUTemp=52.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=10302
+11-20 18:38:32.386 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 83, 437244958430958
+11-20 18:38:33.059 15164 17540 I PxrMetric: FPS=82/90,MTP=31.30ms,AppSW=off,FrmEarly=0,FrmLate=7,FrmCpu=2.37ms,FrmGpu=11.68ms,FrmTime=14.07ms,ATWGPU=2.85ms,VsyncDelay=1,GPU=95%/599Mhz,GPUTemp=53.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=10387
+11-20 18:38:33.394 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 86, 437245966192624
+11-20 18:38:34.070 15164 17540 I PxrMetric: FPS=85/90,MTP=31.52ms,AppSW=off,FrmEarly=0,FrmLate=6,FrmCpu=2.08ms,FrmGpu=11.45ms,FrmTime=13.56ms,ATWGPU=2.65ms,VsyncDelay=1,GPU=98%/599Mhz,GPUTemp=54.6C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=10474
+11-20 18:38:34.402 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 86, 437246973579238
+11-20 18:38:34.509 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:38:34.509 15164 17470 E SensorClient: Controller_Client_info ,pret:1982082.748222,imut:1982082.727159,P:-0.818250,-0.436508,-0.096378,Q:0.763774,-0.493143,0.264995,0.321306,type:0
+11-20 18:38:34.997 15164 17470 E APxrRuntime: inputdevicechange oxr_session_poll 1255 package_name au.edu.evolve.framelab sess->state 5 XRT_DEVICE_INPUTDEVICE_CHANGED push_XrEventDataControllerEvent
+11-20 18:38:35.080 15164 17540 I PxrMetric: FPS=86/90,MTP=32.71ms,AppSW=off,FrmEarly=0,FrmLate=6,FrmCpu=2.57ms,FrmGpu=11.55ms,FrmTime=14.14ms,ATWGPU=2.27ms,VsyncDelay=2,GPU=97%/599Mhz,GPUTemp=54.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=10560
+11-20 18:38:35.136 15164 17470 E APxrRuntime: inputdevicechange oxr_session_poll 1255 package_name au.edu.evolve.framelab sess->state 5 XRT_DEVICE_INPUTDEVICE_CHANGED push_XrEventDataControllerEvent
+11-20 18:38:35.405 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 86, 437247976609811
+11-20 18:38:36.091 15164 17540 I PxrMetric: FPS=85/90,MTP=30.80ms,AppSW=off,FrmEarly=0,FrmLate=4,FrmCpu=2.27ms,FrmGpu=11.50ms,FrmTime=13.79ms,ATWGPU=2.87ms,VsyncDelay=2,GPU=99%/599Mhz,GPUTemp=54.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=10647
+11-20 18:38:36.415 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 87, 437248987380904
+11-20 18:38:37.101 15164 17540 I PxrMetric: FPS=86/90,MTP=31.52ms,AppSW=off,FrmEarly=0,FrmLate=6,FrmCpu=2.22ms,FrmGpu=11.44ms,FrmTime=13.68ms,ATWGPU=1.95ms,VsyncDelay=2,GPU=99%/599Mhz,GPUTemp=54.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=10734
+11-20 18:38:37.423 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:38:37.423 15164 17470 E SensorClient: Controller_Client_info ,pret:1982085.648291,imut:1982085.613944,P:-0.818250,-0.436508,-0.096378,Q:0.763778,-0.492995,0.265456,0.321142,type:0
+11-20 18:38:37.425 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 87, 437249997132987
+11-20 18:38:38.108 15164 17540 I PxrMetric: FPS=86/90,MTP=39.28ms,AppSW=off,FrmEarly=0,FrmLate=5,FrmCpu=2.27ms,FrmGpu=11.84ms,FrmTime=14.12ms,ATWGPU=1.51ms,VsyncDelay=2,GPU=99%/599Mhz,GPUTemp=54.6C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=10821
+11-20 18:38:38.433 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 87, 437251004625070
+11-20 18:38:39.110 15164 17540 I PxrMetric: FPS=86/90,MTP=35.53ms,AppSW=off,FrmEarly=0,FrmLate=5,FrmCpu=2.43ms,FrmGpu=11.70ms,FrmTime=14.14ms,ATWGPU=1.78ms,VsyncDelay=2,GPU=97%/599Mhz,GPUTemp=54.9C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=10907
+11-20 18:38:39.436 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 86, 437252008341111
+11-20 18:38:40.111 15164 17540 I PxrMetric: FPS=86/90,MTP=36.44ms,AppSW=off,FrmEarly=0,FrmLate=7,FrmCpu=2.59ms,FrmGpu=11.66ms,FrmTime=14.27ms,ATWGPU=1.52ms,VsyncDelay=2,GPU=99%/599Mhz,GPUTemp=57.3C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=10992
+11-20 18:38:40.143 15164 17470 E APxrRuntime: inputdevicechange oxr_session_poll 1255 package_name au.edu.evolve.framelab sess->state 5 XRT_DEVICE_INPUTDEVICE_CHANGED push_XrEventDataControllerEvent
+11-20 18:38:40.275 15164 17470 E APxrRuntime: inputdevicechange oxr_session_poll 1255 package_name au.edu.evolve.framelab sess->state 5 XRT_DEVICE_INPUTDEVICE_CHANGED push_XrEventDataControllerEvent
+11-20 18:38:40.346 15164 17470 E SensorClient: Client_edition: 20240724A
+11-20 18:38:40.346 15164 17470 E SensorClient: Controller_Client_info ,pret:1982088.570583,imut:1982088.562664,P:-0.818250,-0.436508,-0.096378,Q:0.766604,-0.488306,0.264033,0.322742,type:0
+11-20 18:38:40.442 15164 17526 W APxrRuntime: PXRSDK_PM ENGINE FPS: 85, 437253014242257

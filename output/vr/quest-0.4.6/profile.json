@@ -1,0 +1,33 @@
+{
+    "version": "0.4.6",
+    "result": "PASS",
+    "scene": "Assets/FrameLab/Scenes/Leichhardt.unity",
+    "apk": "Builds/Android/Leichhardt-Quest3-3S.apk",
+    "devices": [
+        "Quest 3",
+        "Quest 3S"
+    ],
+    "enabledFeatures": [
+        "MetaQuestFeature",
+        "OculusTouchControllerProfile",
+        "MetaQuestTouchPlusControllerProfile"
+    ],
+    "excludedPicoPlugins": [
+        "Packages/com.unity.xr.openxr.picoxr/Platform/Plugins/Windows/openh264-4.dll",
+        "Packages/com.unity.xr.openxr.picoxr/Platform/Plugins/Windows/RTCFFmpeg.dll",
+        "Packages/com.unity.xr.openxr.picoxr/Platform/Plugins/Windows/libGLESv2.dll",
+        "Packages/com.unity.xr.openxr.picoxr/Enterprise/android/tob_api-release.aar",
+        "Packages/com.unity.xr.openxr.picoxr/Platform/Plugins/Windows/VolcEngineRTC.dll",
+        "Packages/com.unity.xr.openxr.picoxr/Platform/Plugins/Windows/libEGL.dll",
+        "Packages/com.unity.xr.openxr.picoxr/Platform/Plugins/Windows/libpxrplatformloader.dll",
+        "Packages/com.unity.xr.openxr.picoxr/Runtime/Android/arm64/libopenxr_loader.so",
+        "Packages/com.unity.xr.openxr.picoxr/Enterprise/android/gson-2.10.1.jar",
+        "Packages/com.unity.xr.openxr.picoxr/Enterprise/android/capturelib-0.0.7.aar",
+        "Packages/com.unity.xr.openxr.picoxr/Enterprise/android/CameraRenderingPlugin.aar",
+        "Packages/com.unity.xr.openxr.picoxr/Platform/Plugins/Android64/libpxrplatformloader.so",
+        "Packages/com.unity.xr.openxr.picoxr/Enterprise/android/tobservicelib-release.aar",
+        "Packages/com.unity.xr.openxr.picoxr/Runtime/Android/arm64/libopenxr_pico.so",
+        "Packages/com.unity.xr.openxr.picoxr/Enterprise/android/BAuthLib-1.0.0.aar"
+    ],
+    "restoredPicoSettings": true
+}

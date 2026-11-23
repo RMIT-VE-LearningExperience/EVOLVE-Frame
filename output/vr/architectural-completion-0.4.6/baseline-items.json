@@ -1,0 +1,1189 @@
+[
+  {
+    "id": "RM-FF-14",
+    "category": "Rooms",
+    "level": "FF",
+    "location": "Theatre",
+    "element": "Theatre enclosure",
+    "sheets": [
+      8
+    ],
+    "requirement": "4300 x 4500 wall to wall; inner chain 90 | 330 | 90 | 3880 and 420 | 90 | 3480 | 90 | 420.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "X frame span 4321.5 mm versus drawing 4300 mm (delta +21.5 mm); Y frame span 4389.8 mm versus drawing 4500 mm (delta -110.2 mm). Measured current candidate plates, replacing reliance on the historical timber-frame audit.",
+    "action": "Reconcile theatre north wall (+110.2 mm in Y), door and both boxed returns with the written chains; then add the perimeter bulkheads. Confirm platform level separately.",
+    "priority": "P1",
+    "confidence": "high",
+    "independent_verification": "Codex: room-span-checks.json contains the exact two wall names/faces for each span. Finish convention, stepped walls and unmeasured dimensions remain open.",
+    "baseline_status": "incorrect",
+    "implementation_note": "Dimension-driven partitions rebuilt. 26 checked frame-face spans match written room dimensions within 1 mm; 20 rebuilt openings pass 9 mesh rays each. Three shallow storage openings use aperture checks; walk-through doors retain deeper clearance checks. Finished ceiling datum, fitout and whole-room visual acceptance remain separate."
+  },
+  {
+    "id": "BH-GF-01",
+    "category": "Bulkheads",
+    "level": "GF",
+    "location": "Nook, B side between garage wall and D05 meals leg",
+    "element": "Nook bulkhead",
+    "sheets": [
+      7
+    ],
+    "requirement": "'340mm DROP DOWN BULKHEAD - 450mm DEEP' on the hatched strip, about the 1950 nook width.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE; objs bulkhead names are only D05 head infills.",
+    "action": "Add 450 deep x 340 drop bulkhead over the hatch.",
+    "priority": "P1",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "Bulkhead shell added in the working revision. Vertical finish convention, scaled extents, and the theatre door/soffit conflict remain open; north theatre door bay is temporarily omitted."
+  },
+  {
+    "id": "BH-GF-02",
+    "category": "Bulkheads",
+    "level": "GF",
+    "location": "Kitchen",
+    "element": "Kitchen plaster bulkhead",
+    "sheets": [
+      7,
+      16,
+      12
+    ],
+    "requirement": "Hatched kitchen zone; elevations A, B, C show 'PLASTER BULKHEAD' 340 deep, underside 2400, over overheads and above the island run (5260).",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE; gal 17-18 show flat ceiling.",
+    "action": "Model the lowered zone; confirm outline from sheet 16 hatch and section A-A.",
+    "priority": "P1",
+    "confidence": "medium",
+    "baseline_status": "missing",
+    "implementation_note": "Bulkhead shell added in the working revision. Vertical finish convention, scaled extents, and the theatre door/soffit conflict remain open; north theatre door bay is temporarily omitted."
+  },
+  {
+    "id": "BH-GF-03",
+    "category": "Bulkheads",
+    "level": "GF",
+    "location": "Corridor beside powder, at kitchen/family end",
+    "element": "Corridor/entry junction bulkhead",
+    "sheets": [
+      7
+    ],
+    "requirement": "Sheet 07 leader points to the paired dashed lines across the corridor at the powder/entry junction; 340 mm drop. Reconcile width with the corridor wall setout.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "No matching bulkhead in the model or generator. Codex inspected full-resolution sheet 07 and the leader at the powder-room corner.",
+    "action": "Add the cross-corridor bulkhead as a hideable ceiling element after dimension-driven wall correction.",
+    "priority": "P1",
+    "confidence": "high",
+    "independent_verification": "Codex visual source check; separate from the kitchen lowered zone.",
+    "baseline_status": "missing",
+    "implementation_note": "Bulkhead shell added in the working revision. Vertical finish convention, scaled extents, and the theatre door/soffit conflict remain open; north theatre door bay is temporarily omitted."
+  },
+  {
+    "id": "BH-GF-04",
+    "category": "Bulkheads",
+    "level": "GF",
+    "location": "Ensuite vanity recess",
+    "element": "Ensuite vanity bulkhead",
+    "sheets": [
+      7,
+      17
+    ],
+    "requirement": "'340mm DROP DOWN BULKHEAD.' over the 1800 double vanity; elevation D shows 'PLASTER BULKHEAD' above the mirror.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE; gal 15.",
+    "action": "Add bulkhead over vanity recess.",
+    "priority": "P1",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "Bulkhead shell added in the working revision. Vertical finish convention, scaled extents, and the theatre door/soffit conflict remain open; north theatre door bay is temporarily omitted."
+  },
+  {
+    "id": "BH-GF-05",
+    "category": "Bulkheads",
+    "level": "GF",
+    "location": "Bed 1 to WIR opening",
+    "element": "WIR entry bulkhead",
+    "sheets": [
+      7
+    ],
+    "requirement": "'340mm DROP DOWN BULKHEAD.' across the 800-wide opening.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "bf:130 'WIR access' opening 0.90 wide x 2.40 high: head height matches 2740 - 340, width is 900 not 800.",
+    "action": "Narrow to 800 and confirm the head reads as a bulkhead.",
+    "priority": "P2",
+    "confidence": "medium"
+  },
+  {
+    "id": "BH-GF-06",
+    "category": "Bulkheads",
+    "level": "GF",
+    "location": "Ensuite, each end of vanity recess",
+    "element": "Two 'VD' boxed enclosures",
+    "sheets": [
+      7,
+      17
+    ],
+    "requirement": "Two solid boxed squares labelled VD (dims 500 and 410); identity not stated beyond the label.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE.",
+    "action": "Model as plain boxed enclosures; do not assign a function.",
+    "priority": "P2",
+    "confidence": "medium",
+    "baseline_status": "missing",
+    "implementation_note": "Full-height boxed returns rebuilt from the written plan chains. The 500 x 2670 mm family recess and unequal north/south boxes are recorded in architectural-wall-setout.json. The sheet 07/17 bulkhead-side discrepancy remains explicit."
+  },
+  {
+    "id": "BH-GF-07",
+    "category": "Bulkheads",
+    "level": "GF",
+    "location": "Laundry bench wall",
+    "element": "Laundry bulkhead",
+    "sheets": [
+      17
+    ],
+    "requirement": "Text '300MM PLASTER BULKHEAD' but dimension shows 340; 3090 long above overheads.",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "NONE; gal 20.",
+    "action": "Resolve the 300 mm label versus 340 mm dimension/general-note conflict before accepting the final soffit height; keep the laundry bulkhead on the checklist.",
+    "priority": "P2",
+    "confidence": "high"
+  },
+  {
+    "id": "BH-GF-08",
+    "category": "Bulkheads",
+    "level": "GF",
+    "location": "D05 head, meals and family legs",
+    "element": "D05 head infill named 'bulkhead'",
+    "sheets": [
+      7,
+      10,
+      12
+    ],
+    "requirement": "D05 is 2100 high; elevations note rendered Hebel above the sliding door. Not one of the four labelled 340 bulkheads.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "objs 'D05 meals bulkhead' and 'D05 family bulkhead' span z 2.10-2.73.",
+    "action": "Rename to head infill and keep it separate from the 340 bulkhead checklist.",
+    "priority": "P2",
+    "confidence": "high"
+  },
+  {
+    "id": "BH-GF-09",
+    "category": "Bulkheads",
+    "level": "GF",
+    "location": "Powder room under stair",
+    "element": "Stair soffit over powder",
+    "sheets": [
+      7,
+      8,
+      11,
+      12,
+      15
+    ],
+    "requirement": "Risers 13-16 are drawn dotted over the powder room; sheet 15 still shows a 2740 ceiling. Soffit treatment not detailed.",
+    "plan_verified": true,
+    "status": "unverified",
+    "evidence": "2026-11-21, 0.4.4 read-only check: identified Finished stair underside. W03 envelope is 810 x 2120, sill 280/head 2400. Lining is 120 mm room-side of frame, and at the right jamb x its underside is 2247 mm (153 below head). Sampled glass rays clear in four viewpoints; top-right frame is partly occluded by the lining in three. Sheet 15 flat ceiling does not detail the overlap shown on sheets 07/08. Claude independently reviewed all five source sheets and agrees the junction remains unresolved. See ../powder-soffit-review-2026-11-21/conclusion.json, geometry-audit.json and claude-provenance.json.",
+    "action": "Coordinate stair/ceiling/W03 section and horizontal setout. Reconcile 3949.5 mm model run versus 4000 plan run and 3159 mm model deck versus 3140 general section datum. Confirm stringer/soffit build-up before revising the junction; do not hide the issue by deleting the lining or reducing the scheduled window.",
+    "priority": "P1",
+    "confidence": "medium"
+  },
+  {
+    "id": "BH-ALL-01",
+    "category": "Bulkheads",
+    "level": "GF+FF",
+    "location": "General notes",
+    "element": "Bulkhead drop rule",
+    "sheets": [
+      7,
+      8
+    ],
+    "requirement": "'All plaster bulkheads to drop down 340mm from ceiling.'",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "No 340 bulkhead objects exist.",
+    "action": "Apply to every bulkhead item.",
+    "priority": "P1",
+    "confidence": "high"
+  },
+  {
+    "id": "BH-FF-01",
+    "category": "Bulkheads",
+    "level": "FF",
+    "location": "Hall at retreat junction",
+    "element": "Hall bulkhead",
+    "sheets": [
+      8
+    ],
+    "requirement": "'340mm DROP DOWN BULKHEAD.' leader to dashed line at the hall/retreat junction; full extent of the dashed line not resolved.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE; gal 22, 24.",
+    "action": "Add; confirm the run length from a zoomed sheet 8.",
+    "priority": "P1",
+    "confidence": "medium",
+    "baseline_status": "missing",
+    "implementation_note": "Bulkhead shell added in the working revision. Vertical finish convention, scaled extents, and the theatre door/soffit conflict remain open; north theatre door bay is temporarily omitted."
+  },
+  {
+    "id": "BH-FF-02",
+    "category": "Bulkheads",
+    "level": "FF",
+    "location": "Theatre, entry (T) wall side",
+    "element": "Theatre bulkhead band, entry side",
+    "sheets": [
+      8
+    ],
+    "requirement": "Hatched 340 drop band; depth 510 by dimension chain (420 + 90).",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE; gal 23 flat ceiling.",
+    "action": "Add band.",
+    "priority": "P1",
+    "confidence": "medium",
+    "baseline_status": "missing",
+    "implementation_note": "Bulkhead shell added in the working revision. Vertical finish convention, scaled extents, and the theatre door/soffit conflict remain open; north theatre door bay is temporarily omitted."
+  },
+  {
+    "id": "BH-FF-03",
+    "category": "Bulkheads",
+    "level": "FF",
+    "location": "Theatre, retreat (L) wall side",
+    "element": "Theatre bulkhead band, retreat side",
+    "sheets": [
+      8
+    ],
+    "requirement": "Hatched band labelled 420 (chain 330 + 90).",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE.",
+    "action": "Add band.",
+    "priority": "P1",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "Bulkhead shell added in the working revision. Vertical finish convention, scaled extents, and the theatre door/soffit conflict remain open; north theatre door bay is temporarily omitted."
+  },
+  {
+    "id": "BH-FF-04",
+    "category": "Bulkheads",
+    "level": "FF",
+    "location": "Theatre, external (B) wall side",
+    "element": "Theatre bulkhead band, west wall side",
+    "sheets": [
+      8
+    ],
+    "requirement": "Hatched band labelled 510.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE.",
+    "action": "Add band.",
+    "priority": "P1",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "Bulkhead shell added in the working revision. Vertical finish convention, scaled extents, and the theatre door/soffit conflict remain open; north theatre door bay is temporarily omitted."
+  },
+  {
+    "id": "BH-FF-05",
+    "category": "Bulkheads",
+    "level": "FF",
+    "location": "Theatre, W08 (R) wall side",
+    "element": "Theatre bulkhead band, window side",
+    "sheets": [
+      8
+    ],
+    "requirement": "Hatched band; depth not dimensioned.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE.",
+    "action": "Get depth from designer or scale consistently; must clear W08 head (2280).",
+    "priority": "P1",
+    "confidence": "medium",
+    "baseline_status": "unverified",
+    "implementation_note": "Bulkhead shell added in the working revision. Vertical finish convention, scaled extents, and the theatre door/soffit conflict remain open; north theatre door bay is temporarily omitted."
+  },
+  {
+    "id": "BH-FF-06",
+    "category": "Bulkheads",
+    "level": "FF",
+    "location": "Theatre corner at entry door",
+    "element": "Boxed square at entry",
+    "sheets": [
+      8
+    ],
+    "requirement": "Solid enclosed square in plan beside the door; no label, identity not given.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE.",
+    "action": "Model as a plain boxed return; do not label it structural.",
+    "priority": "P1",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "Full-height boxed returns rebuilt from the written plan chains. The 500 x 2670 mm family recess and unequal north/south boxes are recorded in architectural-wall-setout.json. The sheet 07/17 bulkhead-side discrepancy remains explicit."
+  },
+  {
+    "id": "BH-FF-07",
+    "category": "Bulkheads",
+    "level": "FF",
+    "location": "Theatre, opposite corner on retreat wall (B-L)",
+    "element": "Second boxed square",
+    "sheets": [
+      8
+    ],
+    "requirement": "Second solid enclosed square at the other end of the retreat-side band; no label.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE.",
+    "action": "Model as a plain boxed return.",
+    "priority": "P1",
+    "confidence": "medium",
+    "baseline_status": "missing",
+    "implementation_note": "Full-height boxed returns rebuilt from the written plan chains. The 500 x 2670 mm family recess and unequal north/south boxes are recorded in architectural-wall-setout.json. The sheet 07/17 bulkhead-side discrepancy remains explicit."
+  },
+  {
+    "id": "BH-FF-08",
+    "category": "Bulkheads",
+    "level": "FF",
+    "location": "Theatre door head",
+    "element": "Bulkhead versus door height",
+    "sheets": [
+      8
+    ],
+    "requirement": "2590 ceiling - 340 = 2250 underside, but the door under the entry-side band is 820 x 2340H.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "Plan conflict; not modelled.",
+    "action": "Raise with designer before modelling the band over the door.",
+    "priority": "P1",
+    "confidence": "medium",
+    "baseline_status": "unverified",
+    "implementation_note": "Sheet 08 separately shows a 340 mm ceiling bulkhead and a 2300 mm horizontal platform extent. The unsupported 420 mm raised floor has been removed. Floor-step height, high side, and door/soffit coordination remain unresolved; see theatre-interpretation.json."
+  },
+  {
+    "id": "BH-FF-09",
+    "category": "Bulkheads",
+    "level": "FF",
+    "location": "Theatre inner 90 mm lines",
+    "element": "Inner face of perimeter bands",
+    "sheets": [
+      8
+    ],
+    "requirement": "Dimension chains show 90 mm elements inboard of the walls (90 | 330 | 90; 420 | 90). Whether these are full-height linings or bulkhead faces only is not stated.",
+    "plan_verified": true,
+    "status": "unverified",
+    "evidence": "NONE.",
+    "action": "Confirm before choosing ceiling-only or wall-to-floor geometry.",
+    "priority": "P1",
+    "confidence": "low"
+  },
+  {
+    "id": "PWD-01",
+    "category": "Powder",
+    "level": "GF",
+    "location": "Powder, window end",
+    "element": "WC pan",
+    "sheets": [
+      6,
+      15
+    ],
+    "requirement": "WC centreline 450 from side wall.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE; gal 16.",
+    "action": "Model.",
+    "priority": "P2",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "First fixed-fitout pass added from sheets 15-19. Written overall cabinet/fixture sizes are used with lining allowances; product shapes and absolute positions are illustrative. Some combined checklist requirements remain incomplete: niches, shower recesses, wall tiles, splashbacks, accessories and robe doors. See fixed-fitout-coordination.json; partial is not visual or fabrication acceptance."
+  },
+  {
+    "id": "PWD-02",
+    "category": "Powder",
+    "level": "GF",
+    "location": "Powder",
+    "element": "Vanity",
+    "sheets": [
+      7,
+      15
+    ],
+    "requirement": "'1300 VB' wall-hung: cabinet 550 high, 250 off floor, doors 370 / 500 / 370; basin and mixer.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE.",
+    "action": "Model.",
+    "priority": "P2",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "First fixed-fitout pass added from sheets 15-19. Written overall cabinet/fixture sizes are used with lining allowances; product shapes and absolute positions are illustrative. Some combined checklist requirements remain incomplete: niches, shower recesses, wall tiles, splashbacks, accessories and robe doors. See fixed-fitout-coordination.json; partial is not visual or fabrication acceptance."
+  },
+  {
+    "id": "PWD-03",
+    "category": "Powder",
+    "level": "GF",
+    "location": "Powder",
+    "element": "Mirror",
+    "sheets": [
+      15
+    ],
+    "requirement": "'BEVELED EDGED MIRROR' 1100 high, 200 above bench.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE.",
+    "action": "Model.",
+    "priority": "P3",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "First fixed-fitout pass added from sheets 15-19. Written overall cabinet/fixture sizes are used with lining allowances; product shapes and absolute positions are illustrative. Some combined checklist requirements remain incomplete: niches, shower recesses, wall tiles, splashbacks, accessories and robe doors. See fixed-fitout-coordination.json; partial is not visual or fabrication acceptance."
+  },
+  {
+    "id": "PWD-04",
+    "category": "Powder",
+    "level": "GF",
+    "location": "Powder",
+    "element": "Toilet paper holder",
+    "sheets": [
+      15
+    ],
+    "requirement": "TPH at 900, 600 from wall.",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "NONE.",
+    "action": "Model.",
+    "priority": "P3",
+    "confidence": "high"
+  },
+  {
+    "id": "PWD-05",
+    "category": "Powder",
+    "level": "GF",
+    "location": "Powder",
+    "element": "Wall and floor tiles",
+    "sheets": [
+      15
+    ],
+    "requirement": "Elevations A-C show TILES full height; tiled floor.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE; all linings are plaster.",
+    "action": "Apply tile finish.",
+    "priority": "P2",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "First fixed-fitout pass added from sheets 15-19. Written overall cabinet/fixture sizes are used with lining allowances; product shapes and absolute positions are illustrative. Some combined checklist requirements remain incomplete: niches, shower recesses, wall tiles, splashbacks, accessories and robe doors. See fixed-fitout-coordination.json; partial is not visual or fabrication acceptance."
+  },
+  {
+    "id": "ENS-01",
+    "category": "Ensuite",
+    "level": "GF",
+    "location": "Ensuite shower",
+    "element": "Shower base",
+    "sheets": [
+      6,
+      7,
+      17
+    ],
+    "requirement": "1800 x 900 tiled shower base, 50 recessed.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE; gal 15.",
+    "action": "Model.",
+    "priority": "P2",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "First fixed-fitout pass added from sheets 15-19. Written overall cabinet/fixture sizes are used with lining allowances; product shapes and absolute positions are illustrative. Some combined checklist requirements remain incomplete: niches, shower recesses, wall tiles, splashbacks, accessories and robe doors. See fixed-fitout-coordination.json; partial is not visual or fabrication acceptance.",
+    "photo_revision_045": "0.4.5: screen door lies beside900 nib; west-wall rose and north-wall mixer550 from west at1000 above floor. Handle has mounting posts and hinges. Recessed base/niche and final product detailing remain incomplete.",
+    "independent_verification_045": "Codex:15 targeted photo geometry checks, existing26 room spans/20 openings/19 window checks, final Unity review captures and release evidence0.4.5. Product and design limitations remain stated; not whole-model acceptance."
+  },
+  {
+    "id": "ENS-02",
+    "category": "Ensuite",
+    "level": "GF",
+    "location": "Ensuite shower",
+    "element": "Glass screen and door",
+    "sheets": [
+      17
+    ],
+    "requirement": "'GLASS SHOWER SCREEN / DOOR' 900 + 900, 2000 high.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE.",
+    "action": "Model.",
+    "priority": "P2",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "First fixed-fitout pass added from sheets 15-19. Written overall cabinet/fixture sizes are used with lining allowances; product shapes and absolute positions are illustrative. Some combined checklist requirements remain incomplete: niches, shower recesses, wall tiles, splashbacks, accessories and robe doors. See fixed-fitout-coordination.json; partial is not visual or fabrication acceptance."
+  },
+  {
+    "id": "ENS-03",
+    "category": "Ensuite",
+    "level": "GF",
+    "location": "Ensuite shower",
+    "element": "Tiled niche",
+    "sheets": [
+      17
+    ],
+    "requirement": "'1000W X 450W TILED SHOWER NICHE' at 1200 above floor, 400 each side.",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "NONE.",
+    "action": "Model.",
+    "priority": "P2",
+    "confidence": "high"
+  },
+  {
+    "id": "ENS-04",
+    "category": "Ensuite",
+    "level": "GF",
+    "location": "Ensuite shower",
+    "element": "Rose and mixer",
+    "sheets": [
+      17
+    ],
+    "requirement": "Rose 1800, mixer 1000 at 550 from wall.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE.",
+    "action": "Model.",
+    "priority": "P3",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "First fixed-fitout pass added from sheets 15-19. Written overall cabinet/fixture sizes are used with lining allowances; product shapes and absolute positions are illustrative. Some combined checklist requirements remain incomplete: niches, shower recesses, wall tiles, splashbacks, accessories and robe doors. See fixed-fitout-coordination.json; partial is not visual or fabrication acceptance."
+  },
+  {
+    "id": "ENS-05",
+    "category": "Ensuite",
+    "level": "GF",
+    "location": "Ensuite vanity recess",
+    "element": "Double vanity",
+    "sheets": [
+      7,
+      17
+    ],
+    "requirement": "'1800 VB': two basins, cabinet 800 high (880 + 880).",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE.",
+    "action": "Model.",
+    "priority": "P2",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "First fixed-fitout pass added from sheets 15-19. Written overall cabinet/fixture sizes are used with lining allowances; product shapes and absolute positions are illustrative. Some combined checklist requirements remain incomplete: niches, shower recesses, wall tiles, splashbacks, accessories and robe doors. See fixed-fitout-coordination.json; partial is not visual or fabrication acceptance."
+  },
+  {
+    "id": "ENS-06",
+    "category": "Ensuite",
+    "level": "GF",
+    "location": "Ensuite vanity",
+    "element": "Mirror",
+    "sheets": [
+      17
+    ],
+    "requirement": "Bevelled mirror 1100 high, 200 above bench, under the bulkhead.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE.",
+    "action": "Model.",
+    "priority": "P3",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "First fixed-fitout pass added from sheets 15-19. Written overall cabinet/fixture sizes are used with lining allowances; product shapes and absolute positions are illustrative. Some combined checklist requirements remain incomplete: niches, shower recesses, wall tiles, splashbacks, accessories and robe doors. See fixed-fitout-coordination.json; partial is not visual or fabrication acceptance."
+  },
+  {
+    "id": "ENS-07",
+    "category": "Ensuite",
+    "level": "GF",
+    "location": "Ensuite",
+    "element": "Towel ring",
+    "sheets": [
+      17
+    ],
+    "requirement": "Towel ring at 1200.",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "NONE.",
+    "action": "Model.",
+    "priority": "P3",
+    "confidence": "high"
+  },
+  {
+    "id": "ENS-08",
+    "category": "Ensuite",
+    "level": "GF",
+    "location": "Ensuite WC compartment",
+    "element": "WC pan and TPH",
+    "sheets": [
+      6,
+      17
+    ],
+    "requirement": "900 x 1800 compartment; pan centreline 450; TPH 900 at 700; W07 over.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE.",
+    "action": "Model.",
+    "priority": "P2",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "First fixed-fitout pass added from sheets 15-19. Written overall cabinet/fixture sizes are used with lining allowances; product shapes and absolute positions are illustrative. Some combined checklist requirements remain incomplete: niches, shower recesses, wall tiles, splashbacks, accessories and robe doors. See fixed-fitout-coordination.json; partial is not visual or fabrication acceptance."
+  },
+  {
+    "id": "ENS-09",
+    "category": "Ensuite",
+    "level": "GF",
+    "location": "Ensuite",
+    "element": "Wall and floor tiles",
+    "sheets": [
+      17
+    ],
+    "requirement": "Elevations A-E tiled full height; tiled floor.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE.",
+    "action": "Apply tile finish.",
+    "priority": "P2",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "First fixed-fitout pass added from sheets 15-19. Written overall cabinet/fixture sizes are used with lining allowances; product shapes and absolute positions are illustrative. Some combined checklist requirements remain incomplete: niches, shower recesses, wall tiles, splashbacks, accessories and robe doors. See fixed-fitout-coordination.json; partial is not visual or fabrication acceptance."
+  },
+  {
+    "id": "BTH-01",
+    "category": "FF Bath",
+    "level": "FF",
+    "location": "Bath",
+    "element": "Shower",
+    "sheets": [
+      8,
+      19
+    ],
+    "requirement": "900 x 1300 tiled shower base; screen 2000 with door.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE; gal 30.",
+    "action": "Model.",
+    "priority": "P2",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "0.4.2: tiled shower floor and full-height wall finishes now represented; screen retained. Floor is continuous with narrow material grout. Recessed base/falls and drain setout remain unresolved; partial status retained.",
+    "photo_revision_045": "0.4.5: door moved to west screen as on19;700 nominal leaf,600 fixed side panel. North mixer650 from east at1050 high. Mounted handles/hinges. Recessed base/niche remain incomplete.",
+    "independent_verification_045": "Codex:15 targeted photo geometry checks, existing26 room spans/20 openings/19 window checks, final Unity review captures and release evidence0.4.5. Product and design limitations remain stated; not whole-model acceptance."
+  },
+  {
+    "id": "BTH-02",
+    "category": "FF Bath",
+    "level": "FF",
+    "location": "Bath shower",
+    "element": "Niche, rose and mixer",
+    "sheets": [
+      19
+    ],
+    "requirement": "'900W X 450W TILED SHOWER NICHE' at 1200; rose 1800; mixer 1050 at 650.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE.",
+    "action": "Model.",
+    "priority": "P3",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "First fixed-fitout pass added from sheets 15-19. Written overall cabinet/fixture sizes are used with lining allowances; product shapes and absolute positions are illustrative. Some combined checklist requirements remain incomplete: niches, shower recesses, wall tiles, splashbacks, accessories and robe doors. See fixed-fitout-coordination.json; partial is not visual or fabrication acceptance."
+  },
+  {
+    "id": "BTH-03",
+    "category": "FF Bath",
+    "level": "FF",
+    "location": "Bath",
+    "element": "Vanity and mirror",
+    "sheets": [
+      8,
+      19
+    ],
+    "requirement": "'1200 VB' (1160 cabinet, 800 high); mirror 1100, 200 above bench.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE.",
+    "action": "Model.",
+    "priority": "P2",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "First fixed-fitout pass added from sheets 15-19. Written overall cabinet/fixture sizes are used with lining allowances; product shapes and absolute positions are illustrative. Some combined checklist requirements remain incomplete: niches, shower recesses, wall tiles, splashbacks, accessories and robe doors. See fixed-fitout-coordination.json; partial is not visual or fabrication acceptance."
+  },
+  {
+    "id": "BTH-04",
+    "category": "FF Bath",
+    "level": "FF",
+    "location": "Bath",
+    "element": "Towel rail and tiles",
+    "sheets": [
+      19
+    ],
+    "requirement": "Towel rail at 1200; tiles full height on elevations A-D.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "Actual 0.4.2 Unity captures and bathroom-tiling.json; source sheet 19 elevations A-D.",
+    "action": "Add the towel rail at the documented height and complete remaining wet-area detailing.",
+    "priority": "P2",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "0.4.2: full-height upper-bathroom tiling replaces the bath-facing plaster finish, including window reveals. Painted skirting removed. Floor is continuous, with 2.5 mm material grout. Sheet 19 coverage checked; 600 x 600 floor / 600 x 300 wall modules and porcelain finish are illustrative. Towel rail still missing; this combined row remains partial. See ../bathroom-tiling.json and ../review-0.4.2/46-upperbath-fitout.png, 51-bathroom-tile-floor.png, 52-bathroom-tile-return.png."
+  },
+  {
+    "id": "BTH-05",
+    "category": "FF Bath",
+    "level": "FF",
+    "location": "Bath and Bath 2",
+    "element": "No bathtub shown",
+    "sheets": [
+      18,
+      19
+    ],
+    "requirement": "Both 'BATH' rooms show a shower only; no tub is drawn.",
+    "plan_verified": true,
+    "status": "unverified",
+    "evidence": "NONE.",
+    "action": "Do not add a tub; confirm with the designer if one is expected.",
+    "priority": "P3",
+    "confidence": "high"
+  },
+  {
+    "id": "BT2-01",
+    "category": "FF Bath 2",
+    "level": "FF",
+    "location": "Bath 2",
+    "element": "Shower",
+    "sheets": [
+      8,
+      18
+    ],
+    "requirement": "900 x 900 tiled shower base; screen 2000.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE; gal 27.",
+    "action": "Model.",
+    "priority": "P2",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "First fixed-fitout pass added from sheets 15-19. Written overall cabinet/fixture sizes are used with lining allowances; product shapes and absolute positions are illustrative. Some combined checklist requirements remain incomplete: niches, shower recesses, wall tiles, splashbacks, accessories and robe doors. See fixed-fitout-coordination.json; partial is not visual or fabrication acceptance.",
+    "photo_revision_045": "0.4.5: door moved to east screen as on18;700 nominal leaf,200 fixed side panel. North mixer650 from west at1050 high. Mounted handles/hinges. Recessed base/niche remain incomplete.",
+    "independent_verification_045": "Codex:15 targeted photo geometry checks, existing26 room spans/20 openings/19 window checks, final Unity review captures and release evidence0.4.5. Product and design limitations remain stated; not whole-model acceptance."
+  },
+  {
+    "id": "BT2-02",
+    "category": "FF Bath 2",
+    "level": "FF",
+    "location": "Bath 2 shower",
+    "element": "Niche, rose and mixer",
+    "sheets": [
+      18
+    ],
+    "requirement": "'600W X 450W TILED SHOWER NICHE' at 1200 (150 from corner); rose 1800; mixer 1050 at 650.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE.",
+    "action": "Model.",
+    "priority": "P3",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "First fixed-fitout pass added from sheets 15-19. Written overall cabinet/fixture sizes are used with lining allowances; product shapes and absolute positions are illustrative. Some combined checklist requirements remain incomplete: niches, shower recesses, wall tiles, splashbacks, accessories and robe doors. See fixed-fitout-coordination.json; partial is not visual or fabrication acceptance."
+  },
+  {
+    "id": "BT2-03",
+    "category": "FF Bath 2",
+    "level": "FF",
+    "location": "Bath 2",
+    "element": "Vanity and mirror",
+    "sheets": [
+      8,
+      18
+    ],
+    "requirement": "'1100 VB' (1060 cabinet, 800 high); mirror 1100.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE.",
+    "action": "Model.",
+    "priority": "P2",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "First fixed-fitout pass added from sheets 15-19. Written overall cabinet/fixture sizes are used with lining allowances; product shapes and absolute positions are illustrative. Some combined checklist requirements remain incomplete: niches, shower recesses, wall tiles, splashbacks, accessories and robe doors. See fixed-fitout-coordination.json; partial is not visual or fabrication acceptance."
+  },
+  {
+    "id": "BT2-04",
+    "category": "FF Bath 2",
+    "level": "FF",
+    "location": "Bath 2",
+    "element": "WC pan, TPH, towel rail, tiles",
+    "sheets": [
+      18
+    ],
+    "requirement": "Pan centreline 450; TPH 900 at 700; towel rail 1200; tiles full height.",
+    "plan_verified": true,
+    "status": "partial",
+    "evidence": "NONE.",
+    "action": "Model.",
+    "priority": "P2",
+    "confidence": "high",
+    "baseline_status": "missing",
+    "implementation_note": "First fixed-fitout pass added from sheets 15-19. Written overall cabinet/fixture sizes are used with lining allowances; product shapes and absolute positions are illustrative. Some combined checklist requirements remain incomplete: niches, shower recesses, wall tiles, splashbacks, accessories and robe doors. See fixed-fitout-coordination.json; partial is not visual or fabrication acceptance."
+  },
+  {
+    "id": "DP-01",
+    "category": "Downpipes",
+    "level": "GF to roof",
+    "location": "East wall at garage/laundry junction, north of D02",
+    "element": "DP",
+    "sheets": [
+      3,
+      4,
+      7,
+      8
+    ],
+    "requirement": "Downpipe from main roof east eave, north end.",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "NONE; no downpipe objects exist.",
+    "action": "Add.",
+    "priority": "P1",
+    "confidence": "high",
+    "independent_verification": "Codex source marker DP-S08-02 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+  },
+  {
+    "id": "DP-02",
+    "category": "Downpipes",
+    "level": "GF to roof",
+    "location": "East wall between W05 and W04",
+    "element": "DP",
+    "sheets": [
+      3,
+      4,
+      7,
+      8
+    ],
+    "requirement": "Downpipe from east eave, mid-length.",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "NONE.",
+    "action": "Add.",
+    "priority": "P1",
+    "confidence": "high",
+    "independent_verification": "Codex source marker DP-S08-03 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+  },
+  {
+    "id": "DP-03",
+    "category": "Downpipes",
+    "level": "GF to roof",
+    "location": "East wall near entry corner, north of GM",
+    "element": "DP",
+    "sheets": [
+      3,
+      4,
+      7,
+      8
+    ],
+    "requirement": "Downpipe from east eave, south end.",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "NONE.",
+    "action": "Add.",
+    "priority": "P1",
+    "confidence": "high",
+    "independent_verification": "Codex source marker DP-S08-04 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+  },
+  {
+    "id": "DP-04",
+    "category": "Downpipes",
+    "level": "GF to roof",
+    "location": "Alfresco outer corner pier",
+    "element": "DP",
+    "sheets": [
+      3,
+      4,
+      7,
+      8
+    ],
+    "requirement": "Downpipe at the north-west corner of the upper roof, at the alfresco pier.",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "NONE.",
+    "action": "Add.",
+    "priority": "P1",
+    "confidence": "high",
+    "independent_verification": "Codex source marker DP-S08-10 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+  },
+  {
+    "id": "DP-05",
+    "category": "Downpipes",
+    "level": "GF to roof",
+    "location": "West wall just south of the D05 corner",
+    "element": "DP",
+    "sheets": [
+      3,
+      4,
+      7,
+      8
+    ],
+    "requirement": "Downpipe on the west eave at family.",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "NONE.",
+    "action": "Add.",
+    "priority": "P1",
+    "confidence": "high",
+    "independent_verification": "Codex source marker DP-S08-11 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+  },
+  {
+    "id": "DP-06",
+    "category": "Downpipes",
+    "level": "GF to roof",
+    "location": "West wall at ensuite, between tap and W07",
+    "element": "DP",
+    "sheets": [
+      3,
+      4,
+      7,
+      8
+    ],
+    "requirement": "Downpipe on the west eave. GF plan plots it at the ensuite; FF and roof plans plot the third west-side DP about 0.8 m further south.",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "NONE; cross-sheet correspondence uncertain.",
+    "action": "Add at the GF position; flag the plotted difference.",
+    "priority": "P1",
+    "confidence": "medium",
+    "independent_verification": "Codex source marker DP-S08-12 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+  },
+  {
+    "id": "DP-07",
+    "category": "Downpipes",
+    "level": "GF to roof",
+    "location": "West wall near south-west corner (Bed 1)",
+    "element": "DP",
+    "sheets": [
+      3,
+      4,
+      7,
+      8
+    ],
+    "requirement": "Downpipe on the west eave, south end.",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "NONE.",
+    "action": "Add.",
+    "priority": "P1",
+    "confidence": "high",
+    "independent_verification": "Codex source marker DP-S08-13 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+  },
+  {
+    "id": "DP-08",
+    "category": "Downpipes",
+    "level": "GF to roof",
+    "location": "South wall near south-west corner, 750 dim",
+    "element": "DP",
+    "sheets": [
+      3,
+      4,
+      7,
+      8
+    ],
+    "requirement": "Downpipe on the south (front) wall beside W01; '750' dimension.",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "NONE.",
+    "action": "Add.",
+    "priority": "P1",
+    "confidence": "high",
+    "independent_verification": "Codex source marker DP-S08-09 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+  },
+  {
+    "id": "DP-09",
+    "category": "Downpipes",
+    "level": "GF to roof",
+    "location": "Porch outer east corner",
+    "element": "DP/RWH",
+    "sheets": [
+      3,
+      4,
+      7,
+      8
+    ],
+    "requirement": "Downpipe with rainwater head serving the porch roof.",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "NONE.",
+    "action": "Add with porch rebuild.",
+    "priority": "P1",
+    "confidence": "high",
+    "independent_verification": "Codex source marker DP-S08-01 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+  },
+  {
+    "id": "DP-10",
+    "category": "Downpipes",
+    "level": "GF to roof",
+    "location": "Garage low side, lane end",
+    "element": "DP/RWH",
+    "sheets": [
+      3,
+      4,
+      7,
+      8
+    ],
+    "requirement": "Downpipe with rainwater head at the garage north-west corner.",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "NONE.",
+    "action": "Add with garage box gutter.",
+    "priority": "P1",
+    "confidence": "high",
+    "independent_verification": "Codex source marker DP-S08-07 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+  },
+  {
+    "id": "DP-11",
+    "category": "Downpipes",
+    "level": "GF to roof",
+    "location": "Garage low side, house end",
+    "element": "DP/RWH",
+    "sheets": [
+      3,
+      4,
+      7,
+      8
+    ],
+    "requirement": "Downpipe with rainwater head at the garage/nook junction.",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "NONE.",
+    "action": "Add with garage box gutter.",
+    "priority": "P1",
+    "confidence": "high",
+    "independent_verification": "Codex source marker DP-S08-08 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+  },
+  {
+    "id": "DP-12",
+    "category": "Downpipes",
+    "level": "FF",
+    "location": "FF north-east corner over garage roof",
+    "element": "S/DP spreader",
+    "sheets": [
+      8
+    ],
+    "requirement": "Downpipe/spreader discharging the upper roof onto the garage roof.",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "NONE.",
+    "action": "Add.",
+    "priority": "P1",
+    "confidence": "high",
+    "independent_verification": "Codex source marker DP-S08-05 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+  },
+  {
+    "id": "DP-13",
+    "category": "Downpipes",
+    "level": "FF",
+    "location": "FF south-east corner over porch roof",
+    "element": "S/DP spreader",
+    "sheets": [
+      8
+    ],
+    "requirement": "Downpipe/spreader discharging the upper roof onto the porch roof.",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "NONE.",
+    "action": "Add.",
+    "priority": "P1",
+    "confidence": "high",
+    "independent_verification": "Codex source marker DP-S08-06 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+  },
+  {
+    "id": "DP-14",
+    "category": "Downpipes",
+    "level": "Roof",
+    "location": "Garage box gutter, lane end",
+    "element": "Sump",
+    "sheets": [
+      4,
+      8
+    ],
+    "requirement": "'300MMSQ X 150MM DEEP SUMP WITHIN BOX GUTTER.'",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "NONE.",
+    "action": "Add.",
+    "priority": "P2",
+    "confidence": "high"
+  },
+  {
+    "id": "DP-15",
+    "category": "Downpipes",
+    "level": "Roof",
+    "location": "Garage box gutter, house end",
+    "element": "Sump",
+    "sheets": [
+      8,
+      14
+    ],
+    "requirement": "Second sump symbol shown on sheets 8 and 14; not visible on sheet 4 (may be under the eave line).",
+    "plan_verified": true,
+    "status": "unverified",
+    "evidence": "NONE; count differs between sheets.",
+    "action": "Confirm one or two garage sumps.",
+    "priority": "P2",
+    "confidence": "medium"
+  },
+  {
+    "id": "DP-16",
+    "category": "Downpipes",
+    "level": "Roof",
+    "location": "Porch box gutter",
+    "element": "Sump",
+    "sheets": [
+      4,
+      8
+    ],
+    "requirement": "300 sq x 150 deep sump at the porch roof east end.",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "NONE.",
+    "action": "Add.",
+    "priority": "P2",
+    "confidence": "high"
+  },
+  {
+    "id": "DP-17",
+    "category": "Downpipes",
+    "level": "All",
+    "location": "Count cross-check",
+    "element": "DP totals per sheet",
+    "sheets": [
+      3,
+      4,
+      7,
+      8
+    ],
+    "requirement": "Each sheet shows 8 DP + 3 DP/RWH; S/DP x2 only on sheet 8.",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "Zero in model.",
+    "action": "Acceptance: 8 + 3 + 2 present and placed per DP-01..13.",
+    "priority": "P1",
+    "confidence": "high",
+    "independent_verification": "Codex independently counted 8 DP + 3 DP/RWH on sheets 04, 07 and 08, plus 2 S/DP on 08. Exact source labels and positions retained; total physical locations are not summed across views."
+  },
+  {
+    "id": "DP-18",
+    "category": "Downpipes",
+    "level": "All",
+    "location": "Notes",
+    "element": "DP rules",
+    "sheets": [
+      2,
+      5
+    ],
+    "requirement": "Max 12.0 m spacing; within 1.2 m of valleys; straps at max 1800 centres; min 90 dia.",
+    "plan_verified": true,
+    "status": "missing",
+    "evidence": "NONE.",
+    "action": "Use 90 dia pipes with straps when modelling.",
+    "priority": "P3",
+    "confidence": "high"
+  }
+]

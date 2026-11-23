@@ -1,0 +1,32 @@
+{
+  "version": "0.4.5",
+  "stages": [
+    {
+      "name": "Prepare",
+      "result": "PASS",
+      "exit": 0
+    },
+    {
+      "name": "Bake",
+      "result": "PASS",
+      "exit": 0
+    },
+    {
+      "name": "Test",
+      "result": "PASS",
+      "exit": 0
+    },
+    {
+      "name": "Photo045",
+      "result": "PASS",
+      "exit": 0
+    },
+    {
+      "name": "Android",
+      "result": "PASS",
+      "exit": 0
+    }
+  ],
+  "running": null,
+  "result": "PASS"
+}

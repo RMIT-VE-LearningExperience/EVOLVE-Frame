@@ -1,0 +1,20 @@
+{
+  "id": "appgdep_6b00b0a8dd5c8191a352cda4ccac4c5b",
+  "project_id": "appgprj_6b003629adc081919b288dc51820b39a",
+  "title": "Leichhardt — model review",
+  "version_id": "appgprj_6b003629adc081919b288dc51820b39a~appgver_0bc541fac5788191be037f05397ebade",
+  "type": "publish",
+  "status": "succeeded",
+  "url": "https://leichhardt-model-review.lolepaille.chatgpt.site",
+  "has_mcp": false,
+  "screenshot_asset_pointer": null,
+  "provider_deployment_id": "release---6b0036ad3f4881918c204c43bf1befcf",
+  "failure_message": null,
+  "env_set_revision": 0,
+  "updated_at": "2026-11-20T20:42:30.600462+00:00",
+  "source_commit": "c6541f6c0c20083ad9ec3777eb94cb53a6198692",
+  "archive": "output/vr/leichhardt-phone-review-0.4.2.tar.gz",
+  "review_images": 52,
+  "audience": "owner-private",
+  "verification": "Native Sites deployment succeeded; physical phone browser not tested."
+}

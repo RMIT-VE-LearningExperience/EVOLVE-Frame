@@ -1,0 +1,115 @@
+{
+  "duration_api_ms": 781284,
+  "stop_reason": "end_turn",
+  "session_id": "790f0e09-d195-40ad-abc8-e6ed78d3cb4c",
+  "total_cost_usd": 5.0269236,
+  "usage": {
+    "input_tokens": 4,
+    "cache_creation_input_tokens": 28815,
+    "cache_read_input_tokens": 3610,
+    "output_tokens": 11025,
+    "output_tokens_details": {
+      "thinking_tokens": 8783
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 28815,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 4,
+        "output_tokens": 11025,
+        "cache_read_input_tokens": 3610,
+        "cache_creation_input_tokens": 28815,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 28815
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "modelUsage": {
+    "claude-fable-5-2": {
+      "inputTokens": 22,
+      "outputTokens": 68011,
+      "thinkingTokens": 65028,
+      "cacheReadInputTokens": 20738,
+      "cacheCreationInputTokens": 143885,
+      "webSearchRequests": 0,
+      "costUSD": 5.0269236,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "permission_denials": [],
+  "terminal_reason": "completed",
+  "fast_mode_state": "off",
+  "fast_mode_disabled_reason": "sdk_opt_in_required",
+  "subagent_stats": {
+    "spawned": 0,
+    "requested": {
+      "background": 0,
+      "foreground": 0,
+      "unset": 0
+    },
+    "started_in_background": 0,
+    "max_depth": 0,
+    "spawned_by_subagents": 0,
+    "completed": 0,
+    "failed": 0,
+    "killed": {
+      "parent": 0,
+      "user": 0,
+      "system": 0
+    },
+    "refused": {
+      "depth_limit": 0,
+      "concurrency_limit": 0,
+      "budget": 0
+    },
+    "by_type": {}
+  },
+  "safety_stops": 0,
+  "is_error": false,
+  "num_turns": 1,
+  "subtype": "success",
+  "api_error_status": null,
+  "result": "# Gate 2 review: 0.4.6 proposed decisions (pre-implementation)\n\n**Verdict:** proceed after two corrections. The niche walls, heights and the DP08 reading are supported by the sheets. The upper WC tile scope is misread, and the direction labels are inconsistent enough to put a niche on the wrong wall.\n\n**Inspected:** `source-findings.txt` and sheets 07, 08, 15, 17, 18, 19 as PNGs at reduced resolution. I did not open `baseline-objects.json`, so every model fact below (stud overlaps, wall thicknesses, Blender coordinates, window extents) is Codex's claim, unverified by me.\n\n## Blockers / corrections\n\n1. **Upper WC elevation A is not full-height tile.** On sheet 19, WC elevation A has no \"TILES\" label and no wall stipple. Only the window glazing and a thin base band are stippled, the same as elevation B's \"100MM TILED SKIRTING\". Every tiled elevation on sheets 15, 17, 18 and 19 carries both the label and full stipple. Model 100 mm skirting on all WC walls, with tiled floor. Confirm at full zoom; if anyone still wants a full-height end wall, tag it illustrative, not sourced.\n\n2. **Two direction conventions are used in one document.** The wet-area section uses legacy page labels (\"north/page-top\", \"east/page-right\"). The drainage section uses true compass (\"east/T\", \"south/R\", \"north/L\"). So \"north wall\" means two different walls. Before implementation, key every decision by page direction plus the adjoining room, with compass as metadata only.\n\n## Niches: orientation and height confirmed\n\nEach niche wall was cross-checked between the plan callout arrow, the face-on elevation and the side-view elevation.\n\n| Room | Wall (page direction) | Backs onto | Size and position | Evidence |\n|---|---|---|---|---|\n| Ensuite (17) | Page-top, 1800 shower wall | Kitchen fridge/shelf zone | 1000 wide, 400 each side, 1200\u20131650 | Elev A face-on; Elev D side view |\n| Bath 2 (18) | Page-left | Bed 3 | 600 wide, 150 from page-top corner, 1200\u20131650 | Elev D face-on; Elev A side view |\n| Upper bath (19) | Page-right | Bed 5 robe | 900 wide, 200 each end of 1300 shower, 1200\u20131650 | Elev B face-on; Elev A side view |\n\n- **Written dimensions:** all widths, side offsets, the 450 height and the 1200 sill are written. Scaling the drawn rectangles agrees.\n- **\"450W\" typo:** reading it as height is sound, since all three callouts repeat it and all elevations dimension 450 vertically.\n- **Height datum:** 1200 from finished tile is a reasonable convention, but the sheets do not state the datum.\n- **Offset rule:** the ensuite deducts linings (385) and Bath 2 does not (150). Pick one rule; the difference is 15 mm or less.\n- **Fittings:** toilet-roll holder and towel rail walls, heights and the 600/700 offsets match the elevations in all five rooms.\n- **Powder room:** the page-right wall has no elevation, so tiling it is correctly flagged as inference.\n- **Unverified:** the ensuite niche's backing room, and which wall holds the upper bath door (elevation D shows a door; the plan was unclear at this resolution).\n\n## Timber trimming: acceptable as illustrative, with conditions\n\nShowing the trimming is honest because the studs being cut are themselves generated, not sourced. The sheet notes also say fixture locations are indicative and framing may be adjusted. Conditions:\n\n- **Label the new members too.** Tag jambs, sills and heads as illustrative trimming with unengineered sizes and connections. They must not look more authoritative than the studs they replace, in metadata or in any VR label.\n- **Ensuite wall is the sensitive one.** It is a ground-floor wall under the upper floor, and the opening is 1000 wide. Whether it is loadbearing or bracing is unknown from these sheets. Record it as \"load path not assessed\", not just \"unresolved\".\n- **Check wall depth in the model.** A 60 mm recess plus back lining and tile fits a 90 mm stud wall only if these walls really are 90 mm in the model.\n- **State the alternative.** A builder might shift the niche to suit studs instead; the drawings do not say which.\n- **Services.** The ensuite mixer (550 from the left, 1000 high) sits 200 mm below the niche sill on the same wall. Pipework is not modelled; say so.\n\nKeeping the 50 mm shower floor recess separate from niche depth is correct.\n\n## DP08 \"750\"\n\nCodex's reading is supported. On sheet 07 the downpipe symbol sits roughly mid-span of the 750 dimension, about 380 mm (scaled) from the outer corner, not at either end. Record 750 as a probable window or wall setback, not a confirmed one, because I could not resolve where the upper tick ends. Sheet 08 also shows a downpipe on that wall near the corner. The pipe position remains scaled.\n\n## DP06 cross-sheet offset\n\nThe disagreement is real. I scale the ground-floor symbol at about X 18.4 and the first-floor symbol at about X 19.2 (\u00b10.2 m), against Codex's 18.14 and 19.30. If the model's window extents are right, the first-floor position sits above W07, so a straight drop there is impossible.\n\nThe dogleg is an invention that appears on no sheet. It is acceptable only as an explicitly inferred route with visible fall. Decision for you: check the page-bottom elevation sheet for a drawn downpipe first. If it is silent, a straight drop at the ground-floor position with the outlet moved is the less conspicuous option; the dogleg keeps both symbols honoured but adds a feature nobody drew.\n\nDP05 may also differ between sheets by about 0.3 m. That is within my reading error, so unverified.\n\n## Drainage counts\n\nCounts match the sheets: 8 downpipes, 3 with rainwater heads, 2 spreaders and 3 sumps. The garage roof falls toward page-bottom and the porch sump is at the page-top/right corner, as proposed.\n\n## For gate 3\n\n- Renders showing each niche with its adjoining room identifiable.\n- Upper WC with skirting only.\n- Visible \"illustrative\" tagging on the trimming members.\n- The DP06 route beside W07.\n- A list of every changed timber member.\n\nThis is not an engineering or construction acceptance.",
+  "ttft_ms": 114022,
+  "type": "result",
+  "duration_ms": 128709,
+  "uuid": "2fcb3196-3686-43f7-86b7-7ee3401dfd85",
+  "ttft_stream_ms": 3629,
+  "time_to_request_ms": 169,
+  "first_content_frame_ms": 3630,
+  "queued_turn_count": 0,
+  "result_index": 0,
+  "model_usage_since_last_result": {
+    "claude-fable-5-2": {
+      "inputTokens": 4,
+      "outputTokens": 11025,
+      "cacheReadInputTokens": 3610,
+      "cacheCreationInputTokens": 28815,
+      "webSearchRequests": 0,
+      "costUSD": 0.902794,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 8783,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  }
+}

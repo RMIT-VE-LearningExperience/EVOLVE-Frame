@@ -1,0 +1,102 @@
+POWDER ROOM PLAN
+SCALE 1:50
+B
+C
+A
+ELEVATION A
+1600
+600 900
+TPH TPH 2740 CEILING HEIGHT
+ELEVATION B
+2590
+WC
+450
+C
+L
+BEVELED EDGED MIRROR.
+MIRROR
+TILES
+SH.
+20 370 550 200 1100 MIRROR CABINET
+500 370 20
+ELEVATION C
+1600
+600
+SH. 1300 VB 820 X 2340H
+PWD
+TILES TILES 250
+WIR
+BED 1 - WALK IN ROBE PLAN
+SCALE 1:50
+ELEVATION A
+2270 2740 CEILING HEIGHT
+3780 2270
+ELEVATION B ELEVATION C 2016
+1070 600
+HANGING RAIL
+MELAMINE SHELVE
+DR
+DR 800
+D
+C
+A
+B 720 X 2340 CSLD
+2 x 2016mm HIGH X 607mm
+WIDE DRAWER TOWERS.
+HANGING RAIL HANGING RAIL HANGING RAIL
+600
+3780
+ELEVATION D
+HANGING RAIL
+MELAMINE SHELVE
+600 1070 600 1440
+HANGING RAIL
+SUPPORT
+PANEL
+800 50 2930
+HANGING RAIL
+MELAMINE SHELVE
+600 16 607 16 607 16
+DR.
+DR.
+DR.
+DR.
+SH.
+SH.
+SH. 2016
+DR.
+DR.
+DR.
+DR.
+SH.
+SH.
+SH.
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+REVISION DATE: BY: - DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024 E.C.
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+INTERNAL DETAILS
+1:50
+15
+GENERAL NOTES:
+- Locations of fixtures shown on plans are indicative only and may
+vary due to location of structural members and truss layouts. - All symbols, fittings, appliances and fixtures are indicative only
+actual item may be of different size or shape.
+- Refer to specifications for accurate details and description.
+- Cabinetry may be altered upon specialists advice.
+- Window sizes are nominal only exact figure may vary on site.
+- Minor adjustments to framing and or location of framing
+may be made for structural purposes.

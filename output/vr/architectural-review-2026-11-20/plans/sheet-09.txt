@@ -1,0 +1,147 @@
+BOUNDARY LINE BOUNDARY LINE
+O. O.
+450
+450
+O/H
+O/H
+SELECTED COLORBOND
+GUTTER & FASCIA.
+SELECTED
+BRICK FINISH.
+SELECTED RENDERED
+FINISH.
+SELECTED ALUM.
+AWNING WINDOW.
+SELECTED DOUBLE ENTRY
+DOOR 2 X 820 X 2340H.
+SELECTED 100MM FOAM
+WITH RENDERED FINISH TO
+FIRST FLOOR. 2740 2590
+CL. FFL. 10.906 CEILING HEIGHT
+CL.CEILING HEIGHT 700 2566 74
+SOUTH ELEVATION - B
+SCALE 1:100 3440 8385 OVERALL BUILDING HEIGHT 3600
+SELECTED COLORBOND ROOF
+@ 25° ROOF PITCH WITH
+ROOF SARKING. 2280 2400 WINDOW HEIGHT WINDOW HEIGHT SELECTED RENDERED BLUE
+BOARD, PACKED OUT TO ALIGN
+WITH BRICK PIERS. PARAPET HEIGHT
+D
+01
+W
+01
+W
+08
+W
+09
+NGL. 10.60
+NGL. 10.40
+NGL. 10.71 3600 PARAPET HEIGHT AT NGL
+F. O.
+O.
+O.
+O. F. O. F. SP-P BUILDING
+ENVELOPE PROFILE
+SETBACK
+SP-D BUILDING
+ENVELOPE PROFILE
+SETBACK
+1320 BOUNDARY LINE BOUNDARY LINE
+EAST ELEVATION - A
+SCALE 1:100
+450
+O/H
+450
+O/H
+SELECTED COLORBOND
+GUTTER & FASCIA. 2740 2590
+CL. FFL. 10.906 CEILING HEIGHT
+CL.CEILING HEIGHT 3340 OVERALL BUILDING HEIGHT
+F.O.
+SELECTED
+BRICK FINISH.
+SELECTED RENDERED
+FINISH.
+SELECTED ALUM.
+AWNING WINDOW.
+1440
+OBSCURE
+GLAZING
+SELECTED BRICK FINISH - WALL
+ON BOUNDARY. 3600 2826
+CL. FFL. 10.820 GARAGE CEILING HEIGHT GARAGE PARAPET HEIGHT
+SELECTED 100MM FOAM
+WITH RENDERED FINISH
+TO FIRST FLOOR. OBSCURE GLAZING F.O.
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING. F.O. HWS
+LOCATION OF HWS TO BE CONFIRMED
+ON SITE BY CONTRACTOR. MB 2400 8470
+SELECTED WHIRLYBIRD
+W
+02
+W
+03
+W
+05
+W
+13
+W
+12
+W
+11
+W
+10
+NGL. 10.20
+NGL. 10.40
+NGL. 10.60
+NGL. 10.80 3600 PARAPET HEIGHT AT NGL
+O. O.
+O. F. F. W
+04
+O. F. O. F. F. F. D
+02
+O. NBN ACCU
+GM
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+REVISION DATE: BY: - DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024 E.C.
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+ELEVATION NOTES
+· Levels relating to ground levels are indicative only and should be
+checked and verified on site by Builder/Contractor prior to
+commencement of any building works. · Obscure glazing or film to be provided to 1.7m above FFL. (Finshed
+Floor Level) to applicable windows where overlooking issues arise. · Grade soil away from building towards drains. · Extent & number of steps, landings handrails to be determined on site
+by builder/contract. · Articulation joints are to be located in accordance with technical
+notes and to the satification of the geotechnical structural engineer. · Garage doors sizes are to be measured prior to installation. · Cavity flashing & weep holes above all openings in brickwork.
+CONCRETE STEP NOTE
+Concrete steps & landings to be maxof 3 risers (570mm) above finished
+ground level. Concrete steps max riser 190mm min going 250mm
+PROTECTION OF OPENABLE WINDOWS
+(a) A window opening must be provided with protection, where the floor
+below is 2m or more above the surface beneath.
+(b) Where the lowest level of the window opening covered by (a) is less than
+1.7m above the floor, the window opening must comply with the
+following:
+(i) The opening portion of the window must be protected with -
+(a) a device capable of restricting the window opening or;
+(b) a screen with secure fittings.
+(ii) A device or screen required by (i) must -
+(a) not permit a 125mm sphere to pass through the window opening or
+screen.
+EXISTING ELEVATIONS
+1:100
+09

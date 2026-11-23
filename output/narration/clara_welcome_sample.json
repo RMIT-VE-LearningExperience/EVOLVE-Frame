@@ -1,0 +1,14 @@
+{
+  "voice_name": "Clara - Warm Australian Professional",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  },
+  "text": "Welcome to Evolve Frame. Take a moment to look around and get comfortable. You're standing inside a house you can explore at your own pace. As we move through the building, we'll reveal the framing and see how the different parts fit together. When you're ready, point towards the marker by the front door. Let's take a look inside.",
+  "output_format": "mp3_44100_128"
+}

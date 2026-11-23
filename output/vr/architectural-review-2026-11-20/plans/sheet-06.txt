@@ -1,0 +1,149 @@
+LEGEND
+1. KITCHEN SINK
+2. VANITY BASIN
+3. SHOWER
+4. W.C.
+5. PLUMBING STACK
+6. TROUGH
+SLAB SETOUT PLAN
+SCALE 1:100
+230 6000 150 1320 5360 150 1100 2520
+2380 3970
+28430 9500 9500
+6470 21960 1320 3680 4500
+28430
+6130 20860 1440
+970 470 6980 2520 1460
+1932
+7680
+8336
+8430
+8316
+6255 8410
+10185 520 340690 2181 6901679 900 3570
+50MM RECESSED
+SHOWER BASE.
+LINE OF
+BRICKWORK.
+LINE OF
+BRICKWORK.
+1.
+2.
+3.
+4.
+4.
+2.
+2.
+2.
+2.
+4.
+4.
+4.
+4.
+6.
+5.
+5.
+5.
+6.
+3.
+3.
+2.
+2.
+2.
+6.
+3475 295 5.
+5.
+HWS DW
+M/W
+REF SPACE WM
+TR LIN / BRM
+P/S S 900
+1800 UP. MB &
+NBN LINEN
+NOOK
+F.F.L. 10.906
+F.F.L. 10.734
+F.F.L. 10.820
+F.F.L. 10.820
+PANTRY P/S
+TAP
+TAP DR
+DR
+DR DR
+DR
+450W SH. 86mm STEP DOWN
+86mm STEP DOWN
+226mm
+STEP DOWN
+ACCU
+GM
+ PROVIDE CAPPED COLD
+ WATER POINT BEHIND
+ FRIDGE SPACE @1900H
+DR DR 1.
+1.
+150 150
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+REVISION DATE: BY: - DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024 E.C.
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+SLAB SETOUT PLAN
+1:100
+06
+SLAB SETOUT NOTES
+Site cut required as per nominated levels shown on plan.
+Builder is to confirm site.
+F.F.L. to be confirmed on site by building supervisor after
+the completion of site works.
+Levels relating to ground level are approximate only and are
+to be checked and verified on site by builder prior to
+commencement of any building works.
+Required fill and compaction to be in accordance with A.S.
+2870 - 2011.
+All works including bricks, concrete slabs and footings shall
+comply with the requirements of the relevant Australian
+Standards and the NCC 2019 Volume 2.
+DRAINAGE NOTES
+Clause 5.6.3 (AS2870-2011) – Drainage Requirements for
+moderately, highly & extremely reactive sites).
+The base of trenches shall be sloped away from the building.
+Trenches shall be backfilled with clay in the top 300mm
+within 1.5m of the building. The clay used for backfilling shall
+be compacted.
+Where pipes pass under the footing system, the trench shall
+be backfilled full depth with clay or concrete to restrict the
+ingress of water beneath the footing system.
+Where pipes pass under the footing system, the trench shall
+be back filled full depth with clay to act as a barrier to the
+ingress of water beneath the fooling system.
+Alternatively, a plastic membrane across the cross – section
+of the trench, taped to the pipe and keyed into the side and
+base of the trench may be used.
+Subsurface drains to remove groundwater shall not be used
+within 1.5m of the building unless designed in accordance
+with engineering principles.
+Surface water drainage.
+The external finished surface surrounding the slab must be
+graded to give a slope of not less than
+(i) 25 mm over the first 1 m from the building for surfaces
+that are reasonably impermeable or
+(ii) 50 mm over the first 1 m from the building.
+SURFACE WATER DRAINAGE
+The external finished surface surrounding the slab must be
+graded to give a slope of not less than:
+- 25 mm over the first 1 m from the building for surfaces
+that are reasonably impermeable or
+- 50 mm over the first 1 m from the building.

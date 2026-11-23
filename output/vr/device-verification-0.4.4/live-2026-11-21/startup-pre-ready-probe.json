@@ -1,0 +1,49 @@
+{
+  "started": "2026-11-21T10:16:49.664587+11:00",
+  "version": "0.4.4",
+  "serial": "PA94Y0MGJ9180026G",
+  "scope": "On-device cold startup and session control handlers via local USB diagnostic bridge. Narration means AudioSource playback state; actual sound and physical controller input are not independently observed.",
+  "result": "FAIL",
+  "checks": [
+    {
+      "action": "status",
+      "value": 0,
+      "state": {
+        "id": "1795216610518901200",
+        "version": "0.4.4",
+        "room": "arrival",
+        "error": "",
+        "changing": false,
+        "focused": true,
+        "guide": true,
+        "narration": false,
+        "detail": false,
+        "isolated": false,
+        "location": 0,
+        "hotspots": 9,
+        "visibleParts": 9,
+        "explosion": 0.0,
+        "zoom": 1.0,
+        "eye": {
+          "x": -29.062410354614258,
+          "y": 2.548050880432129,
+          "z": -5.561919689178467
+        },
+        "framing": false,
+        "roofHidden": false,
+        "fittingsShown": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    }
+  ],
+  "error": "Cold-start welcome/narration failed",
+  "traceback": "Traceback (most recent call last):\n  File \"D:\\Git\\EVOLE Frame\\tmp\\unity-build\\verify_pico044_live.py\", line 55, in <module>\n    assert s['guide'] and s['narration'] and s['location']==0,'Cold-start welcome/narration failed'\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: Cold-start welcome/narration failed\n",
+  "finished": "2026-11-21T10:16:55.957434+11:00",
+  "command_count": 1
+}

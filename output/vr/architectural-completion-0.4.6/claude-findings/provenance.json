@@ -1,0 +1,30 @@
+{
+  "session": "790f0e09-d195-40ad-abc8-e6ed78d3cb4c",
+  "model_usage": {
+    "claude-fable-5-2": {
+      "inputTokens": 18,
+      "outputTokens": 56986,
+      "cacheReadInputTokens": 17128,
+      "cacheCreationInputTokens": 115070,
+      "webSearchRequests": 0,
+      "costUSD": 4.1241296,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 56245,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "read_paths": [
+    "D:\\Git\\EVOLE Frame\\output\\vr\\architectural-completion-0.4.6\\source-findings.txt",
+    "D:\\Git\\EVOLE Frame\\output\\vr\\architectural-review-2026-11-20\\plans\\sheet-15.png",
+    "D:\\Git\\EVOLE Frame\\output\\vr\\architectural-review-2026-11-20\\plans\\sheet-17.png",
+    "D:\\Git\\EVOLE Frame\\output\\vr\\architectural-review-2026-11-20\\plans\\sheet-18.png",
+    "D:\\Git\\EVOLE Frame\\output\\vr\\architectural-review-2026-11-20\\plans\\sheet-19.png",
+    "D:\\Git\\EVOLE Frame\\output\\vr\\architectural-review-2026-11-20\\plans\\sheet-07.png",
+    "D:\\Git\\EVOLE Frame\\output\\vr\\architectural-review-2026-11-20\\plans\\sheet-08.png"
+  ],
+  "read_only": true,
+  "api_fallback_used": false
+}

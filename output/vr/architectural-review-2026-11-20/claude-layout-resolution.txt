@@ -1,0 +1,113 @@
+**Verdict:** your proposed dimension chains all close against written dimensions and need no changes to the numbers. I add four things to them: the VD recess opens to the family room, the two ground-floor boxes are not the same size, the 2300 platform is measured from the wall frame face, and the powder items have agreed scaled targets.
+
+**Limits:** 18 tool calls, read-only. Sheets 07/08/15/17 were viewed downsampled to 2000 px (about 21 mm/px at 1:100, 10.5 mm/px at 1:50); the crops are finer. "Written" means it closes on a dimension chain. "Scaled" means pixel-measured against written dimensions, ±25–40 mm unless stated. Sheets 09 and 14 were not reopened. `tmp/plans/engineering-09.png` is actually S08; S09 is `engineering-10.png`.
+
+## Chain check
+
+| Proposed item | Result | Basis |
+|---|---|---|
+| Entry/Bed 1 wall y 4.590–4.680 | Confirmed | Sheet 07 `240\|3110\|90\|4500\|240`; joist layout `4680` to the load-bearing wall |
+| Bed 1/WIR wall x 22.810–22.900 | Confirmed, twice | `90\|4000\|240`, and the top chain `90\|1600\|90\|1100\|4090\|240` (21.710 + 1.100 = 22.810) |
+| WIR to 20.540; double wall 20.360–20.540; ensuite to 18.560 | Confirmed | 14510 chain sums exactly |
+| VD zone 17.970–18.560 | Confirmed, but it is `90\|410\|90` | See section 2 |
+| Theatre north wall, west wall, 330×420 boxes | Confirmed | Sheet 08 chains |
+| Remove the 420 platform height | Confirmed | 420 is a plan dimension |
+
+Corrections and additions:
+- **Ensuite/WIR north wall** is y 3.870–3.960 (`2590|90|1150|90|3780`). The Bed 1/WIR wall must run on past it to 4.590.
+- **Ground-floor boxes are unequal.** The sheet 07 left chain reads `510 VOID | 90 | 2670 FAMILY | 90 | 420 VD | 90 | 1150 CORRIDOR`, which sums to 5020. Check the tick order at full resolution, because the earlier review assumed matching boxes.
+- **"VD" means void.** The same chain labels one box "VOID" and the other "VD". This is an inference, but a strong one.
+- **Stacking:** the theatre west wall (22.510–22.600) is 300 mm west of the Bed 1/WIR wall. Do not assume they stack.
+
+## 1. Powder, W03, C2(F), ST1, W10
+
+| Element | Target and basis | Certainty |
+|---|---|---|
+| Powder room | Clear x 20.020–21.620, y 5.200–7.790. Walls: west 19.930–20.020, east 21.620–21.710, south 5.110–5.200. | Written |
+| W03 spacing | Sheet 07 Elevation A string `…3720 \| W4 \| 3240 \| W3 \| 3960 \| W2…`. So W03 east jamb = W02 west jamb − 3.960, and W03 west jamb = W04 east jamb + 3.240. | Written, relative only; I could not read the end dimensions that anchor it |
+| W03 opening | **x 20.740–21.550** (810 × 2120 unchanged), band ±0.03. East jamb is 70 mm off the powder east wall frame face. | Scaled; three sources agree within 40 mm |
+| C2(F) at reveal | **Centre x ≈ 20.695**, east face on the W03 west jamb; y and section unchanged. Acceptable band 20.69–20.73. | Scaled |
+| C2(F) height | The S09 marker is a plain square. The legend's ✕ ("column point load from above") is on the other C2(F), near x 24.50. Nothing on S09 carries this column above ST1. | Drawn; "(F)" is not defined on S09 and I did not open the schedule |
+| ST1 | From C2(F) east along the wall line, over the W03 and W02 heads, to C2 at the entry corner (26.945). | Drawn |
+| 1B2 | **x 20.900**, at the stair head. It bears on ST1 about 0.2 m east of C2(F). Do not slide it onto the column. | Written (joist layout `2930\|3450\|2640`) |
+| W10 | **Stays at 19.814–20.664.** The landing is 19.510–20.900 (`90\|1390\|4000`). W10 has no setout chain; centring it would give 19.780–20.630, a 34 mm difference that is tracing noise. | Landing written; W10 position unverified against sheet 09 |
+| Powder door | 820 × 2340 in the south wall, clear **x ≈ 20.74–21.56**. Hinged on the east jamb, swinging into the room to lie against the east wall. | Size and side written or drawn; position scaled from sheet 15 |
+
+The three W03 sources:
+- **Sheet 07 string**, closed by scaling the return east of W02 at about 840 mm: 20.72–21.53.
+- **S09 crop**, absolute: 20.76–21.57. Measured relative to the powder east wall on the same crop, the jamb is 70 mm off the wall.
+- **Sheet 15 at 1:50**: the east jamb is 30–65 mm off the lining.
+
+The three C2(F) sources are S09 full sheet (20.69), S09 crop (20.73 absolute, or 35–45 mm west of the jamb) and the joist-layout ST1 end (20.71).
+
+Net moves: W03 +0.187 m and C2(F) −0.18 m. That is consistent with the earlier review's direction, with W03 at the top of its range.
+
+- **W02 anchor:** once W02 is verified, set W03 from the written 3960 and let it override my scaled value. From S09 and sheet 07, W02 scales at about 25.49–26.31.
+- **W10 and the column:** in plan the column's west face (20.651) sits 13 mm inside W10's east jamb. That is harmless only if the model column stops under ST1. If it runs full height, check the column schedule; do not move W10.
+- **Fixture check on the door:** the 600-deep vanity from the west wall ends at 20.62, clear of the door at 20.74.
+
+## 2. Ensuite VD zone
+
+The recess opens **west into the family room**. It does not open into the ensuite.
+
+| Element | Faces | Target | Certainty |
+|---|---|---|---|
+| Full-height back wall | East face is the ensuite fixture wall; west face is the back of the family recess | x 18.470–18.560, continuous y 0.090–3.870 | Written for position; continuity read from sheet 17 |
+| North box (closed void) | Projects west of the back wall; west face flush with the family wall plane | Void x 18.060–18.470, y 3.450–3.870. West skin 17.970–18.060; south return y 3.360–3.450; north side is the corridor wall. | Written |
+| South box (closed void) | Same | Void x 18.060–18.470, y 0.090–0.600. North return y 0.600–0.690. | Written; asymmetry to verify |
+| Recess | Open to family | x 17.970–18.470 (500 deep), y 0.690–3.360 (2670 wide) | Dimensions written; open side inferred |
+| 340 bulkhead over recess | Family side | Same footprint as the recess; soffit at GF + 2.400 | Sheet 07 hatch and note |
+| 1800 vanity | Ensuite side, on the back wall's east face | y 1.080–2.880, between the WC partition (0.990–1.080) and the shower nib (2.880–2.970). 600 deep, so x 18.560–19.160. | Written |
+| Plaster bulkhead over vanity | Ensuite side | Same 1800 bay, about 580–600 deep; soffit 2.400 | Drawn on sheet 17; depth scaled |
+
+Evidence for the family side:
+- The lower chain row reads `5100 | 500 VD ‖ 900 | 900 OPEN`. The 500 runs from the family face (17.970) to the back wall's west face (18.470).
+- The left chain labels the 2670 bay "FAMILY".
+- The bulkhead leader on sheet 07 comes from the family side.
+- Sheet 17 shows the ensuite west wall flat and continuous. Elevation C puts the 600 vanity inside the 1800 clear width, and Elevation D shows only the two 90 partitions as returns.
+
+"900 OPEN" is the shower screen opening, not the recess. No sheet shows an elevation of the family wall, so tag the open side as an interpretation.
+
+**Discrepancy to carry:** sheet 07 hatches the VD strip and sheet 17 hatches over the vanity, both with the same "340mm DROP DOWN BULKHEAD" label. Model both, each tagged to its sheet, and ask which is intended.
+
+**Double wall and cavity slider:**
+- The two 90 walls are x 20.360–20.450 (ensuite skin) and 20.450–20.540 (WIR skin). This is written.
+- The 720 × 2340 opening is clear at about **y 1.59–2.31, centre 1.95 ±0.04**. This is scaled, and the sheet 15 plan, sheet 17 plan and sheet 17 Elevation B agree.
+- It opens from the vanity bay into the free stretch of WIR wall between the drawer towers and the south hanging.
+- The leaf is drawn parked **south** of the opening (pocket about y 0.85–1.58), apparently in the ensuite-side skin. The wall north of the opening is solid to 3.870. The pocket side is scaled; which skin holds it is low certainty.
+
+## 3. Theatre
+
+| Element | Target and basis | Certainty |
+|---|---|---|
+| North wall | y 4.590–4.680 (`190\|1100\|90\|1920\|90\|420\|90\|3480\|90\|420\|190`; joist layout `1190\|90\|1920\|4680`) | Written |
+| West wall | x 22.510–22.600 (`3000\|90\|4300\|190`) | Written |
+| NW box | Void x 22.600–22.930, y 4.170–4.590. Walls x 22.930–23.020 and y 4.080–4.170. | Written |
+| SW box | Void y 0.090–0.510; wall y 0.510–0.600; same x | Written |
+| Bulkhead bands | North y 4.080–4.590; south 0.090–0.600; west x 22.600–23.020 between the boxes. Soffit FF + 2.250. | Written |
+| East bulkhead band | About 500 deep, x ≈ 26.40–26.90 | Scaled |
+| Door 820 × 2340 | Frame opening **x ≈ 23.13–24.01**; leaf 23.16–23.98; centre 23.57 ±0.03. Nib of about 110 mm from the box face (23.020). | Scaled; no chain exists |
+| Door swing | Hinged on the west (box) jamb, swinging into the theatre | Drawn clearly |
+| Step line | **x 24.900**, drawn wall to wall across the full depth, through both bulkhead bands | Written |
+| Step height | Not given on any sheet read | Unresolved |
+| High side | "PLATFORM" is west and "STEP DOWN" is east, but the structural floor is flat (no set-down on S09 or the joist layout) and the door opens directly onto the platform zone | Unresolved |
+| Door against bulkhead | 2340 leaf under a 2250 soffit: a 90 mm clash as drawn | Drawing conflict |
+
+- **2300 extent:** the chain `90 | 2300 PLATFORM | 2000 | 190` sums to the 4300 room width. The 2300 is therefore from the west wall frame face (22.600), not from the box or bulkhead line. 1B7 sits under it, 2090 from the frame outer face.
+- **Door position:** the crop was calibrated on the written 330, 90 and 4300 dimensions and checked against the void dwarf wall at 24.35. This is 20 mm east of the earlier 23.14–23.96 estimate.
+- **Swing:** the swing itself is not ambiguous. What is unresolved is whether it can work with a raised platform and the bulkhead. Any raised platform also cuts headroom under the bands to 2250 minus the rise.
+
+**Keeping the review build honest:**
+1. **Floor:** build it flat at FF, with the step line as a thin flush inlay at x 24.900 labelled "PLATFORM / STEP — height and high side not given (sheet 08)". This replaces the earlier review's "one riser of 190 or less, held clear of the door swing": the cut-back is not on the drawings and the riser is a guess.
+2. **Raised variant:** if you want one, make it a separate layer that is off by default, tagged `assumption=true`, and run wall to wall as drawn.
+3. **Door and bulkhead:** model both at their written sizes. Show the leaf closed so nothing interpenetrates, and put a named conflict marker over the swing footprint.
+4. **Tests:** whitelist that named conflict in the intersection tests rather than "fixing" it. A clean ray test would hide a real drawing conflict.
+5. **Metadata:** give each object `source_status` (written, scaled or unresolved) and a sheet reference. Use the same tags for the family-recess side, the two ensuite bulkheads, the slider pocket, and the W03, C2(F) and door positions.
+
+## Questions for Chris or the builder
+
+- Theatre step height, which side is high, and how the 2340 door meets the 2250 soffit.
+- Whether the ensuite bulkhead is over the family recess, over the vanity, or both.
+- Confirmation that the VD recess opens to the family room.
+- The W02 end-return dimension (or full-resolution tick positions) to anchor W03 by the written 3960.
+- What "(F)" means on C2(F), and where the column stops.

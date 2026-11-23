@@ -1,0 +1,31 @@
+{
+  "source": "Leichhardt_Architectural Plans (1).pdf",
+  "sheet": "08",
+  "question": "Is it a platform or a bulkhead?",
+  "answer": "Both are separately annotated. The hatched perimeter is the ceiling bulkhead; a separate floor division is labelled STEP DOWN and dimensioned 2300 PLATFORM.",
+  "confirmed": {
+    "ceiling_bulkhead_drop_mm": 340,
+    "west_bulkhead_plan_width_mm": 420,
+    "south_bulkhead_plan_width_mm": 510,
+    "platform_horizontal_extent_mm": 2300,
+    "remaining_room_horizontal_extent_mm": 2000,
+    "total_room_width_mm": 4300,
+    "door_leaf_height_mm": 2340
+  },
+  "unresolved": {
+    "platform_rise_mm": null,
+    "high_side": null,
+    "door_bulkhead_coordination": "The 2590 nominal ceiling minus 340 drop gives a 2250 soffit, below the 2340 door leaf. The entry band needs clarification."
+  },
+  "correction": "Removed the previous unsupported 420 mm raised floor. The 420 dimension is horizontal, not a rise. Floor remains at the normal upper-floor level pending coordination; this is not a complete representation of the annotated step.",
+  "source_detail": "../../../tmp/plans/theatre-platform-bulkhead-detail.png",
+  "status": "Source annotations visually checked; floor step and door/soffit conflict remain unresolved.",
+  "independent_claude_review": {
+    "date": "2026-11-20T23:10:52.812549+11:00",
+    "report": "claude-theatre-independent-review.txt",
+    "conclusion": "A partial floor level change is drawn; the whole theatre is not established as raised. The arrow points into the 2300 PLATFORM-labelled door/retreat-side zone, conflicting with an assumption that the labelled platform is the high side. Height and high side remain unresolved.",
+    "low_confidence_inference": "The unlabelled 2000 window-side zone may be raised above the door-side zone; do not implement as confirmed.",
+    "section": "Sheet12 section A-A does not cut through the theatre. Sheet11 is the window/door schedule.",
+    "modelling_action": "No vertical floor change made from this review."
+  }
+}

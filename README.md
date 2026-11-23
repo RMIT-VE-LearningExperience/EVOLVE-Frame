@@ -1,12 +1,14 @@
-# EVOLVE Frame / Frame Lab
+# Leichhardt
 
 An educational Blender model and student-facing construction explorer for the Leichhardt project.
 
-**Public student experience:** https://leichhardt-frame-lab.lawrence-makoona.chatgpt.site
+**Public student experience:** https://rmit-ve-learningexperience.github.io/EVOLVE-Frame/
+
+Standalone **Leichhardt 0.4.6** APKs are also available for PICO 4 Ultra Enterprise and Meta Quest 3/3S. See [the Unity project](unity-vr/README.md) for the current build, validation scope and architectural limitations. Quest 3 is installed and passed automated checks plus basic wearer confirmation; Quest 3S hardware testing remains pending. [Private model review gallery](https://leichhardt-model-review.lolepaille.chatgpt.site/) contains 83 Unity images.
 
 ## Project contents
 
-- `student-web/`: complete website source, model exports, learning content and tests. See its README for development instructions. The live site is now public; owner-only access described there was the initial review setting.
+- `student-web/`: complete website source, model exports, learning content and tests. See its README for development instructions. GitHub Pages publishes the public classroom version from the tested static export.
 - `output/learning/Leichhardt_Learning_Experience.blend`: latest learning revision with detached window, eaves and floor-edge junctions, plus staged building views.
 - `output/learning/LEARNING_GUIDE.md`: teaching prompts, sources and limitations.
 - `output/enclosure/`: provisional enclosure revision and material assumptions.
@@ -23,6 +25,6 @@ The construction-stage sequence is a teaching reveal order, not an approved site
 
 ## Source and hosting
 
-This GitHub repository contains the full website source as ordinary files, not a submodule. Sites hosts the current public student experience. The local website also retains its separate Sites source history; changing GitHub alone does not automatically publish a new website version.
+This GitHub repository contains the full website source as ordinary files, not a submodule. GitHub Actions builds and publishes `student-web` to GitHub Pages when relevant files change on `main`. A separate private Sites deployment may be used for owner review, but it is not the public classroom URL.
 
 Local Blender backup files, dependencies, generated website builds and temporary deployment archives are excluded from version control.

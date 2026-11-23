@@ -1,0 +1,84 @@
+{
+  "result": "PASS",
+  "version": "0.4.6",
+  "model": "Quest 3",
+  "serial": "2G0YC5ZFB5004M",
+  "installation": {
+    "result": "PASS",
+    "model": "Quest 3",
+    "serial": "2G0YC5ZFB5004M",
+    "version": "0.4.6",
+    "version_code": 14,
+    "installed_apk_sha256": "ac4939e45f1852e06a6d78d34fd7d68b0e38a673b68f37692843378e06b921cf",
+    "timestamp": "2026-11-21T19:28:58.197248+11:00",
+    "scope": "Installation and exact APK identity. Live session and physical controls are separate checks.",
+    "awake": false
+  },
+  "live_result": "PASS",
+  "command_count": 58,
+  "live_report": "output\\vr\\quest-0.4.6\\live-2026-11-21-192942\\suite-result.json",
+  "scope": "Quest3 exact installed APK, focused startup,22 room arrivals/narration state,visibility and window study controls through58 USB commands. User additionally confirmed actual scene,audio,A-button and trigger selection.",
+  "wearer_confirmation": {
+    "confirmed_at": "2026-11-21T19:32:14.018780+11:00",
+    "confirmed": [
+      "House visible",
+      "Clara audible",
+      "Right A hides/shows guide",
+      "Trigger selects a button"
+    ],
+    "source": "User reply: Yes, all of those work",
+    "limits": "Not confirmation of sustained performance, stereo comfort over a full session, grip manipulation or every architectural detail."
+  },
+  "captures": [
+    {
+      "file": "01-startup-preview.jpg",
+      "nonblank": false
+    },
+    {
+      "file": "02-restored-welcome-preview.jpg",
+      "nonblank": true
+    },
+    {
+      "file": "fittings-hidden-preview.jpg",
+      "nonblank": false
+    },
+    {
+      "file": "room-07-preview.jpg",
+      "nonblank": true
+    },
+    {
+      "file": "room-11-preview.jpg",
+      "nonblank": true
+    },
+    {
+      "file": "room-20-preview.jpg",
+      "nonblank": true
+    },
+    {
+      "file": "rotation-slider-isolated-preview.jpg",
+      "nonblank": true
+    },
+    {
+      "file": "walls-hidden-preview.jpg",
+      "nonblank": true
+    }
+  ],
+  "visual_check": "Codex inspected the restored Welcome and isolated window screenshots. Startup and fittings-hidden captures were blank and are not used as visual evidence.",
+  "performance_samples": [
+    {
+      "fps": 71.9,
+      "frame_p95_ms": 13.89,
+      "gpu_ms": 8.27,
+      "refresh_hz": 72.0
+    },
+    {
+      "fps": 72.0,
+      "frame_p95_ms": 13.89,
+      "gpu_ms": 8.33,
+      "refresh_hz": 72.0
+    }
+  ],
+  "performance_scope": "Two short samples during automated transitions at72Hz; not sustained performance acceptance.90Hz has not been tested.",
+  "quest3s": "Not hardware-tested",
+  "final_automated_state": "Welcome,all walls/roof/fittings restored; user may navigate after checks."
+}

@@ -1,0 +1,13 @@
+{
+  "sha256": "936fcf02dbac0783caf77e55e18e130c0b2015d15759154fc828f0eea19ee5fe",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "That completes our guided tour. You've explored the rooms, compared the enclosure with the structural frame, and inspected the layers of a window return. You can keep exploring at your own pace using the room list, replay an explanation, or restart the tour. When you're finished, use the headset's home control to leave the experience. Thanks for exploring Leichhardt with me.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

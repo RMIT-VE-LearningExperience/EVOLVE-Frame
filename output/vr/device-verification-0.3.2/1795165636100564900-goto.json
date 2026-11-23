@@ -1,0 +1,22 @@
+{
+  "id": "1795165636100564900",
+  "version": "0.3.2",
+  "room": "bedroom5",
+  "error": "",
+  "changing": false,
+  "focused": true,
+  "guide": true,
+  "narration": true,
+  "detail": false,
+  "isolated": false,
+  "location": 20,
+  "hotspots": 9,
+  "visibleParts": 9,
+  "explosion": 0.0,
+  "zoom": 1.0,
+  "eye": {
+    "x": -17.094942092895508,
+    "y": 4.638816833496094,
+    "z": -6.2317399978637695
+  }
+}

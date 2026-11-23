@@ -1,0 +1,108 @@
+{
+  "reviewed_screenshots": 38,
+  "source": "PICO Pictures/Screenshots, EVOLVE Frame 2026-11-20; originals copied beside this report",
+  "findings": [
+    {
+      "issue": "Raw stair framing and stringers through treads",
+      "change": "Complete coordinated stair: 16 treads, 17 rises, fitted stringers, risers, newels, balusters, handrails and brackets; closed wall-side string fills the 25 mm tread-to-wall junction"
+    },
+    {
+      "issue": "Void balustrade offset from floor support",
+      "change": "Rebuilt over trimmer centrelines; closed L-junction; added caps and continuous floor-depth fascias"
+    },
+    {
+      "issue": "Metal straps and hardboard visible through plaster",
+      "change": "Seated braces on actual stud faces, allowed lining clearance for 4.8 mm sheet bracing"
+    },
+    {
+      "issue": "Brace crossed Bedroom 2 door",
+      "change": "Moved the existing schematic hall strap into the adjacent uninterrupted wall bay; no section redesign"
+    },
+    {
+      "issue": "Open steel-column tops and small bearing gap",
+      "change": "Added six bearing caps at measured beam undersides"
+    },
+    {
+      "issue": "Dark slots across upstairs door thresholds",
+      "change": "Added deck infill through open doorways; added floor-support and capsule-clearance checks"
+    },
+    {
+      "issue": "Unfinished small doorway returns and wall bases",
+      "change": "Added door casings and skirting without reducing scheduled opening widths; testing all 12 internal doorways"
+    },
+    {
+      "issue": "Theatre platform appeared to be frame poking through floor",
+      "change": "Added platform decking and fascia; retained exposed structure when walls are hidden"
+    },
+    {
+      "issue": "Steel baseplates and anchors protruded above finished slab at room corners",
+      "change": "Recessed fixing assemblies into slab and extended column profiles down to the bearing faces; original sections and plan positions retained"
+    },
+    {
+      "issue": "Laundry door looked like rough plywood",
+      "change": "Retained D02 timber designation from architectural sheet 11; replaced structural plywood material with finished timber"
+    },
+    {
+      "issue": "Missing living/meals-to-alfresco corner glazing",
+      "change": "Added scheduled D05 corner stacker, short framed returns and complete bulkhead around exposed heads"
+    },
+    {
+      "issue": "Garage had no complete ceiling",
+      "change": "Added continuous removable lining, coordinated to garage roof datum, plus baked garage fill light"
+    },
+    {
+      "issue": "Guide crossed timber, corner recall was difficult to see",
+      "change": "Right A toggles guide; whole-panel clearance and sight-line tests; removed corner recall and raised floor markers"
+    },
+    {
+      "issue": "Window study washed out and hard to inspect",
+      "change": "Stronger material separation, dark display pad, continuous explosion slider, whole-model grip grab, rotation, zoom, full reset and nine narrated hotspots with isolation"
+    },
+    {
+      "issue": "Hard shadows and flat visual presentation",
+      "change": "Four fully baked wall/roof lighting states, 3-degree sun angle, 24 texels/metre, 512 indirect/environment samples, warm sun at lower altitude, reduced material brightness and neutral enclosed-only fill; no runtime building shadows"
+    },
+    {
+      "issue": "Plain ground had no visible building shadow",
+      "change": "Include plain ground in all four baked visibility states at reduced lightmap density; validate actual exterior renders"
+    },
+    {
+      "issue": "Open framing at entry canopy",
+      "change": "Matching sloping metal covering, standing seams, closed fascia and soffit, and gutter; linked to roof visibility"
+    },
+    {
+      "issue": "Exposed timber/steel band above alfresco",
+      "change": "Closed fascia aligned to upper render and continuous 2.59 m soffit below steel heads"
+    },
+    {
+      "issue": "Garage roof covering missing in the all-side review",
+      "change": "Metal covering on measured five-degree T5 pitch, with fascia and gutter; roof toggle retained"
+    },
+    {
+      "issue": "Porch post stood outside approach slab",
+      "change": "Added an abutting landing extension beneath the second post"
+    },
+    {
+      "issue": "Thin line through upper ceiling",
+      "change": "Set finished ceiling below the lowest hip-truss bottom chord, leaving 5 mm clearance"
+    },
+    {
+      "issue": "Landing balustrade lining stopped short of theatre wall",
+      "change": "Rebuilt return to the actual frame face and extended lining, cap and floor fascia to the wall face"
+    },
+    {
+      "issue": "Artificial horizontal dark bands below ceilings",
+      "change": "Moved broad baked fill lights from below ceiling level to 10 mm beneath each finished ceiling"
+    },
+    {
+      "issue": "Bare junction around raised theatre platform",
+      "change": "Finished deck to wall faces and added skirting at platform height"
+    },
+    {
+      "issue": "Garage battens protruded through initial covering",
+      "change": "Raised covering and gutter by measured 40 mm, checked Blender batten bounds and imported Unity covering clearance"
+    }
+  ],
+  "drawing_basis": "Leichhardt_Architectural Plans (1).pdf sheets 07 and 11. D02 is labelled selected timber door. D05 is aluminium corner sliding stacker door, 2100 mm high, nominal legs 3600 and 3000 mm.",
+  "limits": "Separate VR revision; original learning Blender file remains unchanged. Illustrative profiles and connections are not a fabrication model. Remaining position-audit items are tracked separately. Headset confirmation of the new build and sustained performance still required."
+}

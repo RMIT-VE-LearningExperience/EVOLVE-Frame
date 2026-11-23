@@ -1,0 +1,42 @@
+**Theatre room, first floor (sheet 08): there is a ceiling bulkhead and a floor step, but the drawings do not establish that the theatre is raised, and no rise is dimensioned.**
+
+**1. Bulkhead, platform, or both?**
+Both are drawn, as separate things.
+- **Ceiling bulkhead:** a hatched band runs around all four walls, bounded inside by a dashed (overhead) rectangle and labelled "340mm DROP DOWN BULKHEAD". The sheet note says "All plaster bulkheads to drop down 340mm from ceiling".
+- **Floor step:** a single solid line runs wall to wall across the room, passing under the bulkhead hatch, with a "STEP DOWN" arrow. The lower dimension string labels one segment "PLATFORM".
+
+**2. Whole floor or part? Which side is high?**
+- **Explicit:** the string reads 90 | 2300 PLATFORM | 2000 | 190 under a 4300 THEATRE overall. The solid line scales at about 53% of the room width from the retreat-side wall, matching 2300. So the "PLATFORM" is the 2300 zone on the north (door/retreat) side, and the unlabelled 2000 zone is on the south side with window W8.
+- **Only part of the room is differentiated.** Nothing says the whole theatre is raised: there is no FFL tag and no step at the door.
+- **Contradiction:** the arrow sits with its text in the 2000 zone and points across the line into the 2300 "PLATFORM" zone. Read as a direction of descent, the labelled platform is the low side and the window side is high. Read as "platform means raised", the arrow points uphill.
+- **Inference:** the door opens onto the 2300 zone with no step shown, so that zone is most plausibly at general first-floor level. Whether the 2000 window zone is above or below it is not resolved. The arrow, read literally, says above.
+
+**3. The dimensions**
+- **340:** vertical drop of the bulkhead below the ceiling. It is not a floor dimension.
+- **420:** horizontal width of the bulkhead on the north (retreat-side) wall.
+- **510:** horizontal width of the bulkhead on the west wall.
+- **2300:** plan depth of the "PLATFORM" zone, from the retreat-side wall to the step line.
+- **2000:** plan depth of the remaining zone, from the step line to the south external wall.
+- **Vertical floor rise:** none is dimensioned anywhere for the theatre. The ground floor (sheet 07) quantifies its steps with FFL boxes ("86mm STEP DOWN", "226mm STEP DOWN", FFL 10.906/10.820/10.734). The theatre has no equivalent.
+
+**4. Sections and elevations**
+- **Sheet 11** is the window and door schedule, not sections. It shows theatre W08 as 1800 high with a 480 sill and 2280 head, under a 2590 ceiling. Which floor level the 480 is measured from is not stated.
+- **Sheet 12, Section A-A** is the only section. It cuts through Bed 2/Bath over Family/Kitchen, well north of the theatre, so it does not cut the step. It shows a flat first floor on a 400 joist zone with a 2590 ceiling.
+- **Sheets 09 and 10** show a single first-floor level and the 2590 ceiling, with no theatre floor break. South Elevation B shows W08 with the 2280 window height only.
+- **Sheets 15 and 17** (the internal details I opened) do not cover the theatre. Sheet 16, which the text search flagged for bulkhead notes, I did not open.
+- **Ground floor (sheet 07):** Bed 1 sits below the theatre and shows only a perimeter-style bulkhead note, with no set-down indicated.
+
+**5. Conclusion**
+- **High confidence:** the 340 perimeter ceiling bulkhead is real, and it is not the platform.
+- **High confidence:** a single floor level change exists at a line 2300 from the retreat-side wall, with one riser line drawn.
+- **Low confidence (about 55/45):** the direction. I lean to the 2000 window-side strip being the raised part, with the door-side 2300 at first-floor FFL. That follows the arrow and the stepless door, but it conflicts with where the "PLATFORM" label sits.
+- **Not established:** that the whole theatre is raised.
+
+**Missing before modelling the vertical change:**
+- The riser height, or an FFL for each zone.
+- Designer confirmation of which zone is high, resolving the arrow against the label.
+- Whether the change is one riser or more.
+- Whether the W08 sill (480) and the 2590 ceiling are measured from the upper or lower floor.
+- A section or framing detail through the theatre.
+
+Until then, model the step line in plan only, with no height.

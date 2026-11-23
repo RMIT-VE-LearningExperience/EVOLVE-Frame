@@ -1,0 +1,46 @@
+**Independent check: powder room / stair / W03 junction**
+
+**1. Stairs above the powder room?**
+Yes, over part of it, but this is inferred from the plans rather than dimensioned as an overlap (medium-high confidence).
+- **Sheet 07:** the dimension string reads POWDER 1600 / 90 / STAIRS 3190, with risers numbered 1–17 and tread lines continuing past the powder's stair-side wall along the window-wall end.
+- **Sheet 08:** the same flight is dimensioned STAIRS 4000 with 17 numbered risers.
+- **Arithmetic:** 4000 − 3190 = 810, so roughly 0.7–0.8 m of the upper flight sits over the powder room, in a strip about 1100 wide (sheet 07 side string) out of the room's 2590 depth.
+- **Soffit finish:** none is specified. I found no stair section, soffit lining, bulkhead note or stringer depth on any of the five sheets.
+
+**2. Drawn data, conflicts and gaps**
+
+| Item | Drawn value | Source |
+|---|---|---|
+| Ground ceiling | 2740 | Sheets 11, 12, 15 |
+| Floor zone | 400 | Sheet 12 |
+| Ground FFL | 10.906 | Sheets 07, 12 |
+| W03 | 810 wide, sill 280, 2120 high, head 2400 | Sheet 11 |
+| Powder ceiling | Flat at 2740 across the full 1600 and 2590 elevations, window unobstructed | Sheet 15 |
+
+- **Floor-to-floor:** 2740 + 400 = 3140 is drawn; the model's 3.159 adds an assumed 19 mm deck.
+- **Missing:** going, rise, stair foot setout, soffit build-up, and any dimensioned W03 position. Scaled from sheet 15 Elevation A, the window sits toward the stair-side corner (low confidence).
+- **Conflict:** sheet 15's flat 2740 ceiling cannot coexist with the flight on sheets 07/08. In the model, treads 14–16 have tops at about 2.60–2.97 m over that strip.
+- **Flat ceiling or deleted slope:** not justified within the stair strip, because it would contradict the drawn flight. A flat 2740 ceiling is supported only for the part of the room outside the stair strip.
+
+**3. Model error or document issue?**
+Both contribute, and the documents need coordination.
+
+Geometry arithmetic (your figures check out):
+- The soffit is 2.247 at the right frame edge and crosses 2.400 at about x = 21.360.
+- About 203 mm of the 810 width is therefore under a soffit lower than the head, by up to 153 mm.
+- The soffit is about 2.708 at the stair head.
+- The lining stops at y = 7.775 and the frame starts at y = 7.895, so there is no physical intersection. It is an occlusion of the reveal corner, consistent with your ray results.
+
+Model assumptions driving this:
+- the 265 mm soffit offset;
+- the 246.8 mm going and the x = 24.900 foot;
+- the 3.159 floor-to-floor;
+- the scaled W03 centre.
+
+Clearing the head at the jamb by soffit depth alone would need about 112 mm of total build-up, which I would not assume. Because the documents show the flight over the window end of the room and give no soffit detail, model tuning alone cannot settle it.
+
+**Recommended next step**
+- Leave the stair, columns and window unchanged.
+- Record the junction as an open coordination item (an RFI to the designer), requesting a stair section through the powder room, the soffit or bulkhead treatment at the W03 head, and a dimensioned W03 setout.
+- In the model, tag "Finished stair underside" and W03 as illustrative/unapproved, and log the sensitivity figures above (203 mm overlap, 153 mm maximum).
+- Do not mark the detail as correct.

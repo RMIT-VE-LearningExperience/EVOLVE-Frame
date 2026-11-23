@@ -1,0 +1,184 @@
+{
+  "doors": [
+    {
+      "name": "GF Laundry west / Garage access",
+      "position": {
+        "x": -6.425000190734863,
+        "y": 0,
+        "z": -3.951096296310425
+      },
+      "normal": {
+        "x": 1.0,
+        "y": 0,
+        "z": -0.0
+      },
+      "clear_width_m": 0.9,
+      "height_m": 2.33
+    },
+    {
+      "name": "Laundry south / Laundry opening",
+      "position": {
+        "x": -7.738101959228516,
+        "y": 0,
+        "z": -4.639102458953857
+      },
+      "normal": {
+        "x": 0.0,
+        "y": 0,
+        "z": -1.0
+      },
+      "clear_width_m": 0.7999999999999999,
+      "height_m": 2.33
+    },
+    {
+      "name": "Powder south / Powder door",
+      "position": {
+        "x": -20.913631439208984,
+        "y": 0,
+        "z": -5.127364635467529
+      },
+      "normal": {
+        "x": 0.0,
+        "y": 0,
+        "z": -1.0
+      },
+      "clear_width_m": 0.7999999999999999,
+      "height_m": 2.33
+    },
+    {
+      "name": "Entry bedroom division / Bedroom 1 door",
+      "position": {
+        "x": -23.33953285217285,
+        "y": 0,
+        "z": -3.928903102874756
+      },
+      "normal": {
+        "x": 0.0,
+        "y": 0,
+        "z": -1.0
+      },
+      "clear_width_m": 0.7999999999999999,
+      "height_m": 2.33
+    },
+    {
+      "name": "Ensuite WIR division / Ensuite access",
+      "position": {
+        "x": -20.17918586730957,
+        "y": 0,
+        "z": -1.7539174556732178
+      },
+      "normal": {
+        "x": -1.0,
+        "y": 0,
+        "z": -0.0
+      },
+      "clear_width_m": 0.88,
+      "height_m": 2.39
+    },
+    {
+      "name": "FF Bed 4 and robes / Bed 4 door",
+      "position": {
+        "x": -9.655618667602539,
+        "y": 3.1590000000000003,
+        "z": -4.524801731109619
+      },
+      "normal": {
+        "x": 0.0,
+        "y": 0,
+        "z": -1.0
+      },
+      "clear_width_m": 0.7999999999999999,
+      "height_m": 2.311
+    },
+    {
+      "name": "FF Bath hall / Bathroom door",
+      "position": {
+        "x": -12.755276679992676,
+        "y": 3.1590000000000003,
+        "z": -4.524801731109619
+      },
+      "normal": {
+        "x": 0.0,
+        "y": 0,
+        "z": -1.0
+      },
+      "clear_width_m": 0.726,
+      "height_m": 2.3459999999999996
+    },
+    {
+      "name": "FF Bed 5 south / Bed 5 door",
+      "position": {
+        "x": -15.56257152557373,
+        "y": 3.1590000000000003,
+        "z": -4.524801731109619
+      },
+      "normal": {
+        "x": 0.0,
+        "y": 0,
+        "z": -1.0
+      },
+      "clear_width_m": 0.826,
+      "height_m": 2.3459999999999996
+    },
+    {
+      "name": "FF Bed 2 study hall / Bed 2 door",
+      "position": {
+        "x": -13.51008129119873,
+        "y": 3.1590000000000003,
+        "z": -3.2669262886047363
+      },
+      "normal": {
+        "x": 0.0,
+        "y": 0,
+        "z": -1.0
+      },
+      "clear_width_m": 0.7999999999999999,
+      "height_m": 2.311
+    },
+    {
+      "name": "FF Bed 2 study hall / Study door",
+      "position": {
+        "x": -18.901872634887695,
+        "y": 3.1590000000000003,
+        "z": -3.2669262886047363
+      },
+      "normal": {
+        "x": 0.0,
+        "y": 0,
+        "z": -1.0
+      },
+      "clear_width_m": 0.7999999999999999,
+      "height_m": 2.311
+    },
+    {
+      "name": "FF Bath 2 bedroom wall / Bath 2 door",
+      "position": {
+        "x": -12.21783447265625,
+        "y": 3.1590000000000003,
+        "z": -2.2297308444976807
+      },
+      "normal": {
+        "x": 0.0,
+        "y": 0,
+        "z": -1.0
+      },
+      "clear_width_m": 0.7,
+      "height_m": 2.311
+    },
+    {
+      "name": "FF Theatre north / Theatre entry",
+      "position": {
+        "x": -23.26877784729004,
+        "y": 3.1590000000000003,
+        "z": -4.524801731109619
+      },
+      "normal": {
+        "x": 0.0,
+        "y": 0,
+        "z": -1.0
+      },
+      "clear_width_m": 0.7999999999999999,
+      "height_m": 2.311
+    }
+  ]
+}

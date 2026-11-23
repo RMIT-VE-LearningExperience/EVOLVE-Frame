@@ -1,0 +1,13 @@
+{
+  "sha256": "58a3568f7ad1167fbf9bd4568c5a13c7ece254ecb4db9491e0ff93200058ae17",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "This bathroom sits beside bedroom two. Notice how the shower, vanity and toilet fit within a compact enclosure. Compare their positions with the window and doorway, then hide the walls to see the surrounding frame. You can replay this explanation from the guide whenever you like. Next room takes us to bedroom three.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

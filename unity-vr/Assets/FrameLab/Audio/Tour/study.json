@@ -1,0 +1,13 @@
+{
+  "sha256": "844ee37c8ef9a0cb6f6fe6800baa321e1053fed86a2d3187ca69b5afde9e26c2",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "This is the study. Look at the two side walls and the window wall. Together they make a quieter enclosed room beside the retreat. Revealing the frame lets you follow the repeating studs and the framing around the opening. Take as much time as you need, then choose Next room for bedroom two.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

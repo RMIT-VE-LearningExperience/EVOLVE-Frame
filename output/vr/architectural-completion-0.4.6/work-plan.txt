@@ -1,0 +1,15 @@
+Leichhardt 0.4.6 architectural completion pass
+
+Current baseline: 0.4.5 on PICO, 58 USB checks passed. Quest APK exists; user deferred Quest hardware testing. Preserve source learning blend and both baseline APKs. No purchases.
+
+Scope selected by user: remaining architectural details, especially bulkheads, theatre levels, downpipes/rainheads/spreaders and shower niches/fittings. Review current-model evidence rather than treating the original 0.3.3 audit as current geometry. Do not certify unrelated checklist items.
+
+1. Independently check architectural sheets 02-04, 07-08, 11-12 and 15-19. Separate written dimensions, scaled locations, model datums and unresolved drawing conflicts.
+2. Audit every bulkhead in this scope against its current bounds. Add the laundry bulkhead using a documented dimension basis if the 300/340 discrepancy can be reconciled; retain conflict explicitly if it cannot. Review theatre floor platform and door/soffit; do not invent a platform height or shrink a door to conceal a clash.
+3. Register the 8 DP, 3 DP/RWH and 2 S/DP instances individually from roof/floor/elevation markers. Model above-ground routes, straps, appropriate gutter connections and confirmed sumps with lean geometry. Keep cross-sheet discrepancies and unspecified routing/product details flagged. Do not invent underground stormwater design.
+4. Complete the dimensioned shower niches as real wall recesses, full-height wet-room finishes, towel fittings and toilet paper holders. Preserve structural timber/steel; where a niche intersects a retained structural member, coordinate or flag rather than silently cutting it. Check the source meaning of 1200 niche height and 50 shower recess before implementing. Avoid fake wall-mounted boxes or duplicate skins.
+5. Measure geometry: dimensions, openings, fittings contacts, no pipe over glazing/doors, no overlapping added solids, no regressions in existing 26 spans/20 portals/19 windows. Retain all visibility controls, including fixtures and timber-only stairs.
+6. Rebuild/import Unity, bake the eight visibility states, run session tests and capture targeted final images. Claude reviews the actual finished images against the source findings; fix substantiated defects and repeat affected checks.
+7. Update item-by-item checklist with baseline/current status, exact source evidence and tests. Build the next PICO review APK; update Quest APK from the same finished content, while respecting deferred Quest hardware testing. Install PICO and run live checks if awake. Publish actual images in the existing private phone gallery.
+
+Review gates: Claude reviews this plan; then Codex's drawing findings before irreversible modelling assumptions; then the final real Unity captures. Read-only Claude tools. No claim of structural engineering/design acceptance.

@@ -1,0 +1,52 @@
+**Verdict:** both seams look like lightmap artifacts on sub-texel trim faces, not missing geometry. I only viewed the 1200 px previews and could not inspect the lightmaps, so the mechanisms below are hypotheses checked against the scripts.
+
+## 03 – right doorway
+
+**Which door:** it is the Bedroom 1 door seen from inside the bedroom, not the ensuite slider.
+- The left opening shows robe shelving, which matches `WIR access` on the west wall (x=22.855) in `vr_architectural_layout.py:67-68`.
+- The right opening starts just beyond the room corner, which matches `Bedroom 1 door` (centre x=23.435, width .820) in `vr_architectural_layout.py:65-66`.
+
+**Observed:** a crisp black vertical line on the near (west) jamb, lower ~45% of the door height only, fading to grey above. On screen it sits between the casing front and the jamb return.
+
+**Source facts:**
+- The casing is a 10 mm-thick box on the lining face (`vr_finish_openings.py:113-117`).
+- The return starts at the same opening edge and spans the wall thickness (`vr_room_shells.py:108-118`).
+- These meet edge to edge, so there is no gap to see through.
+
+**Hypothesis:** the black strip is the casing's 10 mm reveal-side face.
+- In 0.4.5 it was in the main wall atlas at 24 texels/m × 1, which is about a quarter of a texel wide.
+- It likely picks up black from neighbouring never-lit faces (the casing back against the lining, the return face against the stud).
+- A real gap would run the full height; a partial-height line fits texel bleed.
+
+## 09 – line above the skirting
+
+**Observed:** a thin black line at the top edge of the skirting on the right wall, varying in thickness along its length and vanishing near the corner. The wall, skirting face and oak floor are otherwise clean.
+
+**Source facts:**
+- The lining runs continuously down to the deck (`vr_room_shells.py:85-91`).
+- The skirting is a 7 mm × 70 mm box in front of it (`:92-97`), sharing the `plaster` batch at scale 1.
+- So there is no hole behind the line.
+
+**Hypotheses (either or both):**
+- **A:** the wall texels behind the skirting are fully occluded and bake black; the texel straddling the skirting top bleeds upward onto the visible wall.
+- **B:** the 7 mm top ledge is about 0.17 texel wide and takes bleed from the black back-face chart.
+
+The varying thickness along the run fits texel aliasing, not geometry.
+
+## Recommendation
+
+1. **03: wait for the current bake.** The junction rebatch at 2× is the right first step. If a line remains, raise the `"junction returns"` scale from 2 to 4 at `FrameLabLighting.cs:65`. That batch is small, so the cost is low.
+
+2. **09: give skirtings their own batch and stop them occluding the wall.**
+   - In the loop at `vr_photo_finish045.py:29-31`, assign objects named `| skirting` (and `Theatre raised skirting`) to a new same-colour material, e.g. `VR Plaster skirting trim`. Geometry is unchanged.
+   - In `FrameLabLighting.Bake` at lines 62-65, give that material scale 2–4 and `shadowCastingMode = Off`.
+   - Turning shadows off removes the black wall texels under the skirting (A); the higher density addresses the ledge (B).
+   - I have not confirmed that the GPU lightmapper honours the per-renderer shadow flag. If the wall texels still bake black, A is not fixed by this.
+
+3. **Would a narrow-trim batch help?** Yes, because it gives a per-renderer handle for scale and shadow settings. On its own, at scale 1, it would do little.
+
+4. **Would a bevel help?** No. A chamfer swaps one 7–10 mm face for another equally sub-texel face and adds charts.
+
+5. **Not recommended: geometric restructuring of the skirting.** Starting the lining at the skirting top would avoid hidden faces, but `vr_bathroom_tiles.py:24-28` deletes bath skirtings and would leave a 70 mm gap behind the tiles.
+
+6. **Only if both persist after 1 and 2:** look at `LeichhardtPlanarUV.cs:64-66`. Charts are laid out at 32 px/m with an 8 px minimum tile and 8 px padding, but the bake runs at 24 texels/m × scale. Enlarging the minimum tile and padding for charts under about 30 mm wide would be the next step.

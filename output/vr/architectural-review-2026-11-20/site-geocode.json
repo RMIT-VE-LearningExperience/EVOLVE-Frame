@@ -1,0 +1,29 @@
+{
+  "source_url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=15+Leichhardt+Avenue+Burnside+Heights+VIC+Australia&f=json&outFields=Match_addr%2CAddr_type&maxLocations=1",
+  "response": {
+    "spatialReference": {
+      "wkid": 4326,
+      "latestWkid": 4326
+    },
+    "candidates": [
+      {
+        "address": "15 Leichhardt Avenue, Burnside Heights, Melbourne, Victoria, 3023",
+        "location": {
+          "x": 144.7542880032,
+          "y": -37.732906731653
+        },
+        "score": 100,
+        "attributes": {
+          "Match_addr": "15 Leichhardt Avenue, Burnside Heights, Melbourne, Victoria, 3023",
+          "Addr_type": "PointAddress"
+        },
+        "extent": {
+          "xmin": 144.7532880032,
+          "ymin": -37.733906731653,
+          "xmax": 144.7552880032,
+          "ymax": -37.731906731653
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "basis": "Every DP text label inside the drawing, excluding the legend. Sheet08 has8 DP,3 DP/RWH and2 S/DP annotations; these are source locations, not a sum of physical pipes across drawings.",
+  "sheets": [
+    {
+      "sheet": 4,
+      "count": 11,
+      "labels": [
+        {
+          "label": "DP/RWH",
+          "x_pdf": 916.56,
+          "y_pdf": 686.8,
+          "x_normalized": 0.76957,
+          "y_from_top_normalized": 0.17818,
+          "source_text_index": 336,
+          "source_id": "DP-S04-01"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 330.06,
+          "y_pdf": 677.14,
+          "x_normalized": 0.27712,
+          "y_from_top_normalized": 0.19027,
+          "source_text_index": 301,
+          "source_id": "DP-S04-02"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 576.25,
+          "y_pdf": 677.14,
+          "x_normalized": 0.48383,
+          "y_from_top_normalized": 0.19027,
+          "source_text_index": 344,
+          "source_id": "DP-S04-03"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 887.83,
+          "y_pdf": 677.14,
+          "x_normalized": 0.74545,
+          "y_from_top_normalized": 0.19027,
+          "source_text_index": 304,
+          "source_id": "DP-S04-04"
+        },
+        {
+          "label": "DP/RWH",
+          "x_pdf": 134.24,
+          "y_pdf": 496.41,
+          "x_normalized": 0.11271,
+          "y_from_top_normalized": 0.40429,
+          "source_text_index": 321,
+          "source_id": "DP-S04-05"
+        },
+        {
+          "label": "DP/RWH",
+          "x_pdf": 282.77,
+          "y_pdf": 496.41,
+          "x_normalized": 0.23742,
+          "y_from_top_normalized": 0.40429,
+          "source_text_index": 328,
+          "source_id": "DP-S04-06"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 899.11,
+          "y_pdf": 457.65,
+          "x_normalized": 0.75492,
+          "y_from_top_normalized": 0.45094,
+          "source_text_index": 297,
+          "source_id": "DP-S04-07"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 316.89,
+          "y_pdf": 434.22,
+          "x_normalized": 0.26607,
+          "y_from_top_normalized": 0.47876,
+          "source_text_index": 308,
+          "source_id": "DP-S04-08"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 504.92,
+          "y_pdf": 435.54,
+          "x_normalized": 0.42395,
+          "y_from_top_normalized": 0.4772,
+          "source_text_index": 314,
+          "source_id": "DP-S04-09"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 665.46,
+          "y_pdf": 436.09,
+          "x_normalized": 0.55874,
+          "y_from_top_normalized": 0.47654,
+          "source_text_index": 317,
+          "source_id": "DP-S04-10"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 869.69,
+          "y_pdf": 434.22,
+          "x_normalized": 0.73022,
+          "y_from_top_normalized": 0.47876,
+          "source_text_index": 311,
+          "source_id": "DP-S04-11"
+        }
+      ]
+    },
+    {
+      "sheet": 7,
+      "count": 11,
+      "labels": [
+        {
+          "label": "DP/RWH",
+          "x_pdf": 1005.43,
+          "y_pdf": 538.12,
+          "x_normalized": 0.84419,
+          "y_from_top_normalized": 0.35475,
+          "source_text_index": 1820,
+          "source_id": "DP-S07-01"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 954.97,
+          "y_pdf": 530.1,
+          "x_normalized": 0.80182,
+          "y_from_top_normalized": 0.3649,
+          "source_text_index": 1788,
+          "source_id": "DP-S07-02"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 399.56,
+          "y_pdf": 530.55,
+          "x_normalized": 0.33549,
+          "y_from_top_normalized": 0.36528,
+          "source_text_index": 1782,
+          "source_id": "DP-S07-03"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 640.67,
+          "y_pdf": 530.08,
+          "x_normalized": 0.53792,
+          "y_from_top_normalized": 0.36584,
+          "source_text_index": 1785,
+          "source_id": "DP-S07-04"
+        },
+        {
+          "label": "DP/RWH",
+          "x_pdf": 212.66,
+          "y_pdf": 343.93,
+          "x_normalized": 0.17855,
+          "y_from_top_normalized": 0.5864,
+          "source_text_index": 1805,
+          "source_id": "DP-S07-05"
+        },
+        {
+          "label": "DP/RWH",
+          "x_pdf": 364.09,
+          "y_pdf": 343.69,
+          "x_normalized": 0.3057,
+          "y_from_top_normalized": 0.58669,
+          "source_text_index": 1812,
+          "source_id": "DP-S07-06"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 985.8,
+          "y_pdf": 296.37,
+          "x_normalized": 0.82771,
+          "y_from_top_normalized": 0.64249,
+          "source_text_index": 14,
+          "source_id": "DP-S07-07"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 394.89,
+          "y_pdf": 280.22,
+          "x_normalized": 0.33156,
+          "y_from_top_normalized": 0.66258,
+          "source_text_index": 1792,
+          "source_id": "DP-S07-08"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 948.11,
+          "y_pdf": 279.84,
+          "x_normalized": 0.79606,
+          "y_from_top_normalized": 0.66211,
+          "source_text_index": 1795,
+          "source_id": "DP-S07-09"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 579.79,
+          "y_pdf": 274.23,
+          "x_normalized": 0.48681,
+          "y_from_top_normalized": 0.6697,
+          "source_text_index": 1799,
+          "source_id": "DP-S07-10"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 722.85,
+          "y_pdf": 274.81,
+          "x_normalized": 0.60693,
+          "y_from_top_normalized": 0.66901,
+          "source_text_index": 1802,
+          "source_id": "DP-S07-11"
+        }
+      ]
+    },
+    {
+      "sheet": 8,
+      "count": 13,
+      "labels": [
+        {
+          "label": "DP/RWH",
+          "x_pdf": 989.12,
+          "y_pdf": 548.08,
+          "x_normalized": 0.83049,
+          "y_from_top_normalized": 0.34293,
+          "source_text_index": 1256,
+          "source_id": "DP-S08-01"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 402.62,
+          "y_pdf": 538.42,
+          "x_normalized": 0.33805,
+          "y_from_top_normalized": 0.35502,
+          "source_text_index": 1215,
+          "source_id": "DP-S08-02"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 648.58,
+          "y_pdf": 538.42,
+          "x_normalized": 0.54457,
+          "y_from_top_normalized": 0.35502,
+          "source_text_index": 1218,
+          "source_id": "DP-S08-03"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 960.39,
+          "y_pdf": 538.42,
+          "x_normalized": 0.80637,
+          "y_from_top_normalized": 0.35502,
+          "source_text_index": 1207,
+          "source_id": "DP-S08-04"
+        },
+        {
+          "label": "S/DP",
+          "x_pdf": 371.77,
+          "y_pdf": 514.4,
+          "x_normalized": 0.31215,
+          "y_from_top_normalized": 0.38353,
+          "source_text_index": 1203,
+          "source_id": "DP-S08-05"
+        },
+        {
+          "label": "S/DP",
+          "x_pdf": 974.78,
+          "y_pdf": 514.4,
+          "x_normalized": 0.81846,
+          "y_from_top_normalized": 0.38353,
+          "source_text_index": 1237,
+          "source_id": "DP-S08-06"
+        },
+        {
+          "label": "DP/RWH",
+          "x_pdf": 206.8,
+          "y_pdf": 357.69,
+          "x_normalized": 0.17363,
+          "y_from_top_normalized": 0.56904,
+          "source_text_index": 1241,
+          "source_id": "DP-S08-07"
+        },
+        {
+          "label": "DP/RWH",
+          "x_pdf": 355.33,
+          "y_pdf": 357.69,
+          "x_normalized": 0.29835,
+          "y_from_top_normalized": 0.56904,
+          "source_text_index": 1248,
+          "source_id": "DP-S08-08"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 973.39,
+          "y_pdf": 303.2,
+          "x_normalized": 0.81729,
+          "y_from_top_normalized": 0.63437,
+          "source_text_index": 1211,
+          "source_id": "DP-S08-09"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 389.45,
+          "y_pdf": 295.5,
+          "x_normalized": 0.32699,
+          "y_from_top_normalized": 0.64351,
+          "source_text_index": 1222,
+          "source_id": "DP-S08-10"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 577.49,
+          "y_pdf": 296.23,
+          "x_normalized": 0.48487,
+          "y_from_top_normalized": 0.64265,
+          "source_text_index": 1225,
+          "source_id": "DP-S08-11"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 738.02,
+          "y_pdf": 296.41,
+          "x_normalized": 0.61967,
+          "y_from_top_normalized": 0.64244,
+          "source_text_index": 1228,
+          "source_id": "DP-S08-12"
+        },
+        {
+          "label": "DP",
+          "x_pdf": 942.25,
+          "y_pdf": 295.5,
+          "x_normalized": 0.79114,
+          "y_from_top_normalized": 0.64351,
+          "source_text_index": 1231,
+          "source_id": "DP-S08-13"
+        }
+      ]
+    }
+  ]
+}

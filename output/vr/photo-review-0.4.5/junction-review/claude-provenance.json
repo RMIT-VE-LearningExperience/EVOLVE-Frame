@@ -1,0 +1,33 @@
+{
+  "session": "31cac134-fcb2-410f-86d7-84fa769d2cbb",
+  "model_usage": {
+    "claude-fable-5-2": {
+      "inputTokens": 12,
+      "outputTokens": 20015,
+      "cacheReadInputTokens": 97848,
+      "cacheCreationInputTokens": 47859,
+      "webSearchRequests": 0,
+      "costUSD": 1.5860096000000001,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 16628,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "read_paths": [
+    "D:/Git/EVOLE Frame/output/vr/photo-review-0.4.5/previews/03-left.jpg",
+    "D:/Git/EVOLE Frame/output/vr/photo-review-0.4.5/previews/09-left.jpg",
+    "D:/Git/EVOLE Frame/scripts/vr_room_shells.py",
+    "D:/Git/EVOLE Frame/scripts/vr_photo_finish045.py",
+    "D:/Git/EVOLE Frame/unity-vr/Assets/FrameLab/Editor/LeichhardtPlanarUV.cs",
+    "D:/Git/EVOLE Frame/scripts/vr_finish_openings.py",
+    "D:/Git/EVOLE Frame/scripts/vr_photo_review.py",
+    "D:/Git/EVOLE Frame/unity-vr/Assets/FrameLab/Editor/FrameLabLighting.cs",
+    "D:/Git/EVOLE Frame/scripts/vr_architectural_layout.py",
+    "D:/Git/EVOLE Frame/output/vr/photo-review-0.4.5/manifest.json"
+  ],
+  "read_only": true,
+  "api_fallback_used": false
+}

@@ -5,3 +5,25 @@ tmp/
 *.blend1
 *.blend2
 output/learning/*.tar.gz
+/.env.narration.local
+
+# Credentials and machine-local configuration.
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+
+# Raw model-provider streams and deployment archives are reproducible scratch output.
+output/vr/**/*.jsonl
+output/vr/*.tar.gz
+output/vr/**/phone-gallery.tar.gz
+
+# Local Revit backups and machine-specific generated configuration.
+*.????.rvt
+*.????.rfa
+revit-portable/mcp-config.local.toml
+!revit-portable/payload/*.zip

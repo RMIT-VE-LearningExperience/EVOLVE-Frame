@@ -1,0 +1,13 @@
+{
+  "parts": [
+    {"id":"lining","shortName":"Lining","title":"01 · Internal lining","caption":"The plasterboard forms the room-side finish. This cutaway leaves the opening visible. Compare its position with the timber frame, then rotate the assembly to see the return at the window."},
+    {"id":"frame","shortName":"Timber","title":"02 · Timber rough opening","caption":"The studs, sill and head frame the opening and support the surrounding wall. Follow the vertical members to see where loads travel. Isolate this part to examine the complete rough opening."},
+    {"id":"wrap","shortName":"Wrap","title":"03 · Wall wrap","caption":"The wrap sits outside the timber frame, behind the cladding. It forms part of the wall's weather protection. Look at how the opening interrupts this layer and where the flashings meet it."},
+    {"id":"sill","shortName":"Sill","title":"04 · Sill flashing","caption":"This flashing sits beneath the window. Its upstand and outward projection illustrate a drainage path away from the opening. Isolate it and rotate the model to see the folded shape."},
+    {"id":"jamb","shortName":"Jambs","title":"05 · Jamb flashing","caption":"These strips protect the sides of the opening. Compare their lower ends with the sill flashing. The installation sequence and overlaps are important to a continuous drainage path."},
+    {"id":"window","shortName":"Window","title":"06 · Window frame","caption":"The aluminium frame surrounds and holds the glazing. Inspect the head, sill and side members. This is a schematic frame; individual fixings, packers and drainage slots are not represented."},
+    {"id":"glass","shortName":"Glass","title":"07 · Glazing","caption":"The glass fills the window frame while admitting light and views. The blue tint makes this thin component easier to locate in the study. Isolate it to see its outline and thickness."},
+    {"id":"head","shortName":"Head","title":"08 · Head flashing","caption":"The head flashing protects the top of the opening. Its outward projection helps direct water away from the window. Rotate it to compare its shape with the sill flashing below."},
+    {"id":"brick","shortName":"Veneer","title":"09 · Brick veneer","caption":"The outer brick leaf forms the exterior face. This cutaway exposes the layers behind it. Notice the separation between the brickwork and timber wall; the brick leaf is distinct from the timber frame."}
+  ]
+}

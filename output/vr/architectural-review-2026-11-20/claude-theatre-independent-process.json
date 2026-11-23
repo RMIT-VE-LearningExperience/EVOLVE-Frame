@@ -1,0 +1,1 @@
+{"pid": 25424, "started": "2026-11-20T23:09:16.317831+11:00", "model": "claude-fable-5-2", "effort": "medium", "tools": ["Read", "Grep", "Glob"]}

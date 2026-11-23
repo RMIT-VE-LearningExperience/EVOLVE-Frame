@@ -1,0 +1,13 @@
+{
+  "sha256": "8607b6e7e73a723e01acf132793760f5fb0bcd90c21eca5683ab41b0e66eea9b",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "This is bedroom three, at the far end of the upper floor. Look towards the robe partitions and compare them with the larger bedroom area. The partitions create smaller storage spaces while the perimeter wall forms the outside of the house. Hide and show the walls to compare those two roles. Choose Next room for bedroom four.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

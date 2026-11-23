@@ -1,0 +1,13 @@
+{
+  "sha256": "600533cb18d19dfff6b0ff6155c07b685bfca9f1b069eb82cb38a5afdd2b6e01",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "The wrap sits outside the timber frame, behind the cladding. It forms part of the wall's weather protection. Look at how the opening interrupts this layer and where the flashings meet it.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

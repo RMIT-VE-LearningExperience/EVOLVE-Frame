@@ -1,0 +1,2108 @@
+[
+  {
+    "px": 641,
+    "py": 250,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.793272018432617,
+      3.8550000190734863,
+      2.103175640106201
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 642,
+    "py": 250,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.795000076293945,
+      3.8565917015075684,
+      2.1032047271728516
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 643,
+    "py": 250,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.795000076293945,
+      3.8594534397125244,
+      2.1039011478424072
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 644,
+    "py": 250,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.795000076293945,
+      3.86232328414917,
+      2.1045992374420166
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 645,
+    "py": 250,
+    "object": "Entry suite division | common stud.001",
+    "point": [
+      22.788509368896484,
+      3.869999885559082,
+      2.10781192779541
+    ],
+    "materials": [
+      "MGP10 pine"
+    ]
+  },
+  {
+    "px": 646,
+    "py": 250,
+    "object": "Entry suite division | common stud.001",
+    "point": [
+      22.79241943359375,
+      3.869999885559082,
+      2.107001781463623
+    ],
+    "materials": [
+      "MGP10 pine"
+    ]
+  },
+  {
+    "px": 647,
+    "py": 250,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.79631805419922,
+      3.869999885559082,
+      2.1061935424804688
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 648,
+    "py": 250,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.800203323364258,
+      3.869999885559082,
+      2.105388641357422
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 649,
+    "py": 250,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.804075241088867,
+      3.869999885559082,
+      2.104585886001587
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 650,
+    "py": 250,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.80793571472168,
+      3.869999885559082,
+      2.103785991668701
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 651,
+    "py": 250,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.811782836914062,
+      3.869999885559082,
+      2.1029884815216064
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 652,
+    "py": 250,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.81562042236328,
+      3.869999885559082,
+      2.1021933555603027
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 653,
+    "py": 250,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.819442749023438,
+      3.869999885559082,
+      2.101400852203369
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 654,
+    "py": 250,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.82325553894043,
+      3.869999885559082,
+      2.1006109714508057
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 655,
+    "py": 250,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.827054977416992,
+      3.869999885559082,
+      2.0998237133026123
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 656,
+    "py": 250,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.830841064453125,
+      3.869999885559082,
+      2.099038600921631
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 657,
+    "py": 250,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.834617614746094,
+      3.869999885559082,
+      2.0982561111450195
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 658,
+    "py": 250,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.838380813598633,
+      3.869999885559082,
+      2.097476005554199
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 659,
+    "py": 250,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.842134475708008,
+      3.869999885559082,
+      2.09669828414917
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 660,
+    "py": 250,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.845874786376953,
+      3.869999885559082,
+      2.0959229469299316
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 661,
+    "py": 250,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.8496036529541,
+      3.869999885559082,
+      2.0951502323150635
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 662,
+    "py": 250,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.853321075439453,
+      3.869999885559082,
+      2.0943799018859863
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 850,
+    "py": 250,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.52617883682251,
+      2.241244316101074
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 851,
+    "py": 250,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.531300067901611,
+      2.242490291595459
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 852,
+    "py": 250,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.536440849304199,
+      2.243741035461426
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 853,
+    "py": 250,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.541601657867432,
+      2.2449965476989746
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 854,
+    "py": 250,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.546783447265625,
+      2.2462573051452637
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 855,
+    "py": 250,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.551984786987305,
+      2.2475228309631348
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 856,
+    "py": 250,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.557206630706787,
+      2.248793125152588
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 857,
+    "py": 250,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.562448978424072,
+      2.2500686645507812
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 858,
+    "py": 250,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.567712306976318,
+      2.2513492107391357
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 859,
+    "py": 250,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.572996139526367,
+      2.2526347637176514
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 860,
+    "py": 250,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.917329788208008,
+      4.575000286102295,
+      2.2526395320892334
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 861,
+    "py": 250,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.921070098876953,
+      4.575000286102295,
+      2.251863956451416
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 862,
+    "py": 250,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.924802780151367,
+      4.575000286102295,
+      2.2510905265808105
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 863,
+    "py": 250,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.928525924682617,
+      4.575000286102295,
+      2.250318765640259
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 864,
+    "py": 250,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.932241439819336,
+      4.575000286102295,
+      2.24954891204834
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 865,
+    "py": 250,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.93594741821289,
+      4.575000286102295,
+      2.2487809658050537
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 866,
+    "py": 250,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.93964385986328,
+      4.575000286102295,
+      2.2480146884918213
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 867,
+    "py": 250,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.94333267211914,
+      4.575000286102295,
+      2.2472503185272217
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 868,
+    "py": 250,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.947011947631836,
+      4.575000286102295,
+      2.246487617492676
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 869,
+    "py": 250,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.957544326782227,
+      4.565000057220459,
+      2.2418715953826904
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 870,
+    "py": 250,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.961185455322266,
+      4.565000057220459,
+      2.241117000579834
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 871,
+    "py": 250,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.96481704711914,
+      4.565000057220459,
+      2.2403643131256104
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 872,
+    "py": 250,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.968441009521484,
+      4.565000057220459,
+      2.2396135330200195
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 873,
+    "py": 250,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.972055435180664,
+      4.565000057220459,
+      2.2388641834259033
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 874,
+    "py": 250,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.975662231445312,
+      4.565000057220459,
+      2.23811674118042
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 875,
+    "py": 250,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.979259490966797,
+      4.565000057220459,
+      2.2373709678649902
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 876,
+    "py": 250,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.98284912109375,
+      4.565000057220459,
+      2.2366271018981934
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 877,
+    "py": 250,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.986431121826172,
+      4.565000057220459,
+      2.235884666442871
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 878,
+    "py": 250,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.99000358581543,
+      4.565000534057617,
+      2.2351443767547607
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 879,
+    "py": 250,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.993568420410156,
+      4.565000057220459,
+      2.234405517578125
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 880,
+    "py": 250,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.99712562561035,
+      4.565000057220459,
+      2.233668327331543
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 881,
+    "py": 250,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      23.0,
+      4.566019535064697,
+      2.233320713043213
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 641,
+    "py": 500,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.77980613708496,
+      3.8550000190734863,
+      1.5095134973526
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 642,
+    "py": 500,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.78383445739746,
+      3.8550000190734863,
+      1.5096627473831177
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 643,
+    "py": 500,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.7878475189209,
+      3.8550000190734863,
+      1.5098116397857666
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 644,
+    "py": 500,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.79184913635254,
+      3.8550000190734863,
+      1.5099598169326782
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 645,
+    "py": 500,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.795000076293945,
+      3.8556127548217773,
+      1.5100500583648682
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 646,
+    "py": 500,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.795000076293945,
+      3.8585338592529297,
+      1.5099228620529175
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 647,
+    "py": 500,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.795000076293945,
+      3.8614633083343506,
+      1.5097954273223877
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 648,
+    "py": 500,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.795000076293945,
+      3.864401340484619,
+      1.5096676349639893
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 649,
+    "py": 500,
+    "object": "Entry suite division | common stud.001",
+    "point": [
+      22.791419982910156,
+      3.869999885559082,
+      1.5092912912368774
+    ],
+    "materials": [
+      "MGP10 pine"
+    ]
+  },
+  {
+    "px": 650,
+    "py": 500,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.795406341552734,
+      3.869999885559082,
+      1.5094391107559204
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 651,
+    "py": 500,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.79937744140625,
+      3.869999647140503,
+      1.5095863342285156
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 652,
+    "py": 500,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.80333709716797,
+      3.869999885559082,
+      1.509732961654663
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 653,
+    "py": 500,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.807283401489258,
+      3.869999885559082,
+      1.509879231452942
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 654,
+    "py": 500,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.811216354370117,
+      3.869999885559082,
+      1.5100250244140625
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 655,
+    "py": 500,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.815135955810547,
+      3.869999885559082,
+      1.510170340538025
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 656,
+    "py": 500,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.81904411315918,
+      3.869999885559082,
+      1.510315179824829
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 657,
+    "py": 500,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.822938919067383,
+      3.869999885559082,
+      1.510459542274475
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 658,
+    "py": 500,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.82682228088379,
+      3.869999885559082,
+      1.510603427886963
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 659,
+    "py": 500,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.830692291259766,
+      3.869999885559082,
+      1.510746955871582
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 660,
+    "py": 500,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.834548950195312,
+      3.869999885559082,
+      1.5108898878097534
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 661,
+    "py": 500,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.838394165039062,
+      3.869999885559082,
+      1.5110324621200562
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 662,
+    "py": 500,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.842227935791016,
+      3.870000123977661,
+      1.5111745595932007
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 850,
+    "py": 500,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.531774997711182,
+      1.4850770235061646
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 851,
+    "py": 500,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.537029266357422,
+      1.4848484992980957
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 852,
+    "py": 500,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.542304515838623,
+      1.484618902206421
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 853,
+    "py": 500,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.547600746154785,
+      1.4843884706497192
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 854,
+    "py": 500,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.552918434143066,
+      1.4841570854187012
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 855,
+    "py": 500,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.558257579803467,
+      1.4839247465133667
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 856,
+    "py": 500,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.563617706298828,
+      1.4836915731430054
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 857,
+    "py": 500,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.568999767303467,
+      1.483457326889038
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 858,
+    "py": 500,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.574403285980225,
+      1.483222246170044
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 859,
+    "py": 500,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.918405532836914,
+      4.575000286102295,
+      1.4833225011825562
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 860,
+    "py": 500,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.922224044799805,
+      4.575000286102295,
+      1.4834641218185425
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 861,
+    "py": 500,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.926034927368164,
+      4.575000286102295,
+      1.4836053848266602
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 862,
+    "py": 500,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.92983627319336,
+      4.575000286102295,
+      1.4837461709976196
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 863,
+    "py": 500,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.93362808227539,
+      4.575000286102295,
+      1.48388671875
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 864,
+    "py": 500,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.937410354614258,
+      4.575000286102295,
+      1.4840269088745117
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 865,
+    "py": 500,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.94118309020996,
+      4.575000286102295,
+      1.4841668605804443
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 866,
+    "py": 500,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.944948196411133,
+      4.575000286102295,
+      1.4843063354492188
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 867,
+    "py": 500,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.955575942993164,
+      4.565000057220459,
+      1.4851354360580444
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 868,
+    "py": 500,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.959300994873047,
+      4.565000057220459,
+      1.4852734804153442
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 869,
+    "py": 500,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.963014602661133,
+      4.565000057220459,
+      1.4854111671447754
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 870,
+    "py": 500,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.966720581054688,
+      4.565000057220459,
+      1.485548496246338
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 871,
+    "py": 500,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.97041893005371,
+      4.565000057220459,
+      1.4856855869293213
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 872,
+    "py": 500,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.97410774230957,
+      4.565000057220459,
+      1.4858222007751465
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 873,
+    "py": 500,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.977787017822266,
+      4.565000057220459,
+      1.4859586954116821
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 874,
+    "py": 500,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.981456756591797,
+      4.565000057220459,
+      1.4860947132110596
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 875,
+    "py": 500,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.985118865966797,
+      4.565000057220459,
+      1.486230492591858
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 876,
+    "py": 500,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.988773345947266,
+      4.565000057220459,
+      1.486365795135498
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 877,
+    "py": 500,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.992416381835938,
+      4.565000057220459,
+      1.4865009784698486
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 878,
+    "py": 500,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.99605369567871,
+      4.565000057220459,
+      1.486635684967041
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 879,
+    "py": 500,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.999679565429688,
+      4.565000057220459,
+      1.4867701530456543
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 880,
+    "py": 500,
+    "object": "Door casing Bedroom 1 door.001",
+    "point": [
+      23.0,
+      4.570008754730225,
+      1.486564040184021
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 881,
+    "py": 500,
+    "object": "Entry bedroom division | opening return",
+    "point": [
+      23.000343322753906,
+      4.574999809265137,
+      1.4863595962524414
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 641,
+    "py": 750,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.765586853027344,
+      3.8550000190734863,
+      0.8825260996818542
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 642,
+    "py": 750,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.769750595092773,
+      3.8550000190734863,
+      0.8837428689002991
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 643,
+    "py": 750,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.773900985717773,
+      3.8550000190734863,
+      0.8849554657936096
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 644,
+    "py": 750,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.77803611755371,
+      3.8550000190734863,
+      0.8861640095710754
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 645,
+    "py": 750,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.78215789794922,
+      3.8550000190734863,
+      0.887368381023407
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 646,
+    "py": 750,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.786266326904297,
+      3.8550000190734863,
+      0.8885688781738281
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 647,
+    "py": 750,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.790361404418945,
+      3.8550000190734863,
+      0.8897651433944702
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 648,
+    "py": 750,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.79444122314453,
+      3.8550000190734863,
+      0.8909575343132019
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 649,
+    "py": 750,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.795000076293945,
+      3.857574701309204,
+      0.8902374505996704
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 650,
+    "py": 750,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.795000076293945,
+      3.8605663776397705,
+      0.8892112374305725
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 651,
+    "py": 750,
+    "object": "Entry suite division | lining.003",
+    "point": [
+      22.795000076293945,
+      3.8635663986206055,
+      0.8881822228431702
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 652,
+    "py": 750,
+    "object": "Entry suite division | common stud.001",
+    "point": [
+      22.790374755859375,
+      3.869999885559082,
+      0.8846242427825928
+    ],
+    "materials": [
+      "MGP10 pine"
+    ]
+  },
+  {
+    "px": 653,
+    "py": 750,
+    "object": "Entry suite division | common stud.001",
+    "point": [
+      22.794450759887695,
+      3.869999885559082,
+      0.8858153820037842
+    ],
+    "materials": [
+      "MGP10 pine"
+    ]
+  },
+  {
+    "px": 654,
+    "py": 750,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.79851531982422,
+      3.869999885559082,
+      0.8870026469230652
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 655,
+    "py": 750,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.80256462097168,
+      3.869999885559082,
+      0.8881857395172119
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 656,
+    "py": 750,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.806598663330078,
+      3.869999885559082,
+      0.8893648386001587
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 657,
+    "py": 750,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.81062126159668,
+      3.869999885559082,
+      0.8905399441719055
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 658,
+    "py": 750,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.81463050842285,
+      3.869999885559082,
+      0.8917114734649658
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 659,
+    "py": 750,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.818626403808594,
+      3.869999885559082,
+      0.8928789496421814
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 660,
+    "py": 750,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.822608947753906,
+      3.869999885559082,
+      0.8940425515174866
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 661,
+    "py": 750,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.82657814025879,
+      3.869999885559082,
+      0.8952024579048157
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 662,
+    "py": 750,
+    "object": "WIR bedroom division | opening return.001",
+    "point": [
+      22.830533981323242,
+      3.869999885559082,
+      0.8963584303855896
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 850,
+    "py": 750,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.537643909454346,
+      0.6920320987701416
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 851,
+    "py": 750,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.543038845062256,
+      0.6901816129684448
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 852,
+    "py": 750,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.548455238342285,
+      0.6883236169815063
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 853,
+    "py": 750,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.553894519805908,
+      0.6864579319953918
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 854,
+    "py": 750,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.559355735778809,
+      0.6845846176147461
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 855,
+    "py": 750,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.5648393630981445,
+      0.6827039122581482
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 856,
+    "py": 750,
+    "object": "WIR bedroom division | lining.006",
+    "point": [
+      22.91499900817871,
+      4.570345401763916,
+      0.6808151602745056
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 857,
+    "py": 750,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.915616989135742,
+      4.575000286102295,
+      0.679399311542511
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 858,
+    "py": 750,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.919527053833008,
+      4.575000286102295,
+      0.6805418729782104
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 859,
+    "py": 750,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.923429489135742,
+      4.575000286102295,
+      0.6816815733909607
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 860,
+    "py": 750,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.92732048034668,
+      4.575000286102295,
+      0.6828187108039856
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 861,
+    "py": 750,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.931201934814453,
+      4.575000286102295,
+      0.683952808380127
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 862,
+    "py": 750,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.935073852539062,
+      4.575000286102295,
+      0.6850841641426086
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 863,
+    "py": 750,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.938936233520508,
+      4.575000286102295,
+      0.6862128376960754
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 864,
+    "py": 750,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.94278907775879,
+      4.575000286102295,
+      0.6873385906219482
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 865,
+    "py": 750,
+    "object": "Entry bedroom division | lining.001",
+    "point": [
+      22.946632385253906,
+      4.575000286102295,
+      0.6884617209434509
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "px": 866,
+    "py": 750,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.95733070373535,
+      4.565000057220459,
+      0.6950175166130066
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 867,
+    "py": 750,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.961132049560547,
+      4.565000057220459,
+      0.6961283683776855
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 868,
+    "py": 750,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.964923858642578,
+      4.565000057220459,
+      0.6972364783287048
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 869,
+    "py": 750,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.968708038330078,
+      4.565000057220459,
+      0.6983418464660645
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 870,
+    "py": 750,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.97248077392578,
+      4.565000057220459,
+      0.6994446516036987
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 871,
+    "py": 750,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.976245880126953,
+      4.565000057220459,
+      0.7005445957183838
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 872,
+    "py": 750,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.98000144958496,
+      4.565000057220459,
+      0.7016419768333435
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 873,
+    "py": 750,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.983747482299805,
+      4.565000057220459,
+      0.7027365565299988
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 874,
+    "py": 750,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.987485885620117,
+      4.565000057220459,
+      0.7038286924362183
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 875,
+    "py": 750,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.991214752197266,
+      4.565000057220459,
+      0.7049180269241333
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 876,
+    "py": 750,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.994932174682617,
+      4.565000057220459,
+      0.7060046195983887
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 877,
+    "py": 750,
+    "object": "Door casing Bedroom 1 door",
+    "point": [
+      22.99864387512207,
+      4.565000057220459,
+      0.7070887088775635
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 878,
+    "py": 750,
+    "object": "Door casing Bedroom 1 door.001",
+    "point": [
+      23.0,
+      4.56855583190918,
+      0.7062655091285706
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 879,
+    "py": 750,
+    "object": "Door casing Bedroom 1 door.001",
+    "point": [
+      23.0,
+      4.574187755584717,
+      0.7043338418006897
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 880,
+    "py": 750,
+    "object": "Entry bedroom division | opening return",
+    "point": [
+      23.003171920776367,
+      4.575000286102295,
+      0.7049816250801086
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  },
+  {
+    "px": 881,
+    "py": 750,
+    "object": "Entry bedroom division | opening return",
+    "point": [
+      23.006868362426758,
+      4.575000286102295,
+      0.706061840057373
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ]
+  }
+]

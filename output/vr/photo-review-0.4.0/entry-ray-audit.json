@@ -1,0 +1,98 @@
+[
+  {
+    "file": "37-upperbath-from-hall.png",
+    "pixel": [
+      530,
+      100
+    ],
+    "hit": "FF WC bath division | end return",
+    "point": [
+      12.241727828979492,
+      4.489999771118164,
+      5.404402256011963
+    ],
+    "material": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "file": "37-upperbath-from-hall.png",
+    "pixel": [
+      565,
+      400
+    ],
+    "hit": "FF WC bath division | end return",
+    "point": [
+      12.247479438781738,
+      4.489999771118164,
+      4.843851089477539
+    ],
+    "material": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "file": "37-upperbath-from-hall.png",
+    "pixel": [
+      600,
+      750
+    ],
+    "hit": "FF WC bath division | end return",
+    "point": [
+      12.24141788482666,
+      4.489999771118164,
+      3.960455894470215
+    ],
+    "material": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "file": "37-upperbath-from-hall.png",
+    "pixel": [
+      620,
+      950
+    ],
+    "hit": "FF WC bath division | end return",
+    "point": [
+      12.236802101135254,
+      4.489999771118164,
+      3.2876858711242676
+    ],
+    "material": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "file": "room-21-bedroom5.png",
+    "pixel": [
+      1450,
+      35
+    ],
+    "hit": "FF Bed 5 west | lining.004",
+    "point": [
+      15.125,
+      6.084163188934326,
+      5.69468355178833
+    ],
+    "material": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "file": "room-21-bedroom5.png",
+    "pixel": [
+      1350,
+      55
+    ],
+    "hit": "Upper ceiling.030",
+    "point": [
+      15.170010566711426,
+      5.928273677825928,
+      5.699999809265137
+    ],
+    "material": [
+      "VR Warm white plaster"
+    ]
+  }
+]

@@ -1,0 +1,472 @@
+{
+  "result": "PASS",
+  "scope": "Read-only graph checks on saved final Blender mesh:13 downpipes and3 sump scuppers are single connected meshes with2 open end loops. Added12 niche trimmer after-bounds. Does not certify hydraulic capacity or load paths.",
+  "routes": [
+    {
+      "mesh": "Drainage | DP01 DP",
+      "connected_components": 1,
+      "open_end_loops": 2,
+      "end_centres": [
+        [
+          6.7300004959106445,
+          8.5,
+          5.555529594421387
+        ],
+        [
+          6.7300004959106445,
+          8.100000381469727,
+          -0.27000001072883606
+        ]
+      ]
+    },
+    {
+      "mesh": "Drainage | DP02 DP",
+      "connected_components": 1,
+      "open_end_loops": 2,
+      "end_centres": [
+        [
+          15.230000495910645,
+          8.5,
+          5.555529594421387
+        ],
+        [
+          15.230000495910645,
+          8.100000381469727,
+          -0.27000001072883606
+        ]
+      ]
+    },
+    {
+      "mesh": "Drainage | DP03 DP",
+      "connected_components": 1,
+      "open_end_loops": 2,
+      "end_centres": [
+        [
+          26.589998245239258,
+          8.5,
+          5.555529594421387
+        ],
+        [
+          26.589998245239258,
+          8.100000381469727,
+          -0.27000001072883606
+        ]
+      ]
+    },
+    {
+      "mesh": "Drainage | DP04 DP",
+      "connected_components": 1,
+      "open_end_loops": 2,
+      "end_centres": [
+        [
+          6.425000190734863,
+          -0.6200000643730164,
+          5.555529594421387
+        ],
+        [
+          6.425000190734863,
+          -0.31999996304512024,
+          -0.27000001072883606
+        ]
+      ]
+    },
+    {
+      "mesh": "Drainage | DP05 DP",
+      "connected_components": 1,
+      "open_end_loops": 2,
+      "end_centres": [
+        [
+          13.119999885559082,
+          -0.6200000643730164,
+          5.555529594421387
+        ],
+        [
+          13.119999885559082,
+          -0.2199999839067459,
+          -0.27000001072883606
+        ]
+      ]
+    },
+    {
+      "mesh": "Drainage | DP07 DP",
+      "connected_components": 1,
+      "open_end_loops": 2,
+      "end_centres": [
+        [
+          26.5,
+          -0.6200000643730164,
+          5.555529594421387
+        ],
+        [
+          26.5,
+          -0.2199999839067459,
+          -0.27000001072883606
+        ]
+      ]
+    },
+    {
+      "mesh": "Drainage | DP06 DP",
+      "connected_components": 1,
+      "open_end_loops": 2,
+      "end_centres": [
+        [
+          19.299999237060547,
+          -0.6200000643730164,
+          5.555529594421387
+        ],
+        [
+          18.139999389648438,
+          -0.2199999839067459,
+          -0.27000001072883606
+        ]
+      ]
+    },
+    {
+      "mesh": "Drainage | DP08 DP",
+      "connected_components": 1,
+      "open_end_loops": 2,
+      "end_centres": [
+        [
+          27.60999870300293,
+          0.18000000715255737,
+          5.5555291175842285
+        ],
+        [
+          27.21000099182129,
+          0.18000000715255737,
+          -0.27000001072883606
+        ]
+      ]
+    },
+    {
+      "mesh": "Drainage | DP10 DP/RWH",
+      "connected_components": 1,
+      "open_end_loops": 2,
+      "end_centres": [
+        [
+          0.2800000011920929,
+          2.240000009536743,
+          2.720000743865967
+        ],
+        [
+          0.2800000011920929,
+          2.240000009536743,
+          -0.27000001072883606
+        ]
+      ]
+    },
+    {
+      "mesh": "Drainage | DP11 DP/RWH",
+      "connected_components": 1,
+      "open_end_loops": 2,
+      "end_centres": [
+        [
+          6.050000190734863,
+          2.240000009536743,
+          2.720000743865967
+        ],
+        [
+          6.050000190734863,
+          2.240000009536743,
+          -0.27000001072883606
+        ]
+      ]
+    },
+    {
+      "mesh": "Drainage | DP09 DP/RWH",
+      "connected_components": 1,
+      "open_end_loops": 2,
+      "end_centres": [
+        [
+          28.319997787475586,
+          8.199999809265137,
+          2.760000705718994
+        ],
+        [
+          28.319997787475586,
+          8.199999809265137,
+          -0.27000001072883606
+        ]
+      ]
+    },
+    {
+      "mesh": "Drainage | DP12 S/DP",
+      "connected_components": 1,
+      "open_end_loops": 2,
+      "end_centres": [
+        [
+          5.760000228881836,
+          7.649999618530273,
+          5.5555291175842285
+        ],
+        [
+          6.159999847412109,
+          7.649999618530273,
+          3.700000524520874
+        ]
+      ]
+    },
+    {
+      "mesh": "Drainage | DP13 S/DP",
+      "connected_components": 1,
+      "open_end_loops": 2,
+      "end_centres": [
+        [
+          27.60999870300293,
+          7.649999618530273,
+          5.5555291175842285
+        ],
+        [
+          27.64999771118164,
+          7.15000057220459,
+          3.4200000762939453
+        ]
+      ]
+    },
+    {
+      "mesh": "Drainage | DP09 sump scupper",
+      "connected_components": 1,
+      "open_end_loops": 2,
+      "end_centres": [
+        [
+          28.244998931884766,
+          7.390000343322754,
+          2.9000003337860107
+        ],
+        [
+          28.320003509521484,
+          8.19999885559082,
+          2.9000003337860107
+        ]
+      ]
+    },
+    {
+      "mesh": "Drainage | DP10 sump scupper",
+      "connected_components": 1,
+      "open_end_loops": 2,
+      "end_centres": [
+        [
+          0.2800000309944153,
+          2.575000286102295,
+          2.859999656677246
+        ],
+        [
+          0.2800000309944153,
+          2.240000009536743,
+          2.859999656677246
+        ]
+      ]
+    },
+    {
+      "mesh": "Drainage | DP11 sump scupper",
+      "connected_components": 1,
+      "open_end_loops": 2,
+      "end_centres": [
+        [
+          6.050000190734863,
+          2.575000286102295,
+          2.859999656677246
+        ],
+        [
+          6.050000190734863,
+          2.240000009536743,
+          2.859999656677246
+        ]
+      ]
+    }
+  ],
+  "new_niche_trimmers": [
+    {
+      "name": "Ensuite niche illustrative timber head",
+      "bounds": [
+        [
+          18.94999885559082,
+          3.869999885559082,
+          1.6630001068115234
+        ],
+        [
+          19.969999313354492,
+          3.9600000381469727,
+          1.6979999542236328
+        ]
+      ],
+      "status": "Illustrative generated niche trimming; unengineered sizes/connections. Load path not assessed. Not a source engineering detail."
+    },
+    {
+      "name": "Ensuite niche illustrative timber left jamb",
+      "bounds": [
+        [
+          18.91499900817871,
+          3.869999885559082,
+          0.03500008583068848
+        ],
+        [
+          18.94999885559082,
+          3.9600000381469727,
+          2.6499998569488525
+        ]
+      ],
+      "status": "Illustrative generated niche trimming; unengineered sizes/connections. Load path not assessed. Not a source engineering detail."
+    },
+    {
+      "name": "Ensuite niche illustrative timber right jamb",
+      "bounds": [
+        [
+          19.969999313354492,
+          3.869999885559082,
+          0.03500008583068848
+        ],
+        [
+          20.0049991607666,
+          3.9600000381469727,
+          2.6499998569488525
+        ]
+      ],
+      "status": "Illustrative generated niche trimming; unengineered sizes/connections. Load path not assessed. Not a source engineering detail."
+    },
+    {
+      "name": "Ensuite niche illustrative timber sill",
+      "bounds": [
+        [
+          18.94999885559082,
+          3.869999885559082,
+          1.1579999923706055
+        ],
+        [
+          19.969999313354492,
+          3.9600000381469727,
+          1.1929998397827148
+        ]
+      ],
+      "status": "Illustrative generated niche trimming; unengineered sizes/connections. Load path not assessed. Not a source engineering detail."
+    },
+    {
+      "name": "Upper bath niche illustrative timber head",
+      "bounds": [
+        [
+          14.329999923706055,
+          6.664999961853027,
+          4.822000026702881
+        ],
+        [
+          14.420000076293945,
+          7.585000038146973,
+          4.85699987411499
+        ]
+      ],
+      "status": "Illustrative generated niche trimming; unengineered sizes/connections. Load path not assessed. Not a source engineering detail."
+    },
+    {
+      "name": "Upper bath niche illustrative timber left jamb",
+      "bounds": [
+        [
+          14.329999923706055,
+          6.630000114440918,
+          3.184999942779541
+        ],
+        [
+          14.420000076293945,
+          6.664999961853027,
+          5.639999866485596
+        ]
+      ],
+      "status": "Illustrative generated niche trimming; unengineered sizes/connections. Load path not assessed. Not a source engineering detail."
+    },
+    {
+      "name": "Upper bath niche illustrative timber right jamb",
+      "bounds": [
+        [
+          14.329999923706055,
+          7.585000038146973,
+          3.184999942779541
+        ],
+        [
+          14.420000076293945,
+          7.619999885559082,
+          5.639999866485596
+        ]
+      ],
+      "status": "Illustrative generated niche trimming; unengineered sizes/connections. Load path not assessed. Not a source engineering detail."
+    },
+    {
+      "name": "Upper bath niche illustrative timber sill",
+      "bounds": [
+        [
+          14.329999923706055,
+          6.664999961853027,
+          4.317000389099121
+        ],
+        [
+          14.420000076293945,
+          7.585000038146973,
+          4.3520002365112305
+        ]
+      ],
+      "status": "Illustrative generated niche trimming; unengineered sizes/connections. Load path not assessed. Not a source engineering detail."
+    },
+    {
+      "name": "Bath2 niche illustrative timber head",
+      "bounds": [
+        [
+          10.549999237060547,
+          1.4249999523162842,
+          4.822000026702881
+        ],
+        [
+          10.639999389648438,
+          2.0450000762939453,
+          4.85699987411499
+        ]
+      ],
+      "status": "Illustrative generated niche trimming; unengineered sizes/connections. Load path not assessed. Not a source engineering detail."
+    },
+    {
+      "name": "Bath2 niche illustrative timber left jamb",
+      "bounds": [
+        [
+          10.549999237060547,
+          1.3900001049041748,
+          3.184999942779541
+        ],
+        [
+          10.639999389648438,
+          1.4249999523162842,
+          5.639999866485596
+        ]
+      ],
+      "status": "Illustrative generated niche trimming; unengineered sizes/connections. Load path not assessed. Not a source engineering detail."
+    },
+    {
+      "name": "Bath2 niche illustrative timber right jamb",
+      "bounds": [
+        [
+          10.549999237060547,
+          2.0450000762939453,
+          3.184999942779541
+        ],
+        [
+          10.639999389648438,
+          2.0799999237060547,
+          5.639999866485596
+        ]
+      ],
+      "status": "Illustrative generated niche trimming; unengineered sizes/connections. Load path not assessed. Not a source engineering detail."
+    },
+    {
+      "name": "Bath2 niche illustrative timber sill",
+      "bounds": [
+        [
+          10.549999237060547,
+          1.4249999523162842,
+          4.317000389099121
+        ],
+        [
+          10.639999389648438,
+          2.0450000762939453,
+          4.3520002365112305
+        ]
+      ],
+      "status": "Illustrative generated niche trimming; unengineered sizes/connections. Load path not assessed. Not a source engineering detail."
+    }
+  ]
+}

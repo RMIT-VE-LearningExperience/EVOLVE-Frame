@@ -1,0 +1,31 @@
+{
+  "session": "b4eafad9-8f21-42d5-8db5-16bac16af74b",
+  "model_usage": {
+    "claude-fable-5-2": {
+      "inputTokens": 8,
+      "outputTokens": 15917,
+      "cacheReadInputTokens": 45684,
+      "cacheCreationInputTokens": 57679,
+      "webSearchRequests": 0,
+      "costUSD": 1.5687448,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 12371,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "read_paths": [
+    "D:\\Git\\EVOLE Frame\\output\\vr\\architectural-completion-0.4.6\\work-plan.txt",
+    "D:\\Git\\EVOLE Frame\\output\\vr\\architectural-completion-0.4.6\\baseline-items.json",
+    "D:\\Git\\EVOLE Frame\\scripts\\vr_architectural_finishes.py",
+    "D:\\Git\\EVOLE Frame\\scripts\\vr_bathroom_tiles.py",
+    "D:\\Git\\EVOLE Frame\\output\\vr\\architectural-review-2026-11-20\\plans\\sheet-08.png",
+    "D:\\Git\\EVOLE Frame\\output\\vr\\architectural-review-2026-11-20\\plans\\sheet-17.png",
+    "D:\\Git\\EVOLE Frame\\scripts\\vr_fixed_fitout.py",
+    "D:\\Git\\EVOLE Frame\\scripts\\vr_fixed_fitout.py"
+  ],
+  "read_only": true,
+  "api_fallback_used": false
+}

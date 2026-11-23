@@ -1,0 +1,37 @@
+[
+  {
+    "window": "W09",
+    "layout": "Single fixed light; generic3-pane subdivision removed",
+    "basis": "Written2710x1800 and fixed-light diagram on11"
+  },
+  {
+    "window": "W01",
+    "layout": "Fixed sidelight and3 stacked awning panes",
+    "basis": "Sheet11 topology;900mm side panel is scaled, subdivision dimensions unverified"
+  },
+  {
+    "window": "W03 powder",
+    "glazing": "Obscure privacy finish",
+    "basis": "Explicitly marked OBSCURE GLAZING on11"
+  },
+  {
+    "window": "W07 ensuite",
+    "glazing": "Obscure privacy finish",
+    "basis": "Explicitly marked OBSCURE GLAZING on11"
+  },
+  {
+    "window": "W12 bath",
+    "glazing": "Obscure privacy finish",
+    "basis": "Explicitly marked OBSCURE GLAZING on11"
+  },
+  {
+    "window": "W13 WC",
+    "glazing": "Obscure privacy finish",
+    "basis": "Explicitly marked OBSCURE GLAZING on11"
+  },
+  {
+    "window": "W16 bath 2",
+    "glazing": "Obscure privacy finish",
+    "basis": "Explicitly marked OBSCURE GLAZING on11"
+  }
+]

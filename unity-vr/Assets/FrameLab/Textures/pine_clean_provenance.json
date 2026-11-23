@@ -1,0 +1,6 @@
+{
+  "tool": "Built-in image_gen",
+  "file": "pine_clean_albedo.png",
+  "purpose": "Pale unfinished pine appearance; generated visual texture, not a material specification",
+  "prompt": "Use case: photorealistic-natural. Asset type: seamless base-colour texture for unfinished radiata pine structural timber in a Unity architectural VR model. Generate a square tileable photographic PBR albedo texture, orthographic straight-on, covering one continuous solid wood surface, with grain running vertically from top to bottom. Pale natural warm-neutral cream/beige, very subtle narrow tan growth lines, subtle fine freshly planed fibres, a few understated small sound knots. Dry freshly milled construction pine, clean contemporary appearance. Completely flat diffuse illumination for a base-colour map; no baked shadows, no highlights, no directional light, no vignette. No board seams, no planks, no gaps, no edges, no nails, no labels or text, no watermark. Avoid orange/yellow varnish, weathering, grey rot, dirt, coarse damage, dramatic grain. Fill the whole image. Seamlessly repeatable on all four edges."
+}

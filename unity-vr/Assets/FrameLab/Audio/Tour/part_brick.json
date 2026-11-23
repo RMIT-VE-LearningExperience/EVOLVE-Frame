@@ -1,0 +1,13 @@
+{
+  "sha256": "41c34956d200149f138e71dc232436ff0428236974f9fe48d6675e988f2b2ee1",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "The outer brick leaf forms the exterior face. This cutaway exposes the layers behind it. Notice the separation between the brickwork and timber wall; the brick leaf is distinct from the timber frame.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

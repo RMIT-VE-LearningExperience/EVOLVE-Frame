@@ -1,0 +1,510 @@
+{
+  "updates": {
+    "EL-01": {
+      "action": "Add the visible fittings and locate each instance from sheet 14 before acceptance. Use baked/emissive lighting where appropriate for standalone VR. ",
+      "independent_verification": "Codex: quantity-level source/model check only; individual electrical positions remain open. No real-time light is required for each represented luminaire."
+    },
+    "EL-02": {
+      "action": "Add the visible fittings and locate each instance from sheet 14 before acceptance. Use baked/emissive lighting where appropriate for standalone VR. ",
+      "independent_verification": "Codex: quantity-level source/model check only; individual electrical positions remain open. No real-time light is required for each represented luminaire."
+    },
+    "EL-03": {
+      "action": "Add the visible fittings and locate each instance from sheet 14 before acceptance. Use baked/emissive lighting where appropriate for standalone VR. ",
+      "independent_verification": "Codex: quantity-level source/model check only; individual electrical positions remain open. No real-time light is required for each represented luminaire."
+    },
+    "EL-04": {
+      "action": "Add the visible fittings and locate each instance from sheet 14 before acceptance. Use baked/emissive lighting where appropriate for standalone VR. ",
+      "independent_verification": "Codex: quantity-level source/model check only; individual electrical positions remain open. No real-time light is required for each represented luminaire."
+    },
+    "EL-05": {
+      "action": "Add the visible fittings and locate each instance from sheet 14 before acceptance. Use baked/emissive lighting where appropriate for standalone VR. ",
+      "independent_verification": "Codex: quantity-level source/model check only; individual electrical positions remain open. No real-time light is required for each represented luminaire."
+    },
+    "EL-06": {
+      "action": "Add the visible fittings and locate each instance from sheet 14 before acceptance. Use baked/emissive lighting where appropriate for standalone VR. ",
+      "independent_verification": "Codex: quantity-level source/model check only; individual electrical positions remain open. No real-time light is required for each represented luminaire."
+    },
+    "EL-07": {
+      "action": "Add the visible fittings and locate each instance from sheet 14 before acceptance. Use baked/emissive lighting where appropriate for standalone VR. ",
+      "independent_verification": "Codex: quantity-level source/model check only; individual electrical positions remain open. No real-time light is required for each represented luminaire."
+    },
+    "EL-08": {
+      "action": "Add the visible fittings and locate each instance from sheet 14 before acceptance. Use baked/emissive lighting where appropriate for standalone VR. Confirm the drawing quantity/position conflict first.",
+      "independent_verification": "Codex: quantity-level source/model check only; individual electrical positions remain open. No real-time light is required for each represented luminaire."
+    },
+    "EL-09": {
+      "action": "Add the visible fittings and locate each instance from sheet 14 before acceptance. Use baked/emissive lighting where appropriate for standalone VR. ",
+      "independent_verification": "Codex: quantity-level source/model check only; individual electrical positions remain open. No real-time light is required for each represented luminaire."
+    },
+    "EL-10": {
+      "action": "Add the visible fittings and locate each instance from sheet 14 before acceptance. Use baked/emissive lighting where appropriate for standalone VR. ",
+      "independent_verification": "Codex: quantity-level source/model check only; individual electrical positions remain open. No real-time light is required for each represented luminaire."
+    },
+    "EL-11": {
+      "action": "Add the visible fittings and locate each instance from sheet 14 before acceptance. Use baked/emissive lighting where appropriate for standalone VR. ",
+      "independent_verification": "Codex: quantity-level source/model check only; individual electrical positions remain open. No real-time light is required for each represented luminaire."
+    },
+    "ORI-01": {
+      "status": "partial",
+      "evidence": "Legacy wall names still use drawing-up directions. LeichhardtSiteLighting.cs and sun-orientation-audit.json now explicitly map drawing-left/down to north; eight Unity orientation checks passed.",
+      "action": "Use the documented compass basis in all future labels and captures. Audit legacy labels without moving the building to match their names.",
+      "independent_verification": "Codex: sheet 03 north detail visually checked; axis mapping and sun rays checked in Unity."
+    },
+    "ORI-03": {
+      "status": "partial",
+      "evidence": "05d24m40s bearing is now applied by LeichhardtSiteLighting.DirectionToSun; sign agrees with the left/down north arrow and source shadow directions.",
+      "action": "Regenerate/bake the scene after architectural corrections; retain the site bearing separately from drawing-coordinate wall names.",
+      "confidence": "high"
+    },
+    "ORI-04": {
+      "status": "partial",
+      "evidence": "SOURCE CORRECTED: FrameLabBuild and FrameLabLighting.Bake call LeichhardtSiteLighting.Configure. Default 22 September 2026 15:00 AEST: azimuth 305.066 deg, altitude 35.820 deg. Eight Unity checks passed. Existing lightmaps and installed APK are unchanged.",
+      "action": "Rebake all four visibility states after geometry corrections, compare rendered shadows and check the headset.",
+      "independent_verification": "Codex: sun-orientation-audit.json and site-sun-verification.txt. Year 2026 and 3 pm are declared defaults, not explicit user selections."
+    },
+    "ORI-06": {
+      "status": "partial",
+      "evidence": "Codex visually checked the source shadow diagram and calculated the corresponding solar direction; morning/noon/afternoon reference vectors also passed Unity checks. No matching Unity top-down shadow capture yet.",
+      "action": "Compare a top-down Unity render with this drawing after the corrected geometry is baked.",
+      "independent_verification": "sun-orientation-audit.json; shadow-sheet-comparison.jpg; site-sun-verification.txt"
+    },
+    "ORI-07": {
+      "status": "partial",
+      "evidence": "Codex visually checked the source shadow diagram and calculated the corresponding solar direction; morning/noon/afternoon reference vectors also passed Unity checks. No matching Unity top-down shadow capture yet.",
+      "action": "Compare a top-down Unity render with this drawing after the corrected geometry is baked.",
+      "independent_verification": "sun-orientation-audit.json; shadow-sheet-comparison.jpg; site-sun-verification.txt"
+    },
+    "ORI-08": {
+      "status": "partial",
+      "evidence": "Codex visually checked the source shadow diagram and calculated the corresponding solar direction; morning/noon/afternoon reference vectors also passed Unity checks. No matching Unity top-down shadow capture yet.",
+      "action": "Compare a top-down Unity render with this drawing after the corrected geometry is baked.",
+      "independent_verification": "sun-orientation-audit.json; shadow-sheet-comparison.jpg; site-sun-verification.txt",
+      "plan_verified": true,
+      "requirement": "22 September 11 am shadow diagram: shadow falls mostly drawing-right, with a smaller drawing-down component; compare the original sheet for extents."
+    },
+    "ORI-09": {
+      "status": "partial",
+      "evidence": "Codex visually checked the source shadow diagram and calculated the corresponding solar direction; morning/noon/afternoon reference vectors also passed Unity checks. No matching Unity top-down shadow capture yet.",
+      "action": "Compare a top-down Unity render with this drawing after the corrected geometry is baked.",
+      "independent_verification": "sun-orientation-audit.json; shadow-sheet-comparison.jpg; site-sun-verification.txt"
+    },
+    "ORI-10": {
+      "status": "partial",
+      "evidence": "Codex visually checked the source shadow diagram and calculated the corresponding solar direction; morning/noon/afternoon reference vectors also passed Unity checks. No matching Unity top-down shadow capture yet.",
+      "action": "Compare a top-down Unity render with this drawing after the corrected geometry is baked.",
+      "independent_verification": "sun-orientation-audit.json; shadow-sheet-comparison.jpg; site-sun-verification.txt",
+      "plan_verified": true,
+      "requirement": "22 September 1 pm shadow diagram: shadow falls mostly drawing-right, now with a drawing-up component; compare the original sheet for extents."
+    },
+    "ORI-11": {
+      "status": "partial",
+      "evidence": "Codex visually checked the source shadow diagram and calculated the corresponding solar direction; morning/noon/afternoon reference vectors also passed Unity checks. No matching Unity top-down shadow capture yet.",
+      "action": "Compare a top-down Unity render with this drawing after the corrected geometry is baked.",
+      "independent_verification": "sun-orientation-audit.json; shadow-sheet-comparison.jpg; site-sun-verification.txt"
+    },
+    "ORI-12": {
+      "status": "partial",
+      "evidence": "Codex visually checked the source shadow diagram and calculated the corresponding solar direction; morning/noon/afternoon reference vectors also passed Unity checks. No matching Unity top-down shadow capture yet.",
+      "action": "Compare a top-down Unity render with this drawing after the corrected geometry is baked.",
+      "independent_verification": "sun-orientation-audit.json; shadow-sheet-comparison.jpg; site-sun-verification.txt"
+    },
+    "ORI-14": {
+      "status": "partial",
+      "evidence": "The corrected 3 pm vector illuminates the north/garage end and west/alfresco side; the south/entry face points away from direct sun. This is an analytic orientation check, not a rendered/headset check.",
+      "action": "Confirm sunlit facades, soft ground shadows and contact after rebaking."
+    },
+    "WIN-01": {
+      "status": "partial",
+      "evidence": "Nominal width/height/sill: drawing [3000, 2400, 0] mm; evaluated mesh [3000.0, 2400.0, 0.0] mm. Envelope PASS. objs 'W01 bed 1' 3.000 wide, head 2.40; modelled as three equal vertical lights.",
+      "action": "Verify location, sash arrangement and finished-floor datum; nominal envelope alone is not whole-window acceptance.",
+      "independent_verification": "Codex: window-schedule-checks.json, rerun after full Blender view-layer evaluation. Upper finished deck is 19 mm above nominal structural datum."
+    },
+    "WIN-02": {
+      "status": "partial",
+      "evidence": "Nominal width/height/sill: drawing [810, 2120, 280] mm; evaluated mesh [810.0, 2120.0, 280.0] mm. Envelope PASS. objs 0.810 wide, glass 0.325-2.355; single light, no transom.",
+      "action": "Verify location, sash arrangement and finished-floor datum; nominal envelope alone is not whole-window acceptance.",
+      "independent_verification": "Codex: window-schedule-checks.json, rerun after full Blender view-layer evaluation. Upper finished deck is 19 mm above nominal structural datum."
+    },
+    "WIN-03": {
+      "status": "partial",
+      "evidence": "Nominal width/height/sill: drawing [810, 2120, 280] mm; evaluated mesh [810.0, 2120.0, 280.0] mm. Envelope PASS. Required obscure glazing is missing: shared clear ENV Glazing proxy is used. objs size matches; material 'ENV Glazing proxy' (no obscure material exists in objs).",
+      "action": "Correct privacy/pane pattern, then verify location, sash arrangement and finished-floor datum.",
+      "independent_verification": "Codex: window-schedule-checks.json, rerun after full Blender view-layer evaluation. Upper finished deck is 19 mm above nominal structural datum."
+    },
+    "WIN-04": {
+      "status": "partial",
+      "evidence": "Nominal width/height/sill: drawing [1510, 514, 905] mm; evaluated mesh [1510.0, 514.0, 905.0] mm. Envelope PASS. objs 'W04 kitchen' 1.510 wide, head top 1.419, glass from 0.95.",
+      "action": "Verify location, sash arrangement and finished-floor datum; nominal envelope alone is not whole-window acceptance.",
+      "independent_verification": "Codex: window-schedule-checks.json, rerun after full Blender view-layer evaluation. Upper finished deck is 19 mm above nominal structural datum."
+    },
+    "WIN-05": {
+      "status": "partial",
+      "evidence": "Nominal width/height/sill: drawing [2710, 2120, 280] mm; evaluated mesh [2710.0, 2120.0, 280.0] mm. Envelope PASS. objs 2.710 wide, three lights; no transom.",
+      "action": "Verify location, sash arrangement and finished-floor datum; nominal envelope alone is not whole-window acceptance.",
+      "independent_verification": "Codex: window-schedule-checks.json, rerun after full Blender view-layer evaluation. Upper finished deck is 19 mm above nominal structural datum."
+    },
+    "WIN-06": {
+      "status": "partial",
+      "evidence": "Nominal width/height/sill: drawing [3060, 2100, 300] mm; evaluated mesh [3060.0, 2100.0, 300.0] mm. Envelope PASS. objs 3.060 wide, glass 0.345-2.355; no transom.",
+      "action": "Verify location, sash arrangement and finished-floor datum; nominal envelope alone is not whole-window acceptance.",
+      "independent_verification": "Codex: window-schedule-checks.json, rerun after full Blender view-layer evaluation. Upper finished deck is 19 mm above nominal structural datum."
+    },
+    "WIN-07": {
+      "status": "partial",
+      "evidence": "Nominal width/height/sill: drawing [1510, 1260, 1140] mm; evaluated mesh [1510.0, 1260.0, 1140.0] mm. Envelope PASS. Required obscure glazing is missing: shared clear ENV Glazing proxy is used. objs 1.510 wide, glass 1.185-2.355; clear glazing proxy.",
+      "action": "Correct privacy/pane pattern, then verify location, sash arrangement and finished-floor datum.",
+      "independent_verification": "Codex: window-schedule-checks.json, rerun after full Blender view-layer evaluation. Upper finished deck is 19 mm above nominal structural datum."
+    },
+    "WIN-08": {
+      "status": "partial",
+      "evidence": "Nominal width/height/sill: drawing [2710, 1800, 480] mm; evaluated mesh [2710.0, 1800.0, 480.0] mm. Envelope PASS. objs 2.710 wide, glass 3.665-5.375; sill 461 above finished deck.",
+      "action": "Verify location, sash arrangement and finished-floor datum; nominal envelope alone is not whole-window acceptance.",
+      "independent_verification": "Codex: window-schedule-checks.json, rerun after full Blender view-layer evaluation. Upper finished deck is 19 mm above nominal structural datum."
+    },
+    "WIN-09": {
+      "status": "partial",
+      "evidence": "Nominal width/height/sill: drawing [2710, 1800, 480] mm; evaluated mesh [2710.0, 1800.0, 480.0] mm. Envelope PASS. Scheduled single fixed light currently has three glass pieces. objs 'W09 void' has two mullions (three lights).",
+      "action": "Correct privacy/pane pattern, then verify location, sash arrangement and finished-floor datum.",
+      "independent_verification": "Codex: window-schedule-checks.json, rerun after full Blender view-layer evaluation. Upper finished deck is 19 mm above nominal structural datum."
+    },
+    "WIN-10": {
+      "status": "unverified",
+      "evidence": "Nominal width/height/sill: drawing [850, 1800, 480] mm; evaluated mesh [850.0, 1800.0, 480.0] mm. Envelope PASS. objs 0.850 wide, glass 3.665-5.375; position shifted -250 in candidate (ST-09).",
+      "action": "Verify location, sash arrangement and finished-floor datum; nominal envelope alone is not whole-window acceptance.",
+      "independent_verification": "Codex: window-schedule-checks.json, rerun after full Blender view-layer evaluation. Upper finished deck is 19 mm above nominal structural datum."
+    },
+    "WIN-11": {
+      "status": "partial",
+      "evidence": "Nominal width/height/sill: drawing [2230, 1520, 760] mm; evaluated mesh [2230.0, 1520.0, 760.0] mm. Envelope PASS. objs 2.230 wide, glass 3.945-5.375, one mullion.",
+      "action": "Verify location, sash arrangement and finished-floor datum; nominal envelope alone is not whole-window acceptance.",
+      "independent_verification": "Codex: window-schedule-checks.json, rerun after full Blender view-layer evaluation. Upper finished deck is 19 mm above nominal structural datum."
+    },
+    "WIN-12": {
+      "status": "partial",
+      "evidence": "Nominal width/height/sill: drawing [670, 1260, 1020] mm; evaluated mesh [670.0, 1260.0, 1020.0] mm. Envelope PASS. Required obscure glazing is missing: shared clear ENV Glazing proxy is used. objs 0.670 wide, glass 4.205-5.375; clear proxy.",
+      "action": "Correct privacy/pane pattern, then verify location, sash arrangement and finished-floor datum.",
+      "independent_verification": "Codex: window-schedule-checks.json, rerun after full Blender view-layer evaluation. Upper finished deck is 19 mm above nominal structural datum."
+    },
+    "WIN-13": {
+      "status": "partial",
+      "evidence": "Nominal width/height/sill: drawing [670, 1260, 1020] mm; evaluated mesh [670.0, 1260.0, 1020.0] mm. Envelope PASS. Required obscure glazing is missing: shared clear ENV Glazing proxy is used. objs 0.670 wide; clear proxy.",
+      "action": "Correct privacy/pane pattern, then verify location, sash arrangement and finished-floor datum.",
+      "independent_verification": "Codex: window-schedule-checks.json, rerun after full Blender view-layer evaluation. Upper finished deck is 19 mm above nominal structural datum."
+    },
+    "WIN-14": {
+      "status": "partial",
+      "evidence": "Nominal width/height/sill: drawing [2230, 1520, 760] mm; evaluated mesh [2230.0, 1520.0, 760.0] mm. Envelope PASS. objs 2.230 wide, glass 3.945-5.375.",
+      "action": "Verify location, sash arrangement and finished-floor datum; nominal envelope alone is not whole-window acceptance.",
+      "independent_verification": "Codex: window-schedule-checks.json, rerun after full Blender view-layer evaluation. Upper finished deck is 19 mm above nominal structural datum."
+    },
+    "WIN-15": {
+      "status": "partial",
+      "evidence": "Nominal width/height/sill: drawing [2230, 1520, 760] mm; evaluated mesh [2230.0, 1520.0, 760.0] mm. Envelope PASS. objs 2.230 wide, glass 3.945-5.375.",
+      "action": "Verify location, sash arrangement and finished-floor datum; nominal envelope alone is not whole-window acceptance.",
+      "independent_verification": "Codex: window-schedule-checks.json, rerun after full Blender view-layer evaluation. Upper finished deck is 19 mm above nominal structural datum."
+    },
+    "WIN-16": {
+      "status": "partial",
+      "evidence": "Nominal width/height/sill: drawing [670, 1260, 1020] mm; evaluated mesh [670.0, 1260.0, 1020.0] mm. Envelope PASS. Required obscure glazing is missing: shared clear ENV Glazing proxy is used. objs 0.670 wide; clear proxy.",
+      "action": "Correct privacy/pane pattern, then verify location, sash arrangement and finished-floor datum.",
+      "independent_verification": "Codex: window-schedule-checks.json, rerun after full Blender view-layer evaluation. Upper finished deck is 19 mm above nominal structural datum."
+    },
+    "WIN-17": {
+      "status": "partial",
+      "evidence": "Nominal width/height/sill: drawing [2230, 1520, 760] mm; evaluated mesh [2230.0, 1520.0, 760.0] mm. Envelope PASS. objs 2.230 wide.",
+      "action": "Verify location, sash arrangement and finished-floor datum; nominal envelope alone is not whole-window acceptance.",
+      "independent_verification": "Codex: window-schedule-checks.json, rerun after full Blender view-layer evaluation. Upper finished deck is 19 mm above nominal structural datum."
+    },
+    "WIN-18": {
+      "status": "partial",
+      "evidence": "Nominal width/height/sill: drawing [1810, 1520, 760] mm; evaluated mesh [1810.0, 1520.0, 760.0] mm. Envelope PASS. objs 1.810 wide.",
+      "action": "Verify location, sash arrangement and finished-floor datum; nominal envelope alone is not whole-window acceptance.",
+      "independent_verification": "Codex: window-schedule-checks.json, rerun after full Blender view-layer evaluation. Upper finished deck is 19 mm above nominal structural datum."
+    },
+    "WIN-19": {
+      "status": "partial",
+      "evidence": "Nominal width/height/sill: drawing [2230, 1520, 760] mm; evaluated mesh [2230.0, 1520.0, 760.0] mm. Envelope PASS. objs 2.230 wide.",
+      "action": "Verify location, sash arrangement and finished-floor datum; nominal envelope alone is not whole-window acceptance.",
+      "independent_verification": "Codex: window-schedule-checks.json, rerun after full Blender view-layer evaluation. Upper finished deck is 19 mm above nominal structural datum."
+    },
+    "RM-GF-01": {
+      "status": "incorrect",
+      "evidence": "X frame span 6141.7 mm versus drawing 6000 mm (delta +141.7 mm); Y frame span 6723.5 mm versus drawing 6500 mm (delta +223.5 mm). Measured current candidate plates, replacing reliance on the historical timber-frame audit.",
+      "independent_verification": "Codex: room-span-checks.json contains the exact two wall names/faces for each span. Finish convention, stepped walls and unmeasured dimensions remain open.",
+      "priority": "P1"
+    },
+    "RM-GF-08": {
+      "status": "partial",
+      "evidence": "X frame span 1556.9 mm versus drawing 1600 mm (delta -43.1 mm); Y frame span 2617.6 mm versus drawing 2590 mm (delta +27.6 mm). Measured current candidate plates, replacing reliance on the historical timber-frame audit.",
+      "independent_verification": "Codex: room-span-checks.json contains the exact two wall names/faces for each span. Finish convention, stepped walls and unmeasured dimensions remain open.",
+      "priority": "P2"
+    },
+    "RM-GF-09": {
+      "status": "incorrect",
+      "evidence": "Y frame span 3816.1 mm versus drawing 3110 mm (delta +706.1 mm). Measured current candidate plates, replacing reliance on the historical timber-frame audit.",
+      "independent_verification": "Codex: room-span-checks.json contains the exact two wall names/faces for each span. Finish convention, stepped walls and unmeasured dimensions remain open.",
+      "priority": "P1",
+      "action": "Move the shared Entry/Bed 1 partition by +706.1 mm in model Y, subject to the complete dimension chain; coordinate door, WIR return, linings and ceilings. Verify stair-foot setback separately."
+    },
+    "RM-GF-10": {
+      "status": "partial",
+      "evidence": "Y frame span 1108.5 mm versus drawing 1100 mm (delta +8.5 mm). Measured current candidate plates, replacing reliance on the historical timber-frame audit.",
+      "independent_verification": "Codex: room-span-checks.json contains the exact two wall names/faces for each span. Finish convention, stepped walls and unmeasured dimensions remain open.",
+      "priority": "P2"
+    },
+    "RM-GF-11": {
+      "status": "incorrect",
+      "evidence": "X frame span 4071.9 mm versus drawing 4000 mm (delta +71.9 mm); Y frame span 3793.9 mm versus drawing 4500 mm (delta -706.1 mm). Measured current candidate plates, replacing reliance on the historical timber-frame audit.",
+      "independent_verification": "Codex: room-span-checks.json contains the exact two wall names/faces for each span. Finish convention, stepped walls and unmeasured dimensions remain open.",
+      "priority": "P1",
+      "action": "Rebuild the shared Entry/Bed 1 division from the 3110/90/4500 chain; current wall is 706.1 mm out. Coordinate adjacent walls and the bedroom door.",
+      "confidence": "high"
+    },
+    "RM-GF-12": {
+      "status": "incorrect",
+      "evidence": "X frame span 2513.9 mm versus drawing 2270 mm (delta +243.9 mm); Y frame span 3793.9 mm versus drawing 3780 mm (delta +13.9 mm). Measured current candidate plates, replacing reliance on the historical timber-frame audit.",
+      "independent_verification": "Codex: room-span-checks.json contains the exact two wall names/faces for each span. Finish convention, stepped walls and unmeasured dimensions remain open.",
+      "priority": "P1"
+    },
+    "RM-GF-13": {
+      "status": "incorrect",
+      "evidence": "X frame span 2113.4 mm versus drawing 1800 mm (delta +313.4 mm); Y frame span 3793.9 mm versus drawing 3780 mm (delta +13.9 mm). Measured current candidate plates, replacing reliance on the historical timber-frame audit.",
+      "independent_verification": "Codex: room-span-checks.json contains the exact two wall names/faces for each span. Finish convention, stepped walls and unmeasured dimensions remain open.",
+      "priority": "P1"
+    },
+    "RM-FF-01": {
+      "status": "incorrect",
+      "evidence": "X frame span 4767.1 mm versus drawing 4680 mm (delta +87.1 mm); Y frame span 3220.2 mm versus drawing 3200 mm (delta +20.2 mm). Measured current candidate plates, replacing reliance on the historical timber-frame audit.",
+      "independent_verification": "Codex: room-span-checks.json contains the exact two wall names/faces for each span. Finish convention, stepped walls and unmeasured dimensions remain open.",
+      "priority": "P2"
+    },
+    "RM-FF-04": {
+      "status": "incorrect",
+      "evidence": "X frame span 868.0 mm versus drawing 1000 mm (delta -132 mm). Measured current candidate plates, replacing reliance on the historical timber-frame audit.",
+      "independent_verification": "Codex: room-span-checks.json contains the exact two wall names/faces for each span. Finish convention, stepped walls and unmeasured dimensions remain open.",
+      "priority": "P2"
+    },
+    "RM-FF-07": {
+      "status": "partial",
+      "evidence": "X frame span 4343.7 mm versus drawing 4310 mm (delta +33.7 mm); Y frame span 3220.2 mm versus drawing 3200 mm (delta +20.2 mm). Measured current candidate plates, replacing reliance on the historical timber-frame audit.",
+      "independent_verification": "Codex: room-span-checks.json contains the exact two wall names/faces for each span. Finish convention, stepped walls and unmeasured dimensions remain open.",
+      "priority": "P3"
+    },
+    "RM-FF-10": {
+      "status": "incorrect",
+      "evidence": "X frame span 2093.4 mm versus drawing 2200 mm (delta -106.6 mm); Y frame span 2094.7 mm versus drawing 2110 mm (delta -15.3 mm). Measured current candidate plates, replacing reliance on the historical timber-frame audit.",
+      "independent_verification": "Codex: room-span-checks.json contains the exact two wall names/faces for each span. Finish convention, stepped walls and unmeasured dimensions remain open.",
+      "priority": "P2"
+    },
+    "RM-FF-11": {
+      "status": "incorrect",
+      "evidence": "X frame span 4076.4 mm versus drawing 4000 mm (delta +76.4 mm); Y frame span 3131.9 mm versus drawing 3200 mm (delta -68.1 mm). Measured current candidate plates, replacing reliance on the historical timber-frame audit.",
+      "independent_verification": "Codex: room-span-checks.json contains the exact two wall names/faces for each span. Finish convention, stepped walls and unmeasured dimensions remain open.",
+      "priority": "P2"
+    },
+    "RM-FF-12": {
+      "status": "incorrect",
+      "evidence": "X frame span 2405.4 mm versus drawing 2400 mm (delta +5.4 mm); Y frame span 3131.9 mm versus drawing 3200 mm (delta -68.1 mm). Measured current candidate plates, replacing reliance on the historical timber-frame audit.",
+      "independent_verification": "Codex: room-span-checks.json contains the exact two wall names/faces for each span. Finish convention, stepped walls and unmeasured dimensions remain open.",
+      "priority": "P3"
+    },
+    "RM-FF-13": {
+      "status": "partial",
+      "evidence": "X frame span 3006.9 mm versus drawing 3000 mm (delta +6.9 mm). Measured current candidate plates, replacing reliance on the historical timber-frame audit.",
+      "independent_verification": "Codex: room-span-checks.json contains the exact two wall names/faces for each span. Finish convention, stepped walls and unmeasured dimensions remain open.",
+      "priority": "P3"
+    },
+    "RM-FF-14": {
+      "status": "incorrect",
+      "evidence": "X frame span 4321.5 mm versus drawing 4300 mm (delta +21.5 mm); Y frame span 4389.8 mm versus drawing 4500 mm (delta -110.2 mm). Measured current candidate plates, replacing reliance on the historical timber-frame audit.",
+      "independent_verification": "Codex: room-span-checks.json contains the exact two wall names/faces for each span. Finish convention, stepped walls and unmeasured dimensions remain open.",
+      "priority": "P1",
+      "action": "Reconcile theatre north wall (+110.2 mm in Y), door and both boxed returns with the written chains; then add the perimeter bulkheads. Confirm platform level separately.",
+      "confidence": "high"
+    },
+    "LVL-02": {
+      "status": "incorrect",
+      "evidence": "Fresh evaluated Blender slab top is -0.086 m. Unity separately creates Garage slab with top 0.000 m, masking the scheduled 86 mm step-down.",
+      "action": "Reconcile Unity floor, mesh slab, thresholds and wall bases to the scheduled level; check navigation together.",
+      "independent_verification": "Codex: inventory-evaluation-differences.json and FrameLabBuild.cs Garage slab parameters."
+    },
+    "LVL-03": {
+      "status": "incorrect",
+      "evidence": "Fresh Blender alfresco slab top is -0.087 m. The broad Unity Ground floor slab has top 0.000 m and covers this footprint, concealing the step-down.",
+      "action": "Split the Unity slab footprint and coordinate D05 threshold/alfresco finish to the scheduled -86 mm. Verify contact and directed arrival height.",
+      "independent_verification": "Codex: evaluated slab bounds and FrameLabBuild.cs slab box bounds."
+    },
+    "LVL-07": {
+      "status": "partial",
+      "evidence": "Nominal frame top is 2.740 m, but ceiling underside is 2.730 m. The drawn 2740 ceiling-height datum and 10 mm lining convention need reconciliation.",
+      "action": "Confirm finished-floor-to-ceiling underside height; do not treat frame-top height as finished ceiling acceptance."
+    },
+    "BH-GF-03": {
+      "status": "missing",
+      "element": "Corridor/entry junction bulkhead",
+      "requirement": "Sheet 07 leader points to the paired dashed lines across the corridor at the powder/entry junction; 340 mm drop. Reconcile width with the corridor wall setout.",
+      "evidence": "No matching bulkhead in the model or generator. Codex inspected full-resolution sheet 07 and the leader at the powder-room corner.",
+      "action": "Add the cross-corridor bulkhead as a hideable ceiling element after dimension-driven wall correction.",
+      "confidence": "high",
+      "independent_verification": "Codex visual source check; separate from the kitchen lowered zone."
+    },
+    "BH-GF-07": {
+      "action": "Resolve the 300 mm label versus 340 mm dimension/general-note conflict before accepting the final soffit height; keep the laundry bulkhead on the checklist."
+    },
+    "TH-02": {
+      "status": "incorrect",
+      "evidence": "The current platform deck is 420 mm above the finished upper deck. Both Claude reviews identify this as an unsupported reading of the 420 mm horizontal band dimension. The intended vertical step height remains unknown.",
+      "action": "Remove the unsupported height assumption from the final design; obtain or explicitly settle the platform level and door/bulkhead conflict before acceptance.",
+      "independent_verification": "Codex: current deck tops 3.579/3.159 m; broad review also checked the supporting engineering/floor-joist drawings without finding a specified platform height."
+    },
+    "DP-01": {
+      "independent_verification": "Codex source marker DP-S08-02 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+    },
+    "DP-02": {
+      "independent_verification": "Codex source marker DP-S08-03 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+    },
+    "DP-03": {
+      "independent_verification": "Codex source marker DP-S08-04 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+    },
+    "DP-04": {
+      "independent_verification": "Codex source marker DP-S08-10 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+    },
+    "DP-05": {
+      "independent_verification": "Codex source marker DP-S08-11 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+    },
+    "DP-06": {
+      "independent_verification": "Codex source marker DP-S08-12 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+    },
+    "DP-07": {
+      "independent_verification": "Codex source marker DP-S08-13 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+    },
+    "DP-08": {
+      "independent_verification": "Codex source marker DP-S08-09 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+    },
+    "DP-09": {
+      "independent_verification": "Codex source marker DP-S08-01 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+    },
+    "DP-10": {
+      "independent_verification": "Codex source marker DP-S08-07 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+    },
+    "DP-11": {
+      "independent_verification": "Codex source marker DP-S08-08 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+    },
+    "DP-12": {
+      "independent_verification": "Codex source marker DP-S08-05 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+    },
+    "DP-13": {
+      "independent_verification": "Codex source marker DP-S08-06 in downpipes-sheet-08.svg and downpipe-source-locations.json. Matched by plotted position; repeats on other sheets are not extra pipes."
+    },
+    "DP-17": {
+      "independent_verification": "Codex independently counted 8 DP + 3 DP/RWH on sheets 04, 07 and 08, plus 2 S/DP on 08. Exact source labels and positions retained; total physical locations are not summed across views."
+    },
+    "EXT-01": {
+      "requirement": "Colorbond hip roof geometry at 25 degrees; hips at both ends and ridge along the long axis. Sarking is tracked separately under CON-10.",
+      "action": "Pitch/form check only; roof drainage, parapets, sarking and cladding have separate open items."
+    },
+    "DR-04": {
+      "status": "partial",
+      "action": "Nominal size and three-panel arrangement checked; verify finished opening position, threshold level and slider details."
+    },
+    "CON-08": {
+      "action": "Add the specified insulation zones as hideable teaching layers; source values are readable in the embedded image on sheet 20.",
+      "independent_verification": "Codex visually confirmed sheet 20: external R2.7, garage internal and nominated wet-room internal walls R2.5. Empty extracted text did not mean an empty source sheet."
+    },
+    "CON-09": {
+      "action": "Add the specified pitched, perimeter, flat-roof, box-gutter and cantilever insulation zones as hideable teaching layers.",
+      "independent_verification": "Codex visually confirmed the sheet 20 thermal-property table. It is an embedded image, with values absent from text extraction."
+    }
+  },
+  "additions": [
+    {
+      "id": "CON-37",
+      "category": "Construction details",
+      "level": "GF+FF",
+      "location": "Thermal envelope",
+      "element": "Door infiltration seals",
+      "sheets": [
+        20
+      ],
+      "requirement": "Air-infiltration seals to external residence doors and garage internal door.",
+      "plan_verified": true,
+      "status": "missing",
+      "evidence": "No seal treatment identified in opening generators or mesh inventory.",
+      "action": "Include seals in the relevant opening/inspection detail; verify each nominated door.",
+      "priority": "P2",
+      "confidence": "high",
+      "independent_verification": "Codex supplement to both Claude reviews."
+    },
+    {
+      "id": "EL-13",
+      "category": "Electrical",
+      "level": "GF+FF",
+      "location": "Ceilings and wet areas",
+      "element": "Sealed downlights and exhaust fans",
+      "sheets": [
+        20
+      ],
+      "requirement": "Downlights sealed and IC4-rated; exhaust fans sealed.",
+      "plan_verified": true,
+      "status": "missing",
+      "evidence": "No physical lighting/fan fittings modelled yet.",
+      "action": "Retain this requirement in luminaire/fan teaching metadata and visible fitting design; do not simulate a rating as geometry.",
+      "priority": "P2",
+      "confidence": "high",
+      "independent_verification": "Codex supplement to both Claude reviews."
+    },
+    {
+      "id": "CON-38",
+      "category": "Notes",
+      "level": "All",
+      "location": "Energy documentation",
+      "element": "Referenced NatHERS certificate",
+      "sheets": [
+        20
+      ],
+      "requirement": "Thermal-property table says additional details refer to the NatHERS certificate.",
+      "plan_verified": true,
+      "status": "unverified",
+      "evidence": "The thermal table is present; the referenced certificate has not been verified in this audit.",
+      "action": "Locate the certificate before claiming the entire thermal specification is checked.",
+      "priority": "P2",
+      "confidence": "high",
+      "independent_verification": "Codex supplement to both Claude reviews."
+    },
+    {
+      "id": "GEO-01",
+      "category": "Rooms",
+      "level": "GF+FF",
+      "location": "All dimension chains",
+      "element": "Coordinate registration",
+      "sheets": [
+        7,
+        8,
+        12
+      ],
+      "requirement": "Dimensioned wall chains, floor datums and aligned storeys must control setout. Overhead/dashed lines are not wall endpoints.",
+      "plan_verified": true,
+      "status": "incorrect",
+      "evidence": "Separate raster registrations and the measured room-span discrepancies show the current trace is not consistently dimension-driven.",
+      "action": "Rebuild a common dimension-driven wall/opening table; tie engineering overlay to these datums and rerun all dimensional checks.",
+      "priority": "P1",
+      "confidence": "high",
+      "independent_verification": "Codex supplement to both Claude reviews."
+    }
+  ],
+  "limitations": [
+    "This is a completed source/model audit register, not a repaired or accepted model. The installed APK remains 0.3.2; candidate 0.3.3 is held.",
+    "Claude reviewed with read-only tools. Codex separately ran Blender to evaluate all 8624 mesh bounds and Unity to verify the sun configuration; no source .blend was saved and no APK was installed.",
+    "Five slab objects initially had stale identity-matrix bounds. Codex corrected the read-only export using a fully evaluated view layer, preserved the original inventory, and reran window/partition measurements. All other mesh bounds were unchanged.",
+    "All 32 architectural sheets were visually inspected across the combined reviews. Some small symbols and exact positions remain unresolved; the original Claude checklist records its own visual/text coverage.",
+    "The broad Claude review used S09 and the floor-joist drawing for coordination, but this is not a complete audit of every separate engineering/truss/shop-drawing sheet.",
+    "The gallery is the last installed 0.3.2 build; evaluated geometry is the uninstalled 0.3.3 candidate. C2 and W10 offsets are illustrative and are not accepted by the source review.",
+    "All 19 nominal window envelopes were measured. Positions, pane operation, privacy and finished-floor datums are separate acceptance checks.",
+    "Current mesh plate spans were checked in 15 room/zone locations. Plate-face spans are not automatically finished-room dimensions; lining conventions and stepped walls must be reconciled.",
+    "Electrical fixture quantities were checked against the legend and absence in the model. Individual point positions have not all been registered; grouped electrical rows remain open for that work.",
+    "Downpipe cross-sheet correspondence is by plotted position. The 8 DP, 3 DP/RWH and 2 spreaders are not summed again on repeated views.",
+    "Typical construction details must be assigned only where applicable; bathtub and balcony alternatives are not instructions to invent those features in the house.",
+    "Theatre platform height, its relationship to the door, the 2340 door versus 2250 bulkhead soffit, porch 172/226 level conflict, and laundry 300/340 bulkhead conflict remain unresolved.",
+    "The 3 pm, 22 September 2026 sun is a declared reference default. Configuration tests passed; corrected scene lightmaps, rendered shadow extents and headset appearance remain unchecked."
+  ]
+}

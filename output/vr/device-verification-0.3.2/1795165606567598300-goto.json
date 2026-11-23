@@ -1,0 +1,22 @@
+{
+  "id": "1795165606567598300",
+  "version": "0.3.2",
+  "room": "robe",
+  "error": "",
+  "changing": false,
+  "focused": true,
+  "guide": true,
+  "narration": true,
+  "detail": false,
+  "isolated": false,
+  "location": 3,
+  "hotspots": 9,
+  "visibleParts": 9,
+  "explosion": 0.0,
+  "zoom": 1.0,
+  "eye": {
+    "x": -21.643701553344727,
+    "y": 1.4875408411026,
+    "z": -1.803317904472351
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "sha256": "f6c6c9d472f11e35f322338d66d3d16bfcb9716dc97f9573fda54c0bc5c6d655",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "We're outside again. Look at the house as a whole and compare the finished enclosure with the timber frame. Use Hide walls and Hide roof separately to understand each layer. Our final activity is a close look at a window return. Choose Window study to move to the assembly, where the controls will stay to the side of the window.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

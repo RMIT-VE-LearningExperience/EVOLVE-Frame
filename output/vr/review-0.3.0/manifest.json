@@ -1,0 +1,245 @@
+{
+  "version": "0.3.0",
+  "captured_local": "20 Nov 2026 19:15",
+  "source": "Actual Unity URP scene renders, 1600 x 1000; menus hidden",
+  "shots": [
+    {
+      "file": "01-exterior-entry.png",
+      "title": "Entry and long elevation",
+      "category": "Exterior",
+      "number": 1,
+      "source_file": "01-exterior-entry.png"
+    },
+    {
+      "file": "02-exterior-alfresco.png",
+      "title": "Alfresco and garage end",
+      "category": "Exterior",
+      "number": 2,
+      "source_file": "02-exterior-alfresco.png"
+    },
+    {
+      "file": "03-exterior-rear-entry.png",
+      "title": "Rear elevation from entry end",
+      "category": "Exterior",
+      "number": 3,
+      "source_file": "03-exterior-rear-entry.png"
+    },
+    {
+      "file": "04-exterior-rear-garage.png",
+      "title": "Rear elevation from garage end",
+      "category": "Exterior",
+      "number": 4,
+      "source_file": "04-exterior-rear-garage.png"
+    },
+    {
+      "file": "05-canopy-under.png",
+      "title": "Entry canopy fascia and underside",
+      "category": "Details",
+      "number": 5,
+      "source_file": "05-canopy-under.png"
+    },
+    {
+      "file": "06-canopy-top.png",
+      "title": "Entry canopy roof and gutter",
+      "category": "Details",
+      "number": 6,
+      "source_file": "06-canopy-top.png"
+    },
+    {
+      "file": "07-alfresco-edge.png",
+      "title": "Alfresco fascia and soffit",
+      "category": "Details",
+      "number": 7,
+      "source_file": "07-alfresco-edge.png"
+    },
+    {
+      "file": "08-stairs.png",
+      "title": "Complete stair and wall-side string",
+      "category": "Details",
+      "number": 8,
+      "source_file": "08-stairs.png"
+    },
+    {
+      "file": "09-stair-junction.png",
+      "title": "Stair-to-wall junction close-up",
+      "category": "Details",
+      "number": 9,
+      "source_file": "09-stair-junction.png"
+    },
+    {
+      "file": "10-stair-landing.png",
+      "title": "Upper stair landing and balustrade",
+      "category": "Details",
+      "number": 10,
+      "source_file": "10-stair-landing.png"
+    },
+    {
+      "file": "room-01-arrival.png",
+      "title": "Welcome",
+      "category": "Rooms",
+      "number": 11,
+      "source_file": "room-01-arrival.png"
+    },
+    {
+      "file": "room-02-entry.png",
+      "title": "Entry hall",
+      "category": "Rooms",
+      "number": 12,
+      "source_file": "room-02-entry.png"
+    },
+    {
+      "file": "room-03-bedroom1.png",
+      "title": "Bedroom 1",
+      "category": "Rooms",
+      "number": 13,
+      "source_file": "room-03-bedroom1.png"
+    },
+    {
+      "file": "room-04-robe.png",
+      "title": "Walk-in robe",
+      "category": "Rooms",
+      "number": 14,
+      "source_file": "room-04-robe.png"
+    },
+    {
+      "file": "room-05-ensuite.png",
+      "title": "Ensuite",
+      "category": "Rooms",
+      "number": 15,
+      "source_file": "room-05-ensuite.png"
+    },
+    {
+      "file": "room-06-powder.png",
+      "title": "Powder room",
+      "category": "Rooms",
+      "number": 16,
+      "source_file": "room-06-powder.png"
+    },
+    {
+      "file": "room-07-kitchen.png",
+      "title": "Kitchen and meals",
+      "category": "Rooms",
+      "number": 17,
+      "source_file": "room-07-kitchen.png"
+    },
+    {
+      "file": "room-08-pantry.png",
+      "title": "Pantry",
+      "category": "Rooms",
+      "number": 18,
+      "source_file": "room-08-pantry.png"
+    },
+    {
+      "file": "room-09-family.png",
+      "title": "Family area",
+      "category": "Rooms",
+      "number": 19,
+      "source_file": "room-09-family.png"
+    },
+    {
+      "file": "room-10-laundry.png",
+      "title": "Laundry",
+      "category": "Rooms",
+      "number": 20,
+      "source_file": "room-10-laundry.png"
+    },
+    {
+      "file": "room-11-garage.png",
+      "title": "Garage",
+      "category": "Rooms",
+      "number": 21,
+      "source_file": "room-11-garage.png"
+    },
+    {
+      "file": "room-12-landing.png",
+      "title": "Upper landing",
+      "category": "Rooms",
+      "number": 22,
+      "source_file": "room-12-landing.png"
+    },
+    {
+      "file": "room-13-theatre.png",
+      "title": "Theatre",
+      "category": "Rooms",
+      "number": 23,
+      "source_file": "room-13-theatre.png"
+    },
+    {
+      "file": "room-14-retreat.png",
+      "title": "Retreat",
+      "category": "Rooms",
+      "number": 24,
+      "source_file": "room-14-retreat.png"
+    },
+    {
+      "file": "room-15-study.png",
+      "title": "Study",
+      "category": "Rooms",
+      "number": 25,
+      "source_file": "room-15-study.png"
+    },
+    {
+      "file": "room-16-bedroom2.png",
+      "title": "Bedroom 2",
+      "category": "Rooms",
+      "number": 26,
+      "source_file": "room-16-bedroom2.png"
+    },
+    {
+      "file": "room-17-bathroom2.png",
+      "title": "Bathroom beside Bedroom 2",
+      "category": "Rooms",
+      "number": 27,
+      "source_file": "room-17-bathroom2.png"
+    },
+    {
+      "file": "room-18-bedroom3.png",
+      "title": "Bedroom 3",
+      "category": "Rooms",
+      "number": 28,
+      "source_file": "room-18-bedroom3.png"
+    },
+    {
+      "file": "room-19-bedroom4.png",
+      "title": "Bedroom 4",
+      "category": "Rooms",
+      "number": 29,
+      "source_file": "room-19-bedroom4.png"
+    },
+    {
+      "file": "room-20-upperbath.png",
+      "title": "Upper bathroom",
+      "category": "Rooms",
+      "number": 30,
+      "source_file": "room-20-upperbath.png"
+    },
+    {
+      "file": "room-21-bedroom5.png",
+      "title": "Bedroom 5",
+      "category": "Rooms",
+      "number": 31,
+      "source_file": "room-21-bedroom5.png"
+    },
+    {
+      "file": "room-22-exterior.png",
+      "title": "Exterior overview",
+      "category": "Rooms",
+      "number": 32,
+      "source_file": "01-exterior-entry.png"
+    },
+    {
+      "file": "33-frame-overview.png",
+      "title": "Frame with walls and roof hidden",
+      "category": "Structure",
+      "number": 33,
+      "source_file": "33-frame-overview.png"
+    },
+    {
+      "file": "34-frame-stairs.png",
+      "title": "Stair framing and floor connections",
+      "category": "Structure",
+      "number": 34,
+      "source_file": "34-frame-stairs.png"
+    }
+  ]
+}

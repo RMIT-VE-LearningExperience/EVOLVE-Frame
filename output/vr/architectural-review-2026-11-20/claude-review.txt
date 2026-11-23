@@ -1,0 +1,304 @@
+# Leichhardt VR model — independent architectural review (Claude, 2026‑11‑20)
+
+**No blanket pass.** The envelope, storey heights, stair position and window schedule are sound. However, one ground‑floor wall is about 700 mm out, the theatre corner is misread, the 0.3.3 powder fix moves the wrong elements, and the porch and garage are the wrong building forms.
+
+**Method and limits**
+- I viewed sheets 01–26 and 32 as images; sheets 27–31 were checked by extracted text only.
+- The Read tool downsamples the renders to 2000 px wide (about 21 mm/px at 1:100, 10.5 mm/px at 1:50) and I cannot crop or zoom. "Scaled" figures below are ±40–50 mm and must be re‑measured at full resolution before use.
+- "Confirmed" means the figure closes against a written dimension chain or an explicit note.
+- I did not run Blender. Model evidence comes from `current-model-objects.jsonl` (the 0.3.3 candidate), `build_frame.py`, `vr_powder_coordination.py`, `powder-window-audit.json`, `model-revision.json`, gallery contact sheets 01–04 and the headset shot.
+- Not opened: contact sheets 05–06, individual gallery shots, `opening-coordination.json`, `opening-clearances.json`, `upper-entry-coordination.json`, `finish-contact-coordination.json`, and most of the `vr_*.py`, enclosure and learning scripts. Items that depend on them are marked "verify".
+- Model coordinates: the upper west cladding face is x = 6.280 and the Elevation C cladding face is y = −0.100. Frame centrelines run x 6.425–26.945 and y 0.045–7.835.
+
+---
+
+## 1. Theatre interpretation (sheet 08, cross‑checked with 07, 14, S09 and the joist layout)
+
+### What is certain
+
+**a) The square is a closed, full‑height framed box, not a gap.**
+- Bottom chain on sheet 08: `3000 RETREAT | 90 | 330 | 90 | 3880 THEATRE | 190`.
+- Right‑hand chain: `190 | 1100 | 90 | 1920 | 90 | 420 | 90 | 3480 | 90 | 420 | 190`, which sums to 8080.
+- So the NW corner holds a 330 × 420 internal enclosure with 90 mm walls on all four sides. The inner square on the drawing is the inside face of those walls.
+- The west and north walls run continuously through the corner as its outer faces.
+- An identical box sits at the SW corner (the "510" and "420" tags). The stated 4300 × 4500 room size includes both; clear between the boxes is 3880 × 3480.
+
+**b) The hatched band is an overhead bulkhead ring, not a wall or a floor.**
+- It is labelled "340mm DROP DOWN BULKHEAD". The dashed inner line is its edge.
+- It runs along the north side (510 deep), the south side (510), the west side between the two boxes (420) and the east side (scaled at about 500, not dimensioned).
+- The boxes are unhatched because they are full height.
+- The grey long‑dash diagonals and the centre line are the roof hips and ridge over. They are not walls.
+
+**c) The door.** It is 820 × 2340, in the north wall beside the box, hinged on the box side and swinging into the theatre under the hatched band.
+
+**d) The floor.**
+- The solid line 2300 from the west wall is a step. The west part is labelled "PLATFORM" and the east 2000 carries the "STEP DOWN" leader.
+- The structural floor is flat there. S09 and the joist layout show no set‑down; MS‑360 recesses occur only under the two showers.
+- Beam 1B7 sits exactly under the step line, 2090 from the east frame face.
+
+**e) The north wall is not collinear with Bed 5's south wall.**
+- It is 3300–3390 from the Elevation A face, against 3390–3480 for Bed 5.
+- The joist layout (1190 | 90 | 1920) and the load‑bearing wall under it on S09 both agree.
+
+### What is not certain
+
+- **What the square is.** No legend names it. The two matching squares beside the ground‑floor ensuite are tagged "VD" in the sheet 07 chains (500 / 410), also undefined. In both places the squares flank a bulkheaded recess that carries the TV and data points on sheet 14. I read it as a non‑structural framed enclosure ending a TV‑wall recess. Do not model it as a column, pier or riser, and do not put anything inside it.
+- **The step height.** No sheet gives it.
+- **Which side is high.** The door swings in over the "platform" zone, which is impossible if that zone is raised right up to the door wall. The drawings do not resolve this.
+- **Door against bulkhead.** The upper ceiling is 2590, so the bulkhead soffit is 2250. That is below the 2340 leaf drawn swinging under it. This is a conflict in the drawings.
+
+### Exact model discrepancy
+
+| Element | Model | Drawing |
+|---|---|---|
+| West wall | Stops at y = 4.083 (`build_frame.py:159`, traced from px 661) | Continuous to the north wall |
+| North wall | y 4.480–4.570 | y 4.590–4.680, i.e. 110 mm further north |
+| NW corner | 0.40 m open slot; north‑wall stub x 22.53–22.86 stands alone as the "post" in the headset shot | Closed box |
+| SW box | Absent | Present |
+| Bulkhead ring | Absent | Present on all four sides |
+| Platform top | 3.56 plus deck, about 440 mm high | Height not given |
+| Platform north edge | y = 4.04, leaving a 0.44 m slot behind the door | Not shown stopping short |
+| Door opening | x 22.859–23.679 | About 23.14–23.96 (scaled) |
+
+- The wall end at px 661 and the platform edge at px 665 were both traced to the dashed bulkhead/box line.
+- The 420 height is a misread. The script comment says "platform 2300, step 420" (`build_frame.py:340`), but "420" is the plan depth of the box and bulkhead, not a height.
+- Codex's "close the gap between the west and north traces" lands on the right outcome (a closed corner) for the wrong reason. It would still omit the box returns, the second box, the bulkhead and the wall offset.
+
+### Corrected method (dimension‑driven, no tracing)
+
+1. West wall: x 22.510–22.600, y 0.09–4.68.
+2. North wall: y 4.590–4.680, from x 22.51 to the east wall.
+3. NW box: east wall x 22.930–23.020 and south wall y 4.080–4.170, lined on the theatre faces, sealed, no door.
+4. SW box: mirrored, with its north wall at y 0.510–0.600.
+5. Bulkhead ring: soffit at FF + 2.250, hideable with the ceilings.
+   - North band y 4.08–4.59; south band y 0.09–0.60.
+   - West band x 22.60–23.02, between the boxes only.
+   - East band about 500 deep, flagged as scaled.
+6. Door: re‑measure the jamb offset at full resolution, then place it. Hinge on the west jamb.
+7. Platform: step line at x = 24.90. Remove the 420 height. Until the height is confirmed, use one riser of 190 or less and hold the platform clear of the door swing. Tag both as assumptions in object metadata.
+8. Ask Chris or the builder for the step height, which side is high, and how the 2340 door meets the 2250 soffit.
+
+---
+
+## 2. Systemic errors
+
+**S1 — Dashed and overhead linework traced as wall and floor ends.** The theatre is the confirmed case. Audit every traced wall end and platform edge against solid‑line walls only. Bulkhead edges, roof hips and ridge, the first‑floor‑over outline and the faint overhead stair risers on sheet 07 must be excluded.
+
+**S2 — Collinearity assumed where the chains say otherwise.**
+- All four hall‑line walls upstairs were traced at px 641, including the theatre north wall, which is 90–110 mm off that line.
+- Downstairs, the Bed 1 north wall was traced on the same line as the ensuite/WIR north wall (px 695). The chains put it about 700 mm further north (GF‑01).
+
+**S3 — Three independent raster registrations.**
+- `gp`, `up` and `ep` are separate two‑point pixel fits at about 22 mm/px (`build_frame.py:44-45,171`), read from 1888 px previews.
+- The envelope they fit is correct: 20.52 × 7.79 m frame centrelines, both storeys stacking, which closes with the chains.
+- Interior features carry 30–90 mm scatter, with local errors of 180–320 mm (powder openings, ensuite/WIR wall).
+- The engineering overlay is not tied to the architectural walls it draws. This is the root of the C2(F)/W03 "clash".
+
+**S4 — Fixing by ray test rather than by source.** The 0.3.3 approach and its "PASS" prove only that the model no longer self‑intersects. They do not show that it matches the drawings.
+
+**S5 — Compass names rotated 90°.**
+- Elevation A is the EAST elevation, B is SOUTH, C is WEST and D (the garage end) is NORTH.
+- The model's "North wall" is therefore the east elevation; true north is model −X.
+- This is harmless for geometry but will mis‑aim any sun or bake direction keyed to those names.
+
+---
+
+## 3. Prioritised discrepancy register
+
+Severity: **C** = critical layout error, **H** = high, **M** = medium, **L** = low.
+Status: **Conf** = dimension chain or explicit note; **Scaled** = measured from the raster; **Verify** = needs a check I could not do.
+
+| ID | Sev | Sheets | Plan evidence | Model evidence | Status | Correction |
+|---|---|---|---|---|---|---|
+| GF‑01 | C | 07, S09, joist layout | Chains `240 \| 3110 ENTRY \| 90 \| 4500 BED 1 \| 240` and `1100 \| 90 \| 2640 CORRIDOR \| 90 \| 3780 ENSUITE`. Bed 1 north wall is 3110 from the A‑side inner face (centre y ≈ 4.635), about 700 mm north of the ensuite/WIR wall (3.915). S09 shows two separate lines. | `Entry bedroom division` at y 3.884–3.974 (`build_frame.py:127`). Bed 1 is about 3.84 m deep instead of 4.50; the entry about 3.82 instead of 3.11. The upper theatre wall does not stack on it. | Conf | Move the Bed 1 north wall to y 4.590–4.680. Extend the WIR/Bed 1 wall north to meet it. Move the Bed 1 door with the wall, at the NW corner. Regenerate linings, ceiling and skirtings. |
+| TH‑01 | H | 08 | Section 1a | West wall ends at y 4.083; open slot (headset shot) | Conf | Section 1, steps 1–3 |
+| TH‑02 | H | 08, 14 | Section 1a–b | No SW box and no bulkhead objects (name search; the only bulkheads are the five `D05 …` objects) | Conf | Section 1, steps 4–5 |
+| TH‑03 | H | 08, S09, joist layout | Section 1d: step height absent, flat structure | Platform about 440 high from a misread "420"; edge stops at the bulkhead line; unusable slot behind the door | Conf (misread); height unknowable | Section 1, steps 7–8 |
+| ST‑01 | H | 07, 15, S09 | Section 4 | 0.3.3 candidate moves C2(F) to 20.470 and W10 by −250 | Conf (direction); Scaled (amounts) | Do not install; section 4 |
+| ST‑02 | H | 07, 08 | Sheet 07: "FULL HEIGHT WALL WITH 1.0M HIGH HANDRAIL" on the stair's inner side, with a 90 wall in the chain (`1100 STAIRS \| 90`). S09 shows a wall below 1B1. Sheet 08: 1200 dwarf wall with capping above. | Open newel and baluster balustrade down the ground‑floor flight (contact sheet 02 shots 08–09; `model-revision.json` "newels, balusters") | Conf (note); Verify (east end extent) | Replace the balustrade with a lined full‑height 90 wall from slab to the underside of the upper dwarf wall. Add a wall handrail at 1.0 m. Keep the upper dwarf walls and caps. |
+| EX‑01 | H | 03, 04, 07, 09, 21 | Porch is two 470 × 590 brick piers with rendered blue‑board packed out to align, a parapet (74 + 2566 + 700 = 3340; 3600 above NGL), a box‑gutter roof with sump and DP/RWH, and a solid rendered side wall carrying the meter box on Elevation A. | Pitched standing‑seam canopy with eaves gutter on two slim white posts; no piers or parapet (contact sheets 01 and 02, shots 05–06) | Conf | Rebuild as a pier and parapet portal with a concealed low roof. Keep P1/PB1 inside as the hideable structure layer. |
+| EX‑02 | H | 03, 04, 09, 10, 21 | Garage is a brick box with 3600 parapets on Elevations A, C and D (ceiling 2826). The 5° roof falls to a box gutter with sump on the C side. "Parapet wall" on the zero boundary. | Exposed skillion with white fascia band and overhanging roof (contact sheet 01, shots 02 and 04) | Conf | Raise brick parapets with capping to 3.60 above garage FFL. Set the roof and box gutter inside. Remove eaves fascia and gutter. |
+| GF‑02 | H | 07, 14, 15, 17 | Chain `5100 FAMILY \| 90 \| 410 VD \| 90 \| 1800 ENSUITE \| 90 \| 90 \| 2270 WIR \| 90 \| 4000 \| 240` sums to 14510. Two "VD" boxes with a hatched 340 bulkhead band between them. Double 90 wall between ensuite and WIR, which carries the 720 cavity slider. | Ensuite west wall is on the outer VD line (17.98). Single ensuite/WIR wall centred at 20.179; dimensioned position is 20.36–20.54. WIR is 2.51 m wide instead of 2.27. No boxes, recess or bulkhead. | Conf (positions); Verify (which side the recess opens to — sheet 14 suggests the family TV wall, sheet 17 reads less clearly) | Rebuild from the chain: VD zone, both boxes, 1800 ensuite, wall or walls at 20.36–20.54, 2270 WIR. Add the bulkhead. |
+| FX‑01 | H (legibility) | 15–19 | Fully dimensioned joinery and fixtures: kitchen back bench 6890 with overheads; island 3200 × 1000 with waterfall ends; fridge space and pantry shelving; vanities 1300 / 1800 / 1100 / 1200; WCs; showers; robes; laundry bench and linen | None present by object name; rooms are empty shells (contact sheets 03–04) | Conf | Fixed low‑poly blocks per sheets 15–19. No tapware or plumbing detail is needed. |
+| GF‑03 | M | 15 (1:50), 07 | W03 sits hard against the powder/stair wall (east jamb about 0–85 from the wall). The door is at the east end of the south wall. | W03 at x 20.553–21.363, 203 mm off the east lining. Door about 180 mm west of drawn. Both traced from px 1270–1272. | Scaled | Move both about 0.13–0.19 m east after a full‑resolution measurement; see section 4 |
+| TH‑04 | M | 08, joist layout | Section 1e | North wall 110 mm south; door about 280 mm west | Conf (wall); Scaled (door) | Section 1, steps 2 and 6 |
+| GF‑04 | M | 07, 12, 16, 17 | 340 bulkheads: kitchen hatched zone (ceiling 2400, "PLASTER BULKHEAD" on sheet 16); corridor/entry junction; WIR 800 opening; nook ("450mm deep"); ensuite/VD band; laundry 300 over cupboards | Only D05 downstands exist | Conf | Add as hideable ceiling‑layer boxes |
+| FF‑01 | M | 08, 18, 19 | Bed 5 robe has 3 × 720 × 2400 sliders to Bed 5. Bed 2 robe has 3 × 820 × 2400 sliders (`3310 \| 90 \| 600 RB \| 90`). Linen has 2 × 620 × 2400 mirrored sliders to the hall. WIR 3 and WIR 4 each have an 820 × 2400 cavity slider. | `FF Bed 5 west` is a solid wall with no opening in the source trace (robe sealed). No Bed 2 robe front. Linen front solid in `Bath hall`. Only one "WIR3 slider" opening exists. | Conf (drawings); Verify (model, against `upper-entry-coordination.json`; also the Bed 4 hinged door against the WIR 4 slider position, which I could not resolve at this resolution) | Add openings with closed slider panels and robe fronts |
+| FF‑03 | M | 08 | "340mm DROP DOWN BULKHEAD" across the hall/retreat opening | Absent | Conf | Add |
+| EX‑03 | M | 09, 10, 11 | Obscure glazing to W03, W07, W12, W13 and W16 | No obscure or frosted material found by object name or script search | Conf (drawings); Verify (materials) | Translucent material on those five |
+| GF‑05 | M | 07, 15, 17 | WIR opening is 800 wide under a bulkhead. Ensuite door is a 720 × 2340 cavity slider. | Both modelled as 900 × 2400 clear openings (bottom‑plate gaps) | Conf | Resize, and add the slider panel |
+| ST‑03 | M | 07, 08, 15 | Stair zone is 3190 downstairs against a 4000 flight upstairs, so the top 810 mm of the flight runs over the powder room's east strip. Sheet 15 shows no soffit there (drawing gap). | Powder wall studs trimmed (`vr_review_finishes.py:3`); soffit closure not seen | Verify | Line the stair underside inside the powder room; mark as an assumption |
+| FF‑02 | L–M | 08 | Chain positions | Partition scatter of 28–87 mm; e.g. WC about 870 clear against 1000 | Conf | Regenerate from chains with the S3 fix |
+| EX‑04 | L–M | 11 | Awning and fixed pane patterns per window | Generic subdivisions (only W04 corrected) | Verify | Match mullion and transom patterns |
+| EX‑05 | L | 03, 04, 07, 10 | Rendered Hebel above D05 "in lieu of brickwork"; downpipes and rainheads; whirlybird; solar panel | Not verified, or absent | Verify | Optional, apart from the render band over D05 |
+| LV‑01 | L | 06, 07 | Porch FFL 10.734 is 172 below 10.906, yet labelled "226mm STEP DOWN" | Model uses −226 | Drawing conflict | Keep; note in metadata |
+| NM‑01 | L | 09, 10, 26–32 | See S5 | Wall names | Conf | Fix the sun direction before any bake |
+
+**Checked and correct — do not re‑report**
+- W04 sill 905 / head 1419: fixed, per `model-revision.json`.
+- Storey heights 2740 + 400 + 2590 (sheet 12). The 3440/3450 on the elevations is not the floor‑to‑floor height: 17 risers at 184.7 give 3140.
+- Stair: 4000 flight, 17 risers, 1100 zone, 2000 off the entry wall.
+- Void 2550, and upper dwarf walls at 1200 with caps.
+- Roof: 25° hip with 450 overhang (the roof sheet edge at y = −0.55 against the cladding face at −0.10).
+- Garage and alfresco at −86.
+- Scheduled window sizes, sills and heads in the trace.
+- D05 as a 6600 corner stacker at 2100, and the alfresco brick piers.
+- Brick lower storey and rendered upper storey.
+
+---
+
+## 4. Critique of the 0.3.3 candidate (C2(F), W10, W03, ST1)
+
+**Verdict: do not install. Correct the source registration first.**
+
+**Where the clash comes from**
+- The 0.3.2 clash is real in the model: column at x 20.831–20.920 inside the W03 opening at 20.553–21.363.
+- It does not exist in the drawings. S09 shows C2(F) at the west jamb of the W03 bay. The model's own audit already records this ("S09 depicts the column at the edge of the window bay").
+- The overlap comes from two opposing registration errors:
+  - **W03 is too far west.** Sheet 15's plan and Elevation A put it hard against the stair‑side wall. The powder door shows the same offset.
+  - **C2(F) is too far east.** Tying S09 to the stair, which sheet 08 dimensions (foot at 24.90, head at 20.90), puts the column at about x 20.70–20.75. Its east face would then be at W03's west reveal.
+
+**What 0.3.3 does instead**
+- It leaves W03 where it is wrong.
+- It moves the column to 20.470, about 0.23–0.28 m west of the S09 position.
+- It shifts W10 by −250 with no drawing basis. The traced W10 is centred on the 1390 landing; after the shift its west jamb is about 55–80 mm from the Bed 5 partition face, too little for jamb studs at the T‑junction.
+- It then rewrites ST1, 1B2, the rim and a joist end around the invented position. The script itself calls this "illustrative".
+
+**Source‑faithful alternative**
+- W03 and the powder door move east by about 0.13–0.19 m.
+- C2(F) moves west by about 0.13–0.18 m, to the W03 west jamb.
+- W10 stays, or moves 0.1 m at most. Its traced east jamb (20.664) already nearly coincides with the column.
+- ST1 starts at C2(F) and spans the W03 head, as S09 shows.
+- 1B2 stays at the stair head, bearing on ST1.
+- No structural redesign is implied; this only restores what S09 draws.
+
+All amounts are scaled and must be re‑measured at full resolution.
+
+---
+
+## 5. Room‑by‑room checklist
+
+### Ground floor
+
+| Room | Status | Reason |
+|---|---|---|
+| Porch | **Mismatch** | EX‑01. Level conflict LV‑01. |
+| Entry and void | **Mismatch** | About 0.7 m too deep (GF‑01). Corridor bulkhead missing. D01 and W02 correct. |
+| Stair (lower) | **Mismatch** | Balustrade should be a full‑height wall (ST‑02). Flight geometry correct. |
+| Powder | **Mismatch** | W03 and door offset (GF‑03). 0.3.3 not acceptable. No WC or 1300 vanity. Stair soffit to verify. Room size correct (within 40 mm). |
+| Corridor | Correct | 1150 wide; south wall within 15 mm. |
+| Bed 1 | **Mismatch** | 3.84 m deep against 4.50 (GF‑01). W01 correct. |
+| WIR | **Mismatch** | 2.51 m wide against 2.27. Opening 900 against 800 with bulkhead. No joinery. |
+| Ensuite | **Mismatch** | VD zone collapsed (GF‑02). 900 opening instead of the 720 cavity slider. No fixtures. W07 not obscure. WC partition present. |
+| Family | Incomplete | East wall recess, VD boxes and bulkhead missing. W06 and D05 correct. |
+| Kitchen | Incomplete | No benches, island or overheads. Dropped ceiling zone missing. W04 correct. |
+| Pantry | Not verified | Walls present; not checked against sheet 16's 1020 / 90 / 1480 setout. No shelving. |
+| Meals | Correct (not fully verified) | W05 and D05 correct. C3 column retained per S09. |
+| Laundry | Incomplete | No linen or broom cupboards, bench, trough or 300 bulkhead. Doors not individually checked. |
+| Nook | Incomplete | 450‑deep bulkhead not confirmed. |
+| Alfresco | Correct | Piers, −86 level, soffit. Render above D05 not verified. |
+| Garage | **Mismatch** | Parapet form (EX‑02). D03, D04, level and ceiling correct. |
+
+### First floor
+
+| Room | Status | Reason |
+|---|---|---|
+| Landing and stair head | Correct (minor) | Landing about 2.03 m clear against 1920; fixed by TH‑04. Dwarf walls correct. |
+| Void | Correct | 2550; W09 fixed light. |
+| Theatre | **Mismatch** | TH‑01 to TH‑04. |
+| Retreat | Incomplete | Hall bulkhead missing. W19 correct. East side depends on the theatre fix. |
+| Study | Correct | Within about 30 mm; W18 correct. |
+| Bed 2 | Incomplete | Robe front missing (FF‑01). |
+| Bath 2 | Incomplete | No fixtures. W16 not obscure. Walls not chain‑checked. |
+| Bed 3 and WIR 3 | Not verified | Slider access unresolved. |
+| Bed 4 and WIR 4 | Not verified | Position of the hinged door against the slider is unresolved at this resolution. |
+| WC | Incomplete | About 870 wide against 1000. No pan. W13 not obscure. |
+| Bath | Incomplete | No fixtures. W12 not obscure. Entry reworked in 0.3.2; not re‑checked. |
+| Linen | **Mismatch** (verify) | Sealed; needs 2 × 620 mirrored sliders. |
+| Bed 5 | **Mismatch** (verify) | Robe sealed behind a solid wall. W11 correct. |
+| Hall | Correct (minor) | 1120 wide; manhole not checked. |
+
+---
+
+## 6. Sheet coverage matrix
+
+| Sheet | Content | Inspection | Limits / use |
+|---|---|---|---|
+| 01 | Cover and index | Image | — |
+| 02 | General notes | Image, skimmed | Stair limits used (riser ≤ 190) |
+| 03 | Site and roof, 1:125 | Image | Roof forms, parapets, DP/RWH; site context intentionally not modelled |
+| 04 | Roof plan, 1:100 | Image | Hips, ridge, garage 5° fall, box gutters and sumps, porch roof |
+| 05 | Site notes | Image, skimmed | No model content |
+| 06 | Slab setout | Image | Levels and step‑downs; 50 mm shower recess; plumbing points not assessed |
+| 07 | Ground floor plan | Image, text, two crops | Chains summed; small text near the limit of legibility |
+| 08 | First floor plan | Image, text, three crops | Chains summed; Bed 4 / WIR door zone unresolved |
+| 09 | Elevations B (south) and A (east) | Image | Heights, parapets, porch, obscure glazing |
+| 10 | Elevations D (north) and C (west) | Image | Garage parapet, Hebel over D05, piers |
+| 11 | Window and door schedule | Image | All 19 windows and 5 doors read |
+| 12 | Section A‑A, 1:50 | Image | 2740 / 400 / 2590, eaves, kitchen bulkhead |
+| 13 | Section notes, stair detail | Image | Framing schedule skimmed |
+| 14 | Electrical | Image | Used only for TV points and void window; fittings not assessed |
+| 15 | Powder and WIR details | Image | W03 and door measured (scaled) |
+| 16 | Kitchen and pantry | Image | Joinery setout read; pantry not reconciled to the model |
+| 17 | Ensuite and laundry | Image | VD recess side ambiguous |
+| 18 | Bed 2 / Bed 5 robes, linen, Bath 2 | Image | — |
+| 19 | WIR 3 / WIR 4, WC, Bath | Image | WIR access partly unresolved |
+| 20 | Energy table | Image | No geometry |
+| 21 | Gutter, eave and wall details | Image | Box gutter and first‑floor wall build‑up; typical only |
+| 22 | Masonry and flashing details | Image | Typical only |
+| 23–25 | Wet‑area standard figures | Images | Generic; no model requirement |
+| 26 | Shadow, 9 am | Image | Confirms orientation |
+| 27–31 | Shadows, 10 am–2 pm | **Text only** (titles, "22 September") | Images not viewed; assumed same base as 26 and 32 |
+| 32 | Shadow, 3 pm with section inset | Image | — |
+
+Supporting documents: S09 (full sheet and crop), joist layout final sheet, engineering and joist text searches. S08 was opened by mistake and is not relevant.
+
+---
+
+## 7. Repair sequence and acceptance checks
+
+### A. Source‑faithful corrections, in order
+
+1. **Freeze 0.3.3.** Remove `vr_powder_coordination.py` from the build.
+2. **Registration.**
+   - Replace traced interior coordinates with a dimension‑driven wall table for both floors, taken from the sheet 07 and 08 chains.
+   - Tie S09 to the architectural walls and the stair.
+   - Re‑run the position audit.
+   - **Check:** every dimensioned room is within ±10 mm of its chain; every chain sums to 20810 / 8080 (upper) and 8180 (lower).
+3. **GF‑01 and GF‑02.** Bed 1 north wall, ensuite / VD / WIR.
+   - **Check:** Bed 1 is 4000 × 4500; entry is 3110 deep; the theatre north wall sits directly over the Bed 1 north wall.
+4. **Theatre** (TH‑01 to TH‑04).
+   - **Check:** from the headset viewpoint the corner reads as a solid box return; clear room is 3880 × 3480 between boxes; bulkhead soffit at 2250; platform flagged as an assumption with no slot behind the door.
+5. **Powder and stair** (GF‑03, section 4, ST‑02, ST‑03).
+   - **Check:** C2(F) abuts the W03 west reveal; W10 is still on the landing with full jamb studs; the ground‑floor stair is walled with a handrail; no member crosses any glazing. Keep the ray tests as a regression check only.
+6. **Openings.** FF‑01, GF‑05 and the Bed 4 / WIR doors, after a full‑resolution read.
+   - **Check:** every robe, linen and WIR space is enterable or shows closed slider panels; no sealed cavities.
+7. **Bulkheads** (GF‑04, FF‑03), on the ceiling toggle.
+8. **Exterior form** (EX‑01, EX‑02).
+   - **Check:** the Elevation A, B, C and D silhouettes match sheets 09 and 10; no eaves gutter on the garage or porch.
+9. **Glazing** (EX‑03, EX‑04).
+10. **Fixed low‑poly joinery and fixtures** (FX‑01) per sheets 15–19.
+    - **Check:** each room is identifiable without its label; triangle and batch budget re‑measured against the 0.3.2 baseline of 190,528 triangles and 47 batches.
+11. **Lighting.** Sun set from true north (model −X). Then bake and build the APK.
+
+**Before the bake**
+- Regenerate the 38‑shot gallery, plus one shot per corrected item.
+- Run a walls‑hidden and roof‑hidden pass.
+- Check no geometry sits inside the VD or theatre boxes.
+
+### B. Optional visual enhancements (not defects)
+
+- Downpipes, rainheads, whirlybird, solar panel, meter box.
+- Tile and splashback zones, mirrors, shower screens, niches.
+- 50 mm shower recess.
+- Curtain to the void window.
+- Site and landscape, plumbing detail and electrical fittings stay out by design.
+
+### C. Assumptions to carry as tagged metadata, with questions for the builder or Chris
+
+- Theatre step height, which side is high, and the door against the 2250 bulkhead.
+- Identity of "VD" and of the theatre squares.
+- Which side the ensuite/family recess opens to.
+- Porch 172 against 226.
+- Stair soffit in the powder room.
+- Bed 4 / WIR 4 door arrangement.

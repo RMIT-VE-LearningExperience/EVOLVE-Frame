@@ -1,0 +1,13 @@
+{
+  "sha256": "b775403a7191333af0799effcadc441db8b1d2294899bcf0fc333f75fa41dc35",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "We're in the entry hall. Pause here and look along the circulation space. The doors and partitions organise how people move through the house. You can use Hide walls to reveal the timber framing, then Show walls to bring the room back. The floor stays in place. Take a look around, then choose Next room to visit the main bedroom.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

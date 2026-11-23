@@ -1,0 +1,267 @@
+{
+  "BH-GF-01": {
+    "evidence": "0.4.6 measured zone Nook 450 mm deep bulkhead: {\"min\": [6.485, 2.475, 2.4], \"max\": [8.435, 2.925, 2.74], \"floor_datum_m\": 0, \"clear_soffit_above_deck_m\": 2.4}. Sheet07: 1950 nook, 450 deep, 340 drop; coordinate end against corrected nook wall in next exterior pass.",
+    "action": "Finish exists; retain scaled extent and finished-datum qualifications.",
+    "status": "partial"
+  },
+  "BH-GF-02": {
+    "evidence": "0.4.6 measured zone Kitchen 340 mm dropped ceiling: {\"min\": [13.04, 5.11, 2.4], \"max\": [19.93, 7.775, 2.74], \"floor_datum_m\": 0, \"clear_soffit_above_deck_m\": 2.4}. Sheets07/12/16: 6890 kitchen run, 2680 zone; soffit2400. Interior ceiling edge follows kitchen hatch.",
+    "action": "Finish exists; retain scaled extent and finished-datum qualifications.",
+    "status": "partial"
+  },
+  "BH-GF-03": {
+    "evidence": "0.4.6 measured zone Corridor entry bulkhead: {\"min\": [21.62, 3.96, 2.4], \"max\": [21.71, 5.11, 2.74], \"floor_datum_m\": 0, \"clear_soffit_above_deck_m\": 2.4}. Sheet07 leader at powder/entry junction, 340 drop.",
+    "action": "Finish exists; retain scaled extent and finished-datum qualifications.",
+    "status": "partial"
+  },
+  "BH-GF-04": {
+    "evidence": "0.4.6 measured zone Ensuite vanity bulkhead: {\"min\": [18.575, 1.08, 2.4], \"max\": [19.16, 2.88, 2.74], \"floor_datum_m\": 0, \"clear_soffit_above_deck_m\": 2.4}. Sheet17 plan/elevationD: bulkhead over1800 vanity, 600 cabinet depth. Sheet07/17 side discrepancy remains logged.",
+    "action": "Finish exists; retain scaled extent and finished-datum qualifications.",
+    "status": "partial"
+  },
+  "BH-GF-07": {
+    "evidence": "0.4.6 measured zone Laundry340 dimension-chain bulkhead: {\"min\": [8.435, 4.695, 2.4], \"max\": [8.815, 7.765, 2.74], \"floor_datum_m\": 0, \"clear_soffit_above_deck_m\": 2.4}. Sheet17B340+800+700+900=2740;300 label conflict retained;380 projection illustrative;3070 inside3090 nominal room.",
+    "action": "Retain source/datum/extent qualifications; review final images. Laundry300/340 text conflict and theatre openings remain unresolved.",
+    "status": "partial"
+  },
+  "BH-FF-01": {
+    "evidence": "0.4.6 measured zone Upper hall retreat bulkhead: {\"min\": [19.42, 3.38, 5.39], \"max\": [19.51, 4.5, 5.73], \"floor_datum_m\": 3.159, \"clear_soffit_above_deck_m\": 2.231}. Sheet08: 1120 hall, 340 drop at retreat junction.",
+    "action": "Finish exists; retain scaled extent and finished-datum qualifications.",
+    "status": "partial"
+  },
+  "BH-FF-02": {
+    "evidence": "0.4.6 measured zone Theatre entry perimeter bulkhead: {\"min\": [24.04, 4.08, 5.39], \"max\": [26.885, 4.575, 5.73], \"floor_datum_m\": 3.159, \"clear_soffit_above_deck_m\": 2.231}. Sheet08: 510 band. Door bay temporarily omitted pending the documented door/bulkhead height conflict.",
+    "action": "Retain source/datum/extent qualifications; review final images. Laundry300/340 text conflict and theatre openings remain unresolved.",
+    "status": "partial"
+  },
+  "BH-FF-03": {
+    "evidence": "0.4.6 measured zone Theatre west perimeter bulkhead: {\"min\": [22.615, 0.6, 5.39], \"max\": [23.02, 4.08, 5.73], \"floor_datum_m\": 3.159, \"clear_soffit_above_deck_m\": 2.231}. Sheet08: 420 band from wall frame, lining deducted; soffitFF+2250.",
+    "action": "Finish exists; retain scaled extent and finished-datum qualifications.",
+    "status": "partial"
+  },
+  "BH-FF-04": {
+    "evidence": "0.4.6 measured zone Theatre south perimeter bulkhead: {\"min\": [23.035, 0.105, 5.39], \"max\": [26.885, 0.6, 5.73], \"floor_datum_m\": 3.159, \"clear_soffit_above_deck_m\": 2.231}. Sheet08: 510 band including wall finish convention.",
+    "action": "Finish exists; retain scaled extent and finished-datum qualifications.",
+    "status": "partial"
+  },
+  "BH-FF-05": {
+    "evidence": "0.4.6 measured zone Theatre window perimeter bulkhead: {\"min\": [26.4, 0.6, 5.39], \"max\": [26.885, 4.08, 5.73], \"floor_datum_m\": 3.159, \"clear_soffit_above_deck_m\": 2.231}. Sheet08 hatch: approximately500 deep, not explicitly dimensioned; retain as provisional.",
+    "action": "Retain source/datum/extent qualifications; review final images. Laundry300/340 text conflict and theatre openings remain unresolved.",
+    "status": "partial"
+  },
+  "BH-ALL-01": {
+    "evidence": "11 measured bulkhead zones now exist, with340mm drops. Upper soffits2231 above retained finished deck,2250 above structural datum.",
+    "action": "Reconcile19mm upper floor convention and the theatre2340 door/window-head conflicts; do not mark all ceiling details accepted.",
+    "status": "partial"
+  },
+  "BH-GF-05": {
+    "evidence": "Current WIR passage800 clear and2400 head; existing wall head lining forms340 drop.0.4.5 corner repair retained.",
+    "action": "No duplicate bulkhead skin added; exact source trim/framing acceptance remains separate.",
+    "status": "partial"
+  },
+  "BH-GF-06": {
+    "evidence": "Unequal boxed recess ends and family recess retained from dimension-driven setout; both source-labelled VD enclosures exist.",
+    "action": "Do not assign an unsupported service/function; source coordination remains open.",
+    "status": "partial"
+  },
+  "BH-GF-08": {
+    "evidence": "D05 head finish is an infill above2100 corner glazing, distinct from340 plaster bulkheads.",
+    "action": "Keep source meaning separate; old object naming is historical, not a dimension basis.",
+    "status": "partial"
+  },
+  "BH-GF-09": {
+    "evidence": "Retained powder/stair soffit geometry; prior conflict audit remains open. New powder tile treatment preserves the sloped wall shape.",
+    "action": "Resolve sheet07/08 stair versus sheet15 flat ceiling/source levels; no cosmetic deletion.",
+    "status": "unverified"
+  },
+  "BH-FF-06": {
+    "evidence": "Existing two full-height theatre boxed corner returns retained; dimension-chain model checked.",
+    "action": "Exact interpretation of inner90mm lines remains unresolved.",
+    "status": "partial"
+  },
+  "BH-FF-07": {
+    "evidence": "Existing two full-height theatre boxed corner returns retained; dimension-chain model checked.",
+    "action": "Exact interpretation of inner90mm lines remains unresolved.",
+    "status": "partial"
+  },
+  "BH-FF-08": {
+    "evidence": "2340 door retained; nominal2250 soffit (2231 above model deck) does not clear door. Door bay remains omitted; W08 head conflict also remains.",
+    "action": "Designer/source clarification required; do not shrink door or invent higher ceiling.",
+    "status": "partial"
+  },
+  "BH-FF-09": {
+    "evidence": "Inner90mm perimeter elements remain ambiguous between full-height lining and ceiling fascia.",
+    "action": "Keep explicitly unverified; no extra full-height room skin invented.",
+    "status": "unverified"
+  },
+  "TH-01": {
+    "evidence": "Sheets08/12 reviewed with Claude:2300/2000 horizontal zones and STEP DOWN are drawn; platform height/high side unconfirmed. Former invented420 rise remains removed.",
+    "action": "Keep platform height null pending source clarification;420/510 are horizontal bulkhead widths.",
+    "status": "unverified"
+  },
+  "TH-02": {
+    "evidence": "Sheets08/12 reviewed with Claude:2300/2000 horizontal zones and STEP DOWN are drawn; platform height/high side unconfirmed. Former invented420 rise remains removed.",
+    "action": "Keep platform height null pending source clarification;420/510 are horizontal bulkhead widths.",
+    "status": "unverified"
+  },
+  "TH-03": {
+    "evidence": "Sheets08/12 reviewed with Claude:2300/2000 horizontal zones and STEP DOWN are drawn; platform height/high side unconfirmed. Former invented420 rise remains removed.",
+    "action": "Keep platform height null pending source clarification;420/510 are horizontal bulkhead widths.",
+    "status": "unverified"
+  },
+  "TH-04": {
+    "evidence": "Sheets08/12 reviewed with Claude:2300/2000 horizontal zones and STEP DOWN are drawn; platform height/high side unconfirmed. Former invented420 rise remains removed.",
+    "action": "Keep platform height null pending source clarification;420/510 are horizontal bulkhead widths.",
+    "status": "unverified"
+  },
+  "PWD-04": {
+    "evidence": "Mounted holder on page-top wall at900 above tile and600 from cistern-side wall; actual wall-face ray passed.",
+    "action": "Product shape illustrative; source height/offset represented.",
+    "status": "partial"
+  },
+  "PWD-05": {
+    "evidence": "Full-height tile replaces existing linings on room faces; floor retained; sloped stair wall shape preserved.",
+    "action": "Page-right wall coverage inferred (only A-C elevations); stair soffit coordination still open.",
+    "status": "partial"
+  },
+  "ENS-03": {
+    "evidence": "Actual1000x450x60 recess, sill1200 above tile, centred within1770 finished shower wall.9 rays reach back; far-side lining unchanged; every changed timber member recorded.",
+    "action": "Depth/trimming illustrative; ground-floor load path not assessed. No concealed mixer pipework or engineering connection design.",
+    "status": "partial"
+  },
+  "ENS-07": {
+    "evidence": "Wall-mounted towel ring at1200 mounting height; page-right shower wall, horizontal location scaled.",
+    "action": "Product form and horizontal setout illustrative.",
+    "status": "partial"
+  },
+  "ENS-08": {
+    "evidence": "Existing WC retained; new mounted holder900 above tile/700 from cistern wall; tiled WC enclosure.",
+    "action": "Pan product form and exact setout acceptance remain separate.",
+    "status": "partial"
+  },
+  "ENS-09": {
+    "evidence": "Full-height tile replaces existing ensuite/WC linings; openings preserved; floor finishes retained.",
+    "action": "Tile module/colour illustrative; shower set-down/falls still unresolved.",
+    "status": "partial"
+  },
+  "BTH-02": {
+    "evidence": "Page-right wall900x450x60 niche, centred with200 side allowances, sill1200 above tile.9 back rays and far-side lining check pass; existing1800 rose/1050 mixer retained.",
+    "action": "Depth and trimming illustrative; load path and concealed services not assessed.",
+    "status": "partial"
+  },
+  "BTH-04": {
+    "evidence": "Existing full-height tiles retained; new mounted towel rail1200 above tile on page-left wall.",
+    "action": "Rail product and horizontal position illustrative.",
+    "status": "partial"
+  },
+  "BTH-05": {
+    "evidence": "Sheet19 plan/elevations show a shower and vanity, no bathtub; model contains no bathtub.",
+    "action": "Do not add bathtub from generic construction details.",
+    "status": "correct"
+  },
+  "BT2-02": {
+    "evidence": "Page-left wall600x450x60 niche, centred within900 shower wall with150 side allowances; sill1200 above tile.9 back rays/far lining checks pass;1800 rose/1050 mixer retained.",
+    "action": "Depth/trimming and concealed services remain illustrative/unassessed.",
+    "status": "partial"
+  },
+  "BT2-04": {
+    "evidence": "Full-height tiles replace room linings; mounted holder900/700 and towel rail1200; existing WC retained.",
+    "action": "Product forms and rail horizontal position illustrative.",
+    "status": "partial"
+  },
+  "WCF-01": {
+    "evidence": "Claude corrected tile interpretation: ALL walls remain plaster with100mm tiled skirting; floor tiled. Mounted TPH900 high/700 from cistern wall.",
+    "action": "Pan shape/centreline49cm convention and hardware product remain separately qualified.",
+    "status": "partial"
+  },
+  "DP-01": {
+    "evidence": "0.4.6 DP:90mm connected mesh, open outlet, mounted straps<=1800. Centreline [[6.730000019073486, 8.5, 5.555530548095703], [6.73, 8.5, 5.38], [6.73, 8.1, 5.02], [6.73, 8.1, -0.27]]. East/page-top wall07/08; DP03 end-nib adjustment explicitly logged.",
+    "action": "Scaled routing/product setout; retain cross-sheet discrepancies. Underground, overflow and hydraulic design not modelled.",
+    "status": "partial"
+  },
+  "DP-02": {
+    "evidence": "0.4.6 DP:90mm connected mesh, open outlet, mounted straps<=1800. Centreline [[15.229999542236328, 8.5, 5.555530548095703], [15.23, 8.5, 5.38], [15.23, 8.1, 5.02], [15.23, 8.1, -0.27]]. East/page-top wall07/08; DP03 end-nib adjustment explicitly logged.",
+    "action": "Scaled routing/product setout; retain cross-sheet discrepancies. Underground, overflow and hydraulic design not modelled.",
+    "status": "partial"
+  },
+  "DP-03": {
+    "evidence": "0.4.6 DP:90mm connected mesh, open outlet, mounted straps<=1800. Centreline [[26.59000015258789, 8.5, 5.555530548095703], [26.59, 8.5, 5.38], [26.59, 8.1, 5.02], [26.59, 8.1, -0.27]]. East/page-top wall07/08; DP03 end-nib adjustment explicitly logged.",
+    "action": "Scaled routing/product setout; retain cross-sheet discrepancies. Underground, overflow and hydraulic design not modelled.",
+    "status": "partial"
+  },
+  "DP-04": {
+    "evidence": "0.4.6 DP:90mm connected mesh, open outlet, mounted straps<=1800. Centreline [[6.425000190734863, -0.6200000047683716, 5.555530548095703], [6.425, -0.62, 5.38], [6.425, -0.32, 5.02], [6.425, -0.32, -0.27]]. West/page-bottom07/08, DP04 against alfresco pier.",
+    "action": "Scaled routing/product setout; retain cross-sheet discrepancies. Underground, overflow and hydraulic design not modelled.",
+    "status": "partial"
+  },
+  "DP-05": {
+    "evidence": "0.4.6 DP:90mm connected mesh, open outlet, mounted straps<=1800. Centreline [[13.119999885559082, -0.6200000047683716, 5.555530548095703], [13.12, -0.62, 5.38], [13.12, -0.22, 5.02], [13.12, -0.22, -0.27]]. West/page-bottom07/08, DP04 against alfresco pier.",
+    "action": "Scaled routing/product setout; retain cross-sheet discrepancies. Underground, overflow and hydraulic design not modelled.",
+    "status": "partial"
+  },
+  "DP-07": {
+    "evidence": "0.4.6 DP:90mm connected mesh, open outlet, mounted straps<=1800. Centreline [[26.5, -0.6200000047683716, 5.555530548095703], [26.5, -0.62, 5.38], [26.5, -0.22, 5.02], [26.5, -0.22, -0.27]]. West/page-bottom07/08, DP04 against alfresco pier.",
+    "action": "Scaled routing/product setout; retain cross-sheet discrepancies. Underground, overflow and hydraulic design not modelled.",
+    "status": "partial"
+  },
+  "DP-06": {
+    "evidence": "0.4.6 DP:90mm connected mesh, open outlet, mounted straps<=1800. Centreline [[19.299999237060547, -0.6200000047683716, 5.555530548095703], [19.3, -0.62, 5.38], [19.3, -0.22, 5.02], [19.3, -0.22, 3.05], [18.14, -0.22, 2.65], [18.14, -0.22, -0.27]]. 07 ground marker near18.14 versus08/04 upper marker near19.30; inferred dogleg above W07.",
+    "action": "Scaled routing/product setout; retain cross-sheet discrepancies. Underground, overflow and hydraulic design not modelled.",
+    "status": "partial"
+  },
+  "DP-08": {
+    "evidence": "0.4.6 DP:90mm connected mesh, open outlet, mounted straps<=1800. Centreline [[27.610000610351562, 0.18000000715255737, 5.555530071258545], [27.61, 0.18, 5.38], [27.21, 0.18, 5.02], [27.21, 0.18, -0.27]]. South/page-right wall near lower corner;750 labels W01 setback, not pipe centre.",
+    "action": "Scaled routing/product setout; retain cross-sheet discrepancies. Underground, overflow and hydraulic design not modelled.",
+    "status": "partial"
+  },
+  "DP-10": {
+    "evidence": "0.4.6 DP/RWH:90mm connected mesh, open outlet, mounted straps<=1800. Centreline [[0.2800000011920929, 2.240000009536743, 2.7200002670288086], [0.28, 2.24, -0.27]]. Rainhead symbol07/08; connected to300x300x150 sump. Rainhead shape and scupper route illustrative.",
+    "action": "Scaled routing/product setout; retain cross-sheet discrepancies. Underground, overflow and hydraulic design not modelled.",
+    "status": "partial"
+  },
+  "DP-11": {
+    "evidence": "0.4.6 DP/RWH:90mm connected mesh, open outlet, mounted straps<=1800. Centreline [[6.050000190734863, 2.240000009536743, 2.7200002670288086], [6.05, 2.24, -0.27]]. Rainhead symbol07/08; connected to300x300x150 sump. Rainhead shape and scupper route illustrative.",
+    "action": "Scaled routing/product setout; retain cross-sheet discrepancies. Underground, overflow and hydraulic design not modelled.",
+    "status": "partial"
+  },
+  "DP-09": {
+    "evidence": "0.4.6 DP/RWH:90mm connected mesh, open outlet, mounted straps<=1800. Centreline [[28.31999969482422, 8.199999809265137, 2.760000228881836], [28.32, 8.2, -0.27]]. Rainhead symbol07/08; connected to300x300x150 sump. Rainhead shape and scupper route illustrative.",
+    "action": "Scaled routing/product setout; retain cross-sheet discrepancies. Underground, overflow and hydraulic design not modelled.",
+    "status": "partial"
+  },
+  "DP-12": {
+    "evidence": "0.4.6 S/DP:90mm connected mesh, open outlet, mounted straps<=1800. Centreline [[5.760000228881836, 7.650000095367432, 5.555530071258545], [5.76, 7.65, 5.38], [6.16, 7.65, 5.02], [6.16, 7.65, 3.7]]. 08 filled marker: upper roof spreader onto garage/porch; lower roof location scaled.",
+    "action": "Scaled routing/product setout; retain cross-sheet discrepancies. Underground, overflow and hydraulic design not modelled.",
+    "status": "partial"
+  },
+  "DP-13": {
+    "evidence": "0.4.6 S/DP:90mm connected mesh, open outlet, mounted straps<=1800. Centreline [[27.610000610351562, 7.650000095367432, 5.555530071258545], [27.61, 7.65, 5.38], [27.2, 7.65, 5.02], [27.2, 7.65, 3.52], [27.65, 7.15, 3.42]]. 08 filled marker: upper roof spreader onto garage/porch; lower roof location scaled.",
+    "action": "Scaled routing/product setout; retain cross-sheet discrepancies. Underground, overflow and hydraulic design not modelled.",
+    "status": "partial"
+  },
+  "DP-14": {
+    "evidence": "Actual300x300x150 sump: Garage box gutter sump0 [[0.13000000000000003, 2.4250000000000003, 2.8000000000000003], [0.43000000000000005, 2.725, 2.95]]; connected channel/rainhead.",
+    "action": "Three count follows08/14; second garage omission on04 retained. Falls, overflow and roof-plumber design unresolved.",
+    "status": "partial"
+  },
+  "DP-15": {
+    "evidence": "Actual300x300x150 sump: Garage box gutter sump1 [[5.8999999999999995, 2.4250000000000003, 2.8000000000000003], [6.2, 2.725, 2.95]]; connected channel/rainhead.",
+    "action": "Three count follows08/14; second garage omission on04 retained. Falls, overflow and roof-plumber design unresolved.",
+    "status": "partial"
+  },
+  "DP-16": {
+    "evidence": "Actual300x300x150 sump: Porch box gutter sump0 [[28.095000000000002, 7.239999999999999, 2.8400000000000003], [28.395, 7.54, 2.99]]; connected channel/rainhead.",
+    "action": "Three count follows08/14; second garage omission on04 retained. Falls, overflow and roof-plumber design unresolved.",
+    "status": "partial"
+  },
+  "DP-17": {
+    "evidence": "Measured unique instances:8 DP,3 DP/RWH,2 S/DP;3 sumps. Source repeated views are not added again.",
+    "action": "Counts verified; route/product/source-coordinate acceptance remains qualified.",
+    "status": "correct"
+  },
+  "DP-18": {
+    "evidence": "90mm pipes (sheet05), straps<=1800 (sheet02),13 open gutter/rainhead outlets; no new drainage/retained framing triangle intersections; no projected window conflicts.",
+    "action": "No hydraulic capacity/overflow/legal-discharge compliance claim; below-ground network absent.",
+    "status": "partial"
+  }
+}

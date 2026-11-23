@@ -1,0 +1,6 @@
+{
+  "source": "ADB logcat output observed during this live verification, before the rolling log buffer discarded startup lines",
+  "observed_line": "11-20 18:36:39.335 15164 17470 I Unity   : FRAME_LAB_SESSION_READY 0.3.2 room=arrival guide=True narration=True",
+  "corroboration": "suite-result.json: 61 on-device commands passed with focused=true, including restart/automatic narration and all 22 room arrivals",
+  "scope": "Runtime initialization confirmed; physical controller input and wearer comfort are separate checks"
+}

@@ -1,0 +1,13 @@
+{
+  "sha256": "5ea27fcc37a9e70d80fadc8f33b89c1302e56f469eeb32fa630947cf4fd06ecb",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "You're in bedroom four. It sits on the other side of this end of the house. Compare the room proportions and window placement with bedroom three. The upper deck remains visible when you hide the walls, helping you keep a clear sense of the floor level. Next room takes us to the shared upper bathroom.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

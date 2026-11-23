@@ -1,0 +1,13 @@
+{
+  "sha256": "594e2f76be594f7837edae0a3e15563ca5f449c3b16868222f0423e685530046",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "You're in the walk-in robe. This smaller space helps show how internal partitions divide a larger floor area. Look back towards the bedroom and across towards the ensuite. These rooms share the same level, but the wall openings control the route between them. Use the room list whenever you want to revisit somewhere. Choose Next room for the ensuite.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

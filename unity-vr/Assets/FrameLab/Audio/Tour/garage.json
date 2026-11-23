@@ -1,0 +1,13 @@
+{
+  "sha256": "07fa65d9c5bea8aad8aacba5560f373326f50c92b8703bb5c7f59aa13347c993",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "This is the garage. Look towards the wide vehicle opening, then compare its scale with the smaller doors and windows elsewhere. The garage has its own roof framing beside the main two-storey house. After looking around, choose Next room. We'll move directly to a safe viewing position on the upper landing, so you won't need to climb the stairs in virtual reality.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

@@ -1,0 +1,389 @@
+[
+  {
+    "label": "laundry west",
+    "origin": [
+      7.3,
+      4.8,
+      1.5
+    ],
+    "target": [
+      6.3,
+      4.8,
+      1.5
+    ],
+    "object": "Fitout | Laundry linen 0 back",
+    "point": [
+      6.49399995803833,
+      4.800000190734863,
+      1.5
+    ]
+  },
+  {
+    "label": "laundry west",
+    "origin": [
+      7.3,
+      5.5,
+      1.5
+    ],
+    "target": [
+      6.3,
+      5.5,
+      1.5
+    ],
+    "object": "Fitout | Laundry linen 0 back",
+    "point": [
+      6.49399995803833,
+      5.5,
+      1.5
+    ]
+  },
+  {
+    "label": "laundry west",
+    "origin": [
+      7.3,
+      6.2,
+      1.5
+    ],
+    "target": [
+      6.3,
+      6.2,
+      1.5
+    ],
+    "object": "GF Laundry west | lining.006",
+    "point": [
+      6.485000133514404,
+      6.199999809265137,
+      1.5
+    ]
+  },
+  {
+    "label": "laundry west",
+    "origin": [
+      7.3,
+      6.24,
+      1.5
+    ],
+    "target": [
+      6.3,
+      6.24,
+      1.5
+    ],
+    "object": "GF Laundry west | lining.006",
+    "point": [
+      6.485000133514404,
+      6.239999771118164,
+      1.5
+    ]
+  },
+  {
+    "label": "laundry west",
+    "origin": [
+      7.3,
+      6.3,
+      1.5
+    ],
+    "target": [
+      6.3,
+      6.3,
+      1.5
+    ],
+    "object": "Fitout | Laundry linen 1 back",
+    "point": [
+      6.49399995803833,
+      6.300000190734863,
+      1.5
+    ]
+  },
+  {
+    "label": "laundry west",
+    "origin": [
+      7.3,
+      6.8,
+      1.5
+    ],
+    "target": [
+      6.3,
+      6.8,
+      1.5
+    ],
+    "object": "Fitout | Laundry linen 1 back",
+    "point": [
+      6.49399995803833,
+      6.800000190734863,
+      1.5
+    ]
+  },
+  {
+    "label": "laundry west",
+    "origin": [
+      7.3,
+      7.6,
+      1.5
+    ],
+    "target": [
+      6.3,
+      7.6,
+      1.5
+    ],
+    "object": "Fitout | Laundry linen 1 back",
+    "point": [
+      6.49399995803833,
+      7.599999904632568,
+      1.5
+    ]
+  },
+  {
+    "label": "entry east",
+    "origin": [
+      26,
+      4.635,
+      1.5
+    ],
+    "target": [
+      27.3,
+      4.635,
+      1.5
+    ],
+    "object": "Entry bedroom division | common stud.007",
+    "point": [
+      26.392499923706055,
+      4.635000228881836,
+      1.5000001192092896
+    ]
+  },
+  {
+    "label": "entry east",
+    "origin": [
+      26,
+      4.7,
+      1.5
+    ],
+    "target": [
+      27.3,
+      4.7,
+      1.5
+    ],
+    "object": "D01 finished timber leaf 1",
+    "point": [
+      27.002500534057617,
+      4.699999809265137,
+      1.5
+    ]
+  },
+  {
+    "label": "entry east",
+    "origin": [
+      26,
+      5.0,
+      1.5
+    ],
+    "target": [
+      27.3,
+      5.0,
+      1.5
+    ],
+    "object": "D01 finished timber leaf 1",
+    "point": [
+      27.002500534057617,
+      5.0,
+      1.5
+    ]
+  },
+  {
+    "label": "entry east",
+    "origin": [
+      26,
+      5.5,
+      1.5
+    ],
+    "target": [
+      27.3,
+      5.5,
+      1.5
+    ],
+    "object": "D01 finished timber leaf 2",
+    "point": [
+      27.002500534057617,
+      5.5,
+      1.5
+    ]
+  },
+  {
+    "label": "entry east",
+    "origin": [
+      26,
+      6.0,
+      1.5
+    ],
+    "target": [
+      27.3,
+      6.0,
+      1.5
+    ],
+    "object": "D01 finished timber leaf 2",
+    "point": [
+      27.002500534057617,
+      6.0,
+      1.5
+    ]
+  },
+  {
+    "label": "void edge",
+    "origin": [
+      25.5,
+      4.7,
+      1.65
+    ],
+    "target": [
+      24.36,
+      4.7,
+      2.95
+    ],
+    "object": "Void return fascia",
+    "point": [
+      24.40999984741211,
+      4.699999809265137,
+      2.8929834365844727
+    ]
+  },
+  {
+    "label": "void edge",
+    "origin": [
+      25.5,
+      5.3,
+      1.65
+    ],
+    "target": [
+      24.36,
+      5.3,
+      2.95
+    ],
+    "object": "Void return fascia",
+    "point": [
+      24.40999984741211,
+      5.300000190734863,
+      2.8929834365844727
+    ]
+  },
+  {
+    "label": "void edge",
+    "origin": [
+      25.5,
+      6.2,
+      1.65
+    ],
+    "target": [
+      24.36,
+      6.2,
+      2.95
+    ],
+    "object": "Void return fascia",
+    "point": [
+      24.40999984741211,
+      6.199999809265137,
+      2.8929834365844727
+    ]
+  },
+  {
+    "label": "void edge",
+    "origin": [
+      25.5,
+      4.7,
+      1.65
+    ],
+    "target": [
+      24.4,
+      4.7,
+      2.95
+    ],
+    "object": "Void return fascia",
+    "point": [
+      24.40999984741211,
+      4.699999809265137,
+      2.9381816387176514
+    ]
+  },
+  {
+    "label": "void edge",
+    "origin": [
+      25.5,
+      5.3,
+      1.65
+    ],
+    "target": [
+      24.4,
+      5.3,
+      2.95
+    ],
+    "object": "Void return fascia",
+    "point": [
+      24.40999984741211,
+      5.300000190734863,
+      2.9381816387176514
+    ]
+  },
+  {
+    "label": "void edge",
+    "origin": [
+      25.5,
+      6.2,
+      1.65
+    ],
+    "target": [
+      24.4,
+      6.2,
+      2.95
+    ],
+    "object": "Void return fascia",
+    "point": [
+      24.40999984741211,
+      6.199999809265137,
+      2.9381816387176514
+    ]
+  },
+  {
+    "label": "void edge",
+    "origin": [
+      25.5,
+      4.7,
+      1.65
+    ],
+    "target": [
+      24.45,
+      4.7,
+      2.95
+    ],
+    "object": null,
+    "point": null
+  },
+  {
+    "label": "void edge",
+    "origin": [
+      25.5,
+      5.3,
+      1.65
+    ],
+    "target": [
+      24.45,
+      5.3,
+      2.95
+    ],
+    "object": null,
+    "point": null
+  },
+  {
+    "label": "void edge",
+    "origin": [
+      25.5,
+      6.2,
+      1.65
+    ],
+    "target": [
+      24.45,
+      6.2,
+      2.95
+    ],
+    "object": null,
+    "point": null
+  }
+]

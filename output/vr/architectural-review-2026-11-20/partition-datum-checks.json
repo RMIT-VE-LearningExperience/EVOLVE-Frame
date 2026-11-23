@@ -1,0 +1,50 @@
+{
+  "model": "Uninstalled 0.3.3 candidate mesh inventory",
+  "datum": "Existing local model external lower frame inner face y=0.090. Interior finish thickness is not included.",
+  "results": [
+    {
+      "element": "Entry bedroom division",
+      "sheet": 7,
+      "drawing_basis": "240 external wall + 3110 entry + 90 partition + 4500 Bed 1 + 240 external wall = 8180. Bed 1 inner frame face at y=0.090; partition near face at 0.090+4.500=4.590.",
+      "target_frame_faces_y_m": [
+        4.59,
+        4.68
+      ],
+      "actual_mesh_frame_faces_y_m": [
+        3.8839,
+        3.9739
+      ],
+      "delta_required_y_mm": 706.1,
+      "status": "incorrect",
+      "model_evidence": [
+        "Entry bedroom division | bottom plate",
+        "Entry bedroom division | bottom plate.001",
+        "Entry bedroom division | top plate lower",
+        "Entry bedroom division | top plate upper"
+      ],
+      "scope": "Wall frame datum only. Door offsets, adjacent wall ends, linings, ceiling and floor cutouts must be rebuilt and checked together. No geometry changed by this audit."
+    },
+    {
+      "element": "FF Theatre north",
+      "sheet": 8,
+      "drawing_basis": "North theatre wall is offset from the Bed 5 south wall. Sheet 08 chains and broad Claude review locate it at y=4.590..4.680, over the ground-floor bedroom partition.",
+      "target_frame_faces_y_m": [
+        4.59,
+        4.68
+      ],
+      "actual_mesh_frame_faces_y_m": [
+        4.4798,
+        4.5698
+      ],
+      "delta_required_y_mm": 110.2,
+      "status": "incorrect",
+      "model_evidence": [
+        "FF Theatre north | bottom plate",
+        "FF Theatre north | bottom plate.001",
+        "FF Theatre north | top plate lower",
+        "FF Theatre north | top plate upper"
+      ],
+      "scope": "Wall frame datum only. Door offsets, adjacent wall ends, linings, ceiling and floor cutouts must be rebuilt and checked together. No geometry changed by this audit."
+    }
+  ]
+}

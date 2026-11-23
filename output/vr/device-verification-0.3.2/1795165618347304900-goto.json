@@ -1,0 +1,22 @@
+{
+  "id": "1795165618347304900",
+  "version": "0.3.2",
+  "room": "garage",
+  "error": "",
+  "changing": false,
+  "focused": true,
+  "guide": true,
+  "narration": true,
+  "detail": false,
+  "isolated": false,
+  "location": 10,
+  "hotspots": 9,
+  "visibleParts": 9,
+  "explosion": 0.0,
+  "zoom": 1.0,
+  "eye": {
+    "x": -2.99527645111084,
+    "y": 1.473679542541504,
+    "z": -5.799752235412598
+  }
+}

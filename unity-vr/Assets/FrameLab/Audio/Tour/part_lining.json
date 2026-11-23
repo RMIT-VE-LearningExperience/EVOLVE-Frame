@@ -1,0 +1,13 @@
+{
+  "sha256": "77074d31df51adf58318d3ba1b24be4a8818077113b35525233f48999aafc71e",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "The plasterboard forms the room-side finish. This cutaway leaves the opening visible. Compare its position with the timber frame, then rotate the assembly to see the return at the window.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

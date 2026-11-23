@@ -1,0 +1,13 @@
+{
+  "sha256": "706539cbf4b676a811cd35d0ebc2103958365261c9d08db7536c1b5fe2485128",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "This is bedroom one. Look at the broad window opening, then compare it with the solid wall around it. With the walls hidden, you can see how the studs, sill and lintel form that opening. The pale timber and warm white finishes help distinguish structure from lining. Show the walls again whenever you want to understand the room as a space. Next room takes us to the walk-in robe.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

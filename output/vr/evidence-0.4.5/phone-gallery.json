@@ -1,0 +1,10 @@
+{
+  "project_id": "appgprj_6b003629adc081919b288dc51820b39a",
+  "commit_sha": "08d27b18b4a88c21f1eca42db84a0ee7103a0224",
+  "url": "https://leichhardt-model-review.lolepaille.chatgpt.site",
+  "deployment_id": "appgdep_6b00e0a042a0819183f4d63cc39bc5bf",
+  "status": "succeeded",
+  "audience": "owner-only",
+  "images": 70,
+  "mobile_preview": "390 x 844; filter, image viewer and next-image loading checked; existing numbering retained"
+}

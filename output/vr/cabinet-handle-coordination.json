@@ -1,0 +1,257 @@
+{
+  "source_sheet": 16,
+  "basis": "Written cabinet extents; handle heights, grip dimensions and offsets are illustrative.",
+  "change": "Upper cupboard handles moved to lower meeting edges; pantry handles lowered; paired doors mirrored; all cabinet bars attached by short mounting posts.",
+  "measurements": [
+    {
+      "object": "Fitout | Kitchen Drawer A pull 1",
+      "height_mm": [
+        436,
+        445
+      ],
+      "centre_height_mm": 440
+    },
+    {
+      "object": "Fitout | Kitchen Drawer A pull 2",
+      "height_mm": [
+        818,
+        828
+      ],
+      "centre_height_mm": 823
+    },
+    {
+      "object": "Fitout | Kitchen Cooktop pull 1",
+      "height_mm": [
+        645,
+        785
+      ],
+      "centre_height_mm": 715
+    },
+    {
+      "object": "Fitout | Kitchen Cooktop pull 2",
+      "height_mm": [
+        645,
+        785
+      ],
+      "centre_height_mm": 715
+    },
+    {
+      "object": "Fitout | Kitchen Drawer B pull 1",
+      "height_mm": [
+        436,
+        445
+      ],
+      "centre_height_mm": 440
+    },
+    {
+      "object": "Fitout | Kitchen Drawer B pull 2",
+      "height_mm": [
+        818,
+        828
+      ],
+      "centre_height_mm": 823
+    },
+    {
+      "object": "Fitout | Kitchen Bin pull 1",
+      "height_mm": [
+        645,
+        785
+      ],
+      "centre_height_mm": 715
+    },
+    {
+      "object": "Fitout | Kitchen Sink pull 1",
+      "height_mm": [
+        645,
+        785
+      ],
+      "centre_height_mm": 715
+    },
+    {
+      "object": "Fitout | Kitchen Sink pull 2",
+      "height_mm": [
+        645,
+        785
+      ],
+      "centre_height_mm": 715
+    },
+    {
+      "object": "Fitout | Kitchen Drawer C pull 1",
+      "height_mm": [
+        436,
+        445
+      ],
+      "centre_height_mm": 440
+    },
+    {
+      "object": "Fitout | Kitchen Drawer C pull 2",
+      "height_mm": [
+        818,
+        828
+      ],
+      "centre_height_mm": 823
+    },
+    {
+      "object": "Fitout | Kitchen Tall pantry pull 1",
+      "height_mm": [
+        1030,
+        1170
+      ],
+      "centre_height_mm": 1100
+    },
+    {
+      "object": "Fitout | Kitchen Tall pantry pull 2",
+      "height_mm": [
+        1030,
+        1170
+      ],
+      "centre_height_mm": 1100
+    },
+    {
+      "object": "Fitout | Kitchen overhead 1 pull 1",
+      "height_mm": [
+        1680,
+        1820
+      ],
+      "centre_height_mm": 1750
+    },
+    {
+      "object": "Fitout | Kitchen overhead 1 pull 2",
+      "height_mm": [
+        1680,
+        1820
+      ],
+      "centre_height_mm": 1750
+    },
+    {
+      "object": "Fitout | Kitchen overhead 2 pull 1",
+      "height_mm": [
+        1680,
+        1820
+      ],
+      "centre_height_mm": 1750
+    },
+    {
+      "object": "Fitout | Kitchen overhead 2 pull 2",
+      "height_mm": [
+        1680,
+        1820
+      ],
+      "centre_height_mm": 1750
+    },
+    {
+      "object": "Fitout | Kitchen overhead 3 pull 1",
+      "height_mm": [
+        1680,
+        1820
+      ],
+      "centre_height_mm": 1750
+    },
+    {
+      "object": "Fitout | Kitchen overhead 3 pull 2",
+      "height_mm": [
+        1680,
+        1820
+      ],
+      "centre_height_mm": 1750
+    },
+    {
+      "object": "Fitout | Kitchen overhead 4 pull 1",
+      "height_mm": [
+        1680,
+        1820
+      ],
+      "centre_height_mm": 1750
+    },
+    {
+      "object": "Fitout | Kitchen overhead 4 pull 2",
+      "height_mm": [
+        1680,
+        1820
+      ],
+      "centre_height_mm": 1750
+    },
+    {
+      "object": "Fitout | Kitchen overhead 5 pull 1",
+      "height_mm": [
+        1680,
+        1820
+      ],
+      "centre_height_mm": 1750
+    },
+    {
+      "object": "Fitout | Kitchen overhead 5 pull 2",
+      "height_mm": [
+        1680,
+        1820
+      ],
+      "centre_height_mm": 1750
+    },
+    {
+      "object": "Fitout | Kitchen overhead 6 pull 1",
+      "height_mm": [
+        1680,
+        1820
+      ],
+      "centre_height_mm": 1750
+    },
+    {
+      "object": "Fitout | Kitchen overhead 6 pull 2",
+      "height_mm": [
+        1680,
+        1820
+      ],
+      "centre_height_mm": 1750
+    },
+    {
+      "object": "Fitout | Laundry overhead 1 pull 1",
+      "height_mm": [
+        1680,
+        1820
+      ],
+      "centre_height_mm": 1750
+    },
+    {
+      "object": "Fitout | Laundry overhead 1 pull 2",
+      "height_mm": [
+        1680,
+        1820
+      ],
+      "centre_height_mm": 1750
+    },
+    {
+      "object": "Fitout | Laundry overhead 2 pull 1",
+      "height_mm": [
+        1680,
+        1820
+      ],
+      "centre_height_mm": 1750
+    },
+    {
+      "object": "Fitout | Laundry overhead 2 pull 2",
+      "height_mm": [
+        1680,
+        1820
+      ],
+      "centre_height_mm": 1750
+    },
+    {
+      "object": "Fitout | Laundry overhead 3 pull 1",
+      "height_mm": [
+        1680,
+        1820
+      ],
+      "centre_height_mm": 1750
+    },
+    {
+      "object": "Fitout | Laundry overhead 3 pull 2",
+      "height_mm": [
+        1680,
+        1820
+      ],
+      "centre_height_mm": 1750
+    }
+  ],
+  "units": "mm above the model finished floor",
+  "unchanged": "Base-door handles remain near the top; drawer pulls remain horizontal and centred."
+}

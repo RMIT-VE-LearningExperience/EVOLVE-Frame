@@ -1,0 +1,16 @@
+{
+  "result": "PASS",
+  "sha256": {
+    "Assets\\FrameLab\\Scenes\\Leichhardt.unity": "c3130a95c54759a44ec4f95d7f430714b905e284b75205c8599976e15884ad07",
+    "Assets\\FrameLab\\Models\\building.glb": "ff84a310c6b487fbb23271d583a2c85f6d8a2641bf81390b6bc0c1aea5a780b9",
+    "Builds\\Android\\Leichhardt-PICO.apk": "839e9d132a1b8677040d90b64d5a569b5c031f812461396cca0c75ee4807cd48"
+  },
+  "scope": "SHA-256 before/after check of the listed shared scene, imported model and installed PICO APK. EXR files were not included in this first run.",
+  "shared_apk_content": [
+    {
+      "file": "assets/bin/Data/sharedassets0.resource",
+      "same_bytes": true,
+      "sha256": "d2e3be6d173c7cf9f4721bdfd305cea387e929323da94dee795b5ee59c68aef1"
+    }
+  ]
+}

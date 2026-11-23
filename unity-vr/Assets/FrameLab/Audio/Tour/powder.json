@@ -1,0 +1,13 @@
+{
+  "sha256": "ecc9bd6462256a2c3d390d1993875bfbe36462a101dee8695f5cc16df1d5a8c8",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "We're in the powder room. A compact room makes the relationship between doorway, window and wall thickness easier to notice. Look at the opening heights and the space left around them. Press A on your right controller whenever you want to hide the guide, and press A again to bring it back. When you're ready, choose Next room to return to the larger kitchen and meals space.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

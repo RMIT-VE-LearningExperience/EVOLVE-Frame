@@ -1,0 +1,96 @@
+# Gate 3 review: Leichhardt 0.4.6 scoped architectural pass
+
+**Verdict: ready for headset review of this scoped revision.** I found no visible modelling defect that must be fixed first. Three scope items are not evidenced by the files I was given, so they stay "claimed", not "passed", until checked in the headset or re-captured.
+
+**Inspected:** `claude-response.txt`, `mesh-checks.json`, contact sheet `10-architectural-details.jpg`, and full-size shots 77, 78, 79 and 83. All other views were judged at thumbnail size only.
+
+## (a) Defects that must be fixed now
+
+None substantiated from the renders.
+
+## (b) Not evidenced: cannot be passed yet
+
+1. **Garage box gutter and two sumps (`79-garage-gutters.png`).** The shot shows the parapet, two open-topped external rainheads and their downpipes. The roof surface renders near-black and featureless, so no channel, sump or roof-sheet trim is distinguishable at the low edge. I am not inferring they are missing. Re-capture with a lower, lit angle along the low edge, or check in the headset.
+2. **Niche framing (`83-niche-timber.png`).** The view is dark and layered through translucent linings. Horizontal members are visible near the niche zone, but I cannot positively identify the jambs, sill and head, or tell changed members from retained studs. The "illustrative, load path not assessed" wording is only in the shot title; I saw no in-scene tag.
+3. **Measurements missing from `mesh-checks.json`.** The file contains zero structural intersections for drainage, seven mount probes, 13 outlet rays and three niche sizes. It does not contain:
+   - the glazing-clearance check against 19 windows
+   - the 8/3/2 pipe count
+   - sump dimensions
+   - route connectivity
+   - laundry bulkhead dimensions
+   - niche side offsets (385/150/200)
+   - the far-side lining check and 27 back rays
+   - the list of changed timber members
+
+   These are asserted in `claude-response.txt` but were not in what I read. They may exist in another file.
+
+## (c) Source conflicts still open (correctly disclosed)
+
+- **DP06 dogleg:** inferred; neither endpoint is surveyed; elevation sheet 10 reportedly shows no pipes (I did not open that sheet).
+- **DP05:** approximate registration between sheets.
+- **DP08:** "750" is a probable setback, not a pipe dimension.
+- **Laundry bulkhead:** 300 label versus 340 dimension chain; depth is illustrative.
+- **Theatre:** platform height, high side and window-head/soffit coordination.
+- **Garage sump:** the second sump is absent on sheet 04.
+- **Powder room:** page-right wall tiling is inferred.
+- **Niche height datum and stud-compatible relocation:** both remain alternatives.
+- **Ensuite wall:** ground-floor load path not assessed; mixer plumbing not modelled.
+
+## (d) Adequately evidenced for this scope
+
+- **Upper WC (77, full size):** plaster on all visible walls, low tiled skirting on both side walls and the end wall, tiled floor, holder mounted on the side wall. The gate 2 correction is implemented. The 100 mm height is visually plausible but not measured in the file.
+- **Niches (72, 73, 74 plus mesh checks):** all three are real recesses with tiled returns, measured at 1000/900/600 wide × 450 high, 1200 sill, 60 deep. They sit on the walls confirmed at gate 2, by thumbnail judgement. The ensuite mixer is below the niche as drawn.
+- **DP06 (78, full size):** the upper stem drops between two upper windows, the sloped offset sits at the render/brick junction, and the lower stem lands left of the ground-floor window. Both stems are visibly clear of glazing in this view, and the offset falls toward the lower stem. The adjacent pipe has a visible eave return and runs to the ground.
+- **Accessories:** seven mount probes pass, and holders or rails are visible in 74, 75, 76, 77 and 82. The ensuite towel ring is not clearly visible in any shot I inspected; it is evidenced by the probe only.
+- **Laundry bulkhead (71):** present above the overhead cupboards with a continuous junction (thumbnail only).
+- **Porch (80) and page-top elevation (81):** channel, rainhead, spreader and pipes are present (thumbnail only).
+
+## Visual quality notes (non-blocking)
+
+- **Garage roof (79):** reads as flat black with no sheet profile, unlike the main roof.
+- **Pipe straps (78):** not discernible at this distance, so the ≤1800 spacing is unverified visually.
+- **Niche framing (83):** needs an isolated or highlighted view to be educationally legible.
+
+## Limits
+
+The clash and ray tests show the geometry is self-consistent. They are not source, hydraulic or engineering acceptance. This is not a pass of the 309-item checklist.
+
+--- Follow-up of recaptured views and supplied evidence ---
+
+# Gate 3 follow-up: updated verdict and evidence gaps
+
+**Verdict unchanged: ready for headset review of this scoped revision.** The three gaps from my main report are now closed or reduced to disclosed limitations. Nothing new blocks.
+
+## Gap 1: garage box gutter — closed visually
+The recaptured `79-garage-gutters.png` shows a recessed channel behind the parapet, below the roof surface. The roof covering stops at the channel edge, and there is an outlet fitting at each end. I cannot judge the 300×300×150 sump size from the image; that rests on the pack bounds.
+
+## Gap 2: niche framing — improved, limitation accepted
+The recaptured `83-niche-timber.png` is now legible. Head and sill trimmers between full-height members are visible. Several wall planes still overlap and nothing is highlighted, so I cannot tie each member to a specific niche from the image alone.
+
+There are no in-scene labels. The illustrative, unengineered status is carried only by the gallery title and report, which I accept as a disclosed limitation.
+
+## Gap 3: missing measurements — supplied, but mostly generator-reported
+
+| Source | What it covers |
+|---|---|
+| Independent saved-mesh checks (`mesh-checks.json`) | Zero drainage/structure intersections; seven mount probes; 13 open outlets; niche width, height, sill and depth |
+| Generation-time or extracted (`final-evidence-pack.json`) | 19 windows / 630 rays with no failures; 8/3/2 pipe counts; sump bounds; pipe centrelines; laundry bulkhead dimensions; niche side offsets 385/150/200; far linings preserved; 27 back rays; changed-member list |
+
+The pack values are internally consistent where I could check them:
+- **Sumps:** each set of bounds works out to 300×300×150.
+- **Niche cuts:** the cut heights match a 1200 sill plus trimmers on both floors.
+- **DP06:** the offset drops 0.4 m over 1.16 m, from X 19.30 to X 18.14.
+
+Consistency is not independent verification. The pack's own provenance says it includes generation-time assertions.
+
+## Notes on the pack (non-blocking)
+- **Porch sump and DP09:** the sump sits at Y 7.24–7.54 and DP09 at Y 8.20. The link between them is not shown in the pack, and I have only seen the porch at thumbnail size. Check it in the headset.
+- **Changed-member list:** it records before-bounds and cut volumes, not the new trimmer members or the after-state. Bath 2 lists "common stud.004" twice.
+- **Ensuite wall:** the list confirms two ground-floor studs are interrupted. The load path remains unassessed.
+
+## Still open
+- All source conflicts in section (c) of the main report.
+- The dark, unprofiled garage roof surface and richer structural teaching annotations, both deferred as future work.
+- Pipe strap spacing, which I could not verify visually.
+
+This is not engineering, hydraulic or source acceptance, and not completion of the 309-item checklist.

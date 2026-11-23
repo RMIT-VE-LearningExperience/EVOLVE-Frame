@@ -1,0 +1,69 @@
+{
+  "timestamp": "2026-11-21T09:59:59.398092+11:00",
+  "status": "CHECKED - unresolved stair/ceiling/window coordination",
+  "checklist_id": "BH-GF-09",
+  "model_version": "0.4.4",
+  "geometry_or_apk_changed": false,
+  "source_vr_blend_sha256_before_and_after": "81dbc06f57c3afb95a5152907d2aa979748fb4842bc1e3ce4df8f9efc759f41e",
+  "identified_object": "Finished stair underside",
+  "source_pdf": "D:\\Git\\EVOLE Frame\\Leichhardt_Architectural Plans (1).pdf",
+  "sheets": [
+    7,
+    8,
+    11,
+    12,
+    15
+  ],
+  "findings": [
+    "Sheets 07 and 08 place the upper part of the stair flight above a strip of the powder room; the exact overlap is inferred from plan geometry and dimension chains.",
+    "Sheet 15 depicts a flat 2740 mm ceiling without the stair slope. Sheet 12 establishes the general 2740 + 400 mm floor relationship but its section does not cut this junction.",
+    "W03 is correctly sized to the sheet 11 nominal envelope: 810 x 2120 mm, sill 280 mm, head 2400 mm. Its absolute position is still scaled coordination.",
+    "The lining stops 120 mm room-side of the nearest window-frame face. No mesh intersection between these two objects is indicated by their disjoint depth bounds.",
+    "The lining partially obscures the upper-right frame/reveal from three sampled viewpoints. The sampled clear glass remains visible from all four views. Tests are sampled perspective checks, not proof for every possible head position.",
+    "The 265 mm lining offset, 3949.5 mm stair run, 3159 mm finished floor height and window setout include modelling assumptions. This finish junction is not verified by the drawings."
+  ],
+  "visibility": [
+    {
+      "view": "tour",
+      "glass_obstructed_rays": 0,
+      "frame_obstructed_rays": 3,
+      "frame_first_hit_objects": {
+        "Finished stair underside": 3
+      }
+    },
+    {
+      "view": "gallery39",
+      "glass_obstructed_rays": 0,
+      "frame_obstructed_rays": 10,
+      "frame_first_hit_objects": {
+        "GF North wall | opening return.011": 9,
+        "Finished stair underside": 1
+      }
+    },
+    {
+      "view": "closer",
+      "glass_obstructed_rays": 0,
+      "frame_obstructed_rays": 0,
+      "frame_first_hit_objects": {}
+    },
+    {
+      "view": "room_right",
+      "glass_obstructed_rays": 0,
+      "frame_obstructed_rays": 16,
+      "frame_first_hit_objects": {
+        "Finished stair underside": 12,
+        "GF North wall | opening return.012": 4
+      }
+    }
+  ],
+  "right_frame_x_soffit_height_m": 2.2473275697179345,
+  "below_window_head_mm": 152.67243028206545,
+  "sensitivity_only": {
+    "description": "Holding foot, window position and 265 mm offset fixed, substituting 4000 mm run and 3140 mm floor-to-floor lowers the lining here. Fixing these two model dimensions alone would not clear the window head. This is arithmetic, not an approved stair design.",
+    "nominal_substitution_soffit_z_m": 2.200689655977136,
+    "change_mm": -46.63791374079862
+  },
+  "next_step": "Coordinate a section through the upper flight and W03 before rebuilding this junction. Verify stair foot/landing face conventions and finished floor datum; retain scheduled window dimensions. Obtain or explicitly resolve the missing stair/stringer/lining build-up and W03 horizontal setout. Do not flatten the whole ceiling, trim structural timber or shrink/move W03 solely to conceal the visual conflict.",
+  "designer_query_draft_not_sent": "Please confirm a section through the stair over the powder room and W03, including finished floor datums, stair/stringer and soffit build-up, how the soffit meets the 2400 mm window head/reveal, and the dimensioned W03 horizontal position. Sheets 07/08 show upper steps over the powder room, while sheet 15 shows a flat 2740 mm ceiling without this junction.",
+  "claude_review": "claude-provenance.json"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "appgdep_6b00c39f13508191b9d8b4081c546b9b",
+  "project_id": "appgprj_6b003629adc081919b288dc51820b39a",
+  "title": "Leichhardt — model review",
+  "version_id": "appgprj_6b003629adc081919b288dc51820b39a~appgver_8300cdf46ecc8191980215c6ae05f131",
+  "type": "publish",
+  "status": "succeeded",
+  "url": "https://leichhardt-model-review.lolepaille.chatgpt.site",
+  "has_mcp": false,
+  "screenshot_asset_pointer": null,
+  "provider_deployment_id": "release---6b0036ad3f4881918c204c43bf1befcf",
+  "failure_message": null,
+  "env_set_revision": 0,
+  "updated_at": "2026-11-20T22:03:24.853520+00:00",
+  "commit_sha": "de48081c6649b508ad7021b7f22eaf909ebc776d",
+  "archive": "D:/Git/EVOLE Frame/output/vr/leichhardt-phone-review-0.4.3.tar.gz",
+  "audience": "Owner-private; existing audience preserved by private publication.",
+  "review_images": 54,
+  "visual_checks": "Codex inspected corrected overhead, pantry and laundry renders; desktop tests passed. No phone-browser or worn-headset check claimed."
+}

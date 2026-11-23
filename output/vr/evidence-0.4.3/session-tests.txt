@@ -1,0 +1,2 @@
+PASS
+22 room arrivals, automatic narration, walls/roof, floor retention, window slider, separated-layer bounds, nine hotspots/audio/isolation, zoom/rotation/reset, XRI grab movement and rotation, full-panel room clearance with walls shown/hidden, A-button press/hold/release recall, completion, mute and restart.

@@ -1,0 +1,67 @@
+# Gate 2 review: 0.4.6 proposed decisions (pre-implementation)
+
+**Verdict:** proceed after two corrections. The niche walls, heights and the DP08 reading are supported by the sheets. The upper WC tile scope is misread, and the direction labels are inconsistent enough to put a niche on the wrong wall.
+
+**Inspected:** `source-findings.txt` and sheets 07, 08, 15, 17, 18, 19 as PNGs at reduced resolution. I did not open `baseline-objects.json`, so every model fact below (stud overlaps, wall thicknesses, Blender coordinates, window extents) is Codex's claim, unverified by me.
+
+## Blockers / corrections
+
+1. **Upper WC elevation A is not full-height tile.** On sheet 19, WC elevation A has no "TILES" label and no wall stipple. Only the window glazing and a thin base band are stippled, the same as elevation B's "100MM TILED SKIRTING". Every tiled elevation on sheets 15, 17, 18 and 19 carries both the label and full stipple. Model 100 mm skirting on all WC walls, with tiled floor. Confirm at full zoom; if anyone still wants a full-height end wall, tag it illustrative, not sourced.
+
+2. **Two direction conventions are used in one document.** The wet-area section uses legacy page labels ("north/page-top", "east/page-right"). The drainage section uses true compass ("east/T", "south/R", "north/L"). So "north wall" means two different walls. Before implementation, key every decision by page direction plus the adjoining room, with compass as metadata only.
+
+## Niches: orientation and height confirmed
+
+Each niche wall was cross-checked between the plan callout arrow, the face-on elevation and the side-view elevation.
+
+| Room | Wall (page direction) | Backs onto | Size and position | Evidence |
+|---|---|---|---|---|
+| Ensuite (17) | Page-top, 1800 shower wall | Kitchen fridge/shelf zone | 1000 wide, 400 each side, 1200–1650 | Elev A face-on; Elev D side view |
+| Bath 2 (18) | Page-left | Bed 3 | 600 wide, 150 from page-top corner, 1200–1650 | Elev D face-on; Elev A side view |
+| Upper bath (19) | Page-right | Bed 5 robe | 900 wide, 200 each end of 1300 shower, 1200–1650 | Elev B face-on; Elev A side view |
+
+- **Written dimensions:** all widths, side offsets, the 450 height and the 1200 sill are written. Scaling the drawn rectangles agrees.
+- **"450W" typo:** reading it as height is sound, since all three callouts repeat it and all elevations dimension 450 vertically.
+- **Height datum:** 1200 from finished tile is a reasonable convention, but the sheets do not state the datum.
+- **Offset rule:** the ensuite deducts linings (385) and Bath 2 does not (150). Pick one rule; the difference is 15 mm or less.
+- **Fittings:** toilet-roll holder and towel rail walls, heights and the 600/700 offsets match the elevations in all five rooms.
+- **Powder room:** the page-right wall has no elevation, so tiling it is correctly flagged as inference.
+- **Unverified:** the ensuite niche's backing room, and which wall holds the upper bath door (elevation D shows a door; the plan was unclear at this resolution).
+
+## Timber trimming: acceptable as illustrative, with conditions
+
+Showing the trimming is honest because the studs being cut are themselves generated, not sourced. The sheet notes also say fixture locations are indicative and framing may be adjusted. Conditions:
+
+- **Label the new members too.** Tag jambs, sills and heads as illustrative trimming with unengineered sizes and connections. They must not look more authoritative than the studs they replace, in metadata or in any VR label.
+- **Ensuite wall is the sensitive one.** It is a ground-floor wall under the upper floor, and the opening is 1000 wide. Whether it is loadbearing or bracing is unknown from these sheets. Record it as "load path not assessed", not just "unresolved".
+- **Check wall depth in the model.** A 60 mm recess plus back lining and tile fits a 90 mm stud wall only if these walls really are 90 mm in the model.
+- **State the alternative.** A builder might shift the niche to suit studs instead; the drawings do not say which.
+- **Services.** The ensuite mixer (550 from the left, 1000 high) sits 200 mm below the niche sill on the same wall. Pipework is not modelled; say so.
+
+Keeping the 50 mm shower floor recess separate from niche depth is correct.
+
+## DP08 "750"
+
+Codex's reading is supported. On sheet 07 the downpipe symbol sits roughly mid-span of the 750 dimension, about 380 mm (scaled) from the outer corner, not at either end. Record 750 as a probable window or wall setback, not a confirmed one, because I could not resolve where the upper tick ends. Sheet 08 also shows a downpipe on that wall near the corner. The pipe position remains scaled.
+
+## DP06 cross-sheet offset
+
+The disagreement is real. I scale the ground-floor symbol at about X 18.4 and the first-floor symbol at about X 19.2 (±0.2 m), against Codex's 18.14 and 19.30. If the model's window extents are right, the first-floor position sits above W07, so a straight drop there is impossible.
+
+The dogleg is an invention that appears on no sheet. It is acceptable only as an explicitly inferred route with visible fall. Decision for you: check the page-bottom elevation sheet for a drawn downpipe first. If it is silent, a straight drop at the ground-floor position with the outlet moved is the less conspicuous option; the dogleg keeps both symbols honoured but adds a feature nobody drew.
+
+DP05 may also differ between sheets by about 0.3 m. That is within my reading error, so unverified.
+
+## Drainage counts
+
+Counts match the sheets: 8 downpipes, 3 with rainwater heads, 2 spreaders and 3 sumps. The garage roof falls toward page-bottom and the porch sump is at the page-top/right corner, as proposed.
+
+## For gate 3
+
+- Renders showing each niche with its adjoining room identifiable.
+- Upper WC with skirting only.
+- Visible "illustrative" tagging on the trimming members.
+- The DP06 route beside W07.
+- A list of every changed timber member.
+
+This is not an engineering or construction acceptance.

@@ -1,0 +1,146 @@
+[
+  {
+    "file": "room-21-bedroom5.png",
+    "pixel": [
+      1200,
+      60
+    ],
+    "hit": "Upper ceiling.030",
+    "point": [
+      15.37580680847168,
+      5.696408748626709,
+      5.699999809265137
+    ],
+    "material": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "file": "room-21-bedroom5.png",
+    "pixel": [
+      1200,
+      95
+    ],
+    "hit": "Upper ceiling.030",
+    "point": [
+      15.218440055847168,
+      5.651993751525879,
+      5.699999809265137
+    ],
+    "material": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "file": "room-21-bedroom5.png",
+    "pixel": [
+      1350,
+      18
+    ],
+    "hit": "Upper ceiling.030",
+    "point": [
+      15.324958801269531,
+      5.948439121246338,
+      5.699999809265137
+    ],
+    "material": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "file": "room-21-bedroom5.png",
+    "pixel": [
+      1350,
+      55
+    ],
+    "hit": "Upper ceiling.030",
+    "point": [
+      15.170010566711426,
+      5.928273677825928,
+      5.699999809265137
+    ],
+    "material": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "file": "room-21-bedroom5.png",
+    "pixel": [
+      1450,
+      35
+    ],
+    "hit": "FF Bed 5 west | lining.004",
+    "point": [
+      15.125,
+      6.084163188934326,
+      5.69468355178833
+    ],
+    "material": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "file": "room-21-bedroom5.png",
+    "pixel": [
+      1250,
+      145
+    ],
+    "hit": "Door casing Bed 5 robe sliders.004",
+    "point": [
+      15.126068115234375,
+      5.7356061935424805,
+      5.586999893188477
+    ],
+    "material": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "file": "room-21-bedroom5.png",
+    "pixel": [
+      1000,
+      95
+    ],
+    "hit": "Upper ceiling.030",
+    "point": [
+      15.551828384399414,
+      5.318604946136475,
+      5.699999809265137
+    ],
+    "material": [
+      "VR Warm white plaster"
+    ]
+  },
+  {
+    "file": "43-ensuite-fitout.png",
+    "pixel": [
+      800,
+      300
+    ],
+    "hit": "Fitout | Ensuite double vanity mirror",
+    "point": [
+      18.589000701904297,
+      2.3935294151306152,
+      1.586466670036316
+    ],
+    "material": [
+      "VR Fitout mirror Ensuite double vanity"
+    ]
+  },
+  {
+    "file": "43-ensuite-fitout.png",
+    "pixel": [
+      500,
+      500
+    ],
+    "hit": "Fitout | Ensuite double vanity mirror",
+    "point": [
+      18.589000701904297,
+      1.8570668697357178,
+      1.2779752016067505
+    ],
+    "material": [
+      "VR Fitout mirror Ensuite double vanity"
+    ]
+  }
+]

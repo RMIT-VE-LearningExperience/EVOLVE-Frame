@@ -1,0 +1,59 @@
+{
+  "validated_local": "2026-11-20T20:13:03",
+  "application_version": "0.3.2",
+  "android_version_code": 6,
+  "package": "au.edu.evolve.framelab",
+  "apk_bytes": 79136470,
+  "apk_sha256": "26767280535c6a6972e163d8d3c4fe150b5b31b0ca85d422a64b1f519567236c",
+  "model_triangles": 190892,
+  "model_material_batches": 47,
+  "source_blend_preserved": true,
+  "source_blend_sha256": "dba309decf25d9178f9c0d460cdc32ebaeec739d94e46ad1e524b8f2ee222e0b",
+  "corrections": {
+    "stair_wall_members_trimmed": [
+      "Powder east | top plate lower",
+      "Powder east | top plate upper",
+      "Powder east | common stud",
+      "Powder east | common stud.002",
+      "Powder east | common stud.003",
+      "Powder east | lining",
+      "Powder east | lining.001"
+    ],
+    "stair_obstruction_ray_checks": "PASS",
+    "ground_grade_m": -0.06,
+    "masonry_bearing_strips": 28,
+    "canopy_post_core": "P1 90 x 90 F7 H3 treated pine; S09/S10",
+    "canopy_finish": "Illustrative warm white paint, removable in structural view",
+    "meals_column": "C3 portal north, 200 x 100 x 6 RHS retained; S09/S10. Removable 10 mm illustrative lining.",
+    "entry_door": "Scheduled timber; split double leaves, satin finish and illustrative bronze pulls"
+  },
+  "stair_checks": "48 downward rays across all 16 treads, verifying no powder-room wall/frame intrusion above the finished tread surface",
+  "lighting_states": {
+    "WallsShown": 2,
+    "WallsHidden": 1,
+    "WallsHiddenRoofHidden": 1,
+    "WallsShownRoofHidden": 2
+  },
+  "editor_result": "PASS: room tour, narration, guide recall, study interactions, geometry and ground-lightmap checks",
+  "review_images": 38,
+  "review_gallery": "output/vr/review-0.3.2/index.html",
+  "apk_build": "PASS",
+  "pico_install": "PASS; package reports 0.3.2 / code 6",
+  "pico_session_ready": true,
+  "pico_power_at_install": "Asleep",
+  "pico_control_suite": "PASS",
+  "pico_metrics": [
+    "FRAME_LAB_METRICS frames=1787 fps=89.3 frame_p95_ms=11.11 gpu_ms=-1.00 refresh_hz=90.0",
+    "FRAME_LAB_METRICS frames=1786 fps=89.3 frame_p95_ms=11.11 gpu_ms=-1.00 refresh_hz=90.0",
+    "FRAME_LAB_METRICS frames=1783 fps=89.1 frame_p95_ms=11.11 gpu_ms=-1.00 refresh_hz=90.0"
+  ],
+  "wearer_validation": "Physical controller input, stereo appearance and comfort require wearer review; remote commands exercise normal handlers only",
+  "shader_fix": "URP Unlit retained in Android build; session readiness logged after actual initialization",
+  "cost": "No purchases or extra narration requests",
+  "evidence": "output/vr/evidence-0.3.2",
+  "scope": "Separate VR model revision. Remaining position-audit items are not certified by these targeted checks.",
+  "installed_apk_hash_matches_build": true,
+  "apk_contains_revised_scene": true,
+  "live_visual_review": "Confirmed unresolved C2(F) stair-column / W03 powder-room glazing clash in upright headset capture. See powder-window-audit.json and device-verification-0.3.2/04-powder-live.png. Not corrected in installed 0.3.2.",
+  "startup_diagnostics": "Optional Google AssetPackManager class lookup error remains; actual session initialized and control suite passed. Earlier ArgumentNullException(shader) did not recur."
+}

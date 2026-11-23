@@ -1,0 +1,130 @@
+{
+  "parts": [
+    {
+      "name": "frame",
+      "title": "01 Timber rough opening",
+      "note": "Generic rough opening, not an engineered lintel or a scheduled house window.",
+      "material": "LEARN Web LEARN timber",
+      "color": [
+        0.550000011920929,
+        0.3400000035762787,
+        0.15000000596046448,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6000000238418579
+    },
+    {
+      "name": "wrap",
+      "title": "02 Wall wrap around opening",
+      "note": "Generic drainage layer. Opening integration and membrane selection follow the selected wall/window system.",
+      "material": "LEARN Web LEARN wrap",
+      "color": [
+        0.07999999821186066,
+        0.44999998807907104,
+        0.38999998569488525,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6000000238418579
+    },
+    {
+      "name": "sill",
+      "title": "03 Sill flashing with upstand",
+      "note": "Conceptual outward drainage and upstand. End dams, laps and dimensions require a system-specific detail.",
+      "material": "LEARN Web LEARN flashing",
+      "color": [
+        0.9300000071525574,
+        0.5899999737739563,
+        0.11999999731779099,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6000000238418579
+    },
+    {
+      "name": "jamb",
+      "title": "04 Jamb flashing",
+      "note": "Show jamb flashing overlapping sill flashing. Final folds, laps and fixing-fin arrangement are product-specific.",
+      "material": "LEARN Web LEARN flashing",
+      "color": [
+        0.9300000071525574,
+        0.5899999737739563,
+        0.11999999731779099,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6000000238418579
+    },
+    {
+      "name": "window",
+      "title": "05 Window and glazing",
+      "note": "Generic aluminium window proxy. Fixings, packers, clearances, drainage slots and glass specification are not designed.",
+      "material": "LEARN Web LEARN metal",
+      "color": [
+        0.17000000178813934,
+        0.23999999463558197,
+        0.2800000011920929,
+        1
+      ],
+      "metallic": 0.25,
+      "roughness": 0.6000000238418579
+    },
+    {
+      "name": "glass",
+      "title": "06 Glazing",
+      "note": "Illustrative relationship; product and installation detail to be confirmed.",
+      "material": "LEARN Web LEARN glass",
+      "color": [
+        0.20000000298023224,
+        0.47999998927116394,
+        0.6299999952316284,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6000000238418579
+    },
+    {
+      "name": "head",
+      "title": "07 Head flashing",
+      "note": "Conceptual head flashing beneath the upper wrap, projecting outwards. Extension, fall and end treatment require confirmation.",
+      "material": "LEARN Web LEARN flashing",
+      "color": [
+        0.9300000071525574,
+        0.5899999737739563,
+        0.11999999731779099,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6000000238418579
+    },
+    {
+      "name": "brick",
+      "title": "08 Brick veneer cutaway",
+      "note": "110 mm brick leaf and 40 mm nominal cavity are model assumptions. Partial skin exposes the opening layers.",
+      "material": "LEARN Web LEARN brick",
+      "color": [
+        0.46000000834465027,
+        0.20000000298023224,
+        0.10999999940395355,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6000000238418579
+    },
+    {
+      "name": "lining",
+      "title": "09 Internal lining cutaway",
+      "note": "10 mm plasterboard is noted on architectural sheet 12. Seals and reveal finish remain schematic.",
+      "material": "LEARN Web LEARN lining",
+      "color": [
+        0.7799999713897705,
+        0.8100000023841858,
+        0.8299999833106995,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6000000238418579
+    }
+  ]
+}

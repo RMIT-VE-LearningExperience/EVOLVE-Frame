@@ -1,0 +1,121 @@
+{
+  "result": "PASS",
+  "scope": "18rays per pane across all19 scheduled window assemblies. Confirms absence of local model obstructions; drawing position/operation/finish acceptance remains separate.",
+  "windows": [
+    {
+      "window": "OPENING | W01 bed 1",
+      "panes": 4,
+      "rays": 72,
+      "blocked": []
+    },
+    {
+      "window": "OPENING | W02 entry",
+      "panes": 1,
+      "rays": 18,
+      "blocked": []
+    },
+    {
+      "window": "OPENING | W03 powder",
+      "panes": 1,
+      "rays": 18,
+      "blocked": []
+    },
+    {
+      "window": "OPENING | W04 kitchen",
+      "panes": 1,
+      "rays": 18,
+      "blocked": []
+    },
+    {
+      "window": "OPENING | W05 meals",
+      "panes": 3,
+      "rays": 54,
+      "blocked": []
+    },
+    {
+      "window": "OPENING | W06 family",
+      "panes": 3,
+      "rays": 54,
+      "blocked": []
+    },
+    {
+      "window": "OPENING | W07 ensuite",
+      "panes": 2,
+      "rays": 36,
+      "blocked": []
+    },
+    {
+      "window": "OPENING | W08 theatre",
+      "panes": 3,
+      "rays": 54,
+      "blocked": []
+    },
+    {
+      "window": "OPENING | W09 void",
+      "panes": 1,
+      "rays": 18,
+      "blocked": []
+    },
+    {
+      "window": "OPENING | W10 stair",
+      "panes": 1,
+      "rays": 18,
+      "blocked": []
+    },
+    {
+      "window": "OPENING | W11 bed 5",
+      "panes": 2,
+      "rays": 36,
+      "blocked": []
+    },
+    {
+      "window": "OPENING | W12 bath",
+      "panes": 1,
+      "rays": 18,
+      "blocked": []
+    },
+    {
+      "window": "OPENING | W13 WC",
+      "panes": 1,
+      "rays": 18,
+      "blocked": []
+    },
+    {
+      "window": "OPENING | W14 bed 4",
+      "panes": 2,
+      "rays": 36,
+      "blocked": []
+    },
+    {
+      "window": "OPENING | W15 bed 3",
+      "panes": 2,
+      "rays": 36,
+      "blocked": []
+    },
+    {
+      "window": "OPENING | W16 bath 2",
+      "panes": 1,
+      "rays": 18,
+      "blocked": []
+    },
+    {
+      "window": "OPENING | W17 bed 2",
+      "panes": 2,
+      "rays": 36,
+      "blocked": []
+    },
+    {
+      "window": "OPENING | W18 study",
+      "panes": 2,
+      "rays": 36,
+      "blocked": []
+    },
+    {
+      "window": "OPENING | W19 retreat",
+      "panes": 2,
+      "rays": 36,
+      "blocked": []
+    }
+  ],
+  "failures": []
+}

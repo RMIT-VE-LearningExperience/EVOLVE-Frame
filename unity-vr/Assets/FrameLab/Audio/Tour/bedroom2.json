@@ -1,0 +1,13 @@
+{
+  "sha256": "dc74a5f2dbc6fd1295c1b0da8925436f1d6255376c59f05163a227f50b712483",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "We're in bedroom two. Compare the window framing on this level with the openings downstairs. The components have similar roles even when the opening sizes change. Look up with the walls hidden to see the ceiling and roof structure above. Choose Next room when you're ready to inspect the nearby bathroom.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

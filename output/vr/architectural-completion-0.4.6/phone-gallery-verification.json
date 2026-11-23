@@ -1,0 +1,21 @@
+{
+  "result": "PASS",
+  "url": "https://leichhardt-model-review.lolepaille.chatgpt.site/",
+  "access": "Existing owner-only access preserved",
+  "project_id": "appgprj_6b003629adc081919b288dc51820b39a",
+  "deployment_id": "appgdep_6b011ff9522c8191bbb77d05e11a5844",
+  "saved_version_id": "appgprj_6b003629adc081919b288dc51820b39a~appgver_bb58d0f3cca081919edc0917705f2410",
+  "commit_sha": "17e1e778687c89989a0b535b56261fd0eff868eb",
+  "deployment_status": "succeeded",
+  "images": 83,
+  "new_views": [
+    71,
+    83
+  ],
+  "browser_checks": [
+    "Local390x844 layout, Architectural details filter, photo72 and next73, review report",
+    "Published0.4.6 header83 images",
+    "Published photo74 loaded1600x1000 and visually observed"
+  ],
+  "checked_at": "2026-11-21T15:38:42.281967+11:00"
+}

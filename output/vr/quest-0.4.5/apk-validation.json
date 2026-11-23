@@ -1,0 +1,30 @@
+{
+  "result": "PASS",
+  "version": "0.4.5",
+  "version_code": 13,
+  "targets": [
+    "Quest 3",
+    "Quest 3S"
+  ],
+  "timestamp": "2026-11-21T11:10:46.691038+11:00",
+  "apk": "D:\\Git\\EVOLE Frame\\unity-vr\\Builds\\Android\\Leichhardt-Quest3-3S.apk",
+  "bytes": 119644014,
+  "sha256": "4aafd93b9b83bbeaf60a5f07be86c928f2d56f089199da26a16740e320fd5786",
+  "native_libraries": [
+    "lib/arm64-v8a/lib_burst_generated.so",
+    "lib/arm64-v8a/libUnityOpenXR.so",
+    "lib/arm64-v8a/libc++_shared.so",
+    "lib/arm64-v8a/libgame.so",
+    "lib/arm64-v8a/libil2cpp.so",
+    "lib/arm64-v8a/libmain.so",
+    "lib/arm64-v8a/libopenxr_loader.so",
+    "lib/arm64-v8a/libunity.so"
+  ],
+  "openxr_loader_matches_unity_package": true,
+  "pico_native_libraries_absent": true,
+  "pico_settings_restored": true,
+  "manifest_device_whitelist": "eureka|quest3s",
+  "activity": "com.unity3d.player.UnityPlayerGameActivity",
+  "physical_device_validation": "DEFERRED at user request on 21 November 2026. APK package checks passed; no Quest device test is claimed.",
+  "scope": "APK version, target whitelist, VR launch manifest, ARM64 native libraries, correct loader and restored PICO configuration."
+}

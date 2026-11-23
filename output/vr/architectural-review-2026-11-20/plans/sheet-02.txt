@@ -1,0 +1,262 @@
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+REVISION DATE: BY: - DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024 E.C.
+CLIENT:
+DRAWING NAME:
+THIS WORK IS EXCLUSIVELY OWNED BY VIVID DESIGN & DRAFTING AND CANNOT BE REPRODUCED OR
+COPIED, EITHER WHOLLY OR IN PART, IN ANY FORM WITHOUT THE WRITTEN PERMISSION OF VIVID DESIGN & DRAFTING. DO NOT SCALE DRAWINGS. WRITTEN DIMENSIONS TAKE PRECEDENCE. CONFIRM ALL LEVELS AND
+DIMENSIONS ON SITE PRIOR TO COMMENCEMENT OF WORK. NOTIFY DESIGNER OF ANY DISCREPANCIES
+PRIOR TO COMMENCEMENT. DRAWINGS TO BE READ IN CONJUNCTION WITH SPECIFICATION, ENGINEER'S DRAWINGS, SOIL REPORT & SERVICE DRAWINGS. ALL WORKS ARE TO COMPLY WITH CURRENT AUSTRALIAN STANDARDS & BE IN ACCORDANCE WITH THE CURRENT NCC. © COPYRIGHT
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+5.0 - DOWNPIPES
+· Provide & install downpipes of compatible material to selected or existing gutter
+material. · Downpipes to be located at maximum 12.0m spacings & within 1.2m of any
+valley junction in the roof. · Secure all downpipes to walls with straps/brackets at maximum 1800mm centres. · Connect all downpipes to approved stormwater system that is connected to legal
+point of discharge.
+6.0 - EXCAVATIONS
+· Take necessary measures to ensure public safety. · Clear the proposed building area of the site of any existing structures, vegetation &
+organic material. · Ensure excavations for strip footings,concrete slab edge & internal beams are
+straight & plumb to the founding depths and sizes shown on approved dwgs & as
+recommended by soil report. · Excavations to be clean/dry before placement of reinforcement. · The Builder / Contractor is to arrange all required inspections & approvals. · Site cuts & batters not to exceed 45° unless otherwise specified by engineer or
+soil report. · Builder to check on site the adjoining buildings to ensure foundations & footings
+of any existing structures are not undermined. · The builder and subcontractor shall ensure that all stormwater drains, sewer pipes
+and the like are located at a sufficient distance from any buildings footing and/or
+slab edge beams so as to prevent genera moisture penetration, dampness,
+weakening and undermining of any building and its footing system.
+7.0 - STORMWATER
+· All storm water to be taken to the legal point of discharge in accordance with the
+relevant authorities requirements and in with A.S.3500.3 - 2021
+In absence of engineer designed system the following will apply. · The builder/contractor shall ensure that all stormwater drains, sewer pipes and the
+like are to be no closer than 600mm from any building line. This must be
+increased as to not to impinge on the building's foundations bearing in cases of
+deep excavations. This is required from any buildings footing and/or slab edge
+beams so as to prevent general moisture penetration, dampness, weakening and
+undermining of any building and it's footing system. · Pipes shall have 150mm minimum cover to non trafficable areas and
+300mm(min) to trafficable or under paths, driveways etc. · Suspended stormwater pipes must be minimum 100mmØ UPVC & installed only
+with a 450mm (min) subfloor clearance between underside of bearers & finished
+ground. anchors & fixing centres as approved by building surveyor. · Obtain authority inspections & approvals before backfilling. · Provide agricultural drains (ag drain) to all site cuts or batters exceeding 600mm
+in height. ag drains to be connected to approved stormwater system via silt pit. · The builder/contractor shall ensure that all storm water drains, sewer pipes and
+the like are located at a sufficient distance form any buildings footing and/or slab
+edge beams so as to prevent general moisture penetration, dampness, weakening
+and undermining of any building and it's footing system. · Provide 100mm Ø min. class 6 upvc stormwater line laid to a minimum grade of
+1:100 and connected to legal point of discharge (lpod). Provide inspection pits
+@9000mm ctrs min and at each change of direction. · The cover to underground stormwater drains shall not be less than
+(unless specified by responsible authority requirements):
+- 100mm Under soils
+- 50mm Under paved or concrete areas
+- 100mm Under unreinforced concrete or paved areas
+- 75mm Under reinforced concrete driveways · Ground & paved areas adjacent to residence footing edge shall grade away with a
+slope of at least 1:20 for the first meter. · Stormwater drains shall be a minimum 100mm Ø upvc. stormwater drain shall
+have a minimum of 300mm earth cover & trafficable areas such as driveways a
+minimum cover of 450mm shall be provided unless protected by concrete or
+other approved methods. · A.G. grate & or spoon-drains to be connected into 100mmØ upvc stormwater
+drain via silt pit to councils satisfaction.
+12.0 - STAIRS & BALUSTRADES
+· Levels & number of steps shown are approximate only. · All staircases to have: 2030mm minimum head height. · Landing to be provided where external door still exceeds 570mm or 3 risers
+above finished surface of the ground with a min. of 750mm wide landing. · Hand rails to be 865mm minimum above stair nosing and landings. · Step sizes (other than for spiral stairs) to be:
+1. Risers (r) 190mm maximum and 115mm minimum.
+2. Going (g) 355mm maximum and 240mm minimum (residential) or
+250mm minimum (commercial/industrial)
+3. 2r + 1g = 700mm maximum and 550mm minimum.
+4. With less than 125mm gap between open treads. · Risers and treads to be constant in size throughout flight. · All treads and landings and the like to have non-slip finish or suitable non-skid
+strip near edge of nosing. · Provide balustrades where change in level exceeds 1000mm above the surface
+beneath landings, ramps and/or treads. balustrades (other than tensioned wire
+balustrades) to be: 1000mm min. above finished surface level of balconies,
+landings or the like, & 865mm min. above finished surface level of stair nosing
+or ramp, and vertical with a 125mm maximum gap between, and · Any horizontal element within the balustrade between 150mm and 760mm
+above the finished floor surface must not facilitate climbing where changes in
+level exceed 4000mm above the surface beneath landings, ramps and/or treads. · Wire balustrade construction to comply with NCC 2019 Volume 2 for other
+classes of buildings. 1. Stainless steel wires must be 3mm Ø and 1x19 lay. 2. Supports must be provided @ 900 ctrs, droppers or posts.
+3. Wire spacing shall be no more than 80mm max. 4. Wires must be tensioned to 670 newtons and shall have
+max 6mm deflection when a 2kg mass is suspended mid span
+between supports. 5. Solid top rail of 40mm Ø must be provided.
+6. Tensioners must be provided @ each wire and @ each
+change of direction greater than 30°. 7. Pulley blocks must be provided @ each change of direction.
+13.0 - INSULATION
+· These drawings shall be read in conjunction with any house energy rating (her)
+report for insulation details and any other energy efficiency requirements and
+shall be constructed in accordance with the stamped plans endorsed by the
+accredited thermal performance assessor without alterations. ( If one report is
+required for this project) · For new additions to or re-erection of class 1 buildings, unless noted otherwise,
+minimum insulation provided shall be as follows:
+- Conc. slab floor construction
+- Timber floor construction (Refer to notes) - External walls. (Refer to notes) - Bulk insulation to ceiling. (Refer to notes)
+- Door seals to all external hinge doors.
+- Seal round all windows and cracks.
+- Self sealing exhaust fans.
+- Weather strip external doors.
+- All down lights to be sealed.
+Note: Any sarking material (Sisalation paper) to have a flammability index not greater
+than 5.
+14.0 - GLAZING
+· Glazing to A.S. 1288 - 2021 · Safety glazing to be used in the following cases:-
+1. All rooms - within 500mm vertical of floor level.
+2. All glazing in bathrooms, ensuites, spa rooms or showers - within 2000mm
+vertical from the bath base, within 500mm horizontal from bath/shower to
+shower doors, shower screens and bath enclosures. (including mirrors etc.)
+3. Laundry - within 1200mm vertical from floor level and/or within
+300mm vertical of trough.
+4. Doorways within 300mm horizontal from all doors.
+5. Ensuite as for shower screens shall be "grade a" safety glass. · Glazing including safety glazing shall be installed to a size, type and thickness
+so as to comply with:
+- NCC 2019 Volume 2 within a design wind speed
+of not more than N3.
+8.0 - TERMITE CONTROL · Where a site allotment is located within a termite designated area the
+builder/contractor shall treat the entire building area with an approved termite
+control treatment that complies with relevant Australian Standards & the NCC
+2019 Volume 2. · The builder/contractor shall engage a licensed and suitably qualified contractor
+to carry out control treatment. · The builder/contractor is to provide the owner with a written certificate
+confirming the completion of treatment and all methods comply with (A.S.
+3660.1.)
+9.0 - BRICKWORK NOTES
+· Brickwork control joints to be spaced at a max of 5.0m as per CN9 and Cement
+and Concrete Association. (Note TN61) or as per mentioned in the geotechincal
+report. · All wall ties to brickwork at 600mm vertically and horizontally and within
+300mm of articulation joints. · Brickwork in gables, or over windows provide continuous cavity head flashing
+to weep holes @ 1000 max ctrs. Basketball rings or other sporting equipment
+are not to be attached to brickwork or building unless designed for that purpose. · General purpose class - mortar to be 1:1:6 · Protected class (within 1km of sea) - mortar to be 1:2:9 · Exposure class - mortar to be 1: ½ :4½
+· Sub floor vents to be spaced evenly at 1000mm max centres, to provide
+6000mm² clear air passage per meter of wall length, & max 500mm from
+corners. 10.0 - TIMBER FRAMING NOTES
+· All timber to be graded in accordance with A.S. 1684.4-2021 as follows: F5
+Pine, F7 Oregon and F8 Hardwood U.N.O. · All timber framework being walls or roof to be provided with bracing as per the
+requirements of AS 1684.4 - 2021. All tie downs for roof are to be supplied and
+fitted in accordance with AS 1684.4 - 2021 and NCC 2019 Volume 2
+requirements. · If shower base is located at load bearing walls, shower base is not to be cut into
+stud frame.
+11.0 - STRUCTURAL NOTES
+· These drawings shall be read in conjunction with all relevant structural
+drawings/computations an all other consultants drawings/details and with any
+other written instructions issued which is required for this project. · All structural steel is to be protected from corrosion in moderate and severe
+environments in accordance with table AS. 4100. · Concrete stumps:
+Up to 1.4m long shall be 100mm x 100mm (1No. H.D. wire)
+1.4m to 1.8m long shall be 100mm x 100mm (2No. H.D. wire)
+1.8m to 3.0m long shall be 125mm x 125mm (2No. H.D. wire)
+100mm x 100mm stumps exceeding 1200mm above ground level are to be
+braced where no perimeter base brickwork is provided. · All foundations shall be inspected by the building inspector prior to pouring
+concrete. · Any variation in foundation material from that specified to be notified to the
+engineer and owner. · All reinforcement in footings and pad footings shall be inspected by the building
+inspector prior to pouring concrete. · All steel and steelwork shall be in accordance with A.S. 4100. · All dimensions shall be checked on site prior to fabrication of steelwork. · All timber materials, workmanship and practice shall be in · accordance with the Timber Engineering Codes A.S. 1720.0, 1720.2 and
+1720.4 and the Timber Framing Code A.S. 1684.1 and 1684.2. · All timber to be partially seasoned unless noted otherwise. · All rafters and roof members to be tied down to support structure using straps,
+plates, cleats, etc. by "PRYDA" or "TECO" components. · Builder to ensure that all work is carried out to these specifications and no
+spans or sizes vary. No splices are permitted without the engineer's written
+consent. · All exposed bolts, fixing, etc. to be hot dip galvanised in accordance with A.S.
+1650 to suit site exposure conditions. · Refer soil report and structural engineer's specifications for minimum founding
+depth and maximum allowable bearing pressure.
+1.0 - GENERAL NOTES
+· © These designs & drawings are the property of Soniez Group, no part of
+this drawing shall be used for any other purpose without the prior written
+consent IF IN DOUBT ASK. · Written dimensions take precedence over scaled dimensions, do not scale
+drawings. · Prior to starting any works if builder/contractor and or owner has or have
+found any discrepancies in these documents it should be reported to this
+office for clarification. · Vivid Design & Drafting accepts no responsibility for any work done that is
+not documented or shown as an amendment or variation on the said
+approved plans. · The written contract and specifications take precedence over these prepared
+plans. The builder / contractor is to ensure that all plans have been read in
+conjunction with the written contract and are to his or hers satisfaction
+before issuing the contract & plans to the client. · All materials and work practices shall comply with but not limited to the
+building regulations NCC 2019 Volume 2, the Building Code of Australia and
+all relevant current Australian Standards (as amended) referred to therein
+and also to the relevant local authority regulations. · The builder is to give all notices & pay all fees in connection with these
+works unless otherwise noted in signed contract if one is provided. · The builder/contractor shall verify all dimensions, setbacks, levels,
+specifications and other relevant documentation prior to commencing any
+works or ordering materials and shall be responsible for ensuring that all
+building works conform to the current Building Code of Australia, Australian
+Standard Codes, Building Regulations, local by-laws and local town
+planning requirements. the builder, subcontractor or manufacturer shall
+report any discrepancies to this office for clarification. · Buildings in marine or other corrosive exposure environments ensure all
+exposed steel work, brick cavity ties, steel lintels etc. are protected (hot dip
+galvanised/stainless steel etc.) in accordance with table 5.1 of AS
+3700-2001 masonry structures. · The builder/contractor shall take all steps necessary to ensure the stability
+and general water tightness of all new and/or existing structures during all
+works.
+2.0 - UNDERGROUND SERVICES
+· Beware of underground services, take extreme care. the exact location of
+underground services shall be investigated on site. No guarantee is given
+that all existing services are shown. · Call 1100 Dial Before You Dig, prior to commencement of any works onsite
+dial 1100 to locate authority assets.
+3.0 - SITE ASSETS
+· It is the responsibility of the owner/builder during construction to remove,
+retain, relocate or protect existing and proposed assets, i.e. kerbs,
+crossovers, power poles etc, whilst conforming to all relevant authorities
+requirements.
+4.0 - LEVELS & SETOUT · The builder's and or subcontractor's responsibility to verify all dimensions,
+setbacks, levels & existing conditions on site & ensure that any
+discrepancies in these documents and all other relevant documents are
+resolved prior to commencement of any works & incurring any additional costs. · Site plan measurements in metres - all other measurements in millimeters
+unless noted otherwise (u.n.o.) · Should levels be provided the builder is to check and confirm all site levels
+and proposed floor levels are correct as drawn. any discrepancy must be
+reported to this office. start of work is taken to be acceptance of the
+information provided as correct. · The builder is to set out & maintain the works in accordance with the
+drawings & ensure that no part of the building encroaches over any title
+boundaries. the building shall not encroach over any drainage, sewerage or
+electrical easement without the prior written consent of the authority
+concerned. · No part of building shall project beyond the title boundary line, ie. including
+moulds, architectural features, footings, gutters, and the like. · The builder/owner is to ensure that all title boundary pegs are located prior
+to set out, if title boundary cannot be identified, the builder/owner is to
+engage a licensed land surveyor to re-establish the title boundaries. Existing
+fences are not to be used to determine building setbacks.
+15.0 - WINDOWS & DOORS
+· Window and door sizes nominated are nominal only. · All windows and doors are to be confirmed on site with builder/contractor prior
+to ordering. Actual size may vary according to the selected manufacturer and
+site conditions. · External windows and doors to be flashed all round. · All window and door sizes are height x width. · Window head height to be 2100mm high or to the nearest brick course. (U.N.O.) · All internal doors to be 2040mm high (U.N.O.) · Refer to the window and door schedule if provided. · All windows and doors need to comply with the energy rating report if one is
+required for this project.
+16.0 - WET AREAS
+· Waterproofing of wet areas, being bathrooms, showers, shower rooms,
+laundries, sanitary compartments and the like shall be provided in accordance
+with AS 3740 - 2021. · Waterproofing of wet areas within residential buildings AS 3740 - 2021. Hardies
+"Villaboard" to showers as per AS 3740 - 2021 "Ceramic" underlay to timber
+floors, sealed and caulked at joints. · Waterproofing of terraces and balconies: select tiled finish, set at 50mm min.
+fall to exterior floor drain; set over cement-rich mortar grout; set over 3 layers
+fiberglass based membrane, set over cement-rich mortar grout; set over villa
+board; provide acrylic coving to all wall/floor corners, provide 300mm h. tiled
+skirting over as well.
+17.0 - SERVICES
+· Installation of all services shall comply with the respective supply authority
+requirements. · All locations of lighting, light switches, power points including electric meter box
+shall be located as discussed on site between owner and builder/contractor.
+All locations of the above to be in accordance with any relevant
+Australian Standard and or Electrical Standard. · The location of hot water system unit and gas meter and heating units shall be
+discussed by owner on site with builder/contractor and insuring plumbing
+regulation requirements are to standard. · All electrical work to be provided by a registered electrician. · All plumbing work to be provided by a registered plumber. · Waste from kitchen sink and other sanitary fittings to be discharged to public
+sewerage system (pipe sizes to be established by registered plumber). · Open fire place construction as per Section J of the NCC 2019 Volume 2.
+Chimney construction as per Section J of the NCC 2019 Volume 2.
+Provide damper or flap to chimney as per Section J of the NCC 2019 Volume 2.
+Insert fire places as per Section J of the NCC 2019 Volume 2.
+Free standing heating appliances as per Section J of the NCC 2019 Volume 2.
+· All notes mentioned on this page are general notations only. For more specific
+information, refer to the NCC 2019 Volume 2 and the Australian Standards. · Architectural drawings to be read in conjunction with builders contract and
+specifications.
+NCC & Standards - General
+All works shall comply with the NCC 2019 Volume 2 and not be limited to the following
+Australian Standard:
+A.S 1288-2021 - Glass in buildings selections and installations
+A.S 1562-2018 - Design and installation of sheet roof and wall cladding. part 1 metal
+A.S 1684.2-2021 - National timber framing code
+A.S 1860-2006 - Installation of particleboard flooring
+A.S 2047-2014 - Windows in buildings selections and installations
+A.S 2049-2002 - Roof tiles
+A.S 2050-2002 - Installation of roofing tiles
+A.S 2870-2011 - Residential slabs and footing construction
+A.S 2904-1995 - Damp proof courses and flashings
+A.S 3600 - 2018 - Concrete structures
+A.S 3660.0-2017 - Protection of building against subterranean termites part 1 new buildings
+A.S 3700-2018 - Masonry structures
+A.S 3740-2021 - Waterproofing of wet areas in residential buildings
+A.S 3786-2014 - Smoke alarms
+A.S 4100-2020 - Steel structures
+A.S 4256-2006 - Plastic roof and wall cladding materials
+NOTES
+N/A
+02

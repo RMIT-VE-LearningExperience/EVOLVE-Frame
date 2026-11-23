@@ -1,0 +1,84 @@
+{
+  "version": "0.4.6",
+  "claude_review_file": "output/vr/architectural-completion-0.4.6/finished-review.txt",
+  "review_intro": "Claude Fable 5.2 reviewed the work plan, drawing findings and finished Unity images, including a follow-up of two recaptured views. Its verdict is ready for headset review of this scoped revision. It identified evidence gaps and non-blocking visual limitations, recorded below. This is not acceptance of every checklist item or engineering design.",
+  "latest_note": "Architectural detail pass 0.4.6: views 71–83 show the new work. Views 1–70 retain their earlier numbers. Three niches, the laundry bulkhead, wet finishes/accessories and above-ground drainage are included. Specific drawing conflicts remain open.",
+  "featured_images": [
+    {
+      "file": "71-laundry-bulkhead.png",
+      "title": "71 Laundry bulkhead"
+    },
+    {
+      "file": "72-ensuite-niche.png",
+      "title": "72 Ensuite niche"
+    },
+    {
+      "file": "74-upper-bath-niche.png",
+      "title": "74 Upper bathroom niche"
+    },
+    {
+      "file": "78-west-drainage.png",
+      "title": "78 West downpipes"
+    },
+    {
+      "file": "79-garage-gutters.png",
+      "title": "79 Garage gutters and sumps"
+    }
+  ],
+  "items": [
+    {
+      "id": "A046-01",
+      "title": "Laundry bulkhead",
+      "status": "Implemented with source conflict retained",
+      "response": "340mm dimension chain closes the 2740mm ceiling and meets cupboard tops at 2400. The conflicting 300mm label and illustrative 380mm projection remain recorded."
+    },
+    {
+      "id": "A046-02",
+      "title": "Three recessed shower niches",
+      "status": "Measured geometry passed",
+      "response": "Ensuite 1000x450, upper bathroom 900x450 and Bath2 600x450. Sills 1200mm above tile; 60mm recess depth is illustrative. 27 back rays pass and opposite wall linings are preserved."
+    },
+    {
+      "id": "A046-03",
+      "title": "Niche framing",
+      "status": "Illustrative; load path not assessed",
+      "response": "Generated studs/noggins are explicitly trimmed around openings with visible jambs, heads and sills. Every changed member is recorded. Member sizes/connections and concealed mixer plumbing require coordination."
+    },
+    {
+      "id": "A046-04",
+      "title": "Wet-room tiles and accessories",
+      "status": "Implemented",
+      "response": "Full-height finishes completed for powder, ensuite/WC and Bath2. Upper bathroom tiles retained. Seven mounted accessories added. Claude corrected the upper WC to painted walls with 100mm tiled skirting on every wall."
+    },
+    {
+      "id": "A046-05",
+      "title": "Downpipes, rainheads and spreaders",
+      "status": "Implemented; route design remains provisional",
+      "response": "Eight downpipes, three rainheads, two spreaders, three 300x300x150 sumps and garage/porch channels. All 13 outlets are physically open. No new drainage intersects retained timber/steel or projects across scheduled glazing."
+    },
+    {
+      "id": "A046-06",
+      "title": "DP06 beside ensuite window",
+      "status": "Inferred route, unresolved source registration",
+      "response": "The two floor drawings disagree. A straight drop at either plotted position crosses W07 or W18 in the current model. The sloping offset between storeys clears both; sheet10 does not draw a route."
+    },
+    {
+      "id": "A046-07",
+      "title": "Theatre and global level conflicts",
+      "status": "Open",
+      "response": "Theatre platform height/high side, 2340 door versus bulkhead soffit, W08 head junction, powder stair soffit and retained floor/ceiling/parapet datums remain unresolved. No platform height has been invented."
+    },
+    {
+      "id": "A046-08",
+      "title": "Check scope",
+      "status": "53 register entries updated",
+      "response": "The 309-item register retains individual statuses and historical evidence. These targeted repairs and regression checks do not certify every architectural/engineering element or headset comfort."
+    },
+    {
+      "id": "A046-09",
+      "title": "Claude finished-work review",
+      "status": "Ready for scoped headset review",
+      "response": "No blocking defect was substantiated. Gutter/framing views were recaptured and missing reports supplied. The garage roof still lacks surface detail, framing is layered, and illustrative niche assumptions are labelled in the report/gallery rather than inside the app. Separate saved-mesh checks subsequently confirmed 16 connected pipe/scupper routes and recorded the 12 new trimmer members."
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+VBCSCompilerPreWarmer: watching VBCSCompiler (PID 29900)
+VBCSCompilerPreWarmer: pre-warm launched (dotnet PID 46628)
+VBCSCompiler prewarm took 11.84 ms
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Channel LicenseClient-lawre doesn't exist
+Built from '6000.6/staging' branch; Version is '6000.6.9f1 (8c45277fb9c5) revision 9192743'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 130988 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-11-20T23:51:13Z
+[Licensing::Module] Successfully launched the LicensingClient (PId: 32640)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-lawre" at "2026-11-20T23:51:13.639932Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 32640, path: "C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.19.0+4cc3dda
+  Session Id:              2706a5064c9446519ee142ddf350acd9
+  Correlation Id:          e2f0334580cd273e2566e30b19fc11a8
+  External correlation Id: 5949238573772634134
+  Machine Id:              CFaVb/hQY/1TbBIdjsHYPVds/II=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-lawre" (connect: 0.04s, validation: 0.07s, handshake: 0.12s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-lawre-notifications" at "2026-11-20T23:51:13.8362473Z"
+[Licensing::Module] Connected to LicensingClient (PId: 32640, launch time: 0.00, total connection time: 0.24s)
+[Licensing::Module] Error: Access token is unavailable; failed to update
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-Z2YX-MG9R-7MT6-E4RS-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.00
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.25s
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.6.9f1\Editor\Unity.exe
+-batchmode
+-projectPath
+D:/Git/EVOLE Frame/unity-vr
+-executeMethod
+FrameLabPhoto045.Run
+-logFile
+D:/Git/EVOLE Frame/unity-vr/Logs/Photo045.log
+Successfully changed project path to: D:/Git/EVOLE Frame/unity-vr
+D:/Git/EVOLE Frame/unity-vr
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Logging is directed to a specific file, skipping project log.
+Player connection [51856]  Target information:
+
+Player connection [51856]  * "[IP] 192.168.1.237 [Port] 55504 [Flags] 2 [Guid] 1361169590 [EditorId] 1361169590 [Version] 1048832 [Id] WindowsEditor(7,Lawrence) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [51856]  * "[IP] 192.168.137.1 [Port] 55504 [Flags] 2 [Guid] 1361169590 [EditorId] 1361169590 [Version] 1048832 [Id] WindowsEditor(7,Lawrence) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [51856] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [51856] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Package Manager] Connected to IPC stream "Upm-34640" after 0.3 seconds.
+[Licensing::Client] Successfully resolved entitlement details
+Library Redirect Path: Library/
+Initialising UDS system complete:
+  - System type: Client
+  - Resource namespace: 3585c7eeafd944648d77c0c233cc75f1
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052576
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+  - Service connected: false
+Launching Unity Data Store - C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/Tools/Unity.DataStore.exe 
+Unity Data Store artifact dir = Library/DataStore, working dir = D:/Git/EVOLE Frame/unity-vrUnity Data Store running and initialised
+[Licensing::Client] Successfully resolved entitlement details
+[Physics::Module] Selected backend (deferred post-plugins).
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Initialize engine version: 6000.6.9f1 (8c45277fb9c5)
+[EntityIdStore] init: VM path (explicit commit), pageSize=4096, blockCount=262144, entitiesPerBlock=1024, blocksPerSlotPage=0, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Git/EVOLE Frame/unity-vr/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.2]
+    Renderer:        NVIDIA GeForce RTX 5070 Ti (ID=0x2c05)
+    Vendor:          NVIDIA
+    VRAM:            15907 MB
+    App VRAM Budget: 15139 MB
+    Driver:          32.0.15.8157
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56640
+CodeReloadManager initialized
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.002494 seconds.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:False
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.803 seconds
+Domain Reload Profiling: 1435ms
+	BeginReloadAssembly (157ms)
+		CreateAndSetChildDomain (11ms)
+	RebuildCommonClasses (6ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (73ms)
+	LoadAllAssembliesAndSetupDomain (375ms)
+		LoadAssemblies (142ms)
+		TypeCache.Refresh (256ms)
+			TypeCache.ScanAssembly (239ms)
+		AnalyzeDomain (1ms)
+	FinalizeReload (804ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			BeforeProcessingInitializeOnLoad (121ms)
+			ProcessInitializeOnLoadAttributes (153ms)
+			ProcessInitializeOnLoadMethodAttributes (300ms)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 45 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.inputsystem@1.20.1 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.inputsystem@2436e68c60c4)
+    com.unity.xr.interaction.toolkit@3.6.1 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.interaction.toolkit@530ce2e6c59e)
+    com.unity.xr.openxr@1.18.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.openxr@b5b77b4027be)
+    com.unity.xr.management@4.7.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.management@2ad85c7dd480)
+    com.unity.xr.core-utils@2.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.core-utils@a8b900321199)
+    com.unity.cloud.gltfast@6.21.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.cloud.gltfast@15da4aaf9675)
+    com.unity.xr.legacyinputhelpers@3.0.1 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.legacyinputhelpers@3f62d634f63b)
+    com.unity.nuget.mono-cecil@1.11.6 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.nuget.mono-cecil@ecb9724e46ff)
+    com.unity.searcher@4.9.5 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.searcher@a463122f2c00)
+    com.unity.profiling.core@1.0.3 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.profiling.core@8a49f7027d06)
+  Built-in packages:
+    com.unity.render-pipelines.universal@17.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.render-pipelines.universal@2a6014b851d8)
+    com.unity.ugui@2.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.ugui@ff4f88904a57)
+    com.unity.modules.vectorgraphics@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.vectorgraphics)
+    com.unity.modules.physics@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.physics)
+    com.unity.modules.audio@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.audio)
+    com.unity.modules.ui@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.ui)
+    com.unity.modules.jsonserialize@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.jsonserialize)
+    com.unity.modules.xr@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.xr)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.particlesystem@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.particlesystem)
+    com.unity.modules.terrain@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.terrainphysics)
+    com.unity.modules.video@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.video)
+    com.unity.modules.screencapture@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.screencapture)
+    com.unity.modules.imageconversion@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.imageconversion)
+    com.unity.modules.unitywebrequest@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.unitywebrequest)
+    com.unity.modules.subsystems@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.subsystems)
+    com.unity.burst@2.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.burst@626e66ab421b)
+    com.unity.collections@6.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.collections@c70d71c1212e)
+    com.unity.mathematics@1.4.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.mathematics@8306a64d0cd6)
+    com.unity.modules.androidjni@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.androidjni)
+    com.unity.modules.imgui@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.imgui)
+    com.unity.modules.uielements@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.uielements)
+    com.unity.modules.physics2d@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.physics2d)
+    com.unity.render-pipelines.core@17.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.render-pipelines.core@77e675a23c5f)
+    com.unity.shadergraph@17.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.shadergraph@807b608040c3)
+    com.unity.render-pipelines.universal-config@17.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.render-pipelines.universal-config@561422b74439)
+    com.unity.test-framework@1.8.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.test-framework@01a8b42f9cf6)
+    com.unity.test-framework.performance@6.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.test-framework.performance@816c370aad5b)
+    com.unity.modules.hierarchycore@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.hierarchycore)
+    com.unity.modules.animation@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.animation)
+    com.unity.modules.physicscore2d@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.physicscore2d)
+    com.unity.graph-authoring@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.graph-authoring@cfd2588851ee)
+    com.unity.ext.nunit@2.1.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.ext.nunit@0198eae3b53e)
+  Git packages:
+    com.unity.xr.openxr.picoxr@https://github.com/Pico-Developer/PICO-Unity-OpenXR-SDK.git#3aa3e62bff41df618529eeb60ff02c29a515dafe (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.openxr.picoxr@3aa3e62bff41)
+[Subsystems] Looking for new subsystems at path D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.openxr@b5b77b4027be
+[Subsystems] Novel subsystem found at Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Git/EVOLE Frame/unity-vr/Assets
+[Subsystems] Discovering subsystems at path D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.openxr@b5b77b4027be
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'displays' descriptors matched in Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  meshings in Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] Discovering subsystems at path D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.openxr.picoxr@3aa3e62bff41
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.openxr.picoxr@3aa3e62bff41/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] No descriptors matched for  inputs in Library/PackageCache/com.unity.xr.openxr.picoxr@3aa3e62bff41/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] No descriptors matched for  displays in Library/PackageCache/com.unity.xr.openxr.picoxr@3aa3e62bff41/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'meshings' descriptors matched in Library/PackageCache/com.unity.xr.openxr.picoxr@3aa3e62bff41/Runtime/UnitySubsystemsManifest.json
+[Package Manager] Done registering packages in 0.01 seconds
+[ScriptCompilation] Requested script compilation because: AssetDatabase observed changes in script compilation related files
+Starting: C:\Program Files\Unity\Hub\Editor\6000.6.9f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/1300b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: D:/Git/EVOLE Frame/unity-vr
+DisplayProgressbar: Compiling Scripts
+Starting: C:\Program Files\Unity\Hub\Editor\6000.6.9f1\Editor\Data\DotNetSdk\dotnet.exe "C:\Program Files\Unity\Hub\Editor\6000.6.9f1\Editor\Data\Tools\BuildPipeline\ScriptCompilationBuildProgram.exe" "Library/Bee/1300b0aE.dag.json" "Library/Bee/1300b0aE-inputdata.json" "Library\Bee\buildprogram0.traceevents"
+WorkingDir: D:/Git/EVOLE Frame/unity-vr
+ExitCode: 4 Duration: 0s231ms
+[ 550/1192  0s] WriteResponseFile Library/Bee/artifacts/rsp/4747638433968585886.rsp
+[ 909/1192  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+Rebuilding DAG because FileSignature timestamp changed: Library/Bee/1300b0aE-inputdata.json
+*** Tundra requires additional run (0.21 seconds), 2 items updated, 964 evaluated
+ExitCode: 0 Duration: 1s359ms
+Starting: C:\Program Files\Unity\Hub\Editor\6000.6.9f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/1300b0aE.dag" --continue-on-failure --dagfilejson="Library\Bee\1300b0aE.dag.json" --profile="Library/Bee/backend2.traceevents" ScriptAssemblies
+WorkingDir: D:/Git/EVOLE Frame/unity-vr
+ExitCode: 0 Duration: 1s591ms
+Finished compiling graph: 1196 nodes, 25079 flattened edges (19973 ToBuild, 190 ToUse), maximum node priority 1562
+[ 641/1192  0s] WriteText Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.rsp
+[ 908/1192  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[1188/1192  0s] Csc Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+Assets\FrameLab\Editor\FrameLabLighting.cs(178,114): warning CS0618: 'FindObjectsSortMode' is obsolete: 'FindObjectsSortMode has been deprecated. Use the FindObjectsByType overloads that do not take a FindObjectsSortMode parameter.'
+
+Assets\FrameLab\Editor\FrameLabLighting.cs(178,34): warning CS0618: 'Object.FindObjectsByType<T>(FindObjectsInactive, FindObjectsSortMode)' is obsolete: 'FindObjectsByType with FindObjectsSortMode parameter has been deprecated. Use FindObjectsByType<T>() or FindObjectsByType<T>(FindObjectsInactive) instead. InstanceID will be replaced in the future with EntityId and previous sort order cannot be maintained.'
+
+Assets\FrameLab\Editor\FrameLabLighting.cs(218,91): warning CS0618: 'FindObjectsSortMode' is obsolete: 'FindObjectsSortMode has been deprecated. Use the FindObjectsByType overloads that do not take a FindObjectsSortMode parameter.'
+
+Assets\FrameLab\Editor\FrameLabLighting.cs(218,37): warning CS0618: 'Object.FindObjectsByType<T>(FindObjectsSortMode)' is obsolete: 'FindObjectsByType with FindObjectsSortMode parameter has been deprecated. Use FindObjectsByType<T>() or FindObjectsByType<T>(FindObjectsInactive) instead. InstanceID will be replaced in the future with EntityId and previous sort order cannot be maintained.'
+
+Assets\FrameLab\Editor\FrameLabLighting.cs(237,75): warning CS0618: 'FindObjectsSortMode' is obsolete: 'FindObjectsSortMode has been deprecated. Use the FindObjectsByType overloads that do not take a FindObjectsSortMode parameter.'
+
+Assets\FrameLab\Editor\FrameLabLighting.cs(237,31): warning CS0618: 'Object.FindObjectsByType<T>(FindObjectsSortMode)' is obsolete: 'FindObjectsByType with FindObjectsSortMode parameter has been deprecated. Use FindObjectsByType<T>() or FindObjectsByType<T>(FindObjectsInactive) instead. InstanceID will be replaced in the future with EntityId and previous sort order cannot be maintained.'
+
+Assets\FrameLab\Editor\FrameLabLighting.cs(289,104): warning CS0618: 'FindObjectsSortMode' is obsolete: 'FindObjectsSortMode has been deprecated. Use the FindObjectsByType overloads that do not take a FindObjectsSortMode parameter.'
+
+Assets\FrameLab\Editor\FrameLabLighting.cs(289,24): warning CS0618: 'Object.FindObjectsByType<T>(FindObjectsInactive, FindObjectsSortMode)' is obsolete: 'FindObjectsByType with FindObjectsSortMode parameter has been deprecated. Use FindObjectsByType<T>() or FindObjectsByType<T>(FindObjectsInactive) instead. InstanceID will be replaced in the future with EntityId and previous sort order cannot be maintained.'
+
+Assets\FrameLab\Editor\FrameLabSmokeTest.cs(134,66): warning CS0618: 'FindObjectsSortMode' is obsolete: 'FindObjectsSortMode has been deprecated. Use the FindObjectsByType overloads that do not take a FindObjectsSortMode parameter.'
+
+Assets\FrameLab\Editor\FrameLabSmokeTest.cs(134,31): warning CS0618: 'Object.FindObjectsByType<T>(FindObjectsSortMode)' is obsolete: 'FindObjectsByType with FindObjectsSortMode parameter has been deprecated. Use FindObjectsByType<T>() or FindObjectsByType<T>(FindObjectsInactive) instead. InstanceID will be replaced in the future with EntityId and previous sort order cannot be maintained.'
+[1189/1192  0s] ILPostProcess Library/Bee/artifacts/1300b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll, with 154 defines and 381 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+1 processor(s) skipped this assembly
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[1190/1192  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+[1191/1192  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+*** Tundra build success (1.57 seconds), 6 items updated, 1192 evaluated
+Assets\FrameLab\Editor\FrameLabLighting.cs(178,114): warning CS0618: 'FindObjectsSortMode' is obsolete: 'FindObjectsSortMode has been deprecated. Use the FindObjectsByType overloads that do not take a FindObjectsSortMode parameter.'
+Assets\FrameLab\Editor\FrameLabLighting.cs(178,34): warning CS0618: 'Object.FindObjectsByType<T>(FindObjectsInactive, FindObjectsSortMode)' is obsolete: 'FindObjectsByType with FindObjectsSortMode parameter has been deprecated. Use FindObjectsByType<T>() or FindObjectsByType<T>(FindObjectsInactive) instead. InstanceID will be replaced in the future with EntityId and previous sort order cannot be maintained.'
+Assets\FrameLab\Editor\FrameLabLighting.cs(218,91): warning CS0618: 'FindObjectsSortMode' is obsolete: 'FindObjectsSortMode has been deprecated. Use the FindObjectsByType overloads that do not take a FindObjectsSortMode parameter.'
+Assets\FrameLab\Editor\FrameLabLighting.cs(218,37): warning CS0618: 'Object.FindObjectsByType<T>(FindObjectsSortMode)' is obsolete: 'FindObjectsByType with FindObjectsSortMode parameter has been deprecated. Use FindObjectsByType<T>() or FindObjectsByType<T>(FindObjectsInactive) instead. InstanceID will be replaced in the future with EntityId and previous sort order cannot be maintained.'
+Assets\FrameLab\Editor\FrameLabLighting.cs(237,75): warning CS0618: 'FindObjectsSortMode' is obsolete: 'FindObjectsSortMode has been deprecated. Use the FindObjectsByType overloads that do not take a FindObjectsSortMode parameter.'
+Assets\FrameLab\Editor\FrameLabLighting.cs(237,31): warning CS0618: 'Object.FindObjectsByType<T>(FindObjectsSortMode)' is obsolete: 'FindObjectsByType with FindObjectsSortMode parameter has been deprecated. Use FindObjectsByType<T>() or FindObjectsByType<T>(FindObjectsInactive) instead. InstanceID will be replaced in the future with EntityId and previous sort order cannot be maintained.'
+Assets\FrameLab\Editor\FrameLabLighting.cs(289,104): warning CS0618: 'FindObjectsSortMode' is obsolete: 'FindObjectsSortMode has been deprecated. Use the FindObjectsByType overloads that do not take a FindObjectsSortMode parameter.'
+Assets\FrameLab\Editor\FrameLabLighting.cs(289,24): warning CS0618: 'Object.FindObjectsByType<T>(FindObjectsInactive, FindObjectsSortMode)' is obsolete: 'FindObjectsByType with FindObjectsSortMode parameter has been deprecated. Use FindObjectsByType<T>() or FindObjectsByType<T>(FindObjectsInactive) instead. InstanceID will be replaced in the future with EntityId and previous sort order cannot be maintained.'
+Assets\FrameLab\Editor\FrameLabSmokeTest.cs(134,66): warning CS0618: 'FindObjectsSortMode' is obsolete: 'FindObjectsSortMode has been deprecated. Use the FindObjectsByType overloads that do not take a FindObjectsSortMode parameter.'
+Assets\FrameLab\Editor\FrameLabSmokeTest.cs(134,31): warning CS0618: 'Object.FindObjectsByType<T>(FindObjectsSortMode)' is obsolete: 'FindObjectsByType with FindObjectsSortMode parameter has been deprecated. Use FindObjectsByType<T>() or FindObjectsByType<T>(FindObjectsInactive) instead. InstanceID will be replaced in the future with EntityId and previous sort order cannot be maintained.'
+AssetDatabase: script compilation time: 3.846804s
+Begin MonoManager ReloadAssembly
+Total cache size 266741360
+Total cache size after purge 266741360, took 00:00:00.3061058
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 4.22 ms, found 12 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.980 seconds
+Domain Reload Profiling: 1904ms
+	BeginReloadAssembly (275ms)
+		DisableScriptedObjects (28ms)
+		CreateAndSetChildDomain (50ms)
+	RebuildCommonClasses (10ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (59ms)
+	LoadAllAssembliesAndSetupDomain (560ms)
+		LoadAssemblies (326ms)
+		TypeCache.Refresh (133ms)
+			TypeCache.ScanAssembly (120ms)
+		AnalyzeDomain (63ms)
+			BuildScriptInfoCaches (54ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (981ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			BeforeProcessingInitializeOnLoad (121ms)
+			ProcessInitializeOnLoadAttributes (182ms)
+			ProcessInitializeOnLoadMethodAttributes (349ms)
+			AfterProcessingInitializeOnLoad (8ms)
+		AwakeInstancesAfterBackupRestoration (28ms)
+Starting new worker id: 0 with log in D:/Git/EVOLE Frame/unity-vr/Logs/AssetImportWorkerHW0.log
+Refreshing native plugins compatible for Editor in 4.05 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=59eaa50564de0cc42bd11a533f8e83d9): Total: 6.645 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1440 ms
+		Asset DB Callback time: managed=291 ms, native=24 ms
+		Scripting: domain reloads=1, domain reload time=975 ms, compile time=3849 ms, other=63 ms
+		Project Asset Count: scripts=1374, non-scripts=2233
+		Asset File Changes: new=1, changed=1, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 13.494ms
+	ApplyChangesToAssetFolders: 0.466ms
+	Scan: 71.675ms
+	Collect global state as custom dependencies: 21.603ms
+	OnSourceAssetsModified: 0.631ms
+	CategorizeScriptCompilationAssets: 39.544ms
+	ProcessAssetsWithTransientArtifactChanges: 74.010ms
+	CategorizeAssets: 64.750ms
+	CompileScripts: 3849.243ms
+	ImportOutOfDateAssets: 1006.143ms (995.775ms without children)
+		UnloadImportedAssets: 2.712ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.725ms
+		ImportSchedulerStart: 6.893ms
+	PostProcessAllAssets: 292.270ms
+		XRBuildSystem.XRAssetImported 1.493ms
+		VCAutoAddAssetPostprocess 1.167ms
+		MonoPostProcessAllAssets: 288.977ms
+			AssetPostprocessor.OnPostprocessAllAssets 178.395ms
+			AssetCallbacks.OnPostprocessAllAssets 33.778ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 17.307ms
+			StyleCatalogPostProcessor.OnPostprocessAllAssets 15.095ms
+			BuilderAssetPostprocessor.OnPostprocessAllAssets 7.003ms
+			AssetChangedListener.OnPostprocessAllAssets 2.600ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 2.517ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 2.470ms
+			SyncVS.PostprocessSyncProject 2.187ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 2.152ms
+			RetainedModeAssetPostprocessor.OnPostprocessAllAssets 1.671ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 1.264ms
+			MaterialPostprocessor.OnPostprocessAllAssets 0.979ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.772ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.736ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.714ms
+			ArtifactBrowserPostProcessor.OnPostprocessAllAssets 0.555ms
+			PostProcessor.OnPostprocessAllAssets 0.515ms
+			InputActionJsonNameModifierAssetProcessor.OnPostprocessAllAssets 0.490ms
+			TMPro_TexturePostProcessor.OnPostprocessAllAssets 0.414ms
+			TextAssetPostProcessor.OnPostprocessAllAssets 0.387ms
+			AudioMixerPostprocessor.OnPostprocessAllAssets 0.350ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.316ms
+			AssetEvents.OnPostprocessAllAssets 0.303ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.284ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.241ms
+			ThemePostprocessor.OnPostprocessAllAssets 0.203ms
+			SpeedTreePostProcessor.OnPostprocessAllAssets 0.201ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.191ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 0.170ms
+			ScenarioDriftAssetsTracker.OnPostprocessAllAssets 0.154ms
+			AudioContainerPostProcessor.OnPostprocessAllAssets 0.096ms
+	PostAssetChangesProfiler: 11.346ms
+	UnloadStreamsBegin: 1.983ms
+	PersistCurrentRevisions: 0.107ms
+	GenerateScriptTypeHashes: 6.401ms
+	GenerateScriptTypeSerializationHashes: 11.431ms
+	Untracked: 1176.781ms
+
+Application.AssetDatabase Initial Refresh End
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Scanning for USB devices : 5.575ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Leichhardt
+Unloading 89 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5362 unused Assets / (13.0 MB). Loaded Objects now: 6339.
+Memory consumption went from 432.7 MB to 419.8 MB.
+Total: 14.066900 ms (FindLiveObjects: 0.858600 ms CreateObjectMapping: 0.769200 ms MarkObjects: 6.016000 ms  DeleteObjects: 6.190700 ms)
+
+Opening scene 'Assets/FrameLab/Scenes/Leichhardt.unity'
+Unloading 65 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/FrameLab/Scenes/Leichhardt.unity'
+	Deserialize:            94.099 ms
+	Integration:            287.863 ms
+	Integration of assets:  176.537 ms
+	Thread Wait Time:       1.377 ms
+	Total Operation Time:   559.876 ms
+Unloading 8 unused Assets / (0.6 MB). Loaded Objects now: 8176.
+Memory consumption went from 494.6 MB to 494.0 MB.
+Total: 7.647700 ms (FindLiveObjects: 0.759700 ms CreateObjectMapping: 0.378100 ms MarkObjects: 6.116700 ms  DeleteObjects: 0.149800 ms)
+
+[Project] Loading completed in 11.511 seconds
+	Project init time: 				9.475 seconds
+		Template init time: 		0.000 seconds
+		Package Manager init time: 		0.281 seconds
+		Asset Database init time: 		0.306 seconds
+		Global illumination init time: 	0.002 seconds
+		Assemblies load time: 			1.486 seconds
+		Unity extensions init time: 	0.017 seconds
+		Asset Database refresh time: 	6.645 seconds
+	Scene opening time: 			1.631 seconds
+##utp:{"type":"ProjectInfo","version":2,"phase":"Immediate","time":1795218685088,"processId":34640,"projectLoad":11.5106721,"projectInit":9.4754299,"templateInit":0.0,"packageManagerInit":0.2812197,"assetDatabaseInit":0.3058362,"globalIlluminationInit":0.0021406,"assembliesLoad":1.4863703,"unityExtensionsInit":0.0170213,"assetDatabaseRefresh":6.6454205,"sceneOpening":1.631334}
+##utp:{"type":"EditorInfo","version":2,"phase":"Immediate","time":1795218685088,"processId":34640,"editorVersion":"6000.6.9f1 (8c45277fb9c5)","branch":"6000.6/staging","buildType":"Release","platform":"Windows"}
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Worker ready: AssetImportWorkerHW0 0
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            27.851 ms
+	Integration:            217.913 ms
+	Integration of assets:  31.223 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   276.991 ms
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+No GetDeviceLayoutName() override detected in PICOG3 Touch Controller Profile. Binding path validator for this interaction profile is not as effective. To fix, add GetDeviceLayoutName and GetInteractionProfileType override in this profile.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:LogFormat (UnityEngine.LogType,string,object[])
+UnityEngine.Debug:LogWarningFormat (string,object[])
+UnityEngine.XR.OpenXR.Features.OpenXRInteractionFeature:RegisterLayouts () (at ./Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/Features/OpenXRInteractionFeature.cs:431)
+UnityEngine.XR.OpenXR.Input.OpenXRInput:RegisterLayouts () (at ./Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/input/OpenXRInput.cs:170)
+UnityEngine.XR.OpenXR.Input.OpenXRInput:<RegisterFeatureLayouts>g__OnFirstFrame|7_0 () (at ./Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/input/OpenXRInput.cs:143)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: ./Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/Features/OpenXRInteractionFeature.cs Line: 431)
+
+No GetDeviceLayoutName() override detected in PICO4 Touch Controller Profile. Binding path validator for this interaction profile is not as effective. To fix, add GetDeviceLayoutName and GetInteractionProfileType override in this profile.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:LogFormat (UnityEngine.LogType,string,object[])
+UnityEngine.Debug:LogWarningFormat (string,object[])
+UnityEngine.XR.OpenXR.Features.OpenXRInteractionFeature:RegisterLayouts () (at ./Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/Features/OpenXRInteractionFeature.cs:431)
+UnityEngine.XR.OpenXR.Input.OpenXRInput:RegisterLayouts () (at ./Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/input/OpenXRInput.cs:170)
+UnityEngine.XR.OpenXR.Input.OpenXRInput:<RegisterFeatureLayouts>g__OnFirstFrame|7_0 () (at ./Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/input/OpenXRInput.cs:143)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: ./Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/Features/OpenXRInteractionFeature.cs Line: 431)
+
+No GetDeviceLayoutName() override detected in PICO4 Ultra Touch Controller Profile. Binding path validator for this interaction profile is not as effective. To fix, add GetDeviceLayoutName and GetInteractionProfileType override in this profile.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:LogFormat (UnityEngine.LogType,string,object[])
+UnityEngine.Debug:LogWarningFormat (string,object[])
+UnityEngine.XR.OpenXR.Features.OpenXRInteractionFeature:RegisterLayouts () (at ./Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/Features/OpenXRInteractionFeature.cs:431)
+UnityEngine.XR.OpenXR.Input.OpenXRInput:RegisterLayouts () (at ./Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/input/OpenXRInput.cs:170)
+UnityEngine.XR.OpenXR.Input.OpenXRInput:<RegisterFeatureLayouts>g__OnFirstFrame|7_0 () (at ./Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/input/OpenXRInput.cs:143)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: ./Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/Features/OpenXRInteractionFeature.cs Line: 431)
+
+No GetDeviceLayoutName() override detected in PICO Neo3 Touch Controller Profile. Binding path validator for this interaction profile is not as effective. To fix, add GetDeviceLayoutName and GetInteractionProfileType override in this profile.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:LogFormat (UnityEngine.LogType,string,object[])
+UnityEngine.Debug:LogWarningFormat (string,object[])
+UnityEngine.XR.OpenXR.Features.OpenXRInteractionFeature:RegisterLayouts () (at ./Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/Features/OpenXRInteractionFeature.cs:431)
+UnityEngine.XR.OpenXR.Input.OpenXRInput:RegisterLayouts () (at ./Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/input/OpenXRInput.cs:170)
+UnityEngine.XR.OpenXR.Input.OpenXRInput:<RegisterFeatureLayouts>g__OnFirstFrame|7_0 () (at ./Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/input/OpenXRInput.cs:143)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: ./Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/Features/OpenXRInteractionFeature.cs Line: 431)
+
+Start Indexing on Editor startup
+ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+  at System.Collections.Generic.List`1[T].get_Item (System.Int32 index) [0x00009] in <2bdc0b2cb99347f4b2a172256836a5e9>:0 
+  at UnityEditor.Search.SearchDatabase+<EnumerateAll>d__78.MoveNext () [0x00089] in <13a2bf6b84f543b08462b048fe1a6788>:0 
+  at System.Linq.Enumerable.TryGetFirst[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Boolean& found) [0x00045] in <6bde52aea2b5439b9db9b3d84de5cc1b>:0 
+  at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x00000] in <6bde52aea2b5439b9db9b3d84de5cc1b>:0 
+  at UnityEditor.Search.SearchDatabase.GetDefaultSearchDatabase () [0x00005] in <13a2bf6b84f543b08462b048fe1a6788>:0 
+  at UnityEditor.Search.SearchInit.IndexationOnStartup () [0x0000a] in <13a2bf6b84f543b08462b048fe1a6788>:0 
+  at UnityEditor.EditorApplication.Internal_CallDelayFunctions () [0x00029] in <053efca9ef2c41f6a2d0584e35765f52>:0 
+UnityEngine.StackTraceUtility:ExtractStringFromExceptionInternal(Object, String&, String&)
+
+Created GICache directory at C:/Users/lawre/AppData/LocalLow/Unity/Caches/GiCache. Took: 0.012s, timestamps: [12.049 - 12.061]
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+FRAME_LAB_SESSION_READY 0.4.5 room=arrival guide=True narration=True
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FrameLab.FrameLabSession/<Start>d__56:MoveNext () (at Assets/FrameLab/Scripts/FrameLabSession.cs:61)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+(Filename: Assets/FrameLab/Scripts/FrameLabSession.cs Line: 61)
+
+[Subsystems] OpenXR XR Plugin successfully registered Provider for OpenXR Display
+[Subsystems] OpenXR XR Plugin successfully registered Provider for OpenXR Input
+[Subsystems] OpenXR XR Plugin successfully registered Provider for OpenXR Display
+PHOTO045_CAPTURE_PASS count=70
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FrameLabPhoto045Runner/<Start>d__2:MoveNext () (at Assets/FrameLab/Editor/FrameLabPhoto045.cs:55)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+(Filename: Assets/FrameLab/Editor/FrameLabPhoto045.cs Line: 55)
+
+MonoPathRemapper: Attempts to remap: 13408; Successful remaps: 4
+Serialized file version minimum: 23, current 23
+Killing ADB server in 2.0743585 seconds.
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input Polling Thread exited.
+Input System module state changed to: Shutdown.
+[Licensing::IpcConnector] LicenseClient-lawre-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-lawre channel disconnected successfully.
+Lingering sessions upon destruction of worker manager
+Unity Data Store service was successfully shut down
+UDS shutting down local client system
+Shut down UDS service system complete
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+CodeReloadManager destroyed
+VBCSCompilerPreWarmer: requested VBCSCompiler shutdown
+Checking for leaked weakptr:
+  Found no leaked weakptrs.
+[Package Manager] Server process was shutdown
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1795218694412,"processId":34640,"allocatedMemory":16756661,"memoryLabels":[{"Default":233124},{"Permanent":15516},{"NewDelete":74491},{"Thread":4205640},{"Manager":823613},{"VertexData":8},{"Geometry":824},{"Texture":24},{"Shader":846925},{"Material":132},{"GfxDevice":60264},{"Animation":952},{"FreeType":8},{"FontEngine":736},{"Physics":1970},{"Physics2D":16},{"Serialization":17280},{"Input":42840},{"JobScheduler":264},{"TextLib":7414},{"Mono":48},{"MonoCode":64},{"ScriptingNativeRuntime":1433632},{"BaseObject":50288},{"Resource":1444},{"Renderer":2504},{"Transform":4781},{"File":7397},{"WebCam":616},{"Culling":32},{"Terrain":11442},{"Wind":24},{"STL":40},{"String":865876},{"StaticString":3808},{"Utility":2675350},{"Curl":2559},{"PoolAlloc":2504},{"AI":80},{"TypeTree":18701},{"ScriptManager":12688},{"CodeReload":448},{"RuntimeInitializeOnLoadManager":64},{"Sprites":102},{"SpriteAtlas":120},{"GI":7816},{"Director":8296},{"CloudService":7728},{"WebRequest":4519},{"VR":49938},{"SceneManager":608},{"Video":208},{"LazyScriptCache":32},{"Camera":729},{"Secure":2377},{"SerializationCache":9256},{"APIUpdating":10320},{"Subsystems":48},{"VirtualTexturing":57888},{"StaticSafetyDebugInfo":278528},{"Analytics":768},{"Hierarchy":1188},{"UIElements":40},{"CoreStats":14536},{"Identifiers":7152},{"EntityIdStore":33088},{"Gui":513},{"EditorUtility":130956},{"VersionControl":8},{"Undo":931},{"AssetDatabase":4633397},{"AssetImporter":40},{"EditorGi":328},{"UnityConnect":40465},{"Upm":1912},{"UpmDiagnostics":8},{"AssetCompliance":96},{"DrivenProperties":72},{"LocalIPC":260},{"ProfilerEditor":9746},{"CoreBusinessMetrics":3600},{"Windowing":456},{"Licensing":12901},{"AssetReference":32},{"IPCStream":32}]}

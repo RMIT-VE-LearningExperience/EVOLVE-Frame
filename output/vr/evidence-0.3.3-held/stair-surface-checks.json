@@ -1,0 +1,294 @@
+{
+  "result": "PASS",
+  "scope": "48 downward rays across all 16 treads, verifying no powder-room wall/frame intrusion above the finished tread surface",
+  "checks": [
+    {
+      "step": 1,
+      "y": 6.82,
+      "surface": "Stair finished tread 01",
+      "z": 0.18582352995872498
+    },
+    {
+      "step": 1,
+      "y": 7.2,
+      "surface": "Stair finished tread 01",
+      "z": 0.18582352995872498
+    },
+    {
+      "step": 1,
+      "y": 7.68,
+      "surface": "Stair finished tread 01",
+      "z": 0.18582352995872498
+    },
+    {
+      "step": 2,
+      "y": 6.82,
+      "surface": "Stair finished tread 02",
+      "z": 0.37164705991744995
+    },
+    {
+      "step": 2,
+      "y": 7.2,
+      "surface": "Stair finished tread 02",
+      "z": 0.37164705991744995
+    },
+    {
+      "step": 2,
+      "y": 7.68,
+      "surface": "Stair finished tread 02",
+      "z": 0.37164705991744995
+    },
+    {
+      "step": 3,
+      "y": 6.82,
+      "surface": "Stair finished tread 03",
+      "z": 0.5574705600738525
+    },
+    {
+      "step": 3,
+      "y": 7.2,
+      "surface": "Stair finished tread 03",
+      "z": 0.5574705600738525
+    },
+    {
+      "step": 3,
+      "y": 7.68,
+      "surface": "Stair finished tread 03",
+      "z": 0.5574705600738525
+    },
+    {
+      "step": 4,
+      "y": 6.82,
+      "surface": "Stair finished tread 04",
+      "z": 0.7432941794395447
+    },
+    {
+      "step": 4,
+      "y": 7.2,
+      "surface": "Stair finished tread 04",
+      "z": 0.7432941198348999
+    },
+    {
+      "step": 4,
+      "y": 7.68,
+      "surface": "Stair finished tread 04",
+      "z": 0.7432941198348999
+    },
+    {
+      "step": 5,
+      "y": 6.82,
+      "surface": "Stair finished tread 05",
+      "z": 0.9291176199913025
+    },
+    {
+      "step": 5,
+      "y": 7.2,
+      "surface": "Stair finished tread 05",
+      "z": 0.9291176199913025
+    },
+    {
+      "step": 5,
+      "y": 7.68,
+      "surface": "Stair finished tread 05",
+      "z": 0.9291176199913025
+    },
+    {
+      "step": 6,
+      "y": 6.82,
+      "surface": "Stair finished tread 06",
+      "z": 1.114941120147705
+    },
+    {
+      "step": 6,
+      "y": 7.2,
+      "surface": "Stair finished tread 06",
+      "z": 1.114941120147705
+    },
+    {
+      "step": 6,
+      "y": 7.68,
+      "surface": "Stair finished tread 06",
+      "z": 1.114941120147705
+    },
+    {
+      "step": 7,
+      "y": 6.82,
+      "surface": "Stair finished tread 07",
+      "z": 1.3007646799087524
+    },
+    {
+      "step": 7,
+      "y": 7.2,
+      "surface": "Stair finished tread 07",
+      "z": 1.3007646799087524
+    },
+    {
+      "step": 7,
+      "y": 7.68,
+      "surface": "Stair finished tread 07",
+      "z": 1.3007646799087524
+    },
+    {
+      "step": 8,
+      "y": 6.82,
+      "surface": "Stair finished tread 08",
+      "z": 1.4865882396697998
+    },
+    {
+      "step": 8,
+      "y": 7.2,
+      "surface": "Stair finished tread 08",
+      "z": 1.4865882396697998
+    },
+    {
+      "step": 8,
+      "y": 7.68,
+      "surface": "Stair finished tread 08",
+      "z": 1.4865882396697998
+    },
+    {
+      "step": 9,
+      "y": 6.82,
+      "surface": "Stair finished tread 09",
+      "z": 1.6724116802215576
+    },
+    {
+      "step": 9,
+      "y": 7.2,
+      "surface": "Stair finished tread 09",
+      "z": 1.6724116802215576
+    },
+    {
+      "step": 9,
+      "y": 7.68,
+      "surface": "Stair finished tread 09",
+      "z": 1.6724116802215576
+    },
+    {
+      "step": 10,
+      "y": 6.82,
+      "surface": "Stair finished tread 10",
+      "z": 1.858235239982605
+    },
+    {
+      "step": 10,
+      "y": 7.2,
+      "surface": "Stair finished tread 10",
+      "z": 1.858235239982605
+    },
+    {
+      "step": 10,
+      "y": 7.68,
+      "surface": "Stair finished tread 10",
+      "z": 1.858235239982605
+    },
+    {
+      "step": 11,
+      "y": 6.82,
+      "surface": "Stair finished tread 11",
+      "z": 2.0440587997436523
+    },
+    {
+      "step": 11,
+      "y": 7.2,
+      "surface": "Stair finished tread 11",
+      "z": 2.0440587997436523
+    },
+    {
+      "step": 11,
+      "y": 7.68,
+      "surface": "Stair finished tread 11",
+      "z": 2.0440587997436523
+    },
+    {
+      "step": 12,
+      "y": 6.82,
+      "surface": "Stair finished tread 12",
+      "z": 2.22988224029541
+    },
+    {
+      "step": 12,
+      "y": 7.2,
+      "surface": "Stair finished tread 12",
+      "z": 2.22988224029541
+    },
+    {
+      "step": 12,
+      "y": 7.68,
+      "surface": "Stair finished tread 12",
+      "z": 2.22988224029541
+    },
+    {
+      "step": 13,
+      "y": 6.82,
+      "surface": "Stair finished tread 13",
+      "z": 2.415705919265747
+    },
+    {
+      "step": 13,
+      "y": 7.2,
+      "surface": "Stair finished tread 13",
+      "z": 2.415705919265747
+    },
+    {
+      "step": 13,
+      "y": 7.68,
+      "surface": "Stair finished tread 13",
+      "z": 2.415705919265747
+    },
+    {
+      "step": 14,
+      "y": 6.82,
+      "surface": "Stair finished tread 14",
+      "z": 2.601529359817505
+    },
+    {
+      "step": 14,
+      "y": 7.2,
+      "surface": "Stair finished tread 14",
+      "z": 2.601529359817505
+    },
+    {
+      "step": 14,
+      "y": 7.68,
+      "surface": "Stair finished tread 14",
+      "z": 2.601529359817505
+    },
+    {
+      "step": 15,
+      "y": 6.82,
+      "surface": "Stair finished tread 15",
+      "z": 2.787353038787842
+    },
+    {
+      "step": 15,
+      "y": 7.2,
+      "surface": "Stair finished tread 15",
+      "z": 2.787353038787842
+    },
+    {
+      "step": 15,
+      "y": 7.68,
+      "surface": "Stair finished tread 15",
+      "z": 2.787353038787842
+    },
+    {
+      "step": 16,
+      "y": 6.82,
+      "surface": "Stair finished tread 16",
+      "z": 2.9731764793395996
+    },
+    {
+      "step": 16,
+      "y": 7.2,
+      "surface": "Stair finished tread 16",
+      "z": 2.9731764793395996
+    },
+    {
+      "step": 16,
+      "y": 7.68,
+      "surface": "Stair finished tread 16",
+      "z": 2.9731764793395996
+    }
+  ]
+}

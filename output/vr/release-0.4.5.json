@@ -1,0 +1,31 @@
+{
+  "timestamp": "2026-11-21T11:21:19.157301+11:00",
+  "version": "0.4.5",
+  "code": 13,
+  "pico": {
+    "build": "PASS",
+    "installation": "PASS",
+    "live_checks": "PASS - focused cold startup and USB control suite",
+    "apk_sha256": "839e9d132a1b8677040d90b64d5a569b5c031f812461396cca0c75ee4807cd48",
+    "commands": 58,
+    "scope": "On-device cold startup and session control handlers via local USB diagnostic bridge. Narration means AudioSource playback state; actual sound and physical controller input are not independently observed.",
+    "evidence": "device-verification-0.4.5/live-2026-11-21/suite-result.json"
+  },
+  "quest": {
+    "targets": [
+      "Quest 3",
+      "Quest 3S"
+    ],
+    "build": "PASS",
+    "package_checks": "PASS",
+    "installation": "DEFERRED - user requested Quest testing later",
+    "live_checks": "DEFERRED - user requested Quest testing later",
+    "apk_sha256": "4aafd93b9b83bbeaf60a5f07be86c928f2d56f089199da26a16740e320fd5786"
+  },
+  "photos": {
+    "count": 70,
+    "url": "https://leichhardt-model-review.lolepaille.chatgpt.site",
+    "publication": "succeeded"
+  },
+  "scope": "Targeted photo corrections and Quest port. Unresolved architectural checklist entries remain open."
+}

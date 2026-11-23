@@ -1,0 +1,72 @@
+{
+  "source": "Leichhardt Architectural Plans, sheet 08 First Floor Plan",
+  "allowances": "22 mm jamb; 3 mm side/top/bottom reveals; 38 mm open leaf",
+  "doors": [
+    {
+      "name": "Bed 5 door",
+      "wall": "FF Bed 5 south",
+      "nominal_leaf_width_mm": 820,
+      "nominal_leaf_height_mm": 2340,
+      "rough_width_mm": 870,
+      "jamb_clear_width_mm": 826,
+      "finished_head_above_floor_mm": 2346,
+      "hinge_edge_x": 15.127572860717773,
+      "centre_x": 15.562572860717774,
+      "wall_y": 4.524801731109619,
+      "open_leaf_angle_degrees": 90,
+      "minimum_clear_at_leaf_mm": 785,
+      "leaf_position": {
+        "x": 15.152572860717774,
+        "y": 4.584801731109619,
+        "z": 3.162
+      }
+    },
+    {
+      "name": "Bathroom door",
+      "wall": "FF Bath hall",
+      "nominal_leaf_width_mm": 720,
+      "nominal_leaf_height_mm": 2340,
+      "rough_width_mm": 770,
+      "jamb_clear_width_mm": 726,
+      "finished_head_above_floor_mm": 2346,
+      "hinge_edge_x": 12.370277061462403,
+      "centre_x": 12.755277061462403,
+      "wall_y": 4.524801731109619,
+      "open_leaf_angle_degrees": 90,
+      "minimum_clear_at_leaf_mm": 685,
+      "leaf_position": {
+        "x": 12.395277061462403,
+        "y": 4.584801731109619,
+        "z": 3.162
+      }
+    }
+  ],
+  "partitions": [
+    {
+      "wall": "FF Bed 5 west",
+      "old_end_y": 5.098569393157959,
+      "new_end_y": 4.569801731109619,
+      "extension_mm": 528.8,
+      "lining_continuity_verified": true
+    },
+    {
+      "wall": "FF WC bath division",
+      "old_end_y": 5.341317176818848,
+      "new_end_y": 4.569801731109619,
+      "extension_mm": 771.5,
+      "lining_continuity_verified": true
+    }
+  ],
+  "checks": [
+    {
+      "door": "Bed 5 door",
+      "portal_grid_clear": true,
+      "measured_head_z": 5.505
+    },
+    {
+      "door": "Bathroom door",
+      "portal_grid_clear": true,
+      "measured_head_z": 5.505
+    }
+  ]
+}

@@ -1,0 +1,1682 @@
+VBCSCompilerPreWarmer: watching VBCSCompiler (PID 58992)
+VBCSCompilerPreWarmer: pre-warm launched (dotnet PID 32112)
+VBCSCompiler prewarm took 11.55 ms
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Channel LicenseClient-lawre doesn't exist
+Built from '6000.6/staging' branch; Version is '6000.6.9f1 (8c45277fb9c5) revision 9192743'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 130988 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-11-20T23:41:11Z
+[Licensing::Module] Successfully launched the LicensingClient (PId: 5868)
+Starting IPC server.
+Waiting for clients to connect on \\.\pipe\Unity-LicenseClient-lawre, press Ctrl-C to exit.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-lawre" at "2026-11-20T23:41:11.3397938Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 5868, path: "C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.19.0+4cc3dda
+  Session Id:              693090b459ad49239fee597114d2aff3
+  Correlation Id:          427ef379862a42e06cac7c24c3299676
+  External correlation Id: 4334127484384647137
+  Machine Id:              CFaVb/hQY/1TbBIdjsHYPVds/II=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-lawre" (connect: 0.04s, validation: 0.07s, handshake: 0.13s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-lawre-notifications" at "2026-11-20T23:41:11.5382486Z"
+[Licensing::Module] Connected to LicensingClient (PId: 5868, launch time: 0.00, total connection time: 0.24s)
+[Licensing::Module] Error: Access token is unavailable; failed to update
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-Z2YX-MG9R-7MT6-E4RS-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.00
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.26s
+
+COMMAND LINE ARGUMENTS:
+C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Unity.exe
+-batchmode
+-projectPath
+D:\Git\EVOLE Frame\unity-vr
+-executeMethod
+FrameLabBuild.Prepare
+-logFile
+D:\Git\EVOLE Frame\unity-vr\Logs\Prepare.log
+-quit
+Successfully changed project path to: D:\Git\EVOLE Frame\unity-vr
+D:/Git/EVOLE Frame/unity-vr
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Logging is directed to a specific file, skipping project log.
+Player connection [61268]  Target information:
+
+Player connection [61268]  * "[IP] 192.168.1.237 [Port] 55504 [Flags] 2 [Guid] 4158752045 [EditorId] 4158752045 [Version] 1048832 [Id] WindowsEditor(7,Lawrence) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [61268]  * "[IP] 192.168.137.1 [Port] 55504 [Flags] 2 [Guid] 4158752045 [EditorId] 4158752045 [Version] 1048832 [Id] WindowsEditor(7,Lawrence) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [61268] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [61268] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Package Manager] Connected to IPC stream "Upm-5712" after 0.3 seconds.
+[Licensing::Client] Successfully resolved entitlement details
+Library Redirect Path: Library/
+Initialising UDS system complete:
+  - System type: Client
+  - Resource namespace: 3585c7eeafd944648d77c0c233cc75f1
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052576
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+  - Service connected: false
+Launching Unity Data Store - C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/Tools/Unity.DataStore.exe 
+Unity Data Store artifact dir = Library/DataStore, working dir = D:/Git/EVOLE Frame/unity-vrUnity Data Store running and initialised
+[Licensing::Client] Successfully resolved entitlement details
+[Physics::Module] Selected backend (deferred post-plugins).
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Initialize engine version: 6000.6.9f1 (8c45277fb9c5)
+[EntityIdStore] init: VM path (explicit commit), pageSize=4096, blockCount=262144, entitiesPerBlock=1024, blocksPerSlotPage=0, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Git/EVOLE Frame/unity-vr/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.2]
+    Renderer:        NVIDIA GeForce RTX 5070 Ti (ID=0x2c05)
+    Vendor:          NVIDIA
+    VRAM:            15907 MB
+    App VRAM Budget: 15139 MB
+    Driver:          32.0.15.8157
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56712
+CodeReloadManager initialized
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.002539 seconds.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:False
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.761 seconds
+Domain Reload Profiling: 1404ms
+	BeginReloadAssembly (163ms)
+		CreateAndSetChildDomain (20ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (74ms)
+	LoadAllAssembliesAndSetupDomain (381ms)
+		LoadAssemblies (139ms)
+		TypeCache.Refresh (259ms)
+			TypeCache.ScanAssembly (242ms)
+		AnalyzeDomain (1ms)
+	FinalizeReload (762ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			BeforeProcessingInitializeOnLoad (116ms)
+			ProcessInitializeOnLoadAttributes (145ms)
+			ProcessInitializeOnLoadMethodAttributes (276ms)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 45 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.inputsystem@1.20.1 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.inputsystem@2436e68c60c4)
+    com.unity.xr.interaction.toolkit@3.6.1 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.interaction.toolkit@530ce2e6c59e)
+    com.unity.xr.openxr@1.18.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.openxr@b5b77b4027be)
+    com.unity.xr.management@4.7.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.management@2ad85c7dd480)
+    com.unity.xr.core-utils@2.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.core-utils@a8b900321199)
+    com.unity.cloud.gltfast@6.21.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.cloud.gltfast@15da4aaf9675)
+    com.unity.xr.legacyinputhelpers@3.0.1 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.legacyinputhelpers@3f62d634f63b)
+    com.unity.nuget.mono-cecil@1.11.6 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.nuget.mono-cecil@ecb9724e46ff)
+    com.unity.searcher@4.9.5 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.searcher@a463122f2c00)
+    com.unity.profiling.core@1.0.3 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.profiling.core@8a49f7027d06)
+  Built-in packages:
+    com.unity.render-pipelines.universal@17.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.render-pipelines.universal@2a6014b851d8)
+    com.unity.ugui@2.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.ugui@ff4f88904a57)
+    com.unity.modules.vectorgraphics@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.vectorgraphics)
+    com.unity.modules.physics@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.physics)
+    com.unity.modules.audio@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.audio)
+    com.unity.modules.ui@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.ui)
+    com.unity.modules.jsonserialize@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.jsonserialize)
+    com.unity.modules.xr@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.xr)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.particlesystem@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.particlesystem)
+    com.unity.modules.terrain@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.terrainphysics)
+    com.unity.modules.video@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.video)
+    com.unity.modules.screencapture@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.screencapture)
+    com.unity.modules.imageconversion@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.imageconversion)
+    com.unity.modules.unitywebrequest@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.unitywebrequest)
+    com.unity.modules.subsystems@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.subsystems)
+    com.unity.burst@2.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.burst@626e66ab421b)
+    com.unity.collections@6.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.collections@c70d71c1212e)
+    com.unity.mathematics@1.4.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.mathematics@8306a64d0cd6)
+    com.unity.modules.androidjni@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.androidjni)
+    com.unity.modules.imgui@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.imgui)
+    com.unity.modules.uielements@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.uielements)
+    com.unity.modules.physics2d@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.physics2d)
+    com.unity.render-pipelines.core@17.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.render-pipelines.core@77e675a23c5f)
+    com.unity.shadergraph@17.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.shadergraph@807b608040c3)
+    com.unity.render-pipelines.universal-config@17.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.render-pipelines.universal-config@561422b74439)
+    com.unity.test-framework@1.8.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.test-framework@01a8b42f9cf6)
+    com.unity.test-framework.performance@6.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.test-framework.performance@816c370aad5b)
+    com.unity.modules.hierarchycore@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.hierarchycore)
+    com.unity.modules.animation@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.animation)
+    com.unity.modules.physicscore2d@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.physicscore2d)
+    com.unity.graph-authoring@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.graph-authoring@cfd2588851ee)
+    com.unity.ext.nunit@2.1.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.ext.nunit@0198eae3b53e)
+  Git packages:
+    com.unity.xr.openxr.picoxr@https://github.com/Pico-Developer/PICO-Unity-OpenXR-SDK.git#3aa3e62bff41df618529eeb60ff02c29a515dafe (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.openxr.picoxr@3aa3e62bff41)
+[Subsystems] Looking for new subsystems at path D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.openxr@b5b77b4027be
+[Subsystems] Novel subsystem found at Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Git/EVOLE Frame/unity-vr/Assets
+[Subsystems] Discovering subsystems at path D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.openxr@b5b77b4027be
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'displays' descriptors matched in Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  meshings in Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] Discovering subsystems at path D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.openxr.picoxr@3aa3e62bff41
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.openxr.picoxr@3aa3e62bff41/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] No descriptors matched for  inputs in Library/PackageCache/com.unity.xr.openxr.picoxr@3aa3e62bff41/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] No descriptors matched for  displays in Library/PackageCache/com.unity.xr.openxr.picoxr@3aa3e62bff41/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'meshings' descriptors matched in Library/PackageCache/com.unity.xr.openxr.picoxr@3aa3e62bff41/Runtime/UnitySubsystemsManifest.json
+[Package Manager] Done registering packages in 0.01 seconds
+[ScriptCompilation] Requested script compilation because: AssetDatabase observed changes in script compilation related files
+Starting: C:\Program Files\Unity\Hub\Editor\6000.6.9f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/1300b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: D:/Git/EVOLE Frame/unity-vr
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.runtime.interopservices.windowsruntime has duplicate hint path. Ignoring "C:\Program Files\Unity\Hub\Editor\6000.6.9f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Runtime.InteropServices.WindowsRuntime.dll" in favor of "C:\Program Files\Unity\Hub\Editor\6000.6.9f1\Editor\Data\NetStandard\Extensions\2.0.0\System.Runtime.InteropServices.WindowsRuntime.dll"
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.componentmodel.composition has duplicate hint path. Ignoring "C:\Program Files\Unity\Hub\Editor\6000.6.9f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\System.ComponentModel.Composition.dll" in favor of "C:\Program Files\Unity\Hub\Editor\6000.6.9f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.ComponentModel.Composition.dll"
+DisplayProgressbar: Compiling Scripts
+ExitCode: 0 Duration: 2s81ms
+[ 583/1192  0s] WriteResponseFile Library/Bee/artifacts/rsp/4747638433968585886.rsp
+[ 907/1192  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[1184/1192  0s] Csc Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.dll (+2 others)
+[1185/1192  0s] Csc Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+Assets\FrameLab\Editor\FrameLabLighting.cs(178,114): warning CS0618: 'FindObjectsSortMode' is obsolete: 'FindObjectsSortMode has been deprecated. Use the FindObjectsByType overloads that do not take a FindObjectsSortMode parameter.'
+
+Assets\FrameLab\Editor\FrameLabLighting.cs(178,34): warning CS0618: 'Object.FindObjectsByType<T>(FindObjectsInactive, FindObjectsSortMode)' is obsolete: 'FindObjectsByType with FindObjectsSortMode parameter has been deprecated. Use FindObjectsByType<T>() or FindObjectsByType<T>(FindObjectsInactive) instead. InstanceID will be replaced in the future with EntityId and previous sort order cannot be maintained.'
+
+Assets\FrameLab\Editor\FrameLabLighting.cs(218,91): warning CS0618: 'FindObjectsSortMode' is obsolete: 'FindObjectsSortMode has been deprecated. Use the FindObjectsByType overloads that do not take a FindObjectsSortMode parameter.'
+
+Assets\FrameLab\Editor\FrameLabLighting.cs(218,37): warning CS0618: 'Object.FindObjectsByType<T>(FindObjectsSortMode)' is obsolete: 'FindObjectsByType with FindObjectsSortMode parameter has been deprecated. Use FindObjectsByType<T>() or FindObjectsByType<T>(FindObjectsInactive) instead. InstanceID will be replaced in the future with EntityId and previous sort order cannot be maintained.'
+
+Assets\FrameLab\Editor\FrameLabLighting.cs(237,75): warning CS0618: 'FindObjectsSortMode' is obsolete: 'FindObjectsSortMode has been deprecated. Use the FindObjectsByType overloads that do not take a FindObjectsSortMode parameter.'
+
+Assets\FrameLab\Editor\FrameLabLighting.cs(237,31): warning CS0618: 'Object.FindObjectsByType<T>(FindObjectsSortMode)' is obsolete: 'FindObjectsByType with FindObjectsSortMode parameter has been deprecated. Use FindObjectsByType<T>() or FindObjectsByType<T>(FindObjectsInactive) instead. InstanceID will be replaced in the future with EntityId and previous sort order cannot be maintained.'
+
+Assets\FrameLab\Editor\FrameLabLighting.cs(289,104): warning CS0618: 'FindObjectsSortMode' is obsolete: 'FindObjectsSortMode has been deprecated. Use the FindObjectsByType overloads that do not take a FindObjectsSortMode parameter.'
+
+Assets\FrameLab\Editor\FrameLabLighting.cs(289,24): warning CS0618: 'Object.FindObjectsByType<T>(FindObjectsInactive, FindObjectsSortMode)' is obsolete: 'FindObjectsByType with FindObjectsSortMode parameter has been deprecated. Use FindObjectsByType<T>() or FindObjectsByType<T>(FindObjectsInactive) instead. InstanceID will be replaced in the future with EntityId and previous sort order cannot be maintained.'
+
+Assets\FrameLab\Editor\FrameLabSmokeTest.cs(134,66): warning CS0618: 'FindObjectsSortMode' is obsolete: 'FindObjectsSortMode has been deprecated. Use the FindObjectsByType overloads that do not take a FindObjectsSortMode parameter.'
+
+Assets\FrameLab\Editor\FrameLabSmokeTest.cs(134,31): warning CS0618: 'Object.FindObjectsByType<T>(FindObjectsSortMode)' is obsolete: 'FindObjectsByType with FindObjectsSortMode parameter has been deprecated. Use FindObjectsByType<T>() or FindObjectsByType<T>(FindObjectsInactive) instead. InstanceID will be replaced in the future with EntityId and previous sort order cannot be maintained.'
+[1186/1192  1s] ILPostProcess Library/Bee/artifacts/1300b0aE.dag/post-processed/Assembly-CSharp.dll (+pdb)
+Processing assembly Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.dll, with 156 defines and 349 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+1 processor(s) skipped this assembly
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[1187/1192  0s] ILPostProcess Library/Bee/artifacts/1300b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll, with 154 defines and 381 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+1 processor(s) skipped this assembly
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[1188/1192  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+[1189/1192  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb
+[1190/1192  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll
+[1191/1192  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+*** Tundra build success (2.05 seconds), 10 items updated, 1192 evaluated
+Assets\FrameLab\Editor\FrameLabLighting.cs(178,114): warning CS0618: 'FindObjectsSortMode' is obsolete: 'FindObjectsSortMode has been deprecated. Use the FindObjectsByType overloads that do not take a FindObjectsSortMode parameter.'
+Assets\FrameLab\Editor\FrameLabLighting.cs(178,34): warning CS0618: 'Object.FindObjectsByType<T>(FindObjectsInactive, FindObjectsSortMode)' is obsolete: 'FindObjectsByType with FindObjectsSortMode parameter has been deprecated. Use FindObjectsByType<T>() or FindObjectsByType<T>(FindObjectsInactive) instead. InstanceID will be replaced in the future with EntityId and previous sort order cannot be maintained.'
+Assets\FrameLab\Editor\FrameLabLighting.cs(218,91): warning CS0618: 'FindObjectsSortMode' is obsolete: 'FindObjectsSortMode has been deprecated. Use the FindObjectsByType overloads that do not take a FindObjectsSortMode parameter.'
+Assets\FrameLab\Editor\FrameLabLighting.cs(218,37): warning CS0618: 'Object.FindObjectsByType<T>(FindObjectsSortMode)' is obsolete: 'FindObjectsByType with FindObjectsSortMode parameter has been deprecated. Use FindObjectsByType<T>() or FindObjectsByType<T>(FindObjectsInactive) instead. InstanceID will be replaced in the future with EntityId and previous sort order cannot be maintained.'
+Assets\FrameLab\Editor\FrameLabLighting.cs(237,75): warning CS0618: 'FindObjectsSortMode' is obsolete: 'FindObjectsSortMode has been deprecated. Use the FindObjectsByType overloads that do not take a FindObjectsSortMode parameter.'
+Assets\FrameLab\Editor\FrameLabLighting.cs(237,31): warning CS0618: 'Object.FindObjectsByType<T>(FindObjectsSortMode)' is obsolete: 'FindObjectsByType with FindObjectsSortMode parameter has been deprecated. Use FindObjectsByType<T>() or FindObjectsByType<T>(FindObjectsInactive) instead. InstanceID will be replaced in the future with EntityId and previous sort order cannot be maintained.'
+Assets\FrameLab\Editor\FrameLabLighting.cs(289,104): warning CS0618: 'FindObjectsSortMode' is obsolete: 'FindObjectsSortMode has been deprecated. Use the FindObjectsByType overloads that do not take a FindObjectsSortMode parameter.'
+Assets\FrameLab\Editor\FrameLabLighting.cs(289,24): warning CS0618: 'Object.FindObjectsByType<T>(FindObjectsInactive, FindObjectsSortMode)' is obsolete: 'FindObjectsByType with FindObjectsSortMode parameter has been deprecated. Use FindObjectsByType<T>() or FindObjectsByType<T>(FindObjectsInactive) instead. InstanceID will be replaced in the future with EntityId and previous sort order cannot be maintained.'
+Assets\FrameLab\Editor\FrameLabSmokeTest.cs(134,66): warning CS0618: 'FindObjectsSortMode' is obsolete: 'FindObjectsSortMode has been deprecated. Use the FindObjectsByType overloads that do not take a FindObjectsSortMode parameter.'
+Assets\FrameLab\Editor\FrameLabSmokeTest.cs(134,31): warning CS0618: 'Object.FindObjectsByType<T>(FindObjectsSortMode)' is obsolete: 'FindObjectsByType with FindObjectsSortMode parameter has been deprecated. Use FindObjectsByType<T>() or FindObjectsByType<T>(FindObjectsInactive) instead. InstanceID will be replaced in the future with EntityId and previous sort order cannot be maintained.'
+AssetDatabase: script compilation time: 2.802034s
+Begin MonoManager ReloadAssembly
+Total cache size 266741360
+Total cache size after purge 266741360, took 00:00:00.4157155
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 4.94 ms, found 12 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.972 seconds
+Domain Reload Profiling: 1926ms
+	BeginReloadAssembly (297ms)
+		DisableScriptedObjects (40ms)
+		CreateAndSetChildDomain (61ms)
+	RebuildCommonClasses (12ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (62ms)
+	LoadAllAssembliesAndSetupDomain (562ms)
+		LoadAssemblies (333ms)
+		TypeCache.Refresh (129ms)
+			TypeCache.ScanAssembly (114ms)
+		AnalyzeDomain (65ms)
+			BuildScriptInfoCaches (55ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (974ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			BeforeProcessingInitializeOnLoad (122ms)
+			ProcessInitializeOnLoadAttributes (179ms)
+			ProcessInitializeOnLoadMethodAttributes (348ms)
+			AfterProcessingInitializeOnLoad (8ms)
+		AwakeInstancesAfterBackupRestoration (28ms)
+Starting new worker id: 0 with log in D:/Git/EVOLE Frame/unity-vr/Logs/AssetImportWorkerHW0.log
+Importing 'GUID: f91f259c222fd244690009c7d9f7e382 - Path: Assets/FrameLab/Models/building.parts.json' with importer (TextScriptImporter)
+Imported 'GUID: f91f259c222fd244690009c7d9f7e382' -> (Import Result ID: 'b8dd252d87908b4b0462edee6e839a16') in 0.010 seconds [static dependencies only]. Details - ImportResultOutputID=b4a6a6f90ce558e8befdddfa396c1432 DependenciesID=dd27a6617b3f9e15b7a74b177d6bf603 StaticDependenciesID=6d37bce6fc606400676b8dffe80bc58a 
+Importing 'GUID: 1c04e548937aa1b42ba28b5990506f5d - Path: Assets/FrameLab/Models/model-revision.json' with importer (TextScriptImporter)
+Imported 'GUID: 1c04e548937aa1b42ba28b5990506f5d' -> (Import Result ID: 'c66dc982d9b1f78574f67595eb33fa04') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=11b1898c1aa649a0af101ecc5d4c885a DependenciesID=3c387125e62079dd3d8157729c18045b StaticDependenciesID=cbb4e41e712920d5acbf5dce161ab63a 
+Importing 'GUID: ccdc913892a24ea4f976949c11e04bde - Path: Assets/FrameLab/Content/tour.json' with importer (TextScriptImporter)
+Imported 'GUID: ccdc913892a24ea4f976949c11e04bde' -> (Import Result ID: '8834ce56fc1e3bd2f48dadc090f4ef27') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=7d46c60950d3862c76399039737b8540 DependenciesID=9e87e97b53efb28d5b4c1594ef5ec185 StaticDependenciesID=39ab48a83228d4025b5f55c12dd9cf3e 
+Importing 'GUID: ad0e473204882b14bb9b309cea060f71 - Path: Assets/FrameLab/Models/building.glb' with importer (ScriptedImporter : glTFast.Editor:GLTFast.Editor:GltfImporter)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Launched and connected uv unwrapper C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/Tools/UnwrapCL.exe after 0.01 seconds
+Worker ready: AssetImportWorkerHW0 0
+Imported 'GUID: ad0e473204882b14bb9b309cea060f71' -> (Import Result ID: '2c5799ed59d3c40009496d0320af391f') in 17.262 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1b66122efc2805f6bc662632a1bb1ac3 DependenciesID=159b4d3a0c74f1233ead60e081e9f42c StaticDependenciesID=4e6a983f711a783a5284ae4bcb27234e 
+Importing 'GUID: aee1aa11cff3f16438f54f2b77e523ae - Path: Assets/FrameLab/Audio/Tour/layers.json' with importer (TextScriptImporter)
+Imported 'GUID: aee1aa11cff3f16438f54f2b77e523ae' -> (Import Result ID: '7130c97e0499de829baf2b28b13d23b6') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=1d7c22438dd790d8f193ee79e7edc9ac DependenciesID=52400a4cad6d5ca841d14c9eaaf2af09 StaticDependenciesID=c1f970b5421064a699de54ac42bd5128 
+Importing 'GUID: fb737e1444b2da348ad91e2c2c1b9024 - Path: Assets/FrameLab/Audio/Tour/layers.mp3' with importer (AudioImporter)
+Imported 'GUID: fb737e1444b2da348ad91e2c2c1b9024' -> (Import Result ID: '3808397ba927dadf6c0c658886cadd2b') in 0.333 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=88cb9780b74e375521c455bb461d8ffa DependenciesID=f8e1ca96eb8a2f8defd5b20e59ecd940 StaticDependenciesID=fd09fa7d40484473eb47d2b9d0d31370 
+Refreshing native plugins compatible for Editor in 5.77 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=00b87bc705064414285de2aeb55f9a9f): Total: 23.231 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=6 (actual=6, local cache=0, cache server=0)
+		Asset DB Process Time: managed=2 ms, native=19075 ms
+		Asset DB Callback time: managed=254 ms, native=23 ms
+		Scripting: domain reloads=1, domain reload time=1007 ms, compile time=2805 ms, other=62 ms
+		Project Asset Count: scripts=1374, non-scripts=2233
+		Asset File Changes: new=0, changed=11, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 14.256ms
+	ApplyChangesToAssetFolders: 0.515ms
+	Scan: 96.056ms
+	Collect global state as custom dependencies: 20.930ms
+	OnSourceAssetsModified: 0.708ms
+	CategorizeScriptCompilationAssets: 41.176ms
+	ProcessAssetsWithTransientArtifactChanges: 77.126ms
+	CategorizeAssets: 62.072ms
+	CompileScripts: 2804.654ms
+	ImportOutOfDateAssets: 18609.338ms (988.590ms without children)
+		ImportManagerImport: 17611.015ms (1.790ms without children)
+			UpdateCategorizedAssets: 0.060ms
+		UnloadImportedAssets: 2.626ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.584ms
+		ImportSchedulerStart: 6.484ms
+	PostProcessAllAssets: 255.191ms
+		XRBuildSystem.XRAssetImported 1.087ms
+		VCAutoAddAssetPostprocess 0.787ms
+		PostProcessCallbackCreateDeferredMaterials 0.061ms
+		MonoPostProcessAllAssets: 252.645ms
+			AssetPostprocessor.OnPostprocessAllAssets 154.899ms
+			AssetCallbacks.OnPostprocessAllAssets 34.408ms
+			StyleCatalogPostProcessor.OnPostprocessAllAssets 13.794ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 13.501ms
+			BuilderAssetPostprocessor.OnPostprocessAllAssets 5.918ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 2.312ms
+			SyncVS.PostprocessSyncProject 2.215ms
+			AssetChangedListener.OnPostprocessAllAssets 2.181ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 1.824ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 1.787ms
+			RetainedModeAssetPostprocessor.OnPostprocessAllAssets 1.501ms
+			MaterialPostprocessor.OnPostprocessAllAssets 1.030ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 0.979ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.791ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.590ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.550ms
+			ArtifactBrowserPostProcessor.OnPostprocessAllAssets 0.459ms
+			InputActionJsonNameModifierAssetProcessor.OnPostprocessAllAssets 0.420ms
+			TextAssetPostProcessor.OnPostprocessAllAssets 0.386ms
+			PostProcessor.OnPostprocessAllAssets 0.376ms
+			AudioMixerPostprocessor.OnPostprocessAllAssets 0.356ms
+			TMPro_TexturePostProcessor.OnPostprocessAllAssets 0.304ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.292ms
+			AssetEvents.OnPostprocessAllAssets 0.270ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.238ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.213ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.166ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 0.158ms
+			SpeedTreePostProcessor.OnPostprocessAllAssets 0.150ms
+			ThemePostprocessor.OnPostprocessAllAssets 0.144ms
+			ScenarioDriftAssetsTracker.OnPostprocessAllAssets 0.136ms
+			AudioContainerPostProcessor.OnPostprocessAllAssets 0.081ms
+	PostAssetChangesProfiler: 9.855ms
+	UnloadStreamsBegin: 1.948ms
+	PersistCurrentRevisions: 0.162ms
+	GenerateScriptTypeHashes: 5.767ms
+	GenerateScriptTypeSerializationHashes: 9.973ms
+	Untracked: 1214.592ms
+
+Application.AssetDatabase Initial Refresh End
+Scanning for USB devices : 5.000ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Leichhardt
+Unloading 89 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5361 unused Assets / (12.8 MB). Loaded Objects now: 6340.
+Memory consumption went from 440.4 MB to 427.5 MB.
+Total: 13.260800 ms (FindLiveObjects: 1.129500 ms CreateObjectMapping: 0.830200 ms MarkObjects: 6.062500 ms  DeleteObjects: 5.025800 ms)
+
+Asset Pipeline Refresh (id=e411813a7993a294c972417102f4e789): Total: 0.074 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+Importing 'GUID: ca77f399dd2013f4fb935de862ea7435 - Path: Assets/FrameLab/Textures/concrete_clean_albedo.png' with importer (TextureImporter)
+Imported 'GUID: ca77f399dd2013f4fb935de862ea7435' -> (Import Result ID: '4dfb25799cb5df50e0e48ffd4a02d986') in 0.074 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b6bbee016174bfa5fef297c760dd6738 DependenciesID=b0ea2be8e200ece5344d90304eca7363 StaticDependenciesID=a5b5376bdfe16ea869f852d4e64d709d 
+Refreshing native plugins compatible for Editor in 4.11 ms, found 12 plugins.
+Asset Pipeline Refresh (id=ede90b0f3ed4223458f75e2a6a3b502c): Total: 0.103 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: c22ebf7bb8c2e56489acb299b091f77b - Path: Assets/FrameLab/Textures/concrete_floor_01_diff_1k.jpg' with importer (TextureImporter)
+Imported 'GUID: c22ebf7bb8c2e56489acb299b091f77b' -> (Import Result ID: '285f80852df9b5fd6b1a93e2098b6160') in 0.199 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=55c70b2f041763b03e75628ebd85c029 DependenciesID=ad969b44de89fe2cb8770f43c513fd55 StaticDependenciesID=88123e154d571890fab01b45e1cd1d97 
+Refreshing native plugins compatible for Editor in 4.04 ms, found 12 plugins.
+Asset Pipeline Refresh (id=26fc3a6072bcae342b0ac2b860da3075): Total: 0.216 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 49ea0084e2697eb469e8d7fe717a4405 - Path: Assets/FrameLab/Textures/concrete_floor_01_nor_gl_1k.jpg' with importer (TextureImporter)
+Imported 'GUID: 49ea0084e2697eb469e8d7fe717a4405' -> (Import Result ID: 'c6d8d9da86d320ee749d4b44b0bb5b2d') in 0.420 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=bb4cf8fcdd082e4a5e265966ed263daf DependenciesID=32a1e8337fc79add72a139867e7a7e78 StaticDependenciesID=4e8bf59017319a32268d343e1b0e30ea 
+Refreshing native plugins compatible for Editor in 4.22 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=fbf1a459223716047b83055986a8a6bd): Total: 0.436 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=429 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1374, non-scripts=2233
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 4
+	ApplyChangesToAssetFolders: 0.059ms
+	Scan: 4.517ms
+	Collect global state as custom dependencies: 0.183ms
+	CategorizeAssets: 1.617ms
+	ImportOutOfDateAssets: 421.301ms (0.161ms without children)
+		ImportManagerImport: 420.374ms (0.281ms without children)
+		UnloadImportedAssets: 0.175ms
+		ReloadImportedAssets: 0.118ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.367ms
+		ImportSchedulerStart: 0.188ms
+	PostProcessAllAssets: 1.853ms
+		XRBuildSystem.XRAssetImported 1.091ms
+		MonoPostProcessAllAssets: 0.686ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.174ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.081ms
+	PostAssetChangesProfiler: 4.335ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.139ms
+	PersistCurrentRevisions: 0.096ms
+	Untracked: 1.697ms
+
+Importing 'GUID: faffe0d5a99a4b646a1a290f9c3c776f - Path: Assets/FrameLab/Textures/fine_grained_wood_col_1k.jpg' with importer (TextureImporter)
+Imported 'GUID: faffe0d5a99a4b646a1a290f9c3c776f' -> (Import Result ID: '937d27f7334a37eafac501b80d9a08eb') in 0.048 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fbc577c5849722e92910866c026dd6fe DependenciesID=de07c257395bc288718f8e37dbd9037d StaticDependenciesID=466d2495ad18c580688d443cc52524cf 
+Refreshing native plugins compatible for Editor in 4.15 ms, found 12 plugins.
+Asset Pipeline Refresh (id=3ce85698e9b244f41939b36e7837b571): Total: 0.064 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: d4407b1ed16aa624cadac4da59291453 - Path: Assets/FrameLab/Textures/fine_grained_wood_nor_gl_1k.jpg' with importer (TextureImporter)
+Imported 'GUID: d4407b1ed16aa624cadac4da59291453' -> (Import Result ID: '51dde32ebcd701287d94fb1e50646f49') in 0.035 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3d732d9dcfb26cd726018590a02c281f DependenciesID=5e11c58f96bce6a4b28df82a640d233a StaticDependenciesID=37d223b32369639a2c5fa38e13dc5eff 
+Refreshing native plugins compatible for Editor in 4.42 ms, found 12 plugins.
+Asset Pipeline Refresh (id=a3221478d8da0f440a45cc2478631254): Total: 0.052 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 79ae164717cbc1e4fb239f1f0e13e110 - Path: Assets/FrameLab/Textures/kloofendal_48d_partly_cloudy_puresky_2k.hdr' with importer (TextureImporter)
+Imported 'GUID: 79ae164717cbc1e4fb239f1f0e13e110' -> (Import Result ID: 'b54e22d29d23e0ce2a5bd148460539f9') in 0.691 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=08b96a18fdbdc4297d467dc177ce885b DependenciesID=230686d02ec51a43a40d35f940b7cc36 StaticDependenciesID=6d822581eff30822ff3eae311f3e229a 
+Refreshing native plugins compatible for Editor in 3.97 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=87775626f7a37324a89368a1b67fd77c): Total: 0.708 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=702 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1374, non-scripts=2233
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 4
+	ApplyChangesToAssetFolders: 0.065ms
+	Scan: 5.485ms
+	Collect global state as custom dependencies: 0.251ms
+	CategorizeAssets: 1.517ms
+	ImportOutOfDateAssets: 693.082ms (0.155ms without children)
+		ImportManagerImport: 692.093ms (0.273ms without children)
+		UnloadImportedAssets: 0.190ms
+		ReloadImportedAssets: 0.117ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.420ms
+		ImportSchedulerStart: 0.185ms
+	PostProcessAllAssets: 1.688ms
+		XRBuildSystem.XRAssetImported 1.067ms
+		MonoPostProcessAllAssets: 0.549ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.144ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.057ms
+	PostAssetChangesProfiler: 4.070ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.168ms
+	PersistCurrentRevisions: 0.096ms
+	Untracked: 1.684ms
+
+Importing 'GUID: 3f8a4d82829dd3d4297a0e00a8331c8b - Path: Assets/FrameLab/Textures/leafy_grass_diff_1k.jpg' with importer (TextureImporter)
+Imported 'GUID: 3f8a4d82829dd3d4297a0e00a8331c8b' -> (Import Result ID: 'f411360d77e9d344daea04ad2a60c0b7') in 0.364 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=473d942f95232d27d4183f16b038d829 DependenciesID=8f0c59252eb2bee9842d3646eab95682 StaticDependenciesID=135c08b42b5607d42a0b76fe8a3aedfd 
+Refreshing native plugins compatible for Editor in 4.05 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=077c49919db6d9547abee831374ca20d): Total: 0.381 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=374 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1374, non-scripts=2233
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 4
+	ApplyChangesToAssetFolders: 0.059ms
+	Scan: 5.478ms
+	Collect global state as custom dependencies: 0.205ms
+	CategorizeAssets: 1.511ms
+	ImportOutOfDateAssets: 365.697ms (0.146ms without children)
+		ImportManagerImport: 364.781ms (0.273ms without children)
+		UnloadImportedAssets: 0.182ms
+		ReloadImportedAssets: 0.115ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.372ms
+		ImportSchedulerStart: 0.179ms
+	PostProcessAllAssets: 1.787ms
+		XRBuildSystem.XRAssetImported 1.115ms
+		MonoPostProcessAllAssets: 0.585ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.149ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.069ms
+	PostAssetChangesProfiler: 4.158ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.142ms
+	PersistCurrentRevisions: 0.098ms
+	Untracked: 1.623ms
+
+Importing 'GUID: 89579cb6320985744b4b2ca427f7e60a - Path: Assets/FrameLab/Textures/leafy_grass_nor_gl_1k.jpg' with importer (TextureImporter)
+Imported 'GUID: 89579cb6320985744b4b2ca427f7e60a' -> (Import Result ID: '8450dcf8920347639fc22badf516030e') in 0.463 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=83efcbcb97ee453063164d458fd200ca DependenciesID=109948414940087120afa666ad48c2b2 StaticDependenciesID=1edc9e70cec815a0c4a71d2e50e4d5a1 
+Refreshing native plugins compatible for Editor in 4.57 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=79bf866bf8beeed47a23b60de54ad7d9): Total: 0.481 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=473 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1374, non-scripts=2233
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 4
+	ApplyChangesToAssetFolders: 0.059ms
+	Scan: 5.041ms
+	Collect global state as custom dependencies: 0.228ms
+	ProcessAssetsWithTransientArtifactChanges: 0.059ms
+	CategorizeAssets: 1.795ms
+	ImportOutOfDateAssets: 464.680ms (0.161ms without children)
+		ImportManagerImport: 463.670ms (0.294ms without children)
+		UnloadImportedAssets: 0.180ms
+		ReloadImportedAssets: 0.121ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.439ms
+		ImportSchedulerStart: 0.189ms
+	PostProcessAllAssets: 1.712ms
+		XRBuildSystem.XRAssetImported 1.093ms
+		MonoPostProcessAllAssets: 0.542ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.140ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.059ms
+	PostAssetChangesProfiler: 4.794ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.155ms
+	PersistCurrentRevisions: 0.096ms
+	Untracked: 1.843ms
+
+Importing 'GUID: e8b3b921cebe5764ca632d1fb58afc0a - Path: Assets/FrameLab/Textures/pine_clean_albedo.png' with importer (TextureImporter)
+Imported 'GUID: e8b3b921cebe5764ca632d1fb58afc0a' -> (Import Result ID: 'b7ab8c190ffe64793a0c7a2e7e77026b') in 0.061 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=15bc37f4247e44a2d04c4fb77b5e4a5a DependenciesID=798a383e9aa7e90101ea63117b50f954 StaticDependenciesID=9de7b75759e2b8b604bbe52b37cfca39 
+Refreshing native plugins compatible for Editor in 4.30 ms, found 12 plugins.
+Asset Pipeline Refresh (id=28992f5ead9c26743820708e152d0f80): Total: 0.078 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: aa11fd871682eaf4f8169fd1a93be5e9 - Path: Assets/FrameLab/Textures/plywood_diff_1k.jpg' with importer (TextureImporter)
+Imported 'GUID: aa11fd871682eaf4f8169fd1a93be5e9' -> (Import Result ID: 'e310da846459ff76733a243b606d5376') in 0.126 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=bd730cb4079c6d2d21f1d91201d93033 DependenciesID=c3fba3f607d9be5221def24f45b28612 StaticDependenciesID=251f620e0cd9256bf40749daa49da96c 
+Refreshing native plugins compatible for Editor in 4.23 ms, found 12 plugins.
+Asset Pipeline Refresh (id=da475351adcef5b40975072cbdc9554f): Total: 0.142 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 8c5588ba8ba67ee4a9431f41fa94304a - Path: Assets/FrameLab/Textures/plywood_nor_gl_1k.jpg' with importer (TextureImporter)
+Imported 'GUID: 8c5588ba8ba67ee4a9431f41fa94304a' -> (Import Result ID: '9b1d5868a7fb35f5d04982c9ad706283') in 0.140 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d209c7d9b7fe8a339ff65e402d32af98 DependenciesID=eef5acbabb9f4c863f35ece19af76757 StaticDependenciesID=59185018996e4f37fa9eab78550b9e70 
+Refreshing native plugins compatible for Editor in 4.04 ms, found 12 plugins.
+Asset Pipeline Refresh (id=f0c48581e6ec53d4782e4b0d70bcd0e0): Total: 0.156 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: bfc2e623ea491d944b1afce1691c66a7 - Path: Assets/FrameLab/Textures/smooth_concrete_floor_diff_1k.jpg' with importer (TextureImporter)
+Imported 'GUID: bfc2e623ea491d944b1afce1691c66a7' -> (Import Result ID: '1c7d098b70ef55fbd21754f3de0b70b0') in 0.118 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d05e8fbc2e32a936c70a440b378200e8 DependenciesID=9c19807af7c4b99157bffbe40b25cb4f StaticDependenciesID=6d966eb0ac2162be7282df90ba95499b 
+Refreshing native plugins compatible for Editor in 3.95 ms, found 12 plugins.
+Asset Pipeline Refresh (id=a495528bc968f69408c3a3c2023be081): Total: 0.133 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 3dc2e937646e7464c85ab1dc60e0d075 - Path: Assets/FrameLab/Textures/smooth_concrete_floor_nor_gl_1k.jpg' with importer (TextureImporter)
+Imported 'GUID: 3dc2e937646e7464c85ab1dc60e0d075' -> (Import Result ID: '690a8d60190175c6ff68613da2bf07a7') in 0.068 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c5d7919543338e2ce005e1c881f4ccd6 DependenciesID=d36a33429a5db2727966fd0d022178b4 StaticDependenciesID=ee80d997a130ea032b1d84d5b612edf0 
+Refreshing native plugins compatible for Editor in 3.92 ms, found 12 plugins.
+Asset Pipeline Refresh (id=c4d7be894ad13b3499ad6a9fd2dcd605): Total: 0.084 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 2f88632a370c84d4a9644a4a31ae235e - Path: Assets/FrameLab/Textures/wood_planks_diff_1k.jpg' with importer (TextureImporter)
+Imported 'GUID: 2f88632a370c84d4a9644a4a31ae235e' -> (Import Result ID: '0ea25a1c725292aa386b42f20e91a421') in 0.065 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1be234b843b96ba4d62b400db9f33826 DependenciesID=d1b9ea7eed6df30d1a34508c9cfdb394 StaticDependenciesID=a9128f677b344fc9464c7fea27ac633e 
+Refreshing native plugins compatible for Editor in 4.00 ms, found 12 plugins.
+Asset Pipeline Refresh (id=f182a1b846faaf34c9d07e237818d584): Total: 0.082 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 5ee8a318d9e7f894ebf9dd29d4d3cf8b - Path: Assets/FrameLab/Textures/wood_planks_nor_gl_1k.jpg' with importer (TextureImporter)
+Imported 'GUID: 5ee8a318d9e7f894ebf9dd29d4d3cf8b' -> (Import Result ID: '8233885bf99014bf824eba287ffc16db') in 0.156 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1a9bb1cea1c05408ec52da64b149a3c3 DependenciesID=e43c8f2b914f435fbdde9b6f97ddfdc6 StaticDependenciesID=0271f98aeea8357888209dfae45e95ea 
+Refreshing native plugins compatible for Editor in 4.25 ms, found 12 plugins.
+Asset Pipeline Refresh (id=83617a3d497bfd549beeb49dd68a9922): Total: 0.173 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=ba17c5a6a32c82149949981f32e67125): Total: 0.044 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=6e4d2cdce4e4880409dd52c9464027bb): Total: 0.053 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+AcceleratorClientConnectionCallback - disconnected - :0
+Importing 'GUID: 00000000000000004000000000000000 - Path: ProjectSettings/ProjectSettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000004000000000000000' -> (Import Result ID: 'bc85e4b5d464e98474695f5d941f5ece') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=054c890a8f4b6dddbea933bc5e4b7df4 DependenciesID=7c16849f6bd16ddaf9e0a00324d1878c StaticDependenciesID=9fc2d3a2839dbc9345200035086a113d 
+Importing 'GUID: 0000000000000000b000000000000000 - Path: ProjectSettings/EditorBuildSettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 0000000000000000b000000000000000' -> (Import Result ID: '9385da44a2ea6f3f76ce470b35b3133f') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=0a89a5c5f492143e0fa186859e17ba6f DependenciesID=228084c4c998bac476746630e158dba5 StaticDependenciesID=ed3e55da59d9ef835c11a3ea2a54cb38 
+Refreshing native plugins compatible for Editor in 4.03 ms, found 12 plugins.
+Asset Pipeline Refresh (id=3e9ec06e975ab024389e15492741a733): Total: 0.049 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (99.7 KB). Loaded Objects now: 6344.
+Memory consumption went from 451.5 MB to 451.4 MB.
+Total: 7.512100 ms (FindLiveObjects: 0.505900 ms CreateObjectMapping: 0.242700 ms MarkObjects: 6.481000 ms  DeleteObjects: 0.065700 ms)
+
+LEICHHARDT_PLANAR_UV 20 Main roof covering.001 triangles=24 charts=9 vertices=48
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LeichhardtPlanarUV:Build (UnityEngine.Mesh) (at Assets/FrameLab/Editor/LeichhardtPlanarUV.cs:99)
+FrameLabBuild:SetFinishLightmapUVs (UnityEngine.MeshRenderer) (at Assets/FrameLab/Editor/FrameLabBuild.cs:493)
+FrameLabBuild:Model (string) (at Assets/FrameLab/Editor/FrameLabBuild.cs:371)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:221)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+(Filename: Assets/FrameLab/Editor/LeichhardtPlanarUV.cs Line: 99)
+
+LEICHHARDT_PLANAR_UV 22 Fascia and gutters triangles=60 charts=20 vertices=122
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LeichhardtPlanarUV:Build (UnityEngine.Mesh) (at Assets/FrameLab/Editor/LeichhardtPlanarUV.cs:99)
+FrameLabBuild:SetFinishLightmapUVs (UnityEngine.MeshRenderer) (at Assets/FrameLab/Editor/FrameLabBuild.cs:493)
+FrameLabBuild:Model (string) (at Assets/FrameLab/Editor/FrameLabBuild.cs:371)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:221)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+(Filename: Assets/FrameLab/Editor/LeichhardtPlanarUV.cs Line: 99)
+
+LEICHHARDT_PLANAR_UV 24 Upper foam render triangles=204 charts=48 vertices=408
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LeichhardtPlanarUV:Build (UnityEngine.Mesh) (at Assets/FrameLab/Editor/LeichhardtPlanarUV.cs:99)
+FrameLabBuild:SetFinishLightmapUVs (UnityEngine.MeshRenderer) (at Assets/FrameLab/Editor/FrameLabBuild.cs:493)
+FrameLabBuild:Model (string) (at Assets/FrameLab/Editor/FrameLabBuild.cs:371)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:221)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+(Filename: Assets/FrameLab/Editor/LeichhardtPlanarUV.cs Line: 99)
+
+LEICHHARDT_PLANAR_UV 24 Upper foam render.001 triangles=276 charts=64 vertices=552
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LeichhardtPlanarUV:Build (UnityEngine.Mesh) (at Assets/FrameLab/Editor/LeichhardtPlanarUV.cs:99)
+FrameLabBuild:SetFinishLightmapUVs (UnityEngine.MeshRenderer) (at Assets/FrameLab/Editor/FrameLabBuild.cs:493)
+FrameLabBuild:Model (string) (at Assets/FrameLab/Editor/FrameLabBuild.cs:371)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:221)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+(Filename: Assets/FrameLab/Editor/LeichhardtPlanarUV.cs Line: 99)
+
+LEICHHARDT_PLANAR_UV 26 Windows and doors.002 triangles=24 charts=12 vertices=48
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LeichhardtPlanarUV:Build (UnityEngine.Mesh) (at Assets/FrameLab/Editor/LeichhardtPlanarUV.cs:99)
+FrameLabBuild:SetFinishLightmapUVs (UnityEngine.MeshRenderer) (at Assets/FrameLab/Editor/FrameLabBuild.cs:493)
+FrameLabBuild:Model (string) (at Assets/FrameLab/Editor/FrameLabBuild.cs:371)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:221)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+(Filename: Assets/FrameLab/Editor/LeichhardtPlanarUV.cs Line: 99)
+
+d3d12: upload buffer was too small for the requested resource! Size: 16777216. Requested: 33554432.
+LEICHHARDT_PLANAR_UV 27 Interior linings and ceilings triangles=7940 charts=1816 vertices=16250
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LeichhardtPlanarUV:Build (UnityEngine.Mesh) (at Assets/FrameLab/Editor/LeichhardtPlanarUV.cs:99)
+FrameLabBuild:SetFinishLightmapUVs (UnityEngine.MeshRenderer) (at Assets/FrameLab/Editor/FrameLabBuild.cs:493)
+FrameLabBuild:Model (string) (at Assets/FrameLab/Editor/FrameLabBuild.cs:371)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:221)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+(Filename: Assets/FrameLab/Editor/LeichhardtPlanarUV.cs Line: 99)
+
+LEICHHARDT_PLANAR_UV 27 Interior linings and ceilings.001 triangles=4692 charts=1386 vertices=9578
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LeichhardtPlanarUV:Build (UnityEngine.Mesh) (at Assets/FrameLab/Editor/LeichhardtPlanarUV.cs:99)
+FrameLabBuild:SetFinishLightmapUVs (UnityEngine.MeshRenderer) (at Assets/FrameLab/Editor/FrameLabBuild.cs:493)
+FrameLabBuild:Model (string) (at Assets/FrameLab/Editor/FrameLabBuild.cs:371)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:221)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+(Filename: Assets/FrameLab/Editor/LeichhardtPlanarUV.cs Line: 99)
+
+LEICHHARDT_PLANAR_UV 27 Interior linings and ceilings.002 triangles=204 charts=53 vertices=408
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LeichhardtPlanarUV:Build (UnityEngine.Mesh) (at Assets/FrameLab/Editor/LeichhardtPlanarUV.cs:99)
+FrameLabBuild:SetFinishLightmapUVs (UnityEngine.MeshRenderer) (at Assets/FrameLab/Editor/FrameLabBuild.cs:493)
+FrameLabBuild:Model (string) (at Assets/FrameLab/Editor/FrameLabBuild.cs:371)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:221)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+(Filename: Assets/FrameLab/Editor/LeichhardtPlanarUV.cs Line: 99)
+
+LEICHHARDT_PLANAR_UV 27 Interior linings and ceilings.003 triangles=2484 charts=626 vertices=5366
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LeichhardtPlanarUV:Build (UnityEngine.Mesh) (at Assets/FrameLab/Editor/LeichhardtPlanarUV.cs:99)
+FrameLabBuild:SetFinishLightmapUVs (UnityEngine.MeshRenderer) (at Assets/FrameLab/Editor/FrameLabBuild.cs:493)
+FrameLabBuild:Model (string) (at Assets/FrameLab/Editor/FrameLabBuild.cs:371)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:221)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+(Filename: Assets/FrameLab/Editor/LeichhardtPlanarUV.cs Line: 99)
+
+LEICHHARDT_PLANAR_UV 30 Kitchen triangles=2464 charts=1112 vertices=5804
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LeichhardtPlanarUV:Build (UnityEngine.Mesh) (at Assets/FrameLab/Editor/LeichhardtPlanarUV.cs:99)
+FrameLabBuild:SetFinishLightmapUVs (UnityEngine.MeshRenderer) (at Assets/FrameLab/Editor/FrameLabBuild.cs:493)
+FrameLabBuild:Model (string) (at Assets/FrameLab/Editor/FrameLabBuild.cs:371)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:221)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+(Filename: Assets/FrameLab/Editor/LeichhardtPlanarUV.cs Line: 99)
+
+LEICHHARDT_PLANAR_UV 33 Vanities and mirrors triangles=592 charts=284 vertices=1376
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LeichhardtPlanarUV:Build (UnityEngine.Mesh) (at Assets/FrameLab/Editor/LeichhardtPlanarUV.cs:99)
+FrameLabBuild:SetFinishLightmapUVs (UnityEngine.MeshRenderer) (at Assets/FrameLab/Editor/FrameLabBuild.cs:493)
+FrameLabBuild:Model (string) (at Assets/FrameLab/Editor/FrameLabBuild.cs:371)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:221)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+(Filename: Assets/FrameLab/Editor/LeichhardtPlanarUV.cs Line: 99)
+
+LEICHHARDT_PLANAR_UV 27 Fixed joinery and fixtures triangles=156 charts=75 vertices=312
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LeichhardtPlanarUV:Build (UnityEngine.Mesh) (at Assets/FrameLab/Editor/LeichhardtPlanarUV.cs:99)
+FrameLabBuild:SetFinishLightmapUVs (UnityEngine.MeshRenderer) (at Assets/FrameLab/Editor/FrameLabBuild.cs:493)
+FrameLabBuild:Model (string) (at Assets/FrameLab/Editor/FrameLabBuild.cs:371)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:221)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+(Filename: Assets/FrameLab/Editor/LeichhardtPlanarUV.cs Line: 99)
+
+LEICHHARDT_PLANAR_UV 31 Laundry triangles=1120 charts=504 vertices=2582
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LeichhardtPlanarUV:Build (UnityEngine.Mesh) (at Assets/FrameLab/Editor/LeichhardtPlanarUV.cs:99)
+FrameLabBuild:SetFinishLightmapUVs (UnityEngine.MeshRenderer) (at Assets/FrameLab/Editor/FrameLabBuild.cs:493)
+FrameLabBuild:Model (string) (at Assets/FrameLab/Editor/FrameLabBuild.cs:371)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:221)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+(Filename: Assets/FrameLab/Editor/LeichhardtPlanarUV.cs Line: 99)
+
+LEICHHARDT_PLANAR_UV 32 Wardrobes and linen triangles=1120 charts=426 vertices=2388
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LeichhardtPlanarUV:Build (UnityEngine.Mesh) (at Assets/FrameLab/Editor/LeichhardtPlanarUV.cs:99)
+FrameLabBuild:SetFinishLightmapUVs (UnityEngine.MeshRenderer) (at Assets/FrameLab/Editor/FrameLabBuild.cs:493)
+FrameLabBuild:Model (string) (at Assets/FrameLab/Editor/FrameLabBuild.cs:371)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:221)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+(Filename: Assets/FrameLab/Editor/LeichhardtPlanarUV.cs Line: 99)
+
+LEICHHARDT_PLANAR_UV 27 Architectural exterior finishes.001 triangles=144 charts=36 vertices=290
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LeichhardtPlanarUV:Build (UnityEngine.Mesh) (at Assets/FrameLab/Editor/LeichhardtPlanarUV.cs:99)
+FrameLabBuild:SetFinishLightmapUVs (UnityEngine.MeshRenderer) (at Assets/FrameLab/Editor/FrameLabBuild.cs:493)
+FrameLabBuild:Model (string) (at Assets/FrameLab/Editor/FrameLabBuild.cs:371)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:221)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+(Filename: Assets/FrameLab/Editor/LeichhardtPlanarUV.cs Line: 99)
+
+LEICHHARDT_PLANAR_UV 27 Architectural exterior finishes.002 triangles=24 charts=12 vertices=48
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LeichhardtPlanarUV:Build (UnityEngine.Mesh) (at Assets/FrameLab/Editor/LeichhardtPlanarUV.cs:99)
+FrameLabBuild:SetFinishLightmapUVs (UnityEngine.MeshRenderer) (at Assets/FrameLab/Editor/FrameLabBuild.cs:493)
+FrameLabBuild:Model (string) (at Assets/FrameLab/Editor/FrameLabBuild.cs:371)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:221)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+(Filename: Assets/FrameLab/Editor/LeichhardtPlanarUV.cs Line: 99)
+
+Importing 'GUID: e799dcddaa585a646b36f5118b5c9061 - Path: Assets/FrameLab/Audio/Tour/arrival.mp3' with importer (AudioImporter)
+Imported 'GUID: e799dcddaa585a646b36f5118b5c9061' -> (Import Result ID: '5df0d1f30b4c420e809bd5ffbd46953a') in 0.328 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ca804298b1eb86a449e916ccab4e58c0 DependenciesID=11bee3165812e5e7b2aab5a999d47406 StaticDependenciesID=c889d990bcd767fe02b3ecb3d8806053 
+Refreshing native plugins compatible for Editor in 3.89 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=d908a2e8f76d36e4ebc853e3917fb978): Total: 0.367 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=353 ms
+		Asset DB Callback time: managed=0 ms, native=13 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1374, non-scripts=2233
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 5
+	ApplyChangesToAssetFolders: 0.145ms
+	Scan: 8.290ms
+	Collect global state as custom dependencies: 0.437ms
+	ProcessAssetsWithTransientArtifactChanges: 0.114ms
+	CategorizeAssets: 3.233ms
+	ImportOutOfDateAssets: 329.327ms (0.159ms without children)
+		ImportManagerImport: 328.311ms (0.295ms without children)
+		ReloadNativeAssets: 0.105ms
+		UnloadImportedAssets: 0.121ms
+		ReloadImportedAssets: 0.114ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.353ms
+		ImportSchedulerStart: 0.271ms
+	PostProcessAllAssets: 5.887ms
+		XRBuildSystem.XRAssetImported 5.361ms
+		MonoPostProcessAllAssets: 0.439ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.060ms
+	PostAssetChangesProfiler: 8.285ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.214ms
+	UnloadStreamsBegin: 0.680ms
+	PersistCurrentRevisions: 0.095ms
+	Untracked: 2.967ms
+
+Importing 'GUID: b0718a3bcd1a0ac4ba8411aad9097e0e - Path: Assets/FrameLab/Audio/Tour/entry.mp3' with importer (AudioImporter)
+Imported 'GUID: b0718a3bcd1a0ac4ba8411aad9097e0e' -> (Import Result ID: '35582ff98b5896fe8e5569c03294d521') in 0.230 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6599847c32fc23208930151f0dc8c42d DependenciesID=f205c0868c41514eda8f160461dc1b3d StaticDependenciesID=a75f8925826c2a5a8fe309670a0a5eda 
+Refreshing native plugins compatible for Editor in 4.51 ms, found 12 plugins.
+Asset Pipeline Refresh (id=4b1c51075356d5b4b8ce22cc9eeda410): Total: 0.247 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 4432bd8d1279aa343a4a09f4d663affd - Path: Assets/FrameLab/Audio/Tour/bedroom1.mp3' with importer (AudioImporter)
+Imported 'GUID: 4432bd8d1279aa343a4a09f4d663affd' -> (Import Result ID: '01f5735c43ca7f571cde061b463c1b30') in 0.255 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6bddb99414a37dfa5b19f05f0684d73e DependenciesID=f378fa11046fbf11993ac35f91e5ca55 StaticDependenciesID=242d68a214572c1b44babddd53a1ffd4 
+Refreshing native plugins compatible for Editor in 4.13 ms, found 12 plugins.
+Asset Pipeline Refresh (id=f701f85de55fe9649a6f03b78a52082d): Total: 0.271 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: a0cb9628ced79d348990398b98a240ee - Path: Assets/FrameLab/Audio/Tour/robe.mp3' with importer (AudioImporter)
+Imported 'GUID: a0cb9628ced79d348990398b98a240ee' -> (Import Result ID: '52fba1f77aa0ccafceec622a15bfa53f') in 0.211 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2d18a8640c55d965cd909fb0f23e4a6b DependenciesID=896e4e4cf4ad96df6c181d72295ddb77 StaticDependenciesID=65e66f546b34adfbda53c42945256f9d 
+Refreshing native plugins compatible for Editor in 4.32 ms, found 12 plugins.
+Asset Pipeline Refresh (id=ab87be63bdc14a046bd3da2a551e7e00): Total: 0.227 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 6c627dae053da5c43954b0121f144cea - Path: Assets/FrameLab/Audio/Tour/ensuite.mp3' with importer (AudioImporter)
+Imported 'GUID: 6c627dae053da5c43954b0121f144cea' -> (Import Result ID: 'd713b5e7576a4a4c6938542ad0a91dfc') in 0.218 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=097d6bd796ef8fac101278e462f6fb0a DependenciesID=a783428863132a8df30251a506fdcb0d StaticDependenciesID=1cd4c8eb4619a3e58e05bd7fa9d930dc 
+Refreshing native plugins compatible for Editor in 4.20 ms, found 12 plugins.
+Asset Pipeline Refresh (id=1982e91dc1545824b9fe5c0410c9c1a4): Total: 0.235 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 89a72775725309b49a4fffcbfc2107a2 - Path: Assets/FrameLab/Audio/Tour/powder.mp3' with importer (AudioImporter)
+Imported 'GUID: 89a72775725309b49a4fffcbfc2107a2' -> (Import Result ID: '9f29427c230822d70775a92aeea516fb') in 0.233 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=33b67864d367d0a2e40536f2d70e508b DependenciesID=717b2d77f78463acaddd653f82d5056e StaticDependenciesID=76c7b673b2056642b8e4af81bfad723a 
+Refreshing native plugins compatible for Editor in 4.21 ms, found 12 plugins.
+Asset Pipeline Refresh (id=133e7720cb43cb94db5e099758a35bb8): Total: 0.249 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 7a62eed889bc58648a80a6cb72a076ab - Path: Assets/FrameLab/Audio/Tour/kitchen.mp3' with importer (AudioImporter)
+Imported 'GUID: 7a62eed889bc58648a80a6cb72a076ab' -> (Import Result ID: 'ba6f164b6f362aed7e56b1ba26e850d6') in 0.219 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=80e23a0443c066af9951cd3751e02be0 DependenciesID=c06358c4723d4e6ee668467ae5741c95 StaticDependenciesID=99886cd28c1c890757ad6e120b5bc94a 
+Refreshing native plugins compatible for Editor in 4.08 ms, found 12 plugins.
+Asset Pipeline Refresh (id=bbda3ab0d04d6de44b7b522fdabe6da4): Total: 0.235 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: fb64f22b197b43840b593960ced06c3c - Path: Assets/FrameLab/Audio/Tour/pantry.mp3' with importer (AudioImporter)
+Imported 'GUID: fb64f22b197b43840b593960ced06c3c' -> (Import Result ID: '2b38bf2cd58741d70433588ec51ca454') in 0.195 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3f6ad49c9b1867e60084267204f4675b DependenciesID=e28f3636903247ffd54d35e3518b3c1c StaticDependenciesID=57a95662237b1aab8d017b743de648c5 
+Refreshing native plugins compatible for Editor in 3.88 ms, found 12 plugins.
+Asset Pipeline Refresh (id=f541e058248a0eb4382461d4ab688d7b): Total: 0.211 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 56209ecf595df5243a6884a6fd441d7c - Path: Assets/FrameLab/Audio/Tour/family.mp3' with importer (AudioImporter)
+Imported 'GUID: 56209ecf595df5243a6884a6fd441d7c' -> (Import Result ID: '9141ec5a0fed574c886bef99fcc4a431') in 0.239 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4ada99fbd605b59f9c79a3744d33c478 DependenciesID=063b251b6fef7347eb6e1eab3cf48fef StaticDependenciesID=19758cec98df52cb35263e90febf489d 
+Refreshing native plugins compatible for Editor in 4.15 ms, found 12 plugins.
+Asset Pipeline Refresh (id=b86dfbe9d6939ee48a30dd649d2d1708): Total: 0.257 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: ddd8d55f92aba4341a53c750f7fc3b8e - Path: Assets/FrameLab/Audio/Tour/laundry.mp3' with importer (AudioImporter)
+Imported 'GUID: ddd8d55f92aba4341a53c750f7fc3b8e' -> (Import Result ID: 'a537be9db3ee4a03af4757c219f77e1d') in 0.207 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ded39f91f45425f462313d37f075d39b DependenciesID=fefa20e99f45d89030db6c46aade686a StaticDependenciesID=b16f228aa3391e5e79c990e3c33bf597 
+Refreshing native plugins compatible for Editor in 3.90 ms, found 12 plugins.
+Asset Pipeline Refresh (id=a5f73e27f222d134aad597ed1f7f5ccb): Total: 0.223 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 833cffeb868d4b04f94c2356b482425b - Path: Assets/FrameLab/Audio/Tour/garage.mp3' with importer (AudioImporter)
+Imported 'GUID: 833cffeb868d4b04f94c2356b482425b' -> (Import Result ID: '6d2b9e3f70363ff017d6f2ef51d46084') in 0.217 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b51f23c6c2fd36c5bfeb76b872efdb95 DependenciesID=e52055bfe8c722792db10bb7b4a8060b StaticDependenciesID=93e875bc1f8fa9ca8ae6aaeb5cc7de79 
+Refreshing native plugins compatible for Editor in 3.93 ms, found 12 plugins.
+Asset Pipeline Refresh (id=484aa30294c6abb498f640d62d2e3752): Total: 0.234 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: ff3dcebc564c34849b751c923b54a207 - Path: Assets/FrameLab/Audio/Tour/landing.mp3' with importer (AudioImporter)
+Imported 'GUID: ff3dcebc564c34849b751c923b54a207' -> (Import Result ID: 'd39edb147b6690e06310b4121c0acedd') in 0.195 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=40fe1132ee95686e2e047e57bbcdebf0 DependenciesID=9a83ae1fd0088b7dafb3e1c4b2f94227 StaticDependenciesID=686501b04099f49f7b7270724ffacafa 
+Refreshing native plugins compatible for Editor in 4.23 ms, found 12 plugins.
+Asset Pipeline Refresh (id=de054828f9f91ec499618de503b6ea8a): Total: 0.212 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 73b7c4a28de9da44297ef38f9376184e - Path: Assets/FrameLab/Audio/Tour/theatre.mp3' with importer (AudioImporter)
+Imported 'GUID: 73b7c4a28de9da44297ef38f9376184e' -> (Import Result ID: 'ceb61662f2fc58191d8bda2d35727961') in 0.252 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4651f51de4b694c988c8bbf99dfde211 DependenciesID=5b00a37147a126816ecb3e6d1478bac5 StaticDependenciesID=f5acc528cac46aa4d7344cf42715cfa6 
+Refreshing native plugins compatible for Editor in 3.87 ms, found 12 plugins.
+Asset Pipeline Refresh (id=7737e6b6761bd654f93fd88879d2ea84): Total: 0.268 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 72240a4f5f939e54cb8d3df091d54728 - Path: Assets/FrameLab/Audio/Tour/retreat.mp3' with importer (AudioImporter)
+Imported 'GUID: 72240a4f5f939e54cb8d3df091d54728' -> (Import Result ID: '8fd8746b3a890b4a51782932e1c93244') in 0.191 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=71df85446a93008a361e9b0b7210836b DependenciesID=5ffd67739d0bc70f05a6e50f1369421b StaticDependenciesID=2203f3db951dc01729729921b98c1a0f 
+Refreshing native plugins compatible for Editor in 3.92 ms, found 12 plugins.
+Asset Pipeline Refresh (id=6063de6834f608a478d91980b3418e48): Total: 0.206 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 99f68b6c63bb6af40bdb45cdd127dce0 - Path: Assets/FrameLab/Audio/Tour/study.mp3' with importer (AudioImporter)
+Imported 'GUID: 99f68b6c63bb6af40bdb45cdd127dce0' -> (Import Result ID: '94561f031a9b0b1b0eadd32410a5bf47') in 0.194 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=204d04c92e9a86062ee45a3d82278214 DependenciesID=994d555bfad39c3c7f5e22edfa8c0bc0 StaticDependenciesID=bdf57acc3be2aa344136f498cd82a397 
+Refreshing native plugins compatible for Editor in 3.85 ms, found 12 plugins.
+Asset Pipeline Refresh (id=d8def42dcc7f2a14d84d8e7a45301e59): Total: 0.210 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 17e47460f3e3cce4f8c9c86348e53725 - Path: Assets/FrameLab/Audio/Tour/bedroom2.mp3' with importer (AudioImporter)
+Imported 'GUID: 17e47460f3e3cce4f8c9c86348e53725' -> (Import Result ID: '0800202b11a3006753d4aa5c9e10d0d6') in 0.178 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b689c3387ea1eceaf9559c27919ac903 DependenciesID=e94a8954388f960d05fd2918d593bbb5 StaticDependenciesID=740850b7bd6c64dcf43514407432a677 
+Refreshing native plugins compatible for Editor in 4.00 ms, found 12 plugins.
+Asset Pipeline Refresh (id=e5ed333382eaa774985e1ba40eb87cdc): Total: 0.194 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: e3298576f74902a4a998083a2e7ae1d2 - Path: Assets/FrameLab/Audio/Tour/bathroom2.mp3' with importer (AudioImporter)
+Imported 'GUID: e3298576f74902a4a998083a2e7ae1d2' -> (Import Result ID: '1c1b73c91eedd3c9c630fa69594328e2') in 0.181 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ceef42cca8480d3194ad25f1c4a36b56 DependenciesID=feacf0027d323a4de6eee9f1259693c4 StaticDependenciesID=7f17fe33f55a9930009a4751832b8f2b 
+Refreshing native plugins compatible for Editor in 4.23 ms, found 12 plugins.
+Asset Pipeline Refresh (id=d84f9ddc93fd7ff4087d8764bf60749e): Total: 0.197 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 610adc223ceddf049a55e147a36ab3f7 - Path: Assets/FrameLab/Audio/Tour/bedroom3.mp3' with importer (AudioImporter)
+Imported 'GUID: 610adc223ceddf049a55e147a36ab3f7' -> (Import Result ID: 'f58832c7a778218774b1d26f295d056b') in 0.207 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7b4b24cb641a89481af27d956a58cba3 DependenciesID=370fea9b2b70b62491f293ca49b9f7d2 StaticDependenciesID=b221abe258ff5fca9ca3056f5dde6188 
+Refreshing native plugins compatible for Editor in 4.18 ms, found 12 plugins.
+Asset Pipeline Refresh (id=55a70f56114c1b64b8eae551fb6ae180): Total: 0.223 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: b715126d9ada4dc4bb31c30aa6d27f62 - Path: Assets/FrameLab/Audio/Tour/bedroom4.mp3' with importer (AudioImporter)
+Imported 'GUID: b715126d9ada4dc4bb31c30aa6d27f62' -> (Import Result ID: '3e92d729e5bab66b133cffb5d0517e69') in 0.186 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e76ab76fb21e99089c392b81e81f848c DependenciesID=365ed50f14a949bc19a5207e3af1271d StaticDependenciesID=ff40233086eeb961a197d4aa823d7f00 
+Refreshing native plugins compatible for Editor in 3.89 ms, found 12 plugins.
+Asset Pipeline Refresh (id=66b3a7add6c3c2e4f85aa310e1017139): Total: 0.201 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 05d18d0fe1c0e254bb79babf8b4d7918 - Path: Assets/FrameLab/Audio/Tour/upperbath.mp3' with importer (AudioImporter)
+Imported 'GUID: 05d18d0fe1c0e254bb79babf8b4d7918' -> (Import Result ID: 'ea98b0bf4099b42c4b30beb2ac90eef3') in 0.188 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5b88141237cd74c16758f1124738cebf DependenciesID=f17db96b6fd790aba2692fdd576e188c StaticDependenciesID=417b76fae238859dc66bff5287513d73 
+Refreshing native plugins compatible for Editor in 4.17 ms, found 12 plugins.
+Asset Pipeline Refresh (id=0af66d3edace4ce44bc6b30e107bc538): Total: 0.205 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 0dadb21e895dd8349a8905332d429238 - Path: Assets/FrameLab/Audio/Tour/bedroom5.mp3' with importer (AudioImporter)
+Imported 'GUID: 0dadb21e895dd8349a8905332d429238' -> (Import Result ID: 'bfefa790953dd17dbb35716d96d23071') in 0.197 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ee164bb8c5291f0aa5c19f7265c03247 DependenciesID=9ec9b181792e05b40bfd9a5ac188198c StaticDependenciesID=d7b81414adb57ca70a02e60e0735644d 
+Refreshing native plugins compatible for Editor in 4.03 ms, found 12 plugins.
+Asset Pipeline Refresh (id=3b8aa3f967d514742afd4170b78932b7): Total: 0.213 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 732215bc0c0000548964e53292adba1d - Path: Assets/FrameLab/Audio/Tour/exterior.mp3' with importer (AudioImporter)
+Imported 'GUID: 732215bc0c0000548964e53292adba1d' -> (Import Result ID: '857081e3606cf657ff9bc8fbb3c48751') in 0.216 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7142cd194bc266e2cda48f1429d92464 DependenciesID=0bb1095bbf84656c0412ddbfafe6284d StaticDependenciesID=dcd2c57fc57928fbc6c6668666d7436c 
+Refreshing native plugins compatible for Editor in 3.91 ms, found 12 plugins.
+Asset Pipeline Refresh (id=a006cef37a2414a45a36467527f4fda3): Total: 0.233 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 5fda2a6785bd7324ea0956c74a0c322f - Path: Assets/FrameLab/Audio/Tour/window.mp3' with importer (AudioImporter)
+Imported 'GUID: 5fda2a6785bd7324ea0956c74a0c322f' -> (Import Result ID: '6ddffdc9587e5541785909f0c43c962a') in 0.281 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b9c8878047597e6ab68f6529faeb4867 DependenciesID=bf00adab0d7be953b318fc1fd965aeca StaticDependenciesID=ed3ec90619852a86bec86b3e7058a92d 
+Refreshing native plugins compatible for Editor in 4.07 ms, found 12 plugins.
+Asset Pipeline Refresh (id=4fb77098bcb09f04c879e543907c1860): Total: 0.297 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: fb737e1444b2da348ad91e2c2c1b9024 - Path: Assets/FrameLab/Audio/Tour/layers.mp3' with importer (AudioImporter)
+Imported 'GUID: fb737e1444b2da348ad91e2c2c1b9024' -> (Import Result ID: '3808397ba927dadf6c0c658886cadd2b') in 0.324 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=88cb9780b74e375521c455bb461d8ffa DependenciesID=f8e1ca96eb8a2f8defd5b20e59ecd940 StaticDependenciesID=fd09fa7d40484473eb47d2b9d0d31370 
+Refreshing native plugins compatible for Editor in 3.96 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=908f2a15521a1c14b86dcc30a9ae3cad): Total: 0.339 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=333 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1374, non-scripts=2233
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 5
+	ApplyChangesToAssetFolders: 0.070ms
+	Scan: 4.633ms
+	Collect global state as custom dependencies: 0.179ms
+	CategorizeAssets: 1.495ms
+	ImportOutOfDateAssets: 325.312ms (0.143ms without children)
+		ImportManagerImport: 324.355ms (0.292ms without children)
+		ReloadNativeAssets: 0.106ms
+		UnloadImportedAssets: 0.152ms
+		ReloadImportedAssets: 0.088ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.354ms
+		ImportSchedulerStart: 0.199ms
+	PostProcessAllAssets: 1.715ms
+		XRBuildSystem.XRAssetImported 1.045ms
+		MonoPostProcessAllAssets: 0.601ms
+			AssetChangedListener.OnPostprocessAllAssets 0.176ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.059ms
+	PostAssetChangesProfiler: 4.146ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.142ms
+	PersistCurrentRevisions: 0.099ms
+	Untracked: 1.517ms
+
+Importing 'GUID: b224d7634dbbd69459a280c60512d424 - Path: Assets/FrameLab/Audio/Tour/complete.mp3' with importer (AudioImporter)
+Imported 'GUID: b224d7634dbbd69459a280c60512d424' -> (Import Result ID: '19ff7aee80200ea4b567d5c3354f8479') in 0.231 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ff42f2796637d7d738e427996ca65144 DependenciesID=22afc9c41435f158be25bb403d9638ed StaticDependenciesID=76ef413a622b9fedfa9d066639f8eed5 
+Refreshing native plugins compatible for Editor in 4.26 ms, found 12 plugins.
+Asset Pipeline Refresh (id=c763276a0406c75448dbf6cff15036fa): Total: 0.247 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 60c347ad1a16cfb4d8bfa12217232b67 - Path: Assets/FrameLab/Audio/Tour/part_lining.mp3' with importer (AudioImporter)
+Imported 'GUID: 60c347ad1a16cfb4d8bfa12217232b67' -> (Import Result ID: '2e4a58071e5811169106d084b427fe3d') in 0.124 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f315bb54e5acf7255f5ec5514fdc54ee DependenciesID=f79042ab2202ae724500b9566957eba6 StaticDependenciesID=cf153a58552bdd0678686090e4301a1a 
+Refreshing native plugins compatible for Editor in 4.16 ms, found 12 plugins.
+Asset Pipeline Refresh (id=9a78873d9d362d84f965be048599ee9e): Total: 0.140 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: ae8f03cb9412b394ba95820b1dcff8da - Path: Assets/FrameLab/Audio/Tour/part_frame.mp3' with importer (AudioImporter)
+Imported 'GUID: ae8f03cb9412b394ba95820b1dcff8da' -> (Import Result ID: '105ed19fd829175716bebba9e59739a3') in 0.138 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e90cd3110cdb743780369af5a1bda3f1 DependenciesID=9cd504a98a560771dab81add5b6e3059 StaticDependenciesID=8ca08b0d3c5eddbfc64bc826840c0d07 
+Refreshing native plugins compatible for Editor in 4.21 ms, found 12 plugins.
+Asset Pipeline Refresh (id=fadd936e4fed36e4ebd76bfead4a12fd): Total: 0.154 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: b60114feb94c3d64181e4f956cc01f9f - Path: Assets/FrameLab/Audio/Tour/part_wrap.mp3' with importer (AudioImporter)
+Imported 'GUID: b60114feb94c3d64181e4f956cc01f9f' -> (Import Result ID: '324aac7d0841afa51e80bc2c96d28a82') in 0.125 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e50e053b76bbe7727a557ae12d2de6a6 DependenciesID=f44c74f1014c30f5ef6a66d91d149d6b StaticDependenciesID=b4bec8bdaba06a6aee91a0c4826fe2af 
+Refreshing native plugins compatible for Editor in 3.97 ms, found 12 plugins.
+Asset Pipeline Refresh (id=621de16527f7729449db94a8a70ac975): Total: 0.141 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: e00f930eecadbfd45b4e7670634274fa - Path: Assets/FrameLab/Audio/Tour/part_sill.mp3' with importer (AudioImporter)
+Imported 'GUID: e00f930eecadbfd45b4e7670634274fa' -> (Import Result ID: 'd48f5e64522d117d5ae6748ba6b14303') in 0.290 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=32e89b26390bbdc36f983ca97ae136c5 DependenciesID=62e28158aa3136b13d879f40d9af80f4 StaticDependenciesID=23c700f15b67ef509c4fd06e4d22f6d8 
+Refreshing native plugins compatible for Editor in 3.91 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=f4c7d71cf6eaf4d4e8b5fd258baef4af): Total: 0.305 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=299 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1374, non-scripts=2233
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 5
+	ApplyChangesToAssetFolders: 0.065ms
+	Scan: 4.629ms
+	Collect global state as custom dependencies: 0.178ms
+	CategorizeAssets: 1.375ms
+	ImportOutOfDateAssets: 291.489ms (0.136ms without children)
+		ImportManagerImport: 290.576ms (0.286ms without children)
+		ReloadNativeAssets: 0.108ms
+		UnloadImportedAssets: 0.127ms
+		ReloadImportedAssets: 0.084ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.342ms
+		ImportSchedulerStart: 0.196ms
+	PostProcessAllAssets: 1.512ms
+		XRBuildSystem.XRAssetImported 1.032ms
+		MonoPostProcessAllAssets: 0.417ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.056ms
+	PostAssetChangesProfiler: 4.050ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.142ms
+	PersistCurrentRevisions: 0.099ms
+	Untracked: 1.435ms
+
+Importing 'GUID: d18f20063ddc6cd44b1154b615ecac07 - Path: Assets/FrameLab/Audio/Tour/part_jamb.mp3' with importer (AudioImporter)
+Imported 'GUID: d18f20063ddc6cd44b1154b615ecac07' -> (Import Result ID: 'a98906a48dfdfdecf07d5ba88f08d606') in 0.237 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0c79fcef8e08bd6ce8bd0d9abda776d9 DependenciesID=999de40bdbd1ef518a5e817abedf2bf8 StaticDependenciesID=3a689171dec347f057b0f924bd5b093e 
+Refreshing native plugins compatible for Editor in 4.34 ms, found 12 plugins.
+Asset Pipeline Refresh (id=cf079ee835ca76643a8c7d7154ba3af9): Total: 0.255 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 57488cbf53d219a47aebdd733a6dcb49 - Path: Assets/FrameLab/Audio/Tour/part_window.mp3' with importer (AudioImporter)
+Imported 'GUID: 57488cbf53d219a47aebdd733a6dcb49' -> (Import Result ID: '3f47ca6dd95e6126e22cbe9ec3977e8b') in 0.165 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b705cfb1f58b6c0b6a65f9998c1da033 DependenciesID=6b4711e7177455910a1de49bfb295978 StaticDependenciesID=898887bd8ee26e78490997966aef1059 
+Refreshing native plugins compatible for Editor in 3.95 ms, found 12 plugins.
+Asset Pipeline Refresh (id=c0126ed55ed5bc841b38870ab6c0ef2b): Total: 0.182 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: c35256b8f76390248901ac7196c15858 - Path: Assets/FrameLab/Audio/Tour/part_glass.mp3' with importer (AudioImporter)
+Imported 'GUID: c35256b8f76390248901ac7196c15858' -> (Import Result ID: 'f30a0c3d52e2582d37a89295daad8421') in 0.132 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=dfe82cd19e6bbe2d2532d87c864ca8d5 DependenciesID=5c9bfa75ab4db386a27daf7ebdc41986 StaticDependenciesID=e6325bcfffcb49ecdf7ccc8a2f08e964 
+Refreshing native plugins compatible for Editor in 3.85 ms, found 12 plugins.
+Asset Pipeline Refresh (id=d3f5baa89ab309d42b37ed23bd64f64b): Total: 0.147 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 7a04ab6c9b8ecc84fbdbe178515f4f38 - Path: Assets/FrameLab/Audio/Tour/part_head.mp3' with importer (AudioImporter)
+Imported 'GUID: 7a04ab6c9b8ecc84fbdbe178515f4f38' -> (Import Result ID: 'b0d567361c8d48e8d47f0b82c94eed46') in 0.123 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=aaac51b3cea47239215d384ddbeabe89 DependenciesID=72d3de969aa4b42c774beb0e1bc27416 StaticDependenciesID=bc9bac365b926d2f9d0bdaeaee696cde 
+Refreshing native plugins compatible for Editor in 3.89 ms, found 12 plugins.
+Asset Pipeline Refresh (id=52534a34f44204e49b5381ada796348d): Total: 0.138 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 754f13a37147e194fbc3dd5e02fb71b5 - Path: Assets/FrameLab/Audio/Tour/part_brick.mp3' with importer (AudioImporter)
+Imported 'GUID: 754f13a37147e194fbc3dd5e02fb71b5' -> (Import Result ID: '7a4e9dc4b726298711ad948cad897612') in 0.141 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0d0beef7642956549845e98e645cee17 DependenciesID=f7a8fea35e1ed03d23f01d4433eae55f StaticDependenciesID=4d82d4e2ff271c4a5eeaafd323b89bec 
+Refreshing native plugins compatible for Editor in 4.10 ms, found 12 plugins.
+Asset Pipeline Refresh (id=7cb776c98641a6049bc304ed3ba78849): Total: 0.158 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: 'dc2ddab414d00048cd61ebe532e31a61') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=2a108b3da874f726c62fbe5f12be4a8a DependenciesID=e689898e549065817cfe55a8886277ee StaticDependenciesID=9acccfde89872fb2ce77f7f15a0feb0c 
+Importing 'GUID: 00000000000000006100000000000000 - Path: ProjectSettings/GraphicsSettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000006100000000000000' -> (Import Result ID: '2f8dd7813cd871312f1ee18058ef3d9a') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=a2dcdb8bc9503711bc0f2e2d72cfd36c DependenciesID=857f07e63ea016dd29bc61af7bfe4ebf StaticDependenciesID=8eec56c8206bed8a005feef4ed126df0 
+Importing 'GUID: 2051c7b47041b6f469162ad21d704d54 - Path: Assets/FrameLab/Generated/Soft horizon.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 2051c7b47041b6f469162ad21d704d54' -> (Import Result ID: '3722ae371743f4547c21ed9e866e41c0') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=3f9a60011cadaa2f5213cfe92843892a DependenciesID=c8d05103bf27cbf28c9ad59c59879336 StaticDependenciesID=6584730d26429d466a795dbf463835a6 
+Importing 'GUID: 908db543d1da73348a787be9417efa5b - Path: Assets/FrameLab/Generated/Inspection lining.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 908db543d1da73348a787be9417efa5b' -> (Import Result ID: 'aa30139909bddbe67fd9511d1274f163') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=0a13b18948ea70356cbbe0b3039a39f8 DependenciesID=0d1e0b408ffc404f561862f34525cee7 StaticDependenciesID=fef76b1777f3e3da1cba499d00c1fd7d 
+Importing 'GUID: 2117baf7971967d47a894a4df6c22204 - Path: Assets/FrameLab/Generated/LEARN Web VR Fitout mirror Powder vanity.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 2117baf7971967d47a894a4df6c22204' -> (Import Result ID: 'cde7b8c7b56505271a40e8138550691e') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=623ac8fc4cec02d7c7049fa3f94faea8 DependenciesID=598a9188b7a3188e4f60aaa7afb7dda6 StaticDependenciesID=fcab856c770f2ceb8787929835233240 
+Importing 'GUID: 3167f30ea0151ba4d97550c823a4f096 - Path: Assets/FrameLab/Generated/LEARN Web LEARN wrap.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 3167f30ea0151ba4d97550c823a4f096' -> (Import Result ID: '9f5b8792331a02f61075b3502c313612') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=9fe1e50445d25c3586035ad89cecd9cf DependenciesID=b4ba3bd48ed6e89d091d36629e364c9f StaticDependenciesID=759930103e9fe180c59fe0bea546a23d 
+Importing 'GUID: 41b41c23f63b29040892b45dfceca57a - Path: Assets/FrameLab/Generated/LEARN Web VR Plaster junction returns.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 41b41c23f63b29040892b45dfceca57a' -> (Import Result ID: 'ef3176c1699d1bf3e6a9eb184c7b7282') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=01a288eeabafd69065395d1daf5f1b4a DependenciesID=d296e7859857625832e5c6c1f381a9ed StaticDependenciesID=bf87b136192d86b861ee25d4bbff5da6 
+Importing 'GUID: 611d86683b5d8e74096332dfb1281358 - Path: Assets/FrameLab/Generated/LEARN Web VR Finished door timber.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 611d86683b5d8e74096332dfb1281358' -> (Import Result ID: '964050c0cce27b84709d5da4be8daaf4') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=543bca8f708b583cfbc508033e63903c DependenciesID=d2ee87475518c44148331b8ddc32d56d StaticDependenciesID=d768d1fa959d409892a7aee9fa175916 
+Importing 'GUID: 61fdd606f3fc2cb428f1ef8b837b3a30 - Path: Assets/FrameLab/Generated/LEARN Web Galvanised connectors.001.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 61fdd606f3fc2cb428f1ef8b837b3a30' -> (Import Result ID: 'e3fd71bd13b431cae5715085e68830d4') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=bd1f50eef9ea885ec2221ed1d163801c DependenciesID=910cee4c2c4fa35bfa2c2342e444b7f2 StaticDependenciesID=dabbeafa407c031b4db12624d30dbe08 
+Importing 'GUID: 7128710812cd4f6499fbda52b7434b3f - Path: Assets/FrameLab/Generated/LEARN Web VR Fitout white ceramic.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 7128710812cd4f6499fbda52b7434b3f' -> (Import Result ID: '43c3c94f97656a7f2f1128792be777b8') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=a949a5103c15607db38690123e599e75 DependenciesID=5e8e221ebc01973a3985946d9d3866a0 StaticDependenciesID=18b3402ceeef57184445400a85710b61 
+Importing 'GUID: 02737103a8d629a4a8e4bad90666c4a3 - Path: Assets/FrameLab/Generated/LEARN Web VR Neutral porch render.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 02737103a8d629a4a8e4bad90666c4a3' -> (Import Result ID: '8be87294506c4fb74678761da2d47ab1') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=d6b4cdc1c8876f71aeb7c6ab59007400 DependenciesID=11570f0acea20921dbdbe4a3665e1194 StaticDependenciesID=515267d75af671a76036b373f22a7f42 
+Importing 'GUID: 52c97f6790f6204499faf091082e227b - Path: Assets/FrameLab/Generated/Inspection jamb.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 52c97f6790f6204499faf091082e227b' -> (Import Result ID: '275ca47db3d8b296677c4a86e8057b92') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=e9578202c9dd8b8d6c5f197121bb5158 DependenciesID=d8d9e54445466c97ecb0e6c343ec836b StaticDependenciesID=3e8d25e8c8025c8fb39ac4785a16cb2a 
+Importing 'GUID: 8271a1a35e4454442bb826b40851ee96 - Path: Assets/FrameLab/Generated/Inspection wrap.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 8271a1a35e4454442bb826b40851ee96' -> (Import Result ID: '055f24e17d267efab1d25dc665ccd7a4') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=994aa15806bced9576eb2d16110ea67e DependenciesID=c2be5ce86b66d3be9d3960437a9e8489 StaticDependenciesID=208d6bfecdc07c2c3fc9ad08f403ea91 
+Importing 'GUID: c24e5c54bed31d546b7e6271964bdb4d - Path: Assets/FrameLab/Generated/LEARN Web ENV Brick veneer - colour unselected.001.mat' with importer (NativeFormatImporter)
+Imported 'GUID: c24e5c54bed31d546b7e6271964bdb4d' -> (Import Result ID: 'e04708e6912e113eda3f2da62f586f17') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=25b6a66a623573a5d9a76eb7db8ad248 DependenciesID=add7dcaef701bb2601f0f59b15140dff StaticDependenciesID=adc2f0e5e3ef834080aa7b7941b7cd3c 
+Importing 'GUID: e279c4766893af24787496b56df4a358 - Path: Assets/FrameLab/Generated/LEARN Web LEARN brick.mat' with importer (NativeFormatImporter)
+Imported 'GUID: e279c4766893af24787496b56df4a358' -> (Import Result ID: '41a71ee82993f24cd8efa73a5271bcd5') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=302106b2278e4f0d318e40342ec568c5 DependenciesID=881c0904847143395f4b5e937ad4251e StaticDependenciesID=a74ddaec5abf828735536a3faf44541b 
+Importing 'GUID: f2eb5a34a873d0d4cb6bc6016e34cf6b - Path: Assets/FrameLab/Generated/LEARN Web VR Pale oak decking.mat' with importer (NativeFormatImporter)
+Imported 'GUID: f2eb5a34a873d0d4cb6bc6016e34cf6b' -> (Import Result ID: '76310ffb221322135a0aea7176b45d2b') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=3c68d6f883a70a9238ad82037d423868 DependenciesID=a17ed521abd8f4d3ac77c275c9a8d1ef StaticDependenciesID=0004d298d03db6a9b840bace14ac9a16 
+Importing 'GUID: 03e9cb493a3ecca4890d842c5d7e0738 - Path: Assets/FrameLab/Generated/LEARN Web ENV Wall membrane - illustrative.001.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 03e9cb493a3ecca4890d842c5d7e0738' -> (Import Result ID: '34fc6f2078e4dd0087ba1a231f77909d') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=3073cc819f38e9336c2c3a76b7f0430f DependenciesID=aa9f606b534fa2bcaa44188b2947fc34 StaticDependenciesID=c17eca531b0f8ed1d992c686246ac68c 
+Importing 'GUID: 43219c6645e089a4da55f22cd8271b85 - Path: Assets/FrameLab/Generated/LEARN Web LEARN flashing.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 43219c6645e089a4da55f22cd8271b85' -> (Import Result ID: '71079116acfc3006dc7150888734f237') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=b0edcb097e00386139deb6d7c42003cf DependenciesID=6ab787620cb32e5063d990eb6aa2a4da StaticDependenciesID=3d73ba1bfbf2d6c1eb8f1889f403c4ca 
+Importing 'GUID: 739c16c9fe692a245b14bc35a070034e - Path: Assets/FrameLab/Generated/LEARN Web VR Fitout floor porcelain.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 739c16c9fe692a245b14bc35a070034e' -> (Import Result ID: 'fe0b43af50cc3ac98d25c9132a14e9d9') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=6e7e8d60494c03b99c85af16a9593b10 DependenciesID=8f69ac34af04317a7d2ee4a29e3c1c10 StaticDependenciesID=5ef8ea41f34412aaaeb0fda75c86d070 
+Importing 'GUID: d364fa5e07e9d5a44b44569759cf3754 - Path: Assets/FrameLab/Generated/Ground.mat' with importer (NativeFormatImporter)
+Imported 'GUID: d364fa5e07e9d5a44b44569759cf3754' -> (Import Result ID: 'df5010ff701c0050b5cd61d7aa42b79b') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=aa885c052cdeea6e4cf0b9b059ffb96c DependenciesID=0fffed8dbd1e202818bdfadafde2de29 StaticDependenciesID=a0bdf66d96289ee288e6abb072979fa2 
+Importing 'GUID: 04c41cb081623274a92fa6a77f6880a0 - Path: Assets/FrameLab/Generated/LEARN Web VR Garage metal roof.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 04c41cb081623274a92fa6a77f6880a0' -> (Import Result ID: 'a8d93cbf78ea1b8d2c02ec3e3b160a13') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=29832d90d271df073234c3e46c023069 DependenciesID=84fddc7861565e8cbcc677e2cad04662 StaticDependenciesID=82a10170105e2961017270fc891b2e54 
+Importing 'GUID: a58b4ca11afa8074f999cf198579fc82 - Path: Assets/FrameLab/Generated/LEARN Web VR Obscure privacy glazing.mat' with importer (NativeFormatImporter)
+Imported 'GUID: a58b4ca11afa8074f999cf198579fc82' -> (Import Result ID: '8792181fa54ce4023477e90debe14351') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=6ec4380dd6caa6a249b139e022e8caad DependenciesID=62892b9b64ce893887555145d1698d1e StaticDependenciesID=5e9064acef20025f5c7b45477634b468 
+Importing 'GUID: c5ee1a08a2b4e74439373143ce310d5e - Path: Assets/FrameLab/Generated/LEARN Web Structural steel.001.mat' with importer (NativeFormatImporter)
+Imported 'GUID: c5ee1a08a2b4e74439373143ce310d5e' -> (Import Result ID: 'd43d282cf0ae4f917458a97553135249') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=adf08fafd4fec89e00455bad8e1b4051 DependenciesID=123fb78fa3d9a856ec5672e558923d96 StaticDependenciesID=2a00161e01a62d71b6f0434dcbd80ebc 
+Importing 'GUID: c5bf9b58176ef93498cd390355a1241f - Path: Assets/FrameLab/Generated/LEARN Web VR Door bronze hardware.mat' with importer (NativeFormatImporter)
+Imported 'GUID: c5bf9b58176ef93498cd390355a1241f' -> (Import Result ID: 'f60d80ee2cdc68b96c155a8872a1889f') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=4c2cd8f6e0eed6808bcd0a29344c0097 DependenciesID=5dfed1d20165028f7fd6349578070ac1 StaticDependenciesID=41fcd3687bfa516bf3d089032108cb3b 
+Importing 'GUID: e54e536d1284bdf4482024e0944e06f0 - Path: Assets/FrameLab/Generated/LEARN Web VR Garage door neutral metal.mat' with importer (NativeFormatImporter)
+Imported 'GUID: e54e536d1284bdf4482024e0944e06f0' -> (Import Result ID: '2aa68ae783d153231f508b173d17fed9') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=59b8ff764edefd82ac2eb7d6a698d1d5 DependenciesID=8cbb0e0b308f41a5e2c1da7bc12023da StaticDependenciesID=33eb65660e221df46669cda44025b2a8 
+Importing 'GUID: 069857008c9455943834160cf723227c - Path: Assets/FrameLab/Generated/LEARN Web VR Fitout charcoal appliance.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 069857008c9455943834160cf723227c' -> (Import Result ID: 'ebb8bd3cab828eec0320ae4982d30926') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=fb697fc700b10d4fa779e32d7eb8bda3 DependenciesID=0d418080909f5c3432e0843beb6e30ef StaticDependenciesID=daef263d9e0dba57eba4b39827ede37e 
+Importing 'GUID: a677c8978185ff741b3010e27f2613d4 - Path: Assets/FrameLab/Generated/Inspection sill.mat' with importer (NativeFormatImporter)
+Imported 'GUID: a677c8978185ff741b3010e27f2613d4' -> (Import Result ID: '5109036fa56661d7e5507d7dd199fdab') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=3ee87a038e41630a6459aabc718debbc DependenciesID=3128a787ecc4b778802ebd6398a95f92 StaticDependenciesID=72c1bd4e3f63cdd3a60fb24fe967c953 
+Importing 'GUID: c6c090947f4636f448c9bc8b401d51a9 - Path: Assets/FrameLab/Generated/LEARN Web VR Fitout brushed nickel.mat' with importer (NativeFormatImporter)
+Imported 'GUID: c6c090947f4636f448c9bc8b401d51a9' -> (Import Result ID: 'd31c52ae0451d3047a29d922f1c68b96') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=4e3775e3d6d2ad4287fe76fe0f880bed DependenciesID=4400c0267d46a0a0e80ba11b5cc47127 StaticDependenciesID=30bd6f8ada8654f40ac645277f1ed6a0 
+Importing 'GUID: 5763dfa111beaf74fba6c9252bd2ea45 - Path: Assets/FrameLab/Generated/Inspection glass.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 5763dfa111beaf74fba6c9252bd2ea45' -> (Import Result ID: '817f1c3d04cc937cbc4456b25c66b8e7') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=926a09bbf1e7368fad593b017cd24866 DependenciesID=90427578362318b9e78d56148f35b22f StaticDependenciesID=109d0d755fb027601598628c21063822 
+Importing 'GUID: 97e2748762f739245acf730d860a1d5a - Path: Assets/FrameLab/Generated/Inspection brick.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 97e2748762f739245acf730d860a1d5a' -> (Import Result ID: 'cf80ec3d3adc0ae766db7f147371efbf') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=4f7069357a4dd7aca26a10d387b7a6a2 DependenciesID=7ba6f85748ef067e68f1db1b11f1b5b5 StaticDependenciesID=1933532b95ca66c0964c74f12b880705 
+Importing 'GUID: c779a6e4da438f943b4679c96f1bd209 - Path: Assets/FrameLab/Generated/Inspection head.mat' with importer (NativeFormatImporter)
+Imported 'GUID: c779a6e4da438f943b4679c96f1bd209' -> (Import Result ID: '6e081b9d7f8630952797e9c132e4fb34') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=5820507214c8db6f5a84b464f6236d2d DependenciesID=690644e4f2a79307f35a1c982a86ec5a StaticDependenciesID=452f8a6ea78916f00bde5051602aabc1 
+Importing 'GUID: 1873fd54ab618fe4fa14646e48e7dfb9 - Path: Assets/FrameLab/Generated/Inspection window.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 1873fd54ab618fe4fa14646e48e7dfb9' -> (Import Result ID: '3d44bdcb8af8b81598ac8a568e39778d') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=4cf6a066a1d6abb6e24b557384a62030 DependenciesID=d87d2575ac6fdd3a5f4ddb1241a53f4f StaticDependenciesID=c097e3286d3f8470a63832e1ebb637cc 
+Importing 'GUID: 38f4e705d9a214340a4da7bfcdabb0d3 - Path: Assets/FrameLab/Generated/LEARN Web LEARN lining.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 38f4e705d9a214340a4da7bfcdabb0d3' -> (Import Result ID: '12cfbf5c56d9431b294a156c1114cd21') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=45ebd2d20cc5fecfbb297911957b1082 DependenciesID=d7e43c7c5620b39ebe401da4fbd1e512 StaticDependenciesID=d0c9090bdea2a1aad413f82e7f653670 
+Importing 'GUID: 88f8a25fb1e33a249a6ab998b37826fd - Path: Assets/FrameLab/Generated/LEARN Web ENV Foam render - colour unselected.001.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 88f8a25fb1e33a249a6ab998b37826fd' -> (Import Result ID: '4875de8aa0718ee2e3c855828062d157') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=5fa538985eaf033e87ffa6766a2c597d DependenciesID=60384b106878d0f564faecfcd95b73b6 StaticDependenciesID=bad04f17bd0bec2af1dc6be110b89bea 
+Importing 'GUID: b8abbdb0ff0dbb248b1a737d40bdbfc9 - Path: Assets/FrameLab/Generated/LEARN Web Hardboard bracing.001.mat' with importer (NativeFormatImporter)
+Imported 'GUID: b8abbdb0ff0dbb248b1a737d40bdbfc9' -> (Import Result ID: 'f94d88ae9f4584198544bb064cead0bc') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=981b2b95a15bc9ee8a494636f72d6e34 DependenciesID=59f4d6f45d0e807bdfbaa92194755ddc StaticDependenciesID=40deeca75c4a287a9e354ff3b595eb38 
+Importing 'GUID: d8ea87588670c0f46a00ae8a81510c41 - Path: Assets/FrameLab/Generated/LEARN Web VR Fitout honed pale stone.mat' with importer (NativeFormatImporter)
+Imported 'GUID: d8ea87588670c0f46a00ae8a81510c41' -> (Import Result ID: '617c65ae3164d84b12df697ae4df17c5') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=7e4428af1f7f6f87ba2bcd406750c37c DependenciesID=715363e68b81155a3a2e0585e1e0396b StaticDependenciesID=abd13c2fd49343957d30c2b49503b505 
+Importing 'GUID: d81df69b00a49e24d8495a2482de88a9 - Path: Assets/FrameLab/Generated/LEARN Web LEARN glass.mat' with importer (NativeFormatImporter)
+Imported 'GUID: d81df69b00a49e24d8495a2482de88a9' -> (Import Result ID: '209231bf0fe91465a48a2785a80cedd6') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=78d19071ca5deda46d4e144e44ef59a5 DependenciesID=d7367494fce44c3da5e2ca7dc39e5d70 StaticDependenciesID=043eb1d04572a746c2e1b1e5f311d9ec 
+Importing 'GUID: d81d293aff10f2545846c2b9b6d07834 - Path: Assets/FrameLab/Generated/LEARN Web LEARN timber.mat' with importer (NativeFormatImporter)
+Imported 'GUID: d81d293aff10f2545846c2b9b6d07834' -> (Import Result ID: '7bbb3492b7c70877c2744e6dc8b376ab') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=43303eee870376061c3a9d77db1d7f12 DependenciesID=916622a1b666c08f5f99805e1c825c3a StaticDependenciesID=8da2a9a88e4ca5300d687caea61bda8e 
+Importing 'GUID: a96619ffdb4a68447b7799c47be35adc - Path: Assets/FrameLab/Generated/LEARN Web ENV Aluminium frames - illustrative.001.mat' with importer (NativeFormatImporter)
+Imported 'GUID: a96619ffdb4a68447b7799c47be35adc' -> (Import Result ID: '13b1f83c7630574927a4a65f81344184') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=ffeb030ffdcd4b620d50133d5a71e0a4 DependenciesID=c6fa3cc28cb800c2ae567167abf98416 StaticDependenciesID=4e7f98515445ee81cdfdc7c116ca13b8 
+Importing 'GUID: b92e031698dd01a469c3f6f6b6097b9c - Path: Assets/FrameLab/Generated/LEARN Web VR Fitout mirror Ensuite double vanity.mat' with importer (NativeFormatImporter)
+Imported 'GUID: b92e031698dd01a469c3f6f6b6097b9c' -> (Import Result ID: 'b0bdbe6e0562c4f80543a8b14b0d8d6d') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=5e162387ba3ec70e31d6c069820fc79a DependenciesID=d4c54f71dee14950d16184c0d55cbe75 StaticDependenciesID=c9b520a2806c6a608c86df57e151b135 
+Importing 'GUID: e9f673542eaaa8e4e8a832b41f8b57ad - Path: Assets/FrameLab/Generated/LEARN Web VR Fitout mirror Upper bath vanity.mat' with importer (NativeFormatImporter)
+Imported 'GUID: e9f673542eaaa8e4e8a832b41f8b57ad' -> (Import Result ID: 'dacda6448f0cacf5c4fafb732c151ab3') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=66827774d34c60b518750d910b135313 DependenciesID=4a7c3b9838d343d5338a7d148a2b72ad StaticDependenciesID=d33f101e6644f6c817df22d315d60500 
+Importing 'GUID: bab8b15cf33fa8f4cb82bb1572589843 - Path: Assets/FrameLab/Generated/LEARN Web VR Fitout warm white cabinetry.mat' with importer (NativeFormatImporter)
+Imported 'GUID: bab8b15cf33fa8f4cb82bb1572589843' -> (Import Result ID: '0d607c4ef701886316ae9a4d5d3129de') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=8f9d2e4b6b82d5945a37b9e37a32b262 DependenciesID=8c895acdbcbd31611e8f8aa31014bb40 StaticDependenciesID=1c8e7ea8b238af677a642361649d158f 
+Importing 'GUID: 1b3e3a11d364eb243bf813fbbee80c07 - Path: Assets/FrameLab/Generated/LEARN Web VR Bathroom wall porcelain.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 1b3e3a11d364eb243bf813fbbee80c07' -> (Import Result ID: 'b7fb25a19ba88fa8375b59aad2d03d2e') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=806493980e4472d3dbccbaa3c771effa DependenciesID=84ee6993857b1ee7fdd678d7bc9db310 StaticDependenciesID=5ddfaa4705891a239b89acdb2e115f27 
+Importing 'GUID: 8b419c4dfb5a2854db2119665b1371a4 - Path: Assets/FrameLab/Generated/LEARN Web ENV Metal roof - colour unselected.001.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 8b419c4dfb5a2854db2119665b1371a4' -> (Import Result ID: 'b678732b8c72443bd244a4dd672d657d') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=31c8df55c06e5c7f136fac00ae23f9b2 DependenciesID=8147cb7860dec4f5bc0a404879eeee52 StaticDependenciesID=5f279e0a5d5a50c6fce031dc46749ab5 
+Importing 'GUID: 4cd2faa286f14934dbfd01e3f7949e07 - Path: Assets/FrameLab/Generated/LEARN Web ENV Glazing proxy.001.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 4cd2faa286f14934dbfd01e3f7949e07' -> (Import Result ID: 'b36e660f5092a90fdacc9515b2b13390') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=93ea88adef26ebdc3c4d7aeb81e3fe53 DependenciesID=b0a9f205139c6470fcfcc9e06d2d3547 StaticDependenciesID=1c229d24b7c293625385718ddd3a784c 
+Importing 'GUID: dc1e48d4143e24f429213eada4252746 - Path: Assets/FrameLab/Generated/LEARN Web VR Fitout clear shower glass.mat' with importer (NativeFormatImporter)
+Imported 'GUID: dc1e48d4143e24f429213eada4252746' -> (Import Result ID: 'ed716fd6555d4a2226ba6e21c4b8e8cd') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=a8950d337bb2b5818c779eb744c5d5c3 DependenciesID=cdd469ee6daa2e4671b4d2d4aaf1b06b StaticDependenciesID=06247d1b5ef1f55defb470871971683b 
+Importing 'GUID: 1d667e6960b5a174f99434b7a905e23a - Path: Assets/FrameLab/Generated/LEARN Web VR Neutral white ceiling.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 1d667e6960b5a174f99434b7a905e23a' -> (Import Result ID: '551358bed392a31e891b48f3a590a94a') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=3eec59207a86b9784f5614ddfda4e609 DependenciesID=a30ce7bfe8fae2d35db6632622170a6a StaticDependenciesID=80288fa837a28062579df30477b0328c 
+Importing 'GUID: 1df756cc3bc1e6341b790881cd65dd15 - Path: Assets/FrameLab/Generated/LEARN Web VR Stair oak timber.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 1df756cc3bc1e6341b790881cd65dd15' -> (Import Result ID: '0d3c1978e33f8fcbcc8cce25142e6dcc') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=2e8476e35a1cca072e48d5a61b02b933 DependenciesID=207f916058cf423dd117cc8539414b1a StaticDependenciesID=cb0580b59fe1c75570af8d2f48840a33 
+Importing 'GUID: 8d9624040ada38744a2e38a5decd62c7 - Path: Assets/FrameLab/Generated/LEARN Web VR Foundation concrete.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 8d9624040ada38744a2e38a5decd62c7' -> (Import Result ID: 'ede8de616b6b4d60b26b2318e57ca238') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=a6729c35c47a105ffcb3ef10f1f95ae9 DependenciesID=d3f83255a2a8b5cb5e4cb50f86ee2b61 StaticDependenciesID=ae40fae425b05a2ad3bf2c29a1476327 
+Importing 'GUID: ed60c8d9e31cf52409b44a805fb4b917 - Path: Assets/FrameLab/Generated/Inspection frame.mat' with importer (NativeFormatImporter)
+Imported 'GUID: ed60c8d9e31cf52409b44a805fb4b917' -> (Import Result ID: '75e88ccde278b3078a9aa41fcc3b556b') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=e56f4cec1854c10eb19edf0d2cda239f DependenciesID=bb20c6eaf97ffb614988d067dc43dc18 StaticDependenciesID=6ea89d0d8a504f3fcc345c6299d654e0 
+Importing 'GUID: 4e197b17c933dc043bd2bf78afef127d - Path: Assets/FrameLab/Generated/LEARN Web LVL beams.001.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 4e197b17c933dc043bd2bf78afef127d' -> (Import Result ID: '2377410b1cf06c72abc6031c442e4114') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=6d0606e2d1bf63e15d37604e5f4f5835 DependenciesID=a621409042ec7484861fc6e9f07ceb1b StaticDependenciesID=ab4169101c32ecbd9b4169662ca377b8 
+Importing 'GUID: 6e803f8da0bbd794081f49713792a2a6 - Path: Assets/FrameLab/Generated/LEARN Web MGP10 pine.001.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 6e803f8da0bbd794081f49713792a2a6' -> (Import Result ID: '3ce78be2461a45df4b41723c49a1dff6') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=fa554f4984aa78ecca6020616edee1f5 DependenciesID=16c099e7c7e3a725039027d5da674c3b StaticDependenciesID=4554170bcc10d7e6308aa59c1f4ef7b8 
+Importing 'GUID: 7e52db3f308d7c94f8cdd49245d32547 - Path: Assets/FrameLab/Generated/LEARN Web ENV Roof sarking - illustrative.001.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 7e52db3f308d7c94f8cdd49245d32547' -> (Import Result ID: '78fb7f4078fe717347497565e670299d') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=4e72115efb987ce9c3c93a9b5a9cafe6 DependenciesID=d9c680928e67e24375353ae4edf3b1be StaticDependenciesID=a165c89d9271522d11146b67a74050b1 
+Importing 'GUID: aec1f280f307bc349a85f50f92a803ab - Path: Assets/FrameLab/Generated/LEARN Web LEARN metal.mat' with importer (NativeFormatImporter)
+Imported 'GUID: aec1f280f307bc349a85f50f92a803ab' -> (Import Result ID: 'b506dbef3ddf90d59de819c5637e5227') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=516d76278e7b8db364c9c980fe6fe1b3 DependenciesID=d48cb002162b65e0f7d50b1e34a017f2 StaticDependenciesID=a9d13ea391e76942cdbf4c7b33d89cf0 
+Importing 'GUID: 7f9a16dc9479cc442bbaf24e1ad7f0dc - Path: Assets/FrameLab/Generated/LEARN Web VR Fitout mirror Bath 2 vanity.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 7f9a16dc9479cc442bbaf24e1ad7f0dc' -> (Import Result ID: '098a0ae61d727d66ae0922c7d2593950') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=2644b31f9421a8f669a30979c1595bdc DependenciesID=f358a7ba54bcb80a3f1770496c7a34ca StaticDependenciesID=1ef9f3bd3fb199313c6282490ee7cd73 
+Importing 'GUID: 8f449c22ad80b5a40b501d4f21c17d73 - Path: Assets/FrameLab/Generated/LEARN Web VR Warm white plaster.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 8f449c22ad80b5a40b501d4f21c17d73' -> (Import Result ID: 'a752d673b3688599ce8fa7b4238b2f30') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=51cc2ea12589d07abb53467c27d33ae5 DependenciesID=80194ac3f2697c5888e2d4d425a27385 StaticDependenciesID=9579381cd6d7bbb06e494b4f9de2e0b5 
+Importing 'GUID: afc00b6d67a4a264b98438fe1330dd97 - Path: Assets/FrameLab/Generated/LEARN Web VR Stair warm white lining.mat' with importer (NativeFormatImporter)
+Imported 'GUID: afc00b6d67a4a264b98438fe1330dd97' -> (Import Result ID: '1c2b4701c994d9bbacbf875b6d202d2f') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=d92469659c3a1eb872cffc00c71d8f65 DependenciesID=468d13e112639e8944e581af437e697f StaticDependenciesID=bf83faf8e8ddc25773e6dcbb23fabedb 
+Importing 'GUID: 40d3761f73371d5468f65cc393148f7e - Path: Assets/FrameLab/Generated/Plain ground.asset' with importer (NativeFormatImporter)
+Main Object Name 'Cube(Clone)' does not match filename 'Plain ground'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: 40d3761f73371d5468f65cc393148f7e' -> (Import Result ID: '4a1ef17438963d8b334e76dc57f05cdb') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=1214ef85392a2a8fbd9249d72c5138a5 DependenciesID=eddb96c2681a89d64864ee263a41db59 StaticDependenciesID=22a4799878c0ec2ac87892923d9a529d 
+Importing 'GUID: c0604627c389d0f4bba9fa0a9e3b1e20 - Path: Assets/FrameLab/Generated/26 Windows and doors.002 finish lightmap mesh.asset' with importer (NativeFormatImporter)
+Main Object Name '26 Windows and doors.002 planar lighting' does not match filename '26 Windows and doors.002 finish lightmap mesh'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: c0604627c389d0f4bba9fa0a9e3b1e20' -> (Import Result ID: '566170dc2c6fdca677ea51fd5631ee21') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=9690e7ca1decc1a8740863b8ea8a530b DependenciesID=5567e891a7bee26ddd2293c37772a1d0 StaticDependenciesID=b42c8b51e22143aac85f54fc468040ba 
+Importing 'GUID: f0861d4a479e5a64eb97d65388b5dacf - Path: Assets/FrameLab/Generated/Detail inspection floor.asset' with importer (NativeFormatImporter)
+Main Object Name 'Cube(Clone)' does not match filename 'Detail inspection floor'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: f0861d4a479e5a64eb97d65388b5dacf' -> (Import Result ID: 'e56f6592e6664232dc55212d27a9b6b4') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=f32738110812eeb4b10ceddc2f79522a DependenciesID=fa9f77fa15ea68f7f05618b7e8b1d78e StaticDependenciesID=76b58db9a2df3d0a37ef320e6ebf6604 
+Importing 'GUID: 11a2dba2ca0c7ac4d97c68b215cd11ba - Path: Assets/FrameLab/Generated/Window study plinth.asset' with importer (NativeFormatImporter)
+Main Object Name 'Cube(Clone)' does not match filename 'Window study plinth'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: 11a2dba2ca0c7ac4d97c68b215cd11ba' -> (Import Result ID: 'd79ef89b7140508d6573ff8478bd2a84') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=e3c4bdaf72d79c8ae779ff8a49118e4d DependenciesID=faf20a1b2fc69c16d9126eabe67ca8f6 StaticDependenciesID=fa86b8e1b31035409730eea30fcf201c 
+Importing 'GUID: 111408eef3d6e8c4c8dedb390f452b21 - Path: Assets/FrameLab/Generated/XRSettings.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 111408eef3d6e8c4c8dedb390f452b21' -> (Import Result ID: '38524228558f567c1ea6d83faed0f6a8') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=055392de0ca0ca0f5237fbab61332db2 DependenciesID=ac6f787db36d41a91d8a078a03f7fa46 StaticDependenciesID=47374079214ebf9dba5777633cfdcfb5 
+Importing 'GUID: 81b60a85b1269cd49a876d19d40e26d0 - Path: Assets/FrameLab/Generated/Exterior viewing pad.asset' with importer (NativeFormatImporter)
+Main Object Name 'Cube(Clone)' does not match filename 'Exterior viewing pad'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: 81b60a85b1269cd49a876d19d40e26d0' -> (Import Result ID: '94a53fcc5f4cf9cce807724ab5835d98') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=844f76a46ca5113c5e0327016234d06c DependenciesID=b0d5ea9e44a730864ccd06f15d725452 StaticDependenciesID=582cdfc4fee55d53c845717cdd7b3ea5 
+Importing 'GUID: b249c0241c9677d46932853069074972 - Path: Assets/XR/Settings/OpenXR Package Settings.asset' with importer (NativeFormatImporter)
+Imported 'GUID: b249c0241c9677d46932853069074972' -> (Import Result ID: 'c8f67f7152448f2a901ebaa31e688757') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=835e514869462e0fa230d3c400eb381c DependenciesID=0365229a46fc27dbbe20adb15640476c StaticDependenciesID=cd87c8188ae7e4455f71410b5a9576f0 
+Importing 'GUID: c204ce094acb689438aeab49b7e407a0 - Path: Assets/FrameLab/Generated/building 23 Ground brick veneer cut masonry mesh.asset' with importer (NativeFormatImporter)
+Main Object Name '23 Ground brick veneer.001(Clone)' does not match filename 'building 23 Ground brick veneer cut masonry mesh'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: c204ce094acb689438aeab49b7e407a0' -> (Import Result ID: 'fed9dae3be74b996c493903791aec9b7') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=6e190f36c3ce13486cb379c80ede2a01 DependenciesID=28ded004829affc50237ee58c09c7056 StaticDependenciesID=8544dcaac9e7c1925a9357938a5be0b7 
+Importing 'GUID: a412975039f713c4cb3438f6ebd69144 - Path: Assets/FrameLab/Generated/Porch landing extension.asset' with importer (NativeFormatImporter)
+Main Object Name 'Cube(Clone)' does not match filename 'Porch landing extension'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: a412975039f713c4cb3438f6ebd69144' -> (Import Result ID: 'a4eb184cfdc39738e172df95313c5564') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=c9eae92a0dec787140aca27dbad6174b DependenciesID=dbf4e3c753cfa9907b9a338dd3c5faf8 StaticDependenciesID=9cae8c8863c78c637a3aa6f40f0d7c25 
+Importing 'GUID: b4df8fd8353ae7f41a54ddc692878c03 - Path: Assets/FrameLab/Generated/27 Interior linings and ceilings.003 finish lightmap mesh.asset' with importer (NativeFormatImporter)
+Main Object Name '27 Interior linings and ceilings.003 planar lighting' does not match filename '27 Interior linings and ceilings.003 finish lightmap mesh'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: b4df8fd8353ae7f41a54ddc692878c03' -> (Import Result ID: '31e972c9011bc2e666003ebef585f5e9') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=8dfb1c25c1fa073cc0ce61237cd7b089 DependenciesID=ae5e3843bbd555a66fa7e3cf2aabd7df StaticDependenciesID=a67f3b0922754b175198950770e6086b 
+Importing 'GUID: 857d2a35cc26bec4bbb91e0f0f9d1e67 - Path: Assets/FrameLab/Generated/27 Interior linings and ceilings finish lightmap mesh.asset' with importer (NativeFormatImporter)
+Main Object Name '27 Interior linings and ceilings planar lighting' does not match filename '27 Interior linings and ceilings finish lightmap mesh'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: 857d2a35cc26bec4bbb91e0f0f9d1e67' -> (Import Result ID: '852bc12d43f3b40ccd84aed493397b99') in 0.004 seconds [static dependencies only]. Details - ImportResultOutputID=fc1f4a96063c3929c8bfe5a83ee50dc4 DependenciesID=b90ae961c3373a077bcc2da4f8c09f89 StaticDependenciesID=ecacb95fb75f4b708170f3fe7a33d9d1 
+Importing 'GUID: a5025b0cd94c4164caaed4f89dd4178c - Path: Assets/FrameLab/Generated/24 Upper foam render finish lightmap mesh.asset' with importer (NativeFormatImporter)
+Main Object Name '24 Upper foam render planar lighting' does not match filename '24 Upper foam render finish lightmap mesh'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: a5025b0cd94c4164caaed4f89dd4178c' -> (Import Result ID: '2878e86aa7c0fb56581b9a809a218ad1') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=8652f7b377cce9a81994189955dab703 DependenciesID=4516469d94bedd88e785e948a3d79749 StaticDependenciesID=3aa5bc22a0281c7153d6e98d46f06aea 
+Importing 'GUID: a5cfa624e1a7ae9498e8d30b4b762583 - Path: Assets/FrameLab/Generated/31 Laundry finish lightmap mesh.asset' with importer (NativeFormatImporter)
+Main Object Name '31 Laundry planar lighting' does not match filename '31 Laundry finish lightmap mesh'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: a5cfa624e1a7ae9498e8d30b4b762583' -> (Import Result ID: '6a03c0662119758abf939217fdbcef97') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=607533ecd22b28b76880d9c66981a7bd DependenciesID=ddc33a88d949a5ad9fee41311518e5b5 StaticDependenciesID=d2a09edd816f98c94e1677a189efbf29 
+Importing 'GUID: 36d0aac50e91c0d429cb7444965be02b - Path: Assets/FrameLab/Generated/Entry approach.asset' with importer (NativeFormatImporter)
+Main Object Name 'Cube(Clone)' does not match filename 'Entry approach'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: 36d0aac50e91c0d429cb7444965be02b' -> (Import Result ID: 'db148876164c5dc4c44a6a1e96ae233b') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=52f539b68575a28436d7c4af538b287b DependenciesID=6aa16507a4f1f412996896e9fbed374d StaticDependenciesID=c09efdcecc7d57f9db023a3227db95ed 
+Importing 'GUID: c6b37ee0aefd51b438b74086e1c0383a - Path: Assets/FrameLab/Generated/30 Kitchen finish lightmap mesh.asset' with importer (NativeFormatImporter)
+Main Object Name '30 Kitchen planar lighting' does not match filename '30 Kitchen finish lightmap mesh'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: c6b37ee0aefd51b438b74086e1c0383a' -> (Import Result ID: '2c1ffdba812142be501224bb541b8061') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=f2cc6106b4f997d7f7c322dc95f72e02 DependenciesID=27329754a33b65a8cf578ae765a8e265 StaticDependenciesID=8273e764e37376c9f4a4d319501a16c7 
+Importing 'GUID: 476a84b8489ba364d93a649333f9282d - Path: Assets/FrameLab/Generated/27 Fixed joinery and fixtures finish lightmap mesh.asset' with importer (NativeFormatImporter)
+Main Object Name '27 Fixed joinery and fixtures planar lighting' does not match filename '27 Fixed joinery and fixtures finish lightmap mesh'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: 476a84b8489ba364d93a649333f9282d' -> (Import Result ID: 'd480040339a59e25113bd1913a17e4b7') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=14403cde25ca9311631c883ad29ff295 DependenciesID=49bf1def017ff4aed29a3de781c138c9 StaticDependenciesID=114533a89377c3841275a884fb2854a8 
+Importing 'GUID: 87771be073bdf3b4f81e5a8d1c258fe2 - Path: Assets/FrameLab/Generated/27 Interior linings and ceilings.001 finish lightmap mesh.asset' with importer (NativeFormatImporter)
+Main Object Name '27 Interior linings and ceilings.001 planar lighting' does not match filename '27 Interior linings and ceilings.001 finish lightmap mesh'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: 87771be073bdf3b4f81e5a8d1c258fe2' -> (Import Result ID: '8570969bec428e0c53f5b2f58d0d2980') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=6ccb5317448d6ebb0058d3ba86a2a966 DependenciesID=b9a1ea73b1716cbf5f05749e0c52a8b2 StaticDependenciesID=99ac80903c81f0103605e533761958a8 
+Importing 'GUID: c795c72fc69698f40ae5c2f33b3a4cff - Path: Assets/FrameLab/Generated/20 Main roof covering.001 finish lightmap mesh.asset' with importer (NativeFormatImporter)
+Main Object Name '20 Main roof covering.001 planar lighting' does not match filename '20 Main roof covering.001 finish lightmap mesh'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: c795c72fc69698f40ae5c2f33b3a4cff' -> (Import Result ID: '6661977eac4b378593e70352a85073ea') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=486f815fd93da558e8d1b805a5588fac DependenciesID=b22ff8b5b52eed3308ae66577b213eab StaticDependenciesID=7f16b35418337a81e16446ec92df74ec 
+Importing 'GUID: 782b7aa1e49df0a4f9ac82b86c04e1fc - Path: Assets/FrameLab/Generated/32 Wardrobes and linen finish lightmap mesh.asset' with importer (NativeFormatImporter)
+Main Object Name '32 Wardrobes and linen planar lighting' does not match filename '32 Wardrobes and linen finish lightmap mesh'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: 782b7aa1e49df0a4f9ac82b86c04e1fc' -> (Import Result ID: '7403f187769fc06de80aa4267817771c') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=6a6d9152239816b954946d7f087fcf0c DependenciesID=d2105cb9bde87a41a74b38394094cfa0 StaticDependenciesID=71aeec5b6e4057aac54dfd6f7b51512c 
+Importing 'GUID: 997dfbd59e2ce1e45a5e0bda03211c49 - Path: Assets/FrameLab/Generated/window brick masonry mesh.asset' with importer (NativeFormatImporter)
+Main Object Name 'brick(Clone)' does not match filename 'window brick masonry mesh'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: 997dfbd59e2ce1e45a5e0bda03211c49' -> (Import Result ID: '0e0159e72b5866a1d85bea16342e60c8') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=60658c457f503440ed18f44fe21fc3d7 DependenciesID=c1e5f94ed1b046560bf30e413f6c7c78 StaticDependenciesID=88197ce52ef135ae05a565e7747ca10e 
+Importing 'GUID: 6acf12bf03746de4da65c5d71f344b1d - Path: Assets/FrameLab/Generated/building 27 Architectural exterior finishes masonry mesh.asset' with importer (NativeFormatImporter)
+Main Object Name '27 Architectural exterior finishes(Clone)' does not match filename 'building 27 Architectural exterior finishes masonry mesh'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: 6acf12bf03746de4da65c5d71f344b1d' -> (Import Result ID: '7fdf6b9b6d91efd77ebe07b10268e126') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=af2c4a5365723fd40d6c487f8d850c68 DependenciesID=faeb3aab8324495ad1ff4ee8d92e44ed StaticDependenciesID=1b39de702fc750fb37f09cf3f67e7070 
+Importing 'GUID: aa25736c47c080a4ab0584427a63f23e - Path: Assets/FrameLab/Generated/Ground floor slab.asset' with importer (NativeFormatImporter)
+Main Object Name 'Cube(Clone)' does not match filename 'Ground floor slab'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: aa25736c47c080a4ab0584427a63f23e' -> (Import Result ID: '654164f847ed05a8a5dc5f7154490442') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=2e975a4fc358c9c149af8d4f95f27979 DependenciesID=00816c6bb82b37c617b0d0b9e7f0dd23 StaticDependenciesID=0b353383ac63510bd51d0e2fe731b691 
+Importing 'GUID: 4b7865f7efcd8fe4d9fd94bc261903e7 - Path: Assets/FrameLab/Generated/27 Interior linings and ceilings.002 finish lightmap mesh.asset' with importer (NativeFormatImporter)
+Main Object Name '27 Interior linings and ceilings.002 planar lighting' does not match filename '27 Interior linings and ceilings.002 finish lightmap mesh'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: 4b7865f7efcd8fe4d9fd94bc261903e7' -> (Import Result ID: 'b598e27f7edf725bf6e39e7739f62bc2') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=48e6dbb52b297d6e7488b4c4b4e4e460 DependenciesID=1af94a391229d4076116caaed83a1fe9 StaticDependenciesID=3c991eccc216166c597aee2f0d590408 
+Importing 'GUID: 9b0a8edcc8529b2498be90c1993110d6 - Path: Assets/FrameLab/Generated/24 Upper foam render cut finish lightmap mesh.asset' with importer (NativeFormatImporter)
+Main Object Name '24 Upper foam render.001 planar lighting' does not match filename '24 Upper foam render cut finish lightmap mesh'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: 9b0a8edcc8529b2498be90c1993110d6' -> (Import Result ID: '6366826fc9ecc0d4fa2d80ff5da854d6') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=ea335028fe3425a56cd2dfc8a7db524d DependenciesID=3009965a71415ef2abbe8afdb3d4664d StaticDependenciesID=4e09dd7411f9f9a0a02aa5b799acc93e 
+Importing 'GUID: eb1fb0f690a8c874c9603afc79e900c3 - Path: Assets/FrameLab/Generated/33 Vanities and mirrors finish lightmap mesh.asset' with importer (NativeFormatImporter)
+Main Object Name '33 Vanities and mirrors planar lighting' does not match filename '33 Vanities and mirrors finish lightmap mesh'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: eb1fb0f690a8c874c9603afc79e900c3' -> (Import Result ID: 'eb1aab82969d4ab0ddace3ae862cb31f') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=62c14805a83753be8eb9d92211908d99 DependenciesID=83eac6de9cde2af1bd89d6eba180fa94 StaticDependenciesID=83c3dd7f1bd968b3913b3cf57a97c927 
+Importing 'GUID: ece4f5c425c4a934092900e2ee914e5d - Path: Assets/FrameLab/Generated/Garage slab.asset' with importer (NativeFormatImporter)
+Main Object Name 'Cube(Clone)' does not match filename 'Garage slab'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: ece4f5c425c4a934092900e2ee914e5d' -> (Import Result ID: 'a0d484e831331b91b6d6ceaaa60f78d6') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=138fccad6ba6c633a95baf05f671a9eb DependenciesID=c4ab526bb71809bd986d608d77c31dee StaticDependenciesID=1a9193fa15bd80205cae22c48bc57411 
+Importing 'GUID: ecbd328842fbdd74eb33e4ca72972c2f - Path: Assets/FrameLab/Generated/MobilePipeline.asset' with importer (NativeFormatImporter)
+Imported 'GUID: ecbd328842fbdd74eb33e4ca72972c2f' -> (Import Result ID: 'a11beee28a394d5d822fb466bafedc58') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=cf8b38c46761b4d35e004dcaf67bdfad DependenciesID=7e0e07fbd43b4b9775f2f29c71a7ddd8 StaticDependenciesID=bfe23c6a80f74ea72d8b0bd54100ba0f 
+Importing 'GUID: fc4e4ce492f4cb24ba2e436af38c11c4 - Path: Assets/FrameLab/Generated/27 Architectural exterior finishes.002 finish lightmap mesh.asset' with importer (NativeFormatImporter)
+Main Object Name '27 Architectural exterior finishes.002 planar lighting' does not match filename '27 Architectural exterior finishes.002 finish lightmap mesh'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: fc4e4ce492f4cb24ba2e436af38c11c4' -> (Import Result ID: 'ca90a90cbe1df9d093fe9e2f1c210033') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=550bdd4ba13c5e8b8714a492092b4662 DependenciesID=50c0b143b625022bf366cd27b4d25245 StaticDependenciesID=fba3981ef39b4abe7e5e3f92a5d1c794 
+Importing 'GUID: 3e45a349efc33e7499b34efc367ed9da - Path: Assets/FrameLab/Generated/22 Fascia and gutters finish lightmap mesh.asset' with importer (NativeFormatImporter)
+Main Object Name '22 Fascia and gutters planar lighting' does not match filename '22 Fascia and gutters finish lightmap mesh'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: 3e45a349efc33e7499b34efc367ed9da' -> (Import Result ID: 'a054bc5cf164fc0367c24c8e85e78424') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=25af803f813e553f571ffb48f2134213 DependenciesID=6dafb723b26fabc86070c0945db0b5ea StaticDependenciesID=573631eb42efd7887185153c57c4d704 
+Importing 'GUID: 6e14a7097989db74e8d1f782514bbfaf - Path: Assets/FrameLab/Generated/27 Architectural exterior finishes.001 finish lightmap mesh.asset' with importer (NativeFormatImporter)
+Main Object Name '27 Architectural exterior finishes.001 planar lighting' does not match filename '27 Architectural exterior finishes.001 finish lightmap mesh'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: 6e14a7097989db74e8d1f782514bbfaf' -> (Import Result ID: '01080caa0df0f2be39b4fdcd58d189c0') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=3e9e61a591134ecb8089f9e783d02cda DependenciesID=9a5eeceddd44bf6bbb6895b7ac789ded StaticDependenciesID=9c7b5a22eef41d2985311a14f070cb30 
+Importing 'GUID: 2f1f658c8a4713040b0a03fa2ef76aaf - Path: Assets/FrameLab/Generated/building 23 Ground brick veneer masonry mesh.asset' with importer (NativeFormatImporter)
+Main Object Name '23 Ground brick veneer(Clone)' does not match filename 'building 23 Ground brick veneer masonry mesh'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:321)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+[Assets/FrameLab/Editor/FrameLabBuild.cs line 321]
+
+Imported 'GUID: 2f1f658c8a4713040b0a03fa2ef76aaf' -> (Import Result ID: '98076cc92d7fa598d30e9416b147cb84') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=9d922ed0a814743b0e440c3119e3dbce DependenciesID=821b79d1f47eda58ebb7006fc19bbca7 StaticDependenciesID=a0d265e50d78975aac6945568a6ea7a3 
+Refreshing native plugins compatible for Editor in 5.22 ms, found 12 plugins.
+Asset Pipeline Refresh (id=222348ba6f6aad142bbb9b6920621f6d): Total: 0.161 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 06b9a68c014772443baf627ec7c8de22 - Path: Assets/FrameLab/Scenes/Leichhardt.unity' with importer (DefaultImporter)
+Imported 'GUID: 06b9a68c014772443baf627ec7c8de22' -> (Import Result ID: 'b58520c6bc470c6162cccb250ed8aeed') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=a7b522d87175d5beb13381ad16979cff DependenciesID=ed02206df425ea0e0af595ba63c139fa StaticDependenciesID=c53ab07b13452b68db5e9605a766de8b 
+Refreshing native plugins compatible for Editor in 3.98 ms, found 12 plugins.
+Asset Pipeline Refresh (id=0e70cd0685ef04c48bdc03c5c69f036d): Total: 0.040 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+FRAME_LAB_DESTINATIONS_PASS 23
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FrameLabBuild:ValidateScene (FrameLab.FrameLabSession) (at Assets/FrameLab/Editor/FrameLabBuild.cs:674)
+FrameLabBuild:CreateScene () (at Assets/FrameLab/Editor/FrameLabBuild.cs:324)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:68)
+
+(Filename: Assets/FrameLab/Editor/FrameLabBuild.cs Line: 674)
+
+Importing 'GUID: 2117baf7971967d47a894a4df6c22204 - Path: Assets/FrameLab/Generated/LEARN Web VR Fitout mirror Powder vanity.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 2117baf7971967d47a894a4df6c22204' -> (Import Result ID: 'be5fe1d3f3bfbbcabf2819afc1411c69') in 0.007 seconds [static dependencies only]. Details - ImportResultOutputID=623ac8fc4cec02d7c7049fa3f94faea8 DependenciesID=01457335b625651e6d6b6b5460b68d7b StaticDependenciesID=6aa0f9cb6c7a17b59bdf4217163caff0 
+Importing 'GUID: 611d86683b5d8e74096332dfb1281358 - Path: Assets/FrameLab/Generated/LEARN Web VR Finished door timber.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 611d86683b5d8e74096332dfb1281358' -> (Import Result ID: 'f5cce941841a4b7f8b6776e6d593e3fe') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=543bca8f708b583cfbc508033e63903c DependenciesID=f1c1e705f1e1d3ad63c3a783945e4528 StaticDependenciesID=bec4d378130989ad1d3a4cd4873b0166 
+Importing 'GUID: 61fdd606f3fc2cb428f1ef8b837b3a30 - Path: Assets/FrameLab/Generated/LEARN Web Galvanised connectors.001.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 61fdd606f3fc2cb428f1ef8b837b3a30' -> (Import Result ID: '4ff86a889bb92d9bf83bbf37423016c1') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=bd1f50eef9ea885ec2221ed1d163801c DependenciesID=59aeefd8cda522493344784564a50306 StaticDependenciesID=67f462a5bf7d2a5395caf0979c010633 
+Importing 'GUID: c24e5c54bed31d546b7e6271964bdb4d - Path: Assets/FrameLab/Generated/LEARN Web ENV Brick veneer - colour unselected.001.mat' with importer (NativeFormatImporter)
+Imported 'GUID: c24e5c54bed31d546b7e6271964bdb4d' -> (Import Result ID: '170385d39c293efc994a2a14b4a925a7') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=25b6a66a623573a5d9a76eb7db8ad248 DependenciesID=78b3e011db42e49be585b7298a374470 StaticDependenciesID=3668a559143b78563ca55523ee9ac591 
+Importing 'GUID: f2eb5a34a873d0d4cb6bc6016e34cf6b - Path: Assets/FrameLab/Generated/LEARN Web VR Pale oak decking.mat' with importer (NativeFormatImporter)
+Imported 'GUID: f2eb5a34a873d0d4cb6bc6016e34cf6b' -> (Import Result ID: 'fa0cd5f007a37ae211d956daed8c8979') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=3c68d6f883a70a9238ad82037d423868 DependenciesID=9c5a6ddd417ed870ba45fff9a37fbb01 StaticDependenciesID=e9d0c00a9b7118d0921c27a067c35c9f 
+Importing 'GUID: 03e9cb493a3ecca4890d842c5d7e0738 - Path: Assets/FrameLab/Generated/LEARN Web ENV Wall membrane - illustrative.001.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 03e9cb493a3ecca4890d842c5d7e0738' -> (Import Result ID: 'd62d336ac3bf97bbdcd15618010e3ef4') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=3073cc819f38e9336c2c3a76b7f0430f DependenciesID=f053cf42e96ac373e79b6717fe250ef9 StaticDependenciesID=97bc7bc9bf96ca8687a9010ed9b3fd32 
+Importing 'GUID: a58b4ca11afa8074f999cf198579fc82 - Path: Assets/FrameLab/Generated/LEARN Web VR Obscure privacy glazing.mat' with importer (NativeFormatImporter)
+Imported 'GUID: a58b4ca11afa8074f999cf198579fc82' -> (Import Result ID: 'af6545897c362981293083581bce8792') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=6ec4380dd6caa6a249b139e022e8caad DependenciesID=d0717bb1eabbd86ade97593b9ee45347 StaticDependenciesID=a8797bc8af6e472ede917dba37f96ff0 
+Importing 'GUID: 88f8a25fb1e33a249a6ab998b37826fd - Path: Assets/FrameLab/Generated/LEARN Web ENV Foam render - colour unselected.001.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 88f8a25fb1e33a249a6ab998b37826fd' -> (Import Result ID: '8a42a99fd8c4b467da0f3f2f81846cf0') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=5fa538985eaf033e87ffa6766a2c597d DependenciesID=0884eda07ffc1e4c236d2cb1dcffb3e0 StaticDependenciesID=d00f9d9d78e9819879bf607309ae1014 
+Importing 'GUID: b92e031698dd01a469c3f6f6b6097b9c - Path: Assets/FrameLab/Generated/LEARN Web VR Fitout mirror Ensuite double vanity.mat' with importer (NativeFormatImporter)
+Imported 'GUID: b92e031698dd01a469c3f6f6b6097b9c' -> (Import Result ID: 'f9f97ffefa95dc3aadd7bedd697ec538') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=5e162387ba3ec70e31d6c069820fc79a DependenciesID=fe76e2fb21c75365b8e784281f90b2f0 StaticDependenciesID=65723048c05b0182b42f13fc5e886f56 
+Importing 'GUID: e9f673542eaaa8e4e8a832b41f8b57ad - Path: Assets/FrameLab/Generated/LEARN Web VR Fitout mirror Upper bath vanity.mat' with importer (NativeFormatImporter)
+Imported 'GUID: e9f673542eaaa8e4e8a832b41f8b57ad' -> (Import Result ID: 'b88f5df32b5a031fd067cd9768ce9f79') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=66827774d34c60b518750d910b135313 DependenciesID=8f44bf3161bfeebbb969fa5b30d33727 StaticDependenciesID=8d0d35e5853b03203966dc70651028c4 
+Importing 'GUID: 8b419c4dfb5a2854db2119665b1371a4 - Path: Assets/FrameLab/Generated/LEARN Web ENV Metal roof - colour unselected.001.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 8b419c4dfb5a2854db2119665b1371a4' -> (Import Result ID: 'c7714a9e185368f6db79b859f5fe87d8') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=31c8df55c06e5c7f136fac00ae23f9b2 DependenciesID=d1d4fe780299a3e7ef5508edb2e4cac4 StaticDependenciesID=8906cf7fb3335eebe3ad22a3da09e5a6 
+Importing 'GUID: 4cd2faa286f14934dbfd01e3f7949e07 - Path: Assets/FrameLab/Generated/LEARN Web ENV Glazing proxy.001.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 4cd2faa286f14934dbfd01e3f7949e07' -> (Import Result ID: 'b2fade6002e8ae1358857eadfc87f9be') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=93ea88adef26ebdc3c4d7aeb81e3fe53 DependenciesID=8d4d34ffddc62e4962b4e8ad62c30677 StaticDependenciesID=d7093261676461367cac01f4e7b0e72d 
+Importing 'GUID: dc1e48d4143e24f429213eada4252746 - Path: Assets/FrameLab/Generated/LEARN Web VR Fitout clear shower glass.mat' with importer (NativeFormatImporter)
+Imported 'GUID: dc1e48d4143e24f429213eada4252746' -> (Import Result ID: 'bf9f0f388ac1c460897c8e97f25fdeaf') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=a8950d337bb2b5818c779eb744c5d5c3 DependenciesID=18a91222abdcecae5e37d5241aeee3d3 StaticDependenciesID=276bc499336f375e78883db4ebe44e0c 
+Importing 'GUID: 1d667e6960b5a174f99434b7a905e23a - Path: Assets/FrameLab/Generated/LEARN Web VR Neutral white ceiling.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 1d667e6960b5a174f99434b7a905e23a' -> (Import Result ID: '8fb3f69aaf9620d23fc5ea4c13f4d838') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=3eec59207a86b9784f5614ddfda4e609 DependenciesID=0c81fbe2f6e25ee23ca12d9cb1c456e1 StaticDependenciesID=1da717baf771d3e37873d5b988af6459 
+Importing 'GUID: 1df756cc3bc1e6341b790881cd65dd15 - Path: Assets/FrameLab/Generated/LEARN Web VR Stair oak timber.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 1df756cc3bc1e6341b790881cd65dd15' -> (Import Result ID: 'e15d262102d5fd160089494506fa9102') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=2e8476e35a1cca072e48d5a61b02b933 DependenciesID=673b0f3df76cb7542365f496a756fba2 StaticDependenciesID=b424dc979ee1b84285c512106207f0fc 
+Importing 'GUID: 4e197b17c933dc043bd2bf78afef127d - Path: Assets/FrameLab/Generated/LEARN Web LVL beams.001.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 4e197b17c933dc043bd2bf78afef127d' -> (Import Result ID: '4ca651264355bfa0c6bf067453d2a175') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=6d0606e2d1bf63e15d37604e5f4f5835 DependenciesID=aaf8b07d548c0119eedb42100498c612 StaticDependenciesID=cb9442a33d262a17c2dbe96a1e4d2f7d 
+Importing 'GUID: 6e803f8da0bbd794081f49713792a2a6 - Path: Assets/FrameLab/Generated/LEARN Web MGP10 pine.001.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 6e803f8da0bbd794081f49713792a2a6' -> (Import Result ID: '596cc2790fd084be672706ee9a027da6') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=fa554f4984aa78ecca6020616edee1f5 DependenciesID=ab32810e134c5f205497fa8c15f68888 StaticDependenciesID=421a338807fbfbe5d740ec1c90542a07 
+Importing 'GUID: 7f9a16dc9479cc442bbaf24e1ad7f0dc - Path: Assets/FrameLab/Generated/LEARN Web VR Fitout mirror Bath 2 vanity.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 7f9a16dc9479cc442bbaf24e1ad7f0dc' -> (Import Result ID: 'a177d5b5ef359ac2a4e5b3ed9b580677') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=2644b31f9421a8f669a30979c1595bdc DependenciesID=7cc1e5bcddd0d9702d1ceaf1adfad8c1 StaticDependenciesID=83033ac3eea4b62d9d2f69c3421f6f45 
+Importing 'GUID: 8f449c22ad80b5a40b501d4f21c17d73 - Path: Assets/FrameLab/Generated/LEARN Web VR Warm white plaster.mat' with importer (NativeFormatImporter)
+Imported 'GUID: 8f449c22ad80b5a40b501d4f21c17d73' -> (Import Result ID: '207dabb3ca9c140e656012fba806ed86') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=51cc2ea12589d07abb53467c27d33ae5 DependenciesID=8b72029cad8d124d943b24716ae7b29f StaticDependenciesID=01cfa258d1976cc67182a4e05b75169e 
+Importing 'GUID: afc00b6d67a4a264b98438fe1330dd97 - Path: Assets/FrameLab/Generated/LEARN Web VR Stair warm white lining.mat' with importer (NativeFormatImporter)
+Imported 'GUID: afc00b6d67a4a264b98438fe1330dd97' -> (Import Result ID: 'ed45a03e2af63fee1da184b55351fc48') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=d92469659c3a1eb872cffc00c71d8f65 DependenciesID=54772b93fba30d84ac34ecc1ffba9f25 StaticDependenciesID=c03d246d1de6ec0d38eea36167bf9705 
+Refreshing native plugins compatible for Editor in 4.15 ms, found 12 plugins.
+Asset Pipeline Refresh (id=0f46f876948ad264a9b69e2ca3b499b9): Total: 0.072 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+FRAME_LAB_PREPARED
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FrameLabBuild:Prepare () (at Assets/FrameLab/Editor/FrameLabBuild.cs:70)
+
+(Filename: Assets/FrameLab/Editor/FrameLabBuild.cs Line: 70)
+
+Batchmode quit successfully invoked - shutting down!
+Killing ADB server in 0.0510762 seconds.
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input Polling Thread exited.
+Input System module state changed to: Shutdown.
+[Licensing::IpcConnector] LicenseClient-lawre-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-lawre channel disconnected successfully.
+Shut down.
+Lingering sessions upon destruction of worker manager
+Unity Data Store service was successfully shut down
+UDS shutting down local client system
+Shut down UDS service system complete
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+CodeReloadManager destroyed
+abort_threads: Failed aborting id: 00000000000028E4, mono_thread_manage will ignore it
+
+abort_threads: Failed aborting id: 000000000000418C, mono_thread_manage will ignore it
+
+abort_threads: Failed aborting id: 00000000000028E4, mono_thread_manage will ignore it
+
+abort_threads: Failed aborting id: 000000000000418C, mono_thread_manage will ignore it
+
+debugger-agent: Unable to listen on 4612
+UnwrapCL: Error reading command from socket.
+LaunchBugReporter] Exiting without the bug reporter. Application will exit with return code 0

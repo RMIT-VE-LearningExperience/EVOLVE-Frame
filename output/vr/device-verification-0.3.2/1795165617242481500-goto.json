@@ -1,0 +1,22 @@
+{
+  "id": "1795165617242481500",
+  "version": "0.3.2",
+  "room": "laundry",
+  "error": "",
+  "changing": false,
+  "focused": true,
+  "guide": true,
+  "narration": true,
+  "detail": false,
+  "isolated": false,
+  "location": 9,
+  "hotspots": 9,
+  "visibleParts": 9,
+  "explosion": 0.0,
+  "zoom": 1.0,
+  "eye": {
+    "x": -7.663177490234375,
+    "y": 1.4844672679901123,
+    "z": -6.201514720916748
+  }
+}

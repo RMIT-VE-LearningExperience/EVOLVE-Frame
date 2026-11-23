@@ -1,0 +1,144 @@
+{
+  "scope": "New drainage against retained timber/LVL/steel by actual triangle intersections; fitting mounting-face probes.",
+  "drainage_objects": 217,
+  "structural_objects": 2914,
+  "candidate_pairs": 21,
+  "structural_intersections": [],
+  "fixture_mounts": [
+    {
+      "name": "Powder paper holder",
+      "wall": "GF North wall | lining.010",
+      "pass": true
+    },
+    {
+      "name": "Ensuite WC paper holder",
+      "wall": "GF South family and suite | lining.006",
+      "pass": true
+    },
+    {
+      "name": "Bath2 paper holder",
+      "wall": "FF South wall | lining.004",
+      "pass": true
+    },
+    {
+      "name": "Upper WC paper holder",
+      "wall": "FF WC bath division | lining.001",
+      "pass": true
+    },
+    {
+      "name": "Bath2 towel rail",
+      "wall": "FF Bath 2 east | lining",
+      "pass": true
+    },
+    {
+      "name": "Upper bath towel rail",
+      "wall": "FF WC bath division | lining.002",
+      "pass": true
+    },
+    {
+      "name": "Ensuite towel ring",
+      "wall": "Ensuite WIR division | lining.003",
+      "pass": true
+    }
+  ],
+  "open_outlet_rays": [
+    {
+      "id": "DP01",
+      "clear": true,
+      "hit": null
+    },
+    {
+      "id": "DP02",
+      "clear": true,
+      "hit": null
+    },
+    {
+      "id": "DP03",
+      "clear": true,
+      "hit": null
+    },
+    {
+      "id": "DP04",
+      "clear": true,
+      "hit": null
+    },
+    {
+      "id": "DP05",
+      "clear": true,
+      "hit": null
+    },
+    {
+      "id": "DP07",
+      "clear": true,
+      "hit": null
+    },
+    {
+      "id": "DP06",
+      "clear": true,
+      "hit": null
+    },
+    {
+      "id": "DP08",
+      "clear": true,
+      "hit": null
+    },
+    {
+      "id": "DP10",
+      "clear": true,
+      "hit": null
+    },
+    {
+      "id": "DP11",
+      "clear": true,
+      "hit": null
+    },
+    {
+      "id": "DP09",
+      "clear": true,
+      "hit": null
+    },
+    {
+      "id": "DP12",
+      "clear": true,
+      "hit": null
+    },
+    {
+      "id": "DP13",
+      "clear": true,
+      "hit": null
+    }
+  ],
+  "niche_dimensions": [
+    {
+      "name": "Ensuite niche",
+      "mesh_mm": {
+        "width": 1000.0,
+        "height": 450.0,
+        "sill_above_tile": 1200.0,
+        "clear_depth": 60.0
+      },
+      "result": "PASS"
+    },
+    {
+      "name": "Upper bath niche",
+      "mesh_mm": {
+        "width": 900.0,
+        "height": 449.999,
+        "sill_above_tile": 1200.0,
+        "clear_depth": 60.001
+      },
+      "result": "PASS"
+    },
+    {
+      "name": "Bath2 niche",
+      "mesh_mm": {
+        "width": 600.0,
+        "height": 449.999,
+        "sill_above_tile": 1200.0,
+        "clear_depth": 60.001
+      },
+      "result": "PASS"
+    }
+  ],
+  "result": "PASS"
+}

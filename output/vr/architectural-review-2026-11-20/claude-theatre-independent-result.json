@@ -1,0 +1,115 @@
+{
+  "duration_api_ms": 56380,
+  "stop_reason": "end_turn",
+  "session_id": "4f712649-8e0a-4367-b333-2a0c62b99520",
+  "total_cost_usd": 0.8762754000000001,
+  "usage": {
+    "input_tokens": 14,
+    "cache_creation_input_tokens": 42147,
+    "cache_read_input_tokens": 66257,
+    "output_tokens": 4714,
+    "output_tokens_details": {
+      "thinking_tokens": 2071
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 42147,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 4,
+        "output_tokens": 2163,
+        "cache_read_input_tokens": 36899,
+        "cache_creation_input_tokens": 5248,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 5248
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "modelUsage": {
+    "claude-fable-5-2": {
+      "inputTokens": 14,
+      "outputTokens": 4714,
+      "cacheReadInputTokens": 66257,
+      "cacheCreationInputTokens": 42147,
+      "webSearchRequests": 0,
+      "costUSD": 0.8762754000000001,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 2071,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "permission_denials": [],
+  "terminal_reason": "completed",
+  "fast_mode_state": "off",
+  "fast_mode_disabled_reason": "sdk_opt_in_required",
+  "subagent_stats": {
+    "spawned": 0,
+    "requested": {
+      "background": 0,
+      "foreground": 0,
+      "unset": 0
+    },
+    "started_in_background": 0,
+    "max_depth": 0,
+    "spawned_by_subagents": 0,
+    "completed": 0,
+    "failed": 0,
+    "killed": {
+      "parent": 0,
+      "user": 0,
+      "system": 0
+    },
+    "refused": {
+      "depth_limit": 0,
+      "concurrency_limit": 0,
+      "budget": 0
+    },
+    "by_type": {}
+  },
+  "safety_stops": 0,
+  "is_error": false,
+  "num_turns": 19,
+  "subtype": "success",
+  "api_error_status": null,
+  "result": "**Theatre room, first floor (sheet 08): there is a ceiling bulkhead and a floor step, but the drawings do not establish that the theatre is raised, and no rise is dimensioned.**\n\n**1. Bulkhead, platform, or both?**\nBoth are drawn, as separate things.\n- **Ceiling bulkhead:** a hatched band runs around all four walls, bounded inside by a dashed (overhead) rectangle and labelled \"340mm DROP DOWN BULKHEAD\". The sheet note says \"All plaster bulkheads to drop down 340mm from ceiling\".\n- **Floor step:** a single solid line runs wall to wall across the room, passing under the bulkhead hatch, with a \"STEP DOWN\" arrow. The lower dimension string labels one segment \"PLATFORM\".\n\n**2. Whole floor or part? Which side is high?**\n- **Explicit:** the string reads 90 | 2300 PLATFORM | 2000 | 190 under a 4300 THEATRE overall. The solid line scales at about 53% of the room width from the retreat-side wall, matching 2300. So the \"PLATFORM\" is the 2300 zone on the north (door/retreat) side, and the unlabelled 2000 zone is on the south side with window W8.\n- **Only part of the room is differentiated.** Nothing says the whole theatre is raised: there is no FFL tag and no step at the door.\n- **Contradiction:** the arrow sits with its text in the 2000 zone and points across the line into the 2300 \"PLATFORM\" zone. Read as a direction of descent, the labelled platform is the low side and the window side is high. Read as \"platform means raised\", the arrow points uphill.\n- **Inference:** the door opens onto the 2300 zone with no step shown, so that zone is most plausibly at general first-floor level. Whether the 2000 window zone is above or below it is not resolved. The arrow, read literally, says above.\n\n**3. The dimensions**\n- **340:** vertical drop of the bulkhead below the ceiling. It is not a floor dimension.\n- **420:** horizontal width of the bulkhead on the north (retreat-side) wall.\n- **510:** horizontal width of the bulkhead on the west wall.\n- **2300:** plan depth of the \"PLATFORM\" zone, from the retreat-side wall to the step line.\n- **2000:** plan depth of the remaining zone, from the step line to the south external wall.\n- **Vertical floor rise:** none is dimensioned anywhere for the theatre. The ground floor (sheet 07) quantifies its steps with FFL boxes (\"86mm STEP DOWN\", \"226mm STEP DOWN\", FFL 10.906/10.820/10.734). The theatre has no equivalent.\n\n**4. Sections and elevations**\n- **Sheet 11** is the window and door schedule, not sections. It shows theatre W08 as 1800 high with a 480 sill and 2280 head, under a 2590 ceiling. Which floor level the 480 is measured from is not stated.\n- **Sheet 12, Section A-A** is the only section. It cuts through Bed 2/Bath over Family/Kitchen, well north of the theatre, so it does not cut the step. It shows a flat first floor on a 400 joist zone with a 2590 ceiling.\n- **Sheets 09 and 10** show a single first-floor level and the 2590 ceiling, with no theatre floor break. South Elevation B shows W08 with the 2280 window height only.\n- **Sheets 15 and 17** (the internal details I opened) do not cover the theatre. Sheet 16, which the text search flagged for bulkhead notes, I did not open.\n- **Ground floor (sheet 07):** Bed 1 sits below the theatre and shows only a perimeter-style bulkhead note, with no set-down indicated.\n\n**5. Conclusion**\n- **High confidence:** the 340 perimeter ceiling bulkhead is real, and it is not the platform.\n- **High confidence:** a single floor level change exists at a line 2300 from the retreat-side wall, with one riser line drawn.\n- **Low confidence (about 55/45):** the direction. I lean to the 2000 window-side strip being the raised part, with the door-side 2300 at first-floor FFL. That follows the arrow and the stepless door, but it conflicts with where the \"PLATFORM\" label sits.\n- **Not established:** that the whole theatre is raised.\n\n**Missing before modelling the vertical change:**\n- The riser height, or an FFL for each zone.\n- Designer confirmation of which zone is high, resolving the arrow against the label.\n- Whether the change is one riser or more.\n- Whether the W08 sill (480) and the 2590 ceiling are measured from the upper or lower floor.\n- A section or framing detail through the theatre.\n\nUntil then, model the step line in plan only, with no height.",
+  "ttft_ms": 2141,
+  "type": "result",
+  "duration_ms": 57217,
+  "uuid": "2ef7663a-95f4-48f1-9ff8-d4e6080671b6",
+  "ttft_stream_ms": 1608,
+  "time_to_request_ms": 90,
+  "first_content_frame_ms": 1609,
+  "queued_turn_count": 0,
+  "result_index": 0,
+  "model_usage_since_last_result": {
+    "claude-fable-5-2": {
+      "inputTokens": 14,
+      "outputTokens": 4714,
+      "cacheReadInputTokens": 66257,
+      "cacheCreationInputTokens": 42147,
+      "webSearchRequests": 0,
+      "costUSD": 0.8762754000000001,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 2071,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  }
+}

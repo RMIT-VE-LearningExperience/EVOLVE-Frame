@@ -1,0 +1,118 @@
+ENS
+ENSUITE PLAN
+SCALE 1:50
+D
+C
+A
+B
+1000W X 450W TILED
+SHOWER NICHE
+E
+900 720 X 2340
+SHR 900
+1800 720 X 2340 CSLD 1800 VB
+900
+340mm DROP DOWN
+BULKHEAD.
+ELEVATION A
+1800 2740 CEILING HEIGHT 1800 2000 1000 ROSE MIXER SCREEN
+400 1000
+550
+C
+L
+MIXER
+WALL IN FRONT
+900 900
+ELEVATION D
+3780
+WC
+450
+C
+L
+TILES
+BEVELED EDGED MIRROR.
+MIRROR
+SH. 1200 450 NICHE
+20 880 880 20 90 900
+ TILED SHOWER
+BASE
+900
+ELEVATION B
+3780
+ELEVATION C
+1800
+600
+SH.
+ELEVATION E
+1800
+700 900
+TPH TPH
+NICHE 1200 TOWEL RING
+PLASTER BULKHEAD
+400 800 200 1100 MIRROR CABINET1200 450
+GLASS SHOWER
+SCREEN / DOOR
+L'DRY
+WM
+TR LINEN
+LAUNDRY PLAN
+SCALE 1:50
+A B
+ELEVATION A
+3090 2740 CEILING HEIGHT
+SH. SH.
+SH.
+SH.
+SH. 450 450 450 450
+1500 90 1500
+LINEN / BROOM LINEN
+ELEVATION B
+3090
+SH.
+MIXER
+300MM PLASTER BULKHEAD
+SH.
+TILED SPLASHBACK
+W/M
+SPACE
+100MM
+TILED
+SKIRTING 1800
+DRYER
+SPACE
+800 20 800 725 20 900 700 800 340
+725
+SH. SH.
+SH. SH. LINEN / BROOM
+SH.
+SH.
+SH. 820 X 2340H 2 X 620 X 2400 SLD 2 X 620 X 2400 SLD 820 X 2340H
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+REVISION DATE: BY: - DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024 E.C.
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+INTERNAL DETAILS
+1:50
+17
+GENERAL NOTES:
+- Locations of fixtures shown on plans are indicative only and may
+vary due to location of structural members and truss layouts. - All symbols, fittings, appliances and fixtures are indicative only
+actual item may be of different size or shape.
+- Refer to specifications for accurate details and description.
+- Cabinetry may be altered upon specialists advice.
+- Window sizes are nominal only exact figure may vary on site.
+- Minor adjustments to framing and or location of framing
+may be made for structural purposes.

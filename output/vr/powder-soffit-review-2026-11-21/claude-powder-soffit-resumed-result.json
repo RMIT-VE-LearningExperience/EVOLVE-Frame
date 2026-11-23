@@ -1,0 +1,115 @@
+{
+  "duration_api_ms": 257120,
+  "stop_reason": "end_turn",
+  "session_id": "e63c443b-662a-43ea-957a-aec7e24ce024",
+  "total_cost_usd": 2.908863,
+  "usage": {
+    "input_tokens": 4,
+    "cache_creation_input_tokens": 25288,
+    "cache_read_input_tokens": 4151,
+    "output_tokens": 4119,
+    "output_tokens_details": {
+      "thinking_tokens": 2783
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 25288,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 4,
+        "output_tokens": 4119,
+        "cache_read_input_tokens": 4151,
+        "cache_creation_input_tokens": 25288,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 25288
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "modelUsage": {
+    "claude-fable-5-2": {
+      "inputTokens": 22,
+      "outputTokens": 20897,
+      "thinkingTokens": 18171,
+      "cacheReadInputTokens": 20755,
+      "cacheCreationInputTokens": 129291,
+      "webSearchRequests": 0,
+      "costUSD": 2.908863,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "permission_denials": [],
+  "terminal_reason": "completed",
+  "fast_mode_state": "off",
+  "fast_mode_disabled_reason": "sdk_opt_in_required",
+  "subagent_stats": {
+    "spawned": 0,
+    "requested": {
+      "background": 0,
+      "foreground": 0,
+      "unset": 0
+    },
+    "started_in_background": 0,
+    "max_depth": 0,
+    "spawned_by_subagents": 0,
+    "completed": 0,
+    "failed": 0,
+    "killed": {
+      "parent": 0,
+      "user": 0,
+      "system": 0
+    },
+    "refused": {
+      "depth_limit": 0,
+      "concurrency_limit": 0,
+      "budget": 0
+    },
+    "by_type": {}
+  },
+  "safety_stops": 0,
+  "is_error": false,
+  "num_turns": 1,
+  "subtype": "success",
+  "api_error_status": null,
+  "result": "**Independent check: powder room / stair / W03 junction**\n\n**1. Stairs above the powder room?**\nYes, over part of it, but this is inferred from the plans rather than dimensioned as an overlap (medium-high confidence).\n- **Sheet 07:** the dimension string reads POWDER 1600 / 90 / STAIRS 3190, with risers numbered 1\u201317 and tread lines continuing past the powder's stair-side wall along the window-wall end.\n- **Sheet 08:** the same flight is dimensioned STAIRS 4000 with 17 numbered risers.\n- **Arithmetic:** 4000 \u2212 3190 = 810, so roughly 0.7\u20130.8 m of the upper flight sits over the powder room, in a strip about 1100 wide (sheet 07 side string) out of the room's 2590 depth.\n- **Soffit finish:** none is specified. I found no stair section, soffit lining, bulkhead note or stringer depth on any of the five sheets.\n\n**2. Drawn data, conflicts and gaps**\n\n| Item | Drawn value | Source |\n|---|---|---|\n| Ground ceiling | 2740 | Sheets 11, 12, 15 |\n| Floor zone | 400 | Sheet 12 |\n| Ground FFL | 10.906 | Sheets 07, 12 |\n| W03 | 810 wide, sill 280, 2120 high, head 2400 | Sheet 11 |\n| Powder ceiling | Flat at 2740 across the full 1600 and 2590 elevations, window unobstructed | Sheet 15 |\n\n- **Floor-to-floor:** 2740 + 400 = 3140 is drawn; the model's 3.159 adds an assumed 19 mm deck.\n- **Missing:** going, rise, stair foot setout, soffit build-up, and any dimensioned W03 position. Scaled from sheet 15 Elevation A, the window sits toward the stair-side corner (low confidence).\n- **Conflict:** sheet 15's flat 2740 ceiling cannot coexist with the flight on sheets 07/08. In the model, treads 14\u201316 have tops at about 2.60\u20132.97 m over that strip.\n- **Flat ceiling or deleted slope:** not justified within the stair strip, because it would contradict the drawn flight. A flat 2740 ceiling is supported only for the part of the room outside the stair strip.\n\n**3. Model error or document issue?**\nBoth contribute, and the documents need coordination.\n\nGeometry arithmetic (your figures check out):\n- The soffit is 2.247 at the right frame edge and crosses 2.400 at about x = 21.360.\n- About 203 mm of the 810 width is therefore under a soffit lower than the head, by up to 153 mm.\n- The soffit is about 2.708 at the stair head.\n- The lining stops at y = 7.775 and the frame starts at y = 7.895, so there is no physical intersection. It is an occlusion of the reveal corner, consistent with your ray results.\n\nModel assumptions driving this:\n- the 265 mm soffit offset;\n- the 246.8 mm going and the x = 24.900 foot;\n- the 3.159 floor-to-floor;\n- the scaled W03 centre.\n\nClearing the head at the jamb by soffit depth alone would need about 112 mm of total build-up, which I would not assume. Because the documents show the flight over the window end of the room and give no soffit detail, model tuning alone cannot settle it.\n\n**Recommended next step**\n- Leave the stair, columns and window unchanged.\n- Record the junction as an open coordination item (an RFI to the designer), requesting a stair section through the powder room, the soffit or bulkhead treatment at the W03 head, and a dimensioned W03 setout.\n- In the model, tag \"Finished stair underside\" and W03 as illustrative/unapproved, and log the sensitivity figures above (203 mm overlap, 153 mm maximum).\n- Do not mark the detail as correct.",
+  "ttft_ms": 44605,
+  "type": "result",
+  "duration_ms": 49717,
+  "uuid": "9397f537-2654-4053-af57-4a07c73f0eab",
+  "ttft_stream_ms": 2083,
+  "time_to_request_ms": 151,
+  "first_content_frame_ms": 2084,
+  "queued_turn_count": 0,
+  "result_index": 0,
+  "model_usage_since_last_result": {
+    "claude-fable-5-2": {
+      "inputTokens": 4,
+      "outputTokens": 4119,
+      "cacheReadInputTokens": 4151,
+      "cacheCreationInputTokens": 25288,
+      "webSearchRequests": 0,
+      "costUSD": 0.5702302,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 2783,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  }
+}

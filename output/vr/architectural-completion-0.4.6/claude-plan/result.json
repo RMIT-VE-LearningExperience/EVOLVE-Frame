@@ -1,0 +1,115 @@
+{
+  "duration_api_ms": 177482,
+  "stop_reason": "end_turn",
+  "session_id": "b4eafad9-8f21-42d5-8db5-16bac16af74b",
+  "total_cost_usd": 1.5687448,
+  "usage": {
+    "input_tokens": 8,
+    "cache_creation_input_tokens": 57679,
+    "cache_read_input_tokens": 45684,
+    "output_tokens": 15917,
+    "output_tokens_details": {
+      "thinking_tokens": 12371
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 57679,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 6349,
+        "cache_read_input_tokens": 42071,
+        "cache_creation_input_tokens": 15608,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 15608
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "modelUsage": {
+    "claude-fable-5-2": {
+      "inputTokens": 8,
+      "outputTokens": 15917,
+      "cacheReadInputTokens": 45684,
+      "cacheCreationInputTokens": 57679,
+      "webSearchRequests": 0,
+      "costUSD": 1.5687448,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 12371,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "permission_denials": [],
+  "terminal_reason": "completed",
+  "fast_mode_state": "off",
+  "fast_mode_disabled_reason": "sdk_opt_in_required",
+  "subagent_stats": {
+    "spawned": 0,
+    "requested": {
+      "background": 0,
+      "foreground": 0,
+      "unset": 0
+    },
+    "started_in_background": 0,
+    "max_depth": 0,
+    "spawned_by_subagents": 0,
+    "completed": 0,
+    "failed": 0,
+    "killed": {
+      "parent": 0,
+      "user": 0,
+      "system": 0
+    },
+    "refused": {
+      "depth_limit": 0,
+      "concurrency_limit": 0,
+      "budget": 0
+    },
+    "by_type": {}
+  },
+  "safety_stops": 0,
+  "is_error": false,
+  "num_turns": 12,
+  "subtype": "success",
+  "api_error_status": null,
+  "result": "# Plan review: 0.4.6 architectural completion\n\n**Verdict:** the plan is sound in intent and can proceed to the drawing-findings gate, but six gaps should be closed before modelling starts. This is not engineering or design acceptance.\n\n## What I inspected\n- **Read:** `work-plan.txt`, `baseline-items.json`, `vr_architectural_finishes.py`, `vr_bathroom_tiles.py`, sheet-08 and sheet-17 at display resolution, and `vr_fixed_fitout.py` lines 1\u201331 and 175\u2013304, plus one grep of that file.\n- **Not inspected:** sheets 02\u201307, 11\u201312, 14\u201316, 18\u201319; the 0.4.5 blend, Unity scene or renders; any downpipe or gutter script; the output JSON reports; the fitout post-pass near line 368.\n- **Consequence:** \"current model\" statements below are script facts, not measured geometry. I checked nothing about downpipes beyond the sheet 08 markers.\n\n## Gaps in the plan\n1. **Stale baseline rows.**\n   - BH-ALL-01 says \"No 340 bulkhead objects exist\", but the finishes script creates 10 bulkhead zones.\n   - RM-FF-14 still quotes a 4389.8 span beside a note saying it was rebuilt to within 1 mm.\n   - Several wet-room rows carry boilerplate first-pass notes.\n   - Step 7 should re-measure every row; DP rows saying \"NONE\" need a current-model check before being repeated.\n2. **Orientation naming conflict.** Sheet 08's north arrow points page-left. The script's \"Theatre west\" band is the retreat (north) side and its \"south\" band is the west side, while the baseline uses true compass. Fix the names or add a mapping before the findings stage.\n3. **Upper-floor vertical datum.** Theatre and hall bulkheads sit at z 5.390\u20135.730, but the fitout uses a 3.159 deck. Soffit clearance is therefore about 2231, not the 2250 claimed in the script basis. The 2340 door head would intrude about 109 mm in the model (90 on paper). Step 5 should state the datum for each measurement.\n4. **Wet-room scope is not enumerated.** `vr_bathroom_tiles.py` covers only the sheet 19 upper bathroom. \"Full-height wet-room finishes\" needs a room list (powder, ensuite, ensuite WC, Bath 2, upper WC) and a source sheet for each.\n5. **Niche and tile build order.** The tile pass re-materials whole lining objects by name and bounds and asserts six zones. Cutting niches will split those objects, so the plan should state the order and update the assertions.\n6. **Downpipe prerequisites.** The plan does not say whether eave or box gutters exist to connect to, how pipes get from the eave line back to the wall face, or how they terminate at ground.\n\n## Dangerous assumptions checked on the sheets\n\n**Theatre (sheet 08)**\n- **Written:** chains 90|330|90|3880 and 420|90|3480|90|420; \"2300 PLATFORM | 2000\"; in-plan \"420\" and \"510\"; \"340mm DROP DOWN BULKHEAD\"; \"STEP DOWN\" arrow; door \"820 X 2340H\".\n- **No platform height appears on this sheet.** The 420 and 510 are horizontal widths, so the script's removal of the 420 rise is correct.\n- **High side is unresolved.** The 2300 platform zone is at the door and retreat end; the arrow direction is ambiguous at this resolution.\n- **Section A-A will probably not help.** Its marker cuts through Bath/Bed 3, not the theatre (inference; sheet 12 not read).\n- **The 90 mm inboard elements are unresolved.** They are dimensioned on three sides, not the W8 side, and the 3880/3480 inner spans are also labelled \"THEATRE\". Full-height lining versus bulkhead fascia is open.\n- **W8-side band depth is unwritten.** The script's roughly 500 is scaled and correctly marked provisional.\n- **Hall bulkhead extent is a scaled inference.** The leader meets a long dashed line that may coincide with roof-over linework. It needs a zoomed crop.\n\n**Laundry (sheet 17, Elevation B)**\n- **Written:** label \"300MM PLASTER BULKHEAD\"; vertical chain 340|800|700|900, which sums to the 2740 ceiling height written on Elevation A.\n- **340 is the defensible basis.** It closes the chain, matches the 340 general note on sheet 08, and matches the existing overhead tops at 2.400.\n- **The conflict stays logged.** \"300\" may be an error or may mean horizontal projection; nothing on the sheet settles it.\n- **Projection is unwritten.** The laundry plan shows no bulkhead hatch. Matching the model's 380 overhead depth would be an inference.\n- **Length is 3090 nominal**, drawn across the stacked dryer/WM bay too. The model run is 3.07.\n\n**Ensuite niche and fittings (sheet 17)**\n- **Niche:** Elevation A gives 400|1000|400 across the 1800 wall, with 1200 then 450 vertically. The 1200 is floor to niche underside and 450 is the niche height; a scaled check agrees (head about 1650). The second \"W\" in \"1000W X 450W\" reads as a typo for H.\n- **Niche depth is not given.** The wall appears internal on the plan, which limits the recess to the stud depth.\n- **Datum is unstated.** The model shower is 1770 clear, so the 400s are presumably frame-to-frame. The findings should state which.\n- **Mixer** (550 across, 1000 high) sits on the same wall, below the niche.\n- **Towel ring:** 1200 high is written; horizontal position is scaled only.\n- **Toilet paper holder:** 900 high, 700 from the cistern-end wall, both written.\n- **The \"50 recessed\" base was not found on sheet 17.** It is unverified by me, and must not be applied to the upper-floor showers without a source: recessing into timber floor structure is a structural flag.\n\n## Safe to implement\n- Laundry bulkhead at 340 drop over the bench run, with projection flagged illustrative and the 300/340 conflict retained.\n- Ensuite niche as a real recess, with trimming of cut studs flagged and no breakthrough of the far-side lining.\n- Towel ring and paper holders at their written heights, with scaled positions labelled as such.\n- The 13 downpipe instances, 90 mm minimum diameter, straps at no more than 1800 centres, terminated visibly at ground. I count 8 DP, 3 DP/RWH, 2 S/DP and three sump symbols on sheet 08, which supports two garage sumps on that sheet (DP-15).\n- Keep the theatre door bay omitted and the platform height null.\n\n## Acceptance checks to add\n- Bulkhead soffit and drop measured from a named floor datum, with each object's bounds compared to its basis.\n- Laundry bulkhead underside against overhead tops, with no coplanar overlap at 2.400.\n- Niches: opening dimensions, sill and head heights, recess depth less than the wall core, far-side lining unchanged, five tiled inner faces, no surface-mounted box.\n- Fittings: contact with the wall face and height to a stated reference point.\n- Downpipes: count 8/3/2, wall contact, straps at 1800 or less, no ray hits on the 19 windows or the doors, each top joined to a gutter or rainwater head.\n- Theatre: platform height still null, door still 2340, conflict flags present in the JSON.\n- The 26 spans, 20 portals, 19 windows and eight visibility states unchanged.",
+  "ttft_ms": 4620,
+  "type": "result",
+  "duration_ms": 177751,
+  "uuid": "54705044-f90f-4398-824c-ff53dbbb96c0",
+  "ttft_stream_ms": 1611,
+  "time_to_request_ms": 100,
+  "first_content_frame_ms": 1612,
+  "queued_turn_count": 0,
+  "result_index": 0,
+  "model_usage_since_last_result": {
+    "claude-fable-5-2": {
+      "inputTokens": 8,
+      "outputTokens": 15917,
+      "cacheReadInputTokens": 45684,
+      "cacheCreationInputTokens": 57679,
+      "webSearchRequests": 0,
+      "costUSD": 1.5687448,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 12371,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  }
+}

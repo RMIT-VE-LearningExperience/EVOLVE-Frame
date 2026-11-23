@@ -1,0 +1,22 @@
+{
+  "id": "1795165643134007700",
+  "version": "0.3.2",
+  "room": "window",
+  "error": "",
+  "changing": false,
+  "focused": true,
+  "guide": true,
+  "narration": true,
+  "detail": true,
+  "isolated": false,
+  "location": 21,
+  "hotspots": 9,
+  "visibleParts": 9,
+  "explosion": 0.0,
+  "zoom": 1.0,
+  "eye": {
+    "x": 10.010231971740723,
+    "y": 1.4995368719100952,
+    "z": 6.517881393432617
+  }
+}

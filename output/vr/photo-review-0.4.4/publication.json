@@ -1,0 +1,20 @@
+{
+  "id": "appgdep_6b00c80d3c4c81918abd509d3e176e1a",
+  "project_id": "appgprj_6b003629adc081919b288dc51820b39a",
+  "title": "Leichhardt — model review",
+  "version_id": "appgprj_6b003629adc081919b288dc51820b39a~appgver_b95b40d6cc5c81918d4693a222e45cdb",
+  "type": "publish",
+  "status": "succeeded",
+  "url": "https://leichhardt-model-review.lolepaille.chatgpt.site",
+  "has_mcp": false,
+  "screenshot_asset_pointer": null,
+  "provider_deployment_id": "release---6b0036ad3f4881918c204c43bf1befcf",
+  "failure_message": null,
+  "env_set_revision": 0,
+  "updated_at": "2026-11-20T22:22:18.687870+00:00",
+  "commit_sha": "53e49571bf2373bbfd503c8eebecc2ce4aeca097",
+  "archive": "D:/Git/EVOLE Frame/output/vr/leichhardt-phone-review-0.4.4.tar.gz",
+  "audience": "Owner-private; existing audience preserved.",
+  "review_images": 58,
+  "visual_checks": "Inspected actual kitchen-hidden, shower-hidden, all-fittings-hidden, timber-stair and fittings-panel Unity renders. Desktop control tests pass. Phone browser and worn-headset checks are separate."
+}

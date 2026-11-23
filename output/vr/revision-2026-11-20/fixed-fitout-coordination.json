@@ -1,0 +1,292 @@
+{
+  "source_sheets": [
+    7,
+    8,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "author": "Codex; informed by Claude architectural review",
+  "scope": "Fixed fixtures and joinery; not fabrication, plumbing or architectural acceptance.",
+  "items": [
+    {
+      "name": "Kitchen rear run/island",
+      "sheet": 16,
+      "rear_run_nominal_m": 6.89,
+      "rear_modules_m": [
+        0.9,
+        0.9,
+        0.9,
+        0.6,
+        0.89,
+        0.6,
+        0.9,
+        1.1
+      ],
+      "island_m": [
+        3.2,
+        1,
+        0.905
+      ],
+      "stone_edge_m": 0.04,
+      "rear_depth_m": 0.6,
+      "clear_aisle_m": 1.065,
+      "basis": "Written cabinet module sizes; absolute run and island positions scaled from the plan. 15 mm wall lining reduces the nominal aisle."
+    },
+    {
+      "name": "Powder vanity",
+      "sheet": 15,
+      "width_m": 1.3,
+      "depth_m": 0.6,
+      "cabinet_top_m": 0.8,
+      "floor_clearance_m": 0.25,
+      "origin": [
+        20.035,
+        5.215,
+        0
+      ],
+      "basis": "Written nominal width/depth; absolute position and vessel-basin product form illustrative."
+    },
+    {
+      "name": "Ensuite double vanity",
+      "sheet": 17,
+      "width_m": 1.77,
+      "depth_m": 0.6,
+      "cabinet_top_m": 0.8,
+      "floor_clearance_m": 0,
+      "origin": [
+        18.575,
+        1.095,
+        0
+      ],
+      "basis": "Written nominal width/depth; absolute position and vessel-basin product form illustrative."
+    },
+    {
+      "name": "Upper bath vanity",
+      "sheet": 19,
+      "width_m": 1.2,
+      "depth_m": 0.6,
+      "cabinet_top_m": 0.8,
+      "floor_clearance_m": 0,
+      "origin": [
+        14.315,
+        5.245,
+        3.159
+      ],
+      "basis": "Written nominal width/depth; absolute position and vessel-basin product form illustrative."
+    },
+    {
+      "name": "Bath 2 vanity",
+      "sheet": 18,
+      "width_m": 1.1,
+      "depth_m": 0.6,
+      "cabinet_top_m": 0.8,
+      "floor_clearance_m": 0,
+      "origin": [
+        12.825,
+        0.105,
+        3.159
+      ],
+      "basis": "Written nominal width/depth; absolute position and vessel-basin product form illustrative."
+    },
+    {
+      "name": "Powder WC",
+      "sheet": 15,
+      "origin": [
+        20.035,
+        7.34,
+        0
+      ],
+      "direction": [
+        1,
+        0
+      ],
+      "basis": "WC location from drawn plan; 380 x 650 mm nominal product envelope, not a selected product."
+    },
+    {
+      "name": "Ensuite WC",
+      "sheet": 17,
+      "origin": [
+        18.575,
+        0.54,
+        0
+      ],
+      "direction": [
+        1,
+        0
+      ],
+      "basis": "WC location from drawn plan; 380 x 650 mm nominal product envelope, not a selected product."
+    },
+    {
+      "name": "Upper WC",
+      "sheet": 19,
+      "origin": [
+        11.74,
+        7.775,
+        3.159
+      ],
+      "direction": [
+        0,
+        -1
+      ],
+      "basis": "WC location from drawn plan; 380 x 650 mm nominal product envelope, not a selected product."
+    },
+    {
+      "name": "Bath 2 WC",
+      "sheet": 18,
+      "origin": [
+        10.655,
+        0.54,
+        3.159
+      ],
+      "direction": [
+        1,
+        0
+      ],
+      "basis": "WC location from drawn plan; 380 x 650 mm nominal product envelope, not a selected product."
+    },
+    {
+      "name": "Ensuite shower",
+      "sheet": 17,
+      "bounds_xy": [
+        [
+          18.575,
+          2.985
+        ],
+        [
+          20.345,
+          3.855
+        ]
+      ],
+      "screen_height_m": 2,
+      "basis": "Written shower zone with lining allowance; closed screen. Recessed base/niche not yet coordinated."
+    },
+    {
+      "name": "Upper bath shower",
+      "sheet": 19,
+      "bounds_xy": [
+        [
+          13.415,
+          6.475
+        ],
+        [
+          14.315,
+          7.775
+        ]
+      ],
+      "screen_height_m": 2,
+      "basis": "Written shower zone with lining allowance; closed screen. Recessed base/niche not yet coordinated."
+    },
+    {
+      "name": "Bath 2 shower",
+      "sheet": 18,
+      "bounds_xy": [
+        [
+          10.655,
+          1.285
+        ],
+        [
+          11.555,
+          2.185
+        ]
+      ],
+      "screen_height_m": 2,
+      "basis": "Written shower zone with lining allowance; closed screen. Recessed base/niche not yet coordinated."
+    },
+    {
+      "name": "Laundry",
+      "sheet": 17,
+      "nominal_run_m": 3.09,
+      "model_run_m": 3.07,
+      "basis": "3090 nominal run with lining/end allowance; stacked appliances illustrative; west linen shown open. Laundry walls/bulkhead require full reconciliation."
+    },
+    {
+      "name": "WIR1 south",
+      "width_m": 2.24,
+      "depth_m": 0.6,
+      "shelf_height_m": 2.016,
+      "basis": "Sheets15/18/19 written shelf heights; end allowances for finished wall lining."
+    },
+    {
+      "name": "WIR1 east",
+      "width_m": 2.3,
+      "depth_m": 0.6,
+      "shelf_height_m": 2.016,
+      "basis": "Sheets15/18/19 written shelf heights; end allowances for finished wall lining."
+    },
+    {
+      "name": "WIR1 west south",
+      "width_m": 0.66,
+      "depth_m": 0.6,
+      "shelf_height_m": 2.016,
+      "basis": "Sheets15/18/19 written shelf heights; end allowances for finished wall lining."
+    },
+    {
+      "name": "Bedroom2 robe",
+      "width_m": 3.17,
+      "depth_m": 0.555,
+      "shelf_height_m": 1.65,
+      "basis": "Sheets15/18/19 written shelf heights; end allowances for finished wall lining."
+    },
+    {
+      "name": "Bedroom5 robe",
+      "width_m": 2.57,
+      "depth_m": 0.555,
+      "shelf_height_m": 1.65,
+      "basis": "Sheets15/18/19 written shelf heights; end allowances for finished wall lining."
+    },
+    {
+      "name": "WIR3 back",
+      "width_m": 2.27,
+      "depth_m": 0.35,
+      "shelf_height_m": 1.65,
+      "basis": "Sheets15/18/19 written shelf heights; end allowances for finished wall lining."
+    },
+    {
+      "name": "WIR3 left",
+      "width_m": 0.74,
+      "depth_m": 0.45,
+      "shelf_height_m": 1.65,
+      "basis": "Sheets15/18/19 written shelf heights; end allowances for finished wall lining."
+    },
+    {
+      "name": "WIR3 right",
+      "width_m": 0.74,
+      "depth_m": 0.45,
+      "shelf_height_m": 1.65,
+      "basis": "Sheets15/18/19 written shelf heights; end allowances for finished wall lining."
+    },
+    {
+      "name": "WIR4 back",
+      "width_m": 2.26,
+      "depth_m": 0.35,
+      "shelf_height_m": 1.65,
+      "basis": "Sheets15/18/19 written shelf heights; end allowances for finished wall lining."
+    },
+    {
+      "name": "WIR4 left",
+      "width_m": 0.74,
+      "depth_m": 0.45,
+      "shelf_height_m": 1.65,
+      "basis": "Sheets15/18/19 written shelf heights; end allowances for finished wall lining."
+    },
+    {
+      "name": "WIR4 right",
+      "width_m": 0.74,
+      "depth_m": 0.45,
+      "shelf_height_m": 1.65,
+      "basis": "Sheets15/18/19 written shelf heights; end allowances for finished wall lining."
+    }
+  ],
+  "unresolved": [
+    "Kitchen absolute start and pantry/ref return require exterior-wall reconciliation. Ref width conflicts between plan and elevation; ref fitout is deferred.",
+    "Shower recesses and recessed niches require coordinated wall/floor openings; not represented by surface-mounted fake niches.",
+    "Basin, tap, WC and appliance product shapes and joinery finishes are illustrative; no product specification is supplied.",
+    "Mirrors use separate material batches for static Unity reflection probes; no live planar reflection rendering.",
+    "Wall tiling, electrical points, fridge water point, splashbacks across window reveals and sliding robe doors remain incomplete."
+  ],
+  "objects": 545,
+  "triangles": 16676
+}

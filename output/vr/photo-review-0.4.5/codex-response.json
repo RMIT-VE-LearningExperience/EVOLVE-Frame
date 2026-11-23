@@ -1,0 +1,234 @@
+{
+  "reviewer": "Claude Fable 5.2, medium effort",
+  "source_review": "claude-review.txt",
+  "version": "0.4.5",
+  "items": [
+    {
+      "id": "PHOTO-01",
+      "title": "Porch form",
+      "status": "Form corrected; dimensions provisional",
+      "response": "Porch has masonry pier shells, rendered returns/front beam, soffit, concealed roof and closed pier tops. P1 cores retained. Final height and absolute setout still require drawing/datum coordination."
+    },
+    {
+      "id": "PHOTO-02",
+      "title": "Garage parapet and door",
+      "status": "Form corrected; dimensions provisional",
+      "response": "Garage has brick parapets, capping and a six-panel door. Roof and parapets are trimmed outside the upper-house envelope; Bedroom 4 is clear in the final image and intrusion check. Final height remains provisional. A tonal boundary remains on the roof and needs a shadow/finish review."
+    },
+    {
+      "id": "PHOTO-03",
+      "title": "Black upstairs strips",
+      "status": "Passed targeted desktop checks",
+      "response": "Both black strips cleared in the final original-camera views (37 and49). Pixel probes confirm the previous black areas now receive light. Existing plaster was retained; connected planar lightmap charts replaced the fragmented charts."
+    },
+    {
+      "id": "PHOTO-04",
+      "title": "Glazing and mirrors",
+      "status": "Improved; static mirror limitation",
+      "response": "Privacy glazing is now pale. Neutral mirror tint, box projection and 20% stronger static reflections improve the surfaces, but mirrors remain approximate cubemaps and some views show little reflection detail. No live reflection cameras or runtime blur."
+    },
+    {
+      "id": "PHOTO-05",
+      "title": "Lighting and shadow",
+      "status": "Improved; further visual tuning remains",
+      "response": "Neutral ceilings, upward baked fill, reduced yellow tint and softer sun shadows are in place. All eight visibility-state bakes passed in 0.4.5. Ground shadows still have some broad unevenness; headset appearance and sustained performance require wearer review."
+    },
+    {
+      "id": "PHOTO-06",
+      "title": "Brick size",
+      "status": "not substantiated",
+      "response": "Existing world-space shader module is240x86mm including10mm joints, i.e.230x76mm bricks. Retain correct dimensions; no arbitrary1.7x rescaling."
+    },
+    {
+      "id": "PHOTO-07",
+      "title": "Facade seams",
+      "status": "Façade seams improved in final captures",
+      "response": "Coplanar facade pieces now share connected planar lightmap charts. The vertical seams in view07 cleared. The deliberately separate alfresco fascia remains lighter than the upper render; remaining roof tone boundary is tracked underPHOTO-02."
+    },
+    {
+      "id": "PHOTO-08",
+      "title": "Robe towers",
+      "status": "Passed desktop visual check",
+      "response": "Both607mm-wide towers retain their2016mm height and now have flush top caps. Exported normals are flat. A connected planar lighting chart across each side panel removed the visible diagonal and horizontal shading breaks in view47."
+    },
+    {
+      "id": "PHOTO-09",
+      "title": "Stair rail ends",
+      "status": "Implemented and visually checked",
+      "response": "Added wall returns.1000mm rail and1200mm dwarf wall retained. Second strip corresponds to capping, not a redundant handrail."
+    },
+    {
+      "id": "PHOTO-10",
+      "title": "Viewing directions",
+      "status": "Implemented and tested",
+      "response": "Room headings now face windows/fitout at slight angles. Theatre stop moved back to show the room; exterior photograph is an eye-height three-quarter view. All22 arrivals and menu-clearance tests passed. Views49/50 retain older cameras for comparison."
+    },
+    {
+      "id": "PHOTO-11",
+      "title": "Powder door-head stub",
+      "status": "retain",
+      "response": "Full-resolution photo shows the corridor bulkhead beyond the powder doorway. Matches the explicit corridor bulkhead geometry from sheet07; not deleted."
+    },
+    {
+      "id": "PHOTO-12",
+      "title": "Upper bathroom tiling",
+      "status": "Passed desktop visual and geometry checks",
+      "response": "Full-height porcelain finish replaces the existing bath-facing plaster material, preserving the openings. Nine painted skirting pieces removed. Individual raised floor tiles replaced by continuous surfaces with 2.5 mm material grout; the same floor repair applies to the other wet rooms. 600 x 600 floor and 600 x 300 wall modules are illustrative selections. Recessed niche and shower falls remain unresolved."
+    },
+    {
+      "id": "PHOTO-13",
+      "title": "Kitchen cabinet handle placement",
+      "status": "Passed desktop visual and measured geometry checks",
+      "response": "The shared cabinet generator had incorrectly placed every door handle near the top. Overhead pulls now centre at 1750 mm instead of 2250 mm, pantry pulls at 1100 mm, and paired door pulls meet at the centre edges. Base and drawer handle heights are retained. Short mounting posts attach the bars to the door fronts. Laundry overheads shared the same defect and are corrected too. These hardware offsets are illustrative, not dimensions given on sheet 16."
+    },
+    {
+      "id": "PHOTO-14",
+      "title": "Independent fittings and timber stair visibility",
+      "status": "Passed desktop visual and control checks",
+      "response": "Six independent groups with colliders following visibility, room-change persistence and restart restoration. Walls/roof controls remain independent. Stair risers/stringers switch from their painted finish to timber, while rails, brackets and underside linings hide with the walls. The same geometry is retained, without overlapping variants. Eight offline lighting states keep the empty room free from hidden-fitting shadows. Mixed selections use an empty-room shell and the surviving fittings’ original baked shading; fine inter-object shading is approximate. Static reflection captures switch too; there are no runtime reflection cameras or extra lights."
+    },
+    {
+      "id": "PHOTO-15",
+      "title": "Front door visible in Bedroom1",
+      "status": "Passed targeted desktop visual and geometry checks; wearer review pending",
+      "response": "D01 was still at the legacy position after the bedroom wall moved. Opening, jambs, leaves, surrounding framing and skins now move together to the centre of the3110 entry. Scheduled width retained; exact horizontal position is scaled, not a written door-centre dimension."
+    },
+    {
+      "id": "PHOTO-16",
+      "title": "Void band and eave linings",
+      "status": "Passed targeted desktop visual and geometry checks; wearer review pending",
+      "response": "Added the missing south entry-void fascia. Added four abutting horizontal soffit sheets following section12 and the retained fascia/render envelope. Both finish systems follow their existing visibility controls."
+    },
+    {
+      "id": "PHOTO-17",
+      "title": "Laundry masonry and linen divider",
+      "status": "Passed targeted desktop visual and geometry checks; wearer review pending",
+      "response": "Removed the garage veneer intrusion by trimming the existing skin to the main-house exterior plane. Added the90mm framed divider shown between two1500 nominal linen bays on17. The fitted1470 clear cabinets now meet its120mm finished width."
+    },
+    {
+      "id": "PHOTO-18",
+      "title": "Shower doors, mixers and attached handles",
+      "status": "Passed targeted desktop visual and geometry checks; wearer review pending",
+      "response": "Sheets17–19 checked directly. Upper bathroom shower door moved to west screen; Bath2 door to east screen. Ensuite door occupies the opening beside its900 nib. Mixers follow the dimensioned offsets/heights. Door handles have physical mounting posts and hinges. Product details, recessed bases and niches remain illustrative/incomplete."
+    },
+    {
+      "id": "PHOTO-19",
+      "title": "Untiled doorway strips",
+      "status": "Passed targeted desktop visual and geometry checks; wearer review pending",
+      "response": "Six wet-room door throats now continue the floor tiles to the adjoining finish edges. These pieces meet existing floors without overlapping duplicate tile layers."
+    },
+    {
+      "id": "PHOTO-20",
+      "title": "Brown island",
+      "status": "Passed targeted desktop visual and geometry checks; wearer review pending",
+      "response": "Sheet16 does not specify brown cabinetry. Island rear panel and kitchen/island plinths changed to warm off-white; the pale40mm stone top and waterfall ends remain. This is an illustrative finish choice."
+    },
+    {
+      "id": "PHOTO-21",
+      "title": "Floating upper perimeter wall",
+      "status": "Passed targeted desktop visual and geometry checks; wearer review pending",
+      "response": "Continued the existing400mm floor-zone rim around the north/east entry-void perimeter. Retained the full-height steel and reserved its hollow envelope; no timber inserted into steel tubes. The entry void remains open. Connections and absolute structural setout remain illustrative."
+    },
+    {
+      "id": "PHOTO-22",
+      "title": "Window rotation slider",
+      "status": "Passed desktop interaction and panel-layout checks; physical controller review pending",
+      "response": "Continuous−180° to180° rotation, with isolated parts turning about their own centre. Hand rotation updates the slider; Reset all returns it to0°. Explosion, zoom, grips and hotspots remain available. Clara’s layers clip now refers to the slider."
+    },
+    {
+      "id": "PHOTO-23",
+      "title": "Dark doorway/skirting seams",
+      "status": "Passed targeted desktop visual and geometry checks; wearer review pending",
+      "response": "Pixel-to-mesh rays distinguished two issues: one exposed stud at the robe jamb and a shading artifact on the thin bedroom-door corner strip. The800 clear robe opening moved15mm to align with the adjoining finished wall, closing the stud exposure without adding filler. Narrow wall strips and jambs now use a denser junction bake; skirting has its own denser, non-occluding bake batch. Geometry remains continuous behind the skirting."
+    }
+  ],
+  "runtime_cost_note": "Lighting changes are baked. Glass uses a material emission term; mirrors use static 128 px cubemaps. No runtime blur or reflection camera was added. Headset performance remains unmeasured for this build.",
+  "followup_review": "../photo-review-0.4.1/claude-review.txt",
+  "followup_corrections": [
+    "Garage parapet and roof clipped at the upper-house exterior boundary after Claude found a Bedroom 4 intrusion. A new geometric check rejects garage parts inside the upper interior volume.",
+    "Porch pier and side-beam tops capped.",
+    "Connected planar UV charts replace fragmented charts for flat finishes, cabinetry and the garage roof."
+  ],
+  "final_validation": "visual-regressions.json",
+  "latest_verification_by": "Claude Fable 5.2 reviewed the 12 submitted headset photographs and two junction close-ups. Codex checked sheets 07, 12 and 16–19, measured the revised meshes, inspected the final Unity captures and ran the desktop interaction tests. Final Claude sign-off is not claimed.",
+  "final_capture_local": "21 Nov 2026 11:02",
+  "latest_note": "Version0.4.5 corrects the entry/bedroom door registration, exposed void band, eave linings, laundry brick intrusion and missing linen divider, shower doors/mixers, wet thresholds, island finish and perimeter framing. The window inspection uses a continuous rotation slider. New actual Unity views59–66 target the submitted headset photos. The robe opening’s corner joint and narrow-trim lighting have also been corrected. Views67–69 inspect skirting;70 shows the rotation slider.",
+  "featured_images": [
+    {
+      "file": "59-entry-void-lining.png",
+      "title": "Entry void lining"
+    },
+    {
+      "file": "60-bedroom1-door-corner.png",
+      "title": "Bedroom corner"
+    },
+    {
+      "file": "62-laundry-linen.png",
+      "title": "Laundry linen and masonry correction"
+    },
+    {
+      "file": "63-ensuite-shower-hardware.png",
+      "title": "Ensuite shower"
+    },
+    {
+      "file": "65-lined-eave.png",
+      "title": "Lined eave"
+    },
+    {
+      "file": "66-entry-perimeter-frame.png",
+      "title": "Perimeter frame"
+    },
+    {
+      "file": "61-suite-door-jambs.png",
+      "title": "Robe and bedroom doorway junctions"
+    },
+    {
+      "file": "70-window-rotation-slider.png",
+      "title": "Window rotation slider"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Island finish",
+      "before_version": "0.4.4",
+      "file": "42-kitchen-fitout.png",
+      "before_asset": "before045-42-kitchen-fitout.png"
+    },
+    {
+      "title": "Bathroom2 shower door",
+      "before_version": "0.4.4",
+      "file": "45-bath2-fitout.png",
+      "before_asset": "before045-45-bath2-fitout.png"
+    },
+    {
+      "title": "Upper bathroom shower door",
+      "before_version": "0.4.4",
+      "file": "46-upperbath-fitout.png",
+      "before_asset": "before045-46-upperbath-fitout.png"
+    }
+  ],
+  "user_clarification": "The reported misplaced shower handle is the glass-door handle. Corrected all three shower-door grips, with mounting posts; source-driven door/mixer corrections are separately documented.",
+  "visual_verification_045": {
+    "verified_local": "2026-11-21T11:04:25.230708+11:00",
+    "result": "PASS for targeted corrections",
+    "views": [
+      42,
+      45,
+      46,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "findings": "Final 61 clears the exposed robe-jamb stud and dark bedroom-door strip. Skirting corners 67–69 no longer show black seams. Eave 65 is lined; laundry 62 has no brick intrusion. Shower pulls connect to their glass doors. View 70 shows the separate rotation slider without overlapping controls.",
+    "limits": "Desktop renders and targeted geometry only. Wet-room wall finishes, niches, set-downs and product forms remain incomplete or illustrative. Sustained headset performance and physical controller feel require device review."
+  }
+}

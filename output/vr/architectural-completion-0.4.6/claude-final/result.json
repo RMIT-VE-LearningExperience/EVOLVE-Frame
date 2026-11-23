@@ -1,0 +1,115 @@
+{
+  "duration_api_ms": 832542,
+  "stop_reason": "end_turn",
+  "session_id": "790f0e09-d195-40ad-abc8-e6ed78d3cb4c",
+  "total_cost_usd": 6.026693000000001,
+  "usage": {
+    "input_tokens": 12,
+    "cache_creation_input_tokens": 48976,
+    "cache_read_input_tokens": 225487,
+    "output_tokens": 4274,
+    "output_tokens_details": {
+      "thinking_tokens": 1897
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 48976,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 2080,
+        "cache_read_input_tokens": 77773,
+        "cache_creation_input_tokens": 3628,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 3628
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "modelUsage": {
+    "claude-fable-5-2": {
+      "inputTokens": 34,
+      "outputTokens": 72285,
+      "thinkingTokens": 66925,
+      "cacheReadInputTokens": 246225,
+      "cacheCreationInputTokens": 192861,
+      "webSearchRequests": 0,
+      "costUSD": 6.026693000000001,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "permission_denials": [],
+  "terminal_reason": "completed",
+  "fast_mode_state": "off",
+  "fast_mode_disabled_reason": "sdk_opt_in_required",
+  "subagent_stats": {
+    "spawned": 0,
+    "requested": {
+      "background": 0,
+      "foreground": 0,
+      "unset": 0
+    },
+    "started_in_background": 0,
+    "max_depth": 0,
+    "spawned_by_subagents": 0,
+    "completed": 0,
+    "failed": 0,
+    "killed": {
+      "parent": 0,
+      "user": 0,
+      "system": 0
+    },
+    "refused": {
+      "depth_limit": 0,
+      "concurrency_limit": 0,
+      "budget": 0
+    },
+    "by_type": {}
+  },
+  "safety_stops": 0,
+  "is_error": false,
+  "num_turns": 10,
+  "subtype": "success",
+  "api_error_status": null,
+  "result": "# Gate 3 review: Leichhardt 0.4.6 scoped architectural pass\n\n**Verdict: ready for headset review of this scoped revision.** I found no visible modelling defect that must be fixed first. Three scope items are not evidenced by the files I was given, so they stay \"claimed\", not \"passed\", until checked in the headset or re-captured.\n\n**Inspected:** `claude-response.txt`, `mesh-checks.json`, contact sheet `10-architectural-details.jpg`, and full-size shots 77, 78, 79 and 83. All other views were judged at thumbnail size only.\n\n## (a) Defects that must be fixed now\n\nNone substantiated from the renders.\n\n## (b) Not evidenced: cannot be passed yet\n\n1. **Garage box gutter and two sumps (`79-garage-gutters.png`).** The shot shows the parapet, two open-topped external rainheads and their downpipes. The roof surface renders near-black and featureless, so no channel, sump or roof-sheet trim is distinguishable at the low edge. I am not inferring they are missing. Re-capture with a lower, lit angle along the low edge, or check in the headset.\n2. **Niche framing (`83-niche-timber.png`).** The view is dark and layered through translucent linings. Horizontal members are visible near the niche zone, but I cannot positively identify the jambs, sill and head, or tell changed members from retained studs. The \"illustrative, load path not assessed\" wording is only in the shot title; I saw no in-scene tag.\n3. **Measurements missing from `mesh-checks.json`.** The file contains zero structural intersections for drainage, seven mount probes, 13 outlet rays and three niche sizes. It does not contain:\n   - the glazing-clearance check against 19 windows\n   - the 8/3/2 pipe count\n   - sump dimensions\n   - route connectivity\n   - laundry bulkhead dimensions\n   - niche side offsets (385/150/200)\n   - the far-side lining check and 27 back rays\n   - the list of changed timber members\n\n   These are asserted in `claude-response.txt` but were not in what I read. They may exist in another file.\n\n## (c) Source conflicts still open (correctly disclosed)\n\n- **DP06 dogleg:** inferred; neither endpoint is surveyed; elevation sheet 10 reportedly shows no pipes (I did not open that sheet).\n- **DP05:** approximate registration between sheets.\n- **DP08:** \"750\" is a probable setback, not a pipe dimension.\n- **Laundry bulkhead:** 300 label versus 340 dimension chain; depth is illustrative.\n- **Theatre:** platform height, high side and window-head/soffit coordination.\n- **Garage sump:** the second sump is absent on sheet 04.\n- **Powder room:** page-right wall tiling is inferred.\n- **Niche height datum and stud-compatible relocation:** both remain alternatives.\n- **Ensuite wall:** ground-floor load path not assessed; mixer plumbing not modelled.\n\n## (d) Adequately evidenced for this scope\n\n- **Upper WC (77, full size):** plaster on all visible walls, low tiled skirting on both side walls and the end wall, tiled floor, holder mounted on the side wall. The gate 2 correction is implemented. The 100 mm height is visually plausible but not measured in the file.\n- **Niches (72, 73, 74 plus mesh checks):** all three are real recesses with tiled returns, measured at 1000/900/600 wide \u00d7 450 high, 1200 sill, 60 deep. They sit on the walls confirmed at gate 2, by thumbnail judgement. The ensuite mixer is below the niche as drawn.\n- **DP06 (78, full size):** the upper stem drops between two upper windows, the sloped offset sits at the render/brick junction, and the lower stem lands left of the ground-floor window. Both stems are visibly clear of glazing in this view, and the offset falls toward the lower stem. The adjacent pipe has a visible eave return and runs to the ground.\n- **Accessories:** seven mount probes pass, and holders or rails are visible in 74, 75, 76, 77 and 82. The ensuite towel ring is not clearly visible in any shot I inspected; it is evidenced by the probe only.\n- **Laundry bulkhead (71):** present above the overhead cupboards with a continuous junction (thumbnail only).\n- **Porch (80) and page-top elevation (81):** channel, rainhead, spreader and pipes are present (thumbnail only).\n\n## Visual quality notes (non-blocking)\n\n- **Garage roof (79):** reads as flat black with no sheet profile, unlike the main roof.\n- **Pipe straps (78):** not discernible at this distance, so the \u22641800 spacing is unverified visually.\n- **Niche framing (83):** needs an isolated or highlighted view to be educationally legible.\n\n## Limits\n\nThe clash and ray tests show the geometry is self-consistent. They are not source, hydraulic or engineering acceptance. This is not a pass of the 309-item checklist.",
+  "ttft_ms": 2750,
+  "type": "result",
+  "duration_ms": 51947,
+  "uuid": "ad12b96e-b7b0-4618-9048-9f619e23caf3",
+  "ttft_stream_ms": 2087,
+  "time_to_request_ms": 171,
+  "first_content_frame_ms": 2087,
+  "queued_turn_count": 0,
+  "result_index": 0,
+  "model_usage_since_last_result": {
+    "claude-fable-5-2": {
+      "inputTokens": 12,
+      "outputTokens": 4274,
+      "cacheReadInputTokens": 225487,
+      "cacheCreationInputTokens": 48976,
+      "webSearchRequests": 0,
+      "costUSD": 0.9997694,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 1897,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  }
+}

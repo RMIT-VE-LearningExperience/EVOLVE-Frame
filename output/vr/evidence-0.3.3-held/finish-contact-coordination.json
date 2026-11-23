@@ -1,0 +1,18 @@
+{
+  "stair_wall_members_trimmed": [
+    "Powder east | top plate lower",
+    "Powder east | top plate upper",
+    "Powder east | common stud",
+    "Powder east | common stud.002",
+    "Powder east | common stud.003",
+    "Powder east | lining",
+    "Powder east | lining.001"
+  ],
+  "stair_obstruction_ray_checks": "PASS",
+  "ground_grade_m": -0.06,
+  "masonry_bearing_strips": 28,
+  "canopy_post_core": "P1 90 x 90 F7 H3 treated pine; S09/S10",
+  "canopy_finish": "Illustrative warm white paint, removable in structural view",
+  "meals_column": "C3 portal north, 200 x 100 x 6 RHS retained; S09/S10. Removable 10 mm illustrative lining.",
+  "entry_door": "Scheduled timber; split double leaves, satin finish and illustrative bronze pulls"
+}

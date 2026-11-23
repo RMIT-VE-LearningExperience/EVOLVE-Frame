@@ -1,0 +1,167 @@
+BOUNDARY LINE BOUNDARY LINE
+NORTH ELEVATION - D
+SCALE 1:100
+450 450
+O/H O/H
+SELECTED ALUM.
+CORNER SLIDING DOOR.
+SELECTED OVERHEAD SECTIONAL
+PANEL LIFT GARAGE DOOR.
+SELECTED
+BRICK FINISH.
+SELECTED COLORBOND
+GUTTER & FASCIA. 3600 2826
+CL.GARAGE CEILING HEIGHT GARAGE PARAPET HEIGHT 2740 2590
+CL. FFL. 10.906 CEILING HEIGHT
+CL.CEILING HEIGHT OVERALL BUILDING HEIGHT 7925
+SELECTED 100MM FOAM
+WITH RENDERED FINISH
+TO FIRST FLOOR.
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+O. F. SELECTED WHIRLYBIRD
+D
+03
+W
+14
+O.
+NGL. 10.75 NGL. 10.80 NGL. 10.89 NGL. 11.00
+FFL. 10.820 3000
+O. F. SOLAR PANEL TO BE CONFIRMED
+ON SITE BY CONTRACTOR.
+SP-P BUILDING
+ENVELOPE PROFILE
+SETBACK
+SP-D BUILDING
+ENVELOPE PROFILE
+SETBACK2400
+LIGHT WEIGHT CLADDING
+(RENDERED HEBEL) ABOVE
+SLIDING DOOR IN LIEU OF
+BRICKWORK. BOUNDARY LINE BOUNDARY LINE
+450
+O/H
+O. F. OBSCURE GLAZING
+OBSCURE
+GLAZING
+450
+O/H
+SELECTED
+BRICK FINISH.
+SELECTED RENDERED
+FINISH.
+SELECTED ALUM.
+AWNING WINDOW.
+SELECTED 590 X 590 BRICK
+PIERS TO ALFRESCO.
+SELECTED ALUM. SLIDING
+DOOR TO GARAGE.
+SELECTED COLORBOND
+GUTTER & FASCIA. 3600 2826
+CL. FFL. 10.820 GARAGE CEILING HEIGHT GARAGE PARAPET HEIGHT
+F. O.
+SELECTED ALUM.
+CORNER SLIDING DOOR. 2740 2590
+CL. FFL. 10.906 CEILING HEIGHT
+CL.CEILING HEIGHT OVERALL BUILDING HEIGHT 8275
+WEST ELEVATION - C
+SCALE 1:100
+SELECTED 100MM FOAM
+WITH RENDERED FINISH
+TO FIRST FLOOR.
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+O. 2400 2400
+O. 2100
+W
+06
+W
+07
+D
+04
+D
+05
+W
+15
+W
+16
+W
+17
+W
+18
+W
+19 2280
+NGL. 10.40
+NGL. 10.60
+NGL. 10.80 NGL. 10.97 3450 O. F. O. F. O. F. F. F. O. F. O.
+O. F. O. F. O. F. LIGHT WEIGHT CLADDING
+(RENDERED HEBEL) ABOVE
+SLIDING DOOR IN LIEU OF
+BRICKWORK.
+SCALE:
+PROJECT NO: 042224
+NEW DWELLING
+ @ A3
+LOT 735 (NO. 15) LEICHHARDT
+AVENUE, BURNSIDE HEIGHTS.
+PROJECT:
+ADDRESS: E.C.
+E.C.
+DRAWN:
+CHECKED:
+REVISION DATE: BY: - DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024 E.C.
+CLIENT:
+DRAWING NAME:
+SHEET NO:
+ISSUE DATE: 16.01.2024
+N
+ELEVATIONS
+1:100
+10
+GLAZING NOTE
+Glazing to be in accordance with AS1288-2021 and AS2047-2014.
+All full glazed doors, sidelights, including any glazing capable of being
+mistaken for a doorway or opening, shall be clearly marked for their full
+width a solid non transparent contrasting line. The contrasting line shall
+be not less than 75mm wide and shall extend across the full width of
+the glazing panel. The lower edge of the strip shall be located 900mm
+from the finished floor level. Any contrasting line on the glazing shall
+provide a minimum of 30% luminance contrast when viewed against
+the floor surface or surface within 2m of the glazing on the opposite
+side.
+All framed glazing where the lowest sight line of the glazing panel is
+less than 500mm from the highest abutting FFL must be grade A safety
+glass or ordinary annealed glass not less than 5mm nominal thickness
+provided that the area of the glazing panel is not more than 1.2m².
+If the presence of glazing in a door, side panel or panel capable of being
+mistaken for a doorway or opening, the glass must be marked to make
+it readily visible in the form of an opaque band not less than 20 mm in
+height located so that –
+(i) the upper edge is not less than 700 mm above the floor; and
+(ii) the lower edge is not more than 1.2 m above the floor.
+First floor bedroom windows must to be provided with protection as
+per the requirements of NCC 2019 Volume 2. This is to be provided in
+the form of:
+(a). A device capable of restricting window opening to a maximum of
+125mm, or
+(b). A screen with secure fittings.
+Safety glazing to be used in the following cases:-
+1. All rooms - within 500mm vertical of floor level.
+2. All glazing in bathrooms, ensuites, spa rooms or showers.
+Within 2000mm vertical from the bath base.
+Within 500mm horizontal from bath/shower to shower doors.
+shower screens and bath enclosures. (including mirrors etc.)
+3. Laundry - within 1200mm vertical from floor level.
+Within 300mm vertical of trough.
+4. Doorways within 300mm horizontal from all doors.
+5. Ensuite as for shower screens shall be "grade a" safety glass.
+Glazing including safety glazing shall be installed to a size, type and
+thickness so as to comply with:
+NCC 2019 Volume 2 for class 1 and 10 buildings within a design wind
+speed of not more than N3.
+Denotes: Window / Doors sizes that must be checked on site by
+thebuilder/contractor for clearances & fit before
+ordering/manufacturing.
+Window / Door sizes to be checked on site.
+o. Portion of window / door that is openable.
+f. Portion of window / door that is fixed.

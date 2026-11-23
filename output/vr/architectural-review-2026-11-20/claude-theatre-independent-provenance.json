@@ -1,0 +1,35 @@
+{
+  "session": "4f712649-8e0a-4367-b333-2a0c62b99520",
+  "model_usage": {
+    "claude-fable-5-2": {
+      "inputTokens": 14,
+      "outputTokens": 4714,
+      "cacheReadInputTokens": 66257,
+      "cacheCreationInputTokens": 42147,
+      "webSearchRequests": 0,
+      "costUSD": 0.8762754000000001,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 2071,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "duration_ms": 57217,
+  "read_paths": [
+    "D:/Git/EVOLE Frame/output/vr/architectural-review-2026-11-20/plans/sheet-08.png",
+    "D:/Git/EVOLE Frame/tmp/plans/theatre-platform-bulkhead-detail.png",
+    "D:/Git/EVOLE Frame/output/vr/architectural-review-2026-11-20/plans/sheet-11.png",
+    "D:/Git/EVOLE Frame/output/vr/architectural-review-2026-11-20/plans/sheet-09.png",
+    "D:/Git/EVOLE Frame/output/vr/architectural-review-2026-11-20/plans/sheet-10.png",
+    "D:/Git/EVOLE Frame/output/vr/architectural-review-2026-11-20/plans/sheet-12.png",
+    "D:/Git/EVOLE Frame/output/vr/architectural-review-2026-11-20/plans/sheet-17.png",
+    "D:/Git/EVOLE Frame/output/vr/architectural-review-2026-11-20/plans/sheet-15.png",
+    "D:/Git/EVOLE Frame/output/vr/architectural-review-2026-11-20/plans/sheet-07.png"
+  ],
+  "read_only": true,
+  "prior_AI_conclusions_supplied": false,
+  "api_fallback_used": false,
+  "report": "claude-theatre-independent-review.txt"
+}

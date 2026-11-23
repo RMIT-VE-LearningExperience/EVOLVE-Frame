@@ -1,0 +1,22 @@
+{
+  "id": "1795165624481790500",
+  "version": "0.3.2",
+  "room": "theatre",
+  "error": "",
+  "changing": false,
+  "focused": true,
+  "guide": true,
+  "narration": true,
+  "detail": false,
+  "isolated": false,
+  "location": 12,
+  "hotspots": 9,
+  "visibleParts": 9,
+  "explosion": 0.0,
+  "zoom": 1.0,
+  "eye": {
+    "x": -25.69955825805664,
+    "y": 4.656946182250977,
+    "z": -2.39514422416687
+  }
+}

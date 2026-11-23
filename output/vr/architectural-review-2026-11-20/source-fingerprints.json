@@ -1,0 +1,17 @@
+[
+  {
+    "path": "Leichhardt_Architectural Plans (1).pdf",
+    "bytes": 3420285,
+    "sha256": "4e270646056f7d4953751dcf132d30f4b50e7ce4e194c8818e16e1b038747c70"
+  },
+  {
+    "path": "output/vr/Leichhardt_VR.blend",
+    "bytes": 3580418,
+    "sha256": "0181ca095f7e771ca3584913cdd4893c2f26b761a84b856798d476f86a703e0a"
+  },
+  {
+    "path": "unity-vr/Assets/FrameLab/Editor/LeichhardtSiteLighting.cs",
+    "bytes": 4013,
+    "sha256": "3266effc5b5a9a9965f47003956258444fd6302f7bf1d1270b000a5a05465475"
+  }
+]

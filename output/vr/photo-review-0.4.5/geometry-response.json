@@ -1,0 +1,211 @@
+{
+  "source_sheets": [
+    7,
+    12,
+    16,
+    17,
+    18,
+    19
+  ],
+  "changes": [
+    {
+      "item": "D01 front door registration",
+      "old_centre_y": 5.327108308672905,
+      "new_centre_y": 6.234999999999999,
+      "rough_width": 1.64
+    },
+    {
+      "item": "Laundry linen divider",
+      "frame_width_m": 0.09,
+      "finished_width_m": 0.12
+    },
+    {
+      "item": "Garage veneer in laundry",
+      "new_south_limit_y": 7.98
+    },
+    {
+      "item": "North/east perimeter floor rim",
+      "section_m": [
+        0.045,
+        0.4
+      ],
+      "pieces": 8,
+      "basis": "Complete existing rim around external wall above the void; retained upper/lower wall levels. Connection details remain illustrative."
+    },
+    {
+      "item": "Entry void south fascia",
+      "height_m": 0.419
+    },
+    {
+      "item": "Main roof eave soffits",
+      "pieces": 4,
+      "thickness_m": 0.01
+    },
+    {
+      "item": "Wet room doorway tile continuations",
+      "count": 6,
+      "finish_thickness_m": 0.003
+    },
+    {
+      "item": "Door jamb/casing bake grouping",
+      "material": "VR Plaster junction returns",
+      "geometry": "unchanged"
+    },
+    {
+      "item": "Skirting bake grouping",
+      "material": "VR Plaster skirting trim",
+      "geometry": "unchanged; higher bake density and non-occluding trim"
+    },
+    {
+      "item": "Robe opening junction",
+      "clear_width_m": 0.8,
+      "centre_y": 3.455,
+      "basis": "15mm scaled shift aligns north finished jamb with adjoining wall faceY3.855; no filler overlaps"
+    }
+  ],
+  "checks": [
+    {
+      "label": "Entry south floor fascia",
+      "object": "Entry void south floor-zone lining",
+      "hit": [
+        25.299999237060547,
+        4.695000171661377,
+        2.950000047683716
+      ],
+      "result": "PASS"
+    },
+    {
+      "label": "Eave north",
+      "object": "Main eave soffit north",
+      "hit": [
+        10.0,
+        8.149999618530273,
+        5.514499664306641
+      ],
+      "result": "PASS"
+    },
+    {
+      "label": "Eave south",
+      "object": "Main eave soffit south",
+      "hit": [
+        17.0,
+        -0.29999998211860657,
+        5.514499664306641
+      ],
+      "result": "PASS"
+    },
+    {
+      "label": "Eave east",
+      "object": "Main eave soffit east",
+      "hit": [
+        27.29999542236328,
+        6.000000476837158,
+        5.514499664306641
+      ],
+      "result": "PASS"
+    },
+    {
+      "label": "Eave west",
+      "object": "Main eave soffit west",
+      "hit": [
+        6.050000190734863,
+        5.0,
+        5.514499664306641
+      ],
+      "result": "PASS"
+    },
+    {
+      "label": "Linen divider front",
+      "object": "Laundry linen divider | end return",
+      "hit": [
+        6.994999885559082,
+        6.204999923706055,
+        1.5
+      ],
+      "result": "PASS"
+    },
+    {
+      "label": "WC tile threshold",
+      "object": "Fitout | Ensuite WC threshold tiled floor",
+      "hit": [
+        19.8799991607666,
+        1.034999966621399,
+        0.0029999911785125732
+      ],
+      "result": "PASS"
+    },
+    {
+      "label": "Robe jamb former exposed stud",
+      "object": "WIR bedroom division | opening return.001",
+      "hit": [
+        22.811655044555664,
+        3.8550000190734863,
+        0.4000000059604645
+      ],
+      "result": "PASS"
+    },
+    {
+      "label": "Robe jamb former exposed stud",
+      "object": "WIR bedroom division | opening return.001",
+      "hit": [
+        22.811655044555664,
+        3.8550000190734863,
+        1.5
+      ],
+      "result": "PASS"
+    },
+    {
+      "label": "Robe jamb former exposed stud",
+      "object": "WIR bedroom division | opening return.001",
+      "hit": [
+        22.811655044555664,
+        3.8550000190734863,
+        2.200000047683716
+      ],
+      "result": "PASS"
+    },
+    {
+      "label": "Perimeter floor-zone contact",
+      "object": "Floor perimeter rim continuation 1",
+      "hit": [
+        22.000001907348633,
+        7.835000038146973,
+        2.9449000358581543
+      ],
+      "result": "PASS"
+    },
+    {
+      "label": "Perimeter floor-zone contact",
+      "object": "Floor perimeter rim continuation 3",
+      "hit": [
+        25.499998092651367,
+        7.835000514984131,
+        2.9449000358581543
+      ],
+      "result": "PASS"
+    },
+    {
+      "label": "Perimeter floor-zone contact",
+      "object": "Floor perimeter rim continuation 6",
+      "hit": [
+        26.94499969482422,
+        6.0,
+        3.140000104904175
+      ],
+      "result": "PASS"
+    },
+    {
+      "label": "D01 clear of Bedroom1",
+      "result": "PASS"
+    },
+    {
+      "label": "No brickwork in finished laundry",
+      "result": "PASS"
+    }
+  ],
+  "limitations": [
+    "Finish colours and hardware product shapes are illustrative.",
+    "D01 horizontal centre is scaled within the written3110 entry; scheduled width retained.",
+    "Floor-zone rim continuation is an illustrative closure of the existing framing system, not an engineered connection design."
+  ]
+}

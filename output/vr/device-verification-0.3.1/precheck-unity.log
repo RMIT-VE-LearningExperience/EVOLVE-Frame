@@ -1,0 +1,654 @@
+--------- beginning of main
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_BD_composition_layer_settings: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_BD_composition_layer_vst_mask: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_BD_facial_simulation: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_BD_haptic_audioclip: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_BD_human_occlusion_ext: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_BD_motion_tracking: Version=2
+11-20 18:11:18.008  2480  4156 I Unity   : Controller State: 2
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_BD_mr_management: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_BD_room_scene: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_BD_scene_label: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_BD_semi_auto_room_capture: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_BD_spatial_anchor_discovery: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_BD_spatial_anchor_persistence: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_BD_spatial_localization_and_tracking: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_BD_spatial_scene_1: Version=1
+11-20 18:11:18.008  2480  4156 W Unity   : All SDK Events : 2:60,17:16,9:28,35:2,6:51:21:30:0:17:15:4,
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_BD_spatial_tracking_state: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_EXT_environment_blend_mode_state: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_MetricsTool_ext: Version=1
+11-20 18:11:18.008  2480  4156 I Unity   : Controller State: 1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_body_tracking: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_boundary: Version=1
+11-20 18:11:18.008  2480  4156 W Unity   : All SDK Events : 2:60,17:16,9:28,35:2,6:52:21:31:0:17:15:4,
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_composition_layer_fisheye: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_configs_ext: Version=2
+11-20 18:11:18.008  2480  4156 I Unity   : Controller State: 2
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_eye_tracking: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_frame_end_info_ext: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_hand_tracking: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_haptic_pcm: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_ipd: Version=1
+11-20 18:11:18.008  2480  4156 W Unity   : All SDK Events : 2:60,17:16,9:28,35:2,6:53:21:32:0:17:15:4,
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_layer_settings: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_passthrough: Version=2
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_performance_metrics: Version=1
+11-20 18:11:18.008  2480  4156 I Unity   : Controller State: 1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_reset_sensor: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_view_frustum: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_view_frustum_ext: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_view_ipd: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_view_state_ext_enable: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_adaptive_resolution: Version=1
+11-20 18:11:18.008  2480  4156 W Unity   : All SDK Events : 2:60,17:16,9:28,35:2,6:54:21:33:0:17:15:4,
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_body_tracking2: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_expand_device: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_external_camera: Version=1
+11-20 18:11:18.008  2480  4156 I Unity   : Controller State: 2
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_motion_tracking: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_readback_tensor: Version=2
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_readback_tensor_opengles: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_readback_tensor_vulkan: Version=1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_PICO_virtual_boundary: Version=1
+11-20 18:11:18.008  2480  4156 W Unity   : All SDK Events : 2:60,17:16,9:28,35:2,6:55:21:34:0:17:15:4,
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ] 
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ] Available Layers: (0)
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ] 
+11-20 18:11:18.008  2480  4156 I Unity   : Controller State: 1
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ] Runtime Name: Pico XRRuntime()
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ] Runtime Version: 36481.57721.123
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ] 
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ] Form factor: XR_FORM_FACTOR_HEAD_MOUNTED_DISPLAY
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ] 
+11-20 18:11:18.008  2480  4156 W Unity   : All SDK Events : 2:60,17:16,9:28,35:2,6:56:21:35:0:17:15:4,
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ] Runtime extensions enabled: (11)
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_BD_controller_interaction: Version=2
+11-20 18:11:18.008  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.008][Info   ]   XR_EXT_local_floor: Version=1
+11-20 18:11:18.008  2480  4156 I Unity   : Controller State: 2
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   XR_EXT_user_presence: Version=1
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   XR_KHR_android_create_instance: Version=3
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   XR_KHR_composition_layer_depth: Version=6
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   XR_KHR_vulkan_enable2: Version=3
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   XR_FB_composition_layer_secure_content: Version=1
+11-20 18:11:18.009  2480  4156 W Unity   : All SDK Events : 2:60,17:16,9:28,35:2,6:57:21:35:0:18:15:4,
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   XR_FB_foveation: Version=1
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   XR_FB_foveation_configuration: Version=1
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   XR_FB_swapchain_update_state: Version=3
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   XR_KHR_android_thread_settings: Version=6
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Available Reference Spaces: (4)
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   XR_REFERENCE_SPACE_TYPE_VIEW
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   XR_REFERENCE_SPACE_TYPE_LOCAL
+11-20 18:11:18.009  2480  4156 W Unity   : All SDK Events : 2:61,17:16,9:28,35:2,6:57:21:35:0:18:15:4,
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   XR_REFERENCE_SPACE_TYPE_STAGE
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   XR_REFERENCE_SPACE_TYPE_LOCAL_FLOOR
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Instance Id  : 0x3c1f100
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] System Id    : 0x1
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Session Id   : 0x3c62940
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Available View Configuration Types: (1)
+11-20 18:11:18.009  2480  4156 W Unity   : All SDK Events : 2:62,17:16,9:28,35:2,6:57:21:35:0:18:15:4,
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   XR_VIEW_CONFIGURATION_TYPE_PRIMARY_STEREO (Selected): FovMutable=False
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]     [0]: Recommended: Width=1920, Height=1920, SampleCount=1
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]     [0]:     Maximum: Width=2560, Height=2560, SampleCount=1
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]     [1]: Recommended: Width=1920, Height=1920, SampleCount=1
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]     [1]:     Maximum: Width=2560, Height=2560, SampleCount=1
+11-20 18:11:18.009  2480  4156 W Unity   : All SDK Events : 2:62,17:16,9:28,35:2,6:58:21:35:0:19:15:4,
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Skip Present To Main Screen: Yes
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Available Environment Blend Modes: (2)
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   XR_ENVIRONMENT_BLEND_MODE_OPAQUE (Selected)
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   XR_ENVIRONMENT_BLEND_MODE_ALPHA_BLEND
+11-20 18:11:18.009  2480  4156 W Unity   : All SDK Events : 2:62,17:16,9:28,35:2,6:59:21:36:0:19:15:4,
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Features requested to be enabled: (2)
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   PICO Support: Version=1.4.1, Company="PICO"
+11-20 18:11:18.009  2480  4156 I Unity   : Controller State: 2
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   PICO4 Ultra Touch Controller Profile: Version=1.0.0, Company="PICO", Extensions="XR_BD_controller_interaction"
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Requested feature extensions not supported by runtime: (0)
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Available View Configuration Types: (1)
+11-20 18:11:18.009  2480  4156 W Unity   : All SDK Events : 2:62,17:16,9:28,35:2,6:60:21:37:0:19:15:4,
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   XR_VIEW_CONFIGURATION_TYPE_PRIMARY_STEREO (Selected): FovMutable=False
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]     [0]: Recommended: Width=1920, Height=1920, SampleCount=1
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]     [0]:     Maximum: Width=2560, Height=2560, SampleCount=1
+11-20 18:11:18.009  2480  4156 I Unity   : Controller State: 1
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]     [1]: Recommended: Width=1920, Height=1920, SampleCount=1
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]     [1]:     Maximum: Width=2560, Height=2560, SampleCount=1
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Skip Present To Main Screen: Yes
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Available Environment Blend Modes: (2)
+11-20 18:11:18.009  2480  4156 W Unity   : All SDK Events : 2:62,17:16,9:28,35:2,6:61:21:38:0:19:15:4,
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   XR_ENVIRONMENT_BLEND_MODE_OPAQUE (Selected)
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   XR_ENVIRONMENT_BLEND_MODE_ALPHA_BLEND
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  2480  4156 I Unity   : Controller State: 2
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] System Properties: Name="PICO 4 Ultra Enterprise HMD", VendorId=42
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] System Graphics Properties: MaxWidth=16384, MaxHeight=16384, MaxLayers=16
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] System Tracking Properties: OrientationTracking=True, PositionTracking=True
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  2480  4156 W Unity   : All SDK Events : 2:62,17:16,9:28,35:2,6:62:21:38:0:20:15:4,
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Features requested to be enabled: (2)
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   PICO Support: Version=1.4.1, Company="PICO"
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   PICO4 Ultra Touch Controller Profile: Version=1.0.0, Company="PICO", Extensions="XR_BD_controller_interaction"
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Requested feature extensions not supported by runtime: (0)
+11-20 18:11:18.009  2480  4156 W Unity   : All SDK Events : 2:62,17:16,9:28,35:2,6:63:21:38:0:21:15:4,
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Features requested to be enabled: (2)
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   PICO Support: Version=1.4.1, Company="PICO"
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   PICO4 Ultra Touch Controller Profile: Version=1.0.0, Company="PICO", Extensions="XR_BD_controller_interaction"
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Requested feature extensions not supported by runtime: (0)
+11-20 18:11:18.009  2480  4156 W Unity   : All SDK Events : 2:62,17:16,9:28,35:2,6:64:21:39:0:21:15:4,
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] ==== OpenXR API Spec Version ====
+11-20 18:11:18.009  2480  4156 I Unity   : Controller State: 2
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] XrInstance Created with OpenXR API Version: 1.0.34
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] ==== OpenXR Input ====
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Action Sets (1): 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]   pico4ultracontroller: ActionCount=18
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] ==== OpenXR Swapchain Details ====
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Render Mode: Single Pass Instanced
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Latency Optimization: Prioritize Rendering
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Color Submission Mode: RGBA, 8 bits per channel (LDR)
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Depth Submission Mode: None
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Swapchain Format Preferences: 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    kRenderTextureFormatGroup8888
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] Swapchain Formats: 
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ] [c:VK_FORMAT_R8G8B8A8_SRGB]
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    VK_FORMAT_R8_UNORM
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    VK_FORMAT_R8G8_UNORM
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    VK_FORMAT_R8G8B8A8_UNORM
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    VK_FORMAT_R8_SNORM
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    VK_FORMAT_R8G8_SNORM
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    VK_FORMAT_R5G6B5_UNORM_PACK16
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    VK_FORMAT_A2B10G10R10_UNORM_PACK32
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    VK_FORMAT_R8G8B8A8_SNORM
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    VK_FORMAT_R16_UNORM
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    VK_FORMAT_R16G16_UNORM
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    VK_FORMAT_R16G16B16A16_UNORM
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    VK_FORMAT_R16_SNORM
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    VK_FORMAT_R16G16_SNORM
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    VK_FORMAT_R16G16B16A16_SNORM
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    VK_FORMAT_R16_UINT
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    VK_FORMAT_R16G16_UINT
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    VK_FORMAT_R16G16B16A16_UINT
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    VK_FORMAT_R16_SINT
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    VK_FORMAT_R16G16_SINT
+11-20 18:11:18.009  9509 14526 I Unity   : [XR] [528846642352] [18:11:18.009][Info   ]    VK_FORMAT_R16G16B16A16_SINT
+11-20 18:11:18.014  2480  4156 I Unity   : ControllerMode Change : LeftController False   RightController : False HnadEnable :True
+11-20 18:11:18.014  2480  4156 E Unity   : 走手势识别
+11-20 18:11:18.014  2480  4156 I Unity   : CursorManager-------ControlCVRayShow : LeftHand Controller False
+11-20 18:11:18.014  2480  4156 I Unity   : CursorManager-------ControlCVRayShow : RightHand Controller False
+11-20 18:11:18.014  2480  4156 I Unity   : CursorManager-------ControlCVRayShow : HandLeft True
+11-20 18:11:18.014  2480  4156 I Unity   : Hand ray controller : True
+11-20 18:11:18.014  2480  4156 I Unity   : CursorManager-------ControlCVRayShow : HandRight True
+11-20 18:11:18.014  2480  4156 I Unity   : Hand ray controller : True
+11-20 18:11:18.014  2480  4156 I Unity   : OnAppFocus --> isFocus = False
+11-20 18:11:18.014  2480  4156 I Unity   : Hand ray controller : False
+11-20 18:11:18.014  2480  4156 I Unity   : Hand ray controller : False
+11-20 18:11:18.021  2480  4156 W Unity   : All SDK Events : 2:62,17:16,9:28,35:2,6:65:21:40:0:21:15:4,
+11-20 18:11:18.021  2480  4156 I Unity   : Controller State: 1
+11-20 18:11:18.021  2480  4156 W Unity   : All SDK Events : 2:62,17:16,9:28,35:2,6:66:21:41:0:21:15:4,
+11-20 18:11:18.021  2480  4156 I Unity   : Controller State: 2
+11-20 18:11:18.021  2480  4156 W Unity   : All SDK Events : 2:62,17:16,9:28,35:2,6:67:21:42:0:21:15:4,
+11-20 18:11:18.021  2480  4156 I Unity   : Controller State: 1
+11-20 18:11:18.022  2480  4156 W Unity   : All SDK Events : 2:62,17:16,9:28,35:2,6:68:21:43:0:21:15:4,
+11-20 18:11:18.022  2480  4156 I Unity   : Controller State: 2
+11-20 18:11:18.022  2480  4156 W Unity   : All SDK Events : 2:62,17:16,9:28,35:2,6:69:21:43:0:22:15:4,
+11-20 18:11:18.022  2480  4156 W Unity   : All SDK Events : 2:62,17:16,9:28,35:2,6:70:21:43:0:23:15:4,
+11-20 18:11:18.022  2480  4156 W Unity   : All SDK Events : 2:62,17:16,9:28,35:2,6:71:21:44:0:23:15:4,
+11-20 18:11:18.022  2480  4156 I Unity   : Controller State: 2
+11-20 18:11:18.022  2480  4156 W Unity   : All SDK Events : 2:62,17:16,9:28,35:2,6:72:21:45:0:23:15:4,
+11-20 18:11:18.022  2480  4156 I Unity   : Controller State: 1
+11-20 18:11:18.022  2480  4156 W Unity   : All SDK Events : 2:62,17:16,9:28,35:2,6:73:21:46:0:23:15:4,
+11-20 18:11:18.022  2480  4156 I Unity   : Controller State: 2
+11-20 18:11:18.022  2480  4156 W Unity   : All SDK Events : 2:62,17:16,9:28,35:2,6:74:21:46:0:24:15:4,
+11-20 18:11:18.054  2480  4156 W Unity   : All SDK Events : 2:63,17:16,9:28,35:2,6:74:21:46:0:24:15:4,
+11-20 18:11:18.058  2480  4156 W Unity   : All SDK Events : 2:64,17:16,9:28,35:2,6:74:21:46:0:24:15:4,
+11-20 18:11:18.084  2480  4156 W Unity   : All SDK Events : 2:64,17:16,9:28,35:2,6:75:21:46:0:25:15:4,
+11-20 18:11:18.084  2480  4156 W Unity   : All SDK Events : 2:64,17:16,9:28,35:2,6:76:21:47:0:25:15:4,
+11-20 18:11:18.084  2480  4156 I Unity   : Controller State: 2
+11-20 18:11:18.084  2480  4156 W Unity   : All SDK Events : 2:64,17:16,9:28,35:2,6:77:21:48:0:25:15:4,
+11-20 18:11:18.084  2480  4156 I Unity   : Controller State: 1
+11-20 18:11:18.084  2480  4156 W Unity   : All SDK Events : 2:64,17:16,9:28,35:2,6:78:21:49:0:25:15:4,
+11-20 18:11:18.084  2480  4156 I Unity   : Controller State: 2
+11-20 18:11:18.084  2480  4156 W Unity   : All SDK Events : 2:64,17:16,9:28,35:2,6:79:21:49:0:26:15:4,
+11-20 18:11:18.084  2480  4156 W Unity   : All SDK Events : 2:65,17:16,9:28,35:2,6:79:21:49:0:26:15:4,
+11-20 18:11:18.084  2480  4156 W Unity   : All SDK Events : 2:66,17:16,9:28,35:2,6:79:21:49:0:26:15:4,
+11-20 18:11:18.084  2480  4156 W Unity   : All SDK Events : 2:66,17:16,9:28,35:2,6:80:21:49:0:27:15:4,
+11-20 18:11:18.084  2480  4156 W Unity   : All SDK Events : 2:66,17:16,9:28,35:2,6:81:21:50:0:27:15:4,
+11-20 18:11:18.084  2480  4156 I Unity   : Controller State: 2
+11-20 18:11:18.085  2480  4156 W Unity   : All SDK Events : 2:66,17:16,9:28,35:2,6:82:21:51:0:27:15:4,
+11-20 18:11:18.085  2480  4156 I Unity   : Controller State: 1
+11-20 18:11:18.085  2480  4156 W Unity   : All SDK Events : 2:66,17:16,9:28,35:2,6:83:21:52:0:27:15:4,
+11-20 18:11:18.085  2480  4156 I Unity   : Controller State: 2
+11-20 18:11:18.085  2480  4156 W Unity   : All SDK Events : 2:66,17:16,9:28,35:2,6:84:21:53:0:27:15:4,
+11-20 18:11:18.085  2480  4156 I Unity   : Controller State: 1
+11-20 18:11:18.085  2480  4156 W Unity   : All SDK Events : 2:67,17:16,9:28,35:2,6:84:21:53:0:27:15:4,
+11-20 18:11:18.085  2480  4156 W Unity   : All SDK Events : 2:68,17:16,9:28,35:2,6:84:21:53:0:27:15:4,
+11-20 18:11:18.087  2480  4156 I Unity   : ControllerMode Change : LeftController False   RightController : True HnadEnable :False
+11-20 18:11:18.087  2480  4156 I Unity   : CursorManager-------ControlCVRayShow : HandLeft False
+11-20 18:11:18.087  2480  4156 I Unity   : Hand ray controller : False
+11-20 18:11:18.088  2480  4156 I Unity   : CursorManager-------ControlCVRayShow : HandRight False
+11-20 18:11:18.088  2480  4156 I Unity   : Hand ray controller : False
+11-20 18:11:18.088  2480  4156 I Unity   : CursorManager-------ControlCVRayShow : LeftHand Controller False
+11-20 18:11:18.088  2480  4156 I Unity   : CursorManager-------ControlCVRayShow : RightHand Controller True
+11-20 18:11:18.088  2480  4156 I Unity   : OnAppFocus --> isFocus = False
+11-20 18:11:18.088  2480  4156 I Unity   : Hand ray controller : False
+11-20 18:11:18.088  2480  4156 I Unity   : Hand ray controller : False
+11-20 18:11:18.418  2480  4156 I Unity   : OnXrRuntimeDisplayStateChanged 6
+11-20 18:11:18.418  2480  4156 I Unity   : 收到RuntimeDisplayState播放音乐
+11-20 18:11:18.418  2480  4156 I Unity   : 播放音乐
+11-20 18:11:18.558  9509 14526 I Unity   : ##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1795164078558,"processId":9509,"allocatedMemory":1617154,"memoryLabels":[{"Default":30844},{"Permanent":8},{"Thread":2240},{"Manager":533111},{"GfxDevice":5696},{"Animation":2496},{"Serialization":608},{"ScriptingNativeRuntime":983952},{"BaseObject":1128},{"Renderer":10960},{"File":32},{"String":477},{"Utility":4312},{"PoolAlloc":192},{"ScriptManager":5416},{"CodeReload":440},{"VR":8168},{"NativeArray":32914},{"Gui":1224}]}
+11-20 18:11:18.573  9509 14526 I Unity   : No leftover JNI Proxy objects detected
+11-20 18:11:18.589  9509  9509 I Unity   : onDestroy
+11-20 18:11:18.590  9509  9509 I Unity   : Quitting process
+11-20 18:11:19.760  2480  4156 I Unity   : main OnApplicationPause True
+11-20 18:11:19.760  2480  4156 I Unity   : targetFrameRate重置为300
+11-20 18:11:19.760  2480  4156 I Unity   : OnApplicationPause 停止声音
+11-20 18:11:19.955  9999  9999 I Unity   : resumeUnity
+11-20 18:11:19.963  9999  9999 I Unity   : onResume
+11-20 18:11:20.000  9999 15083 I Unity   : MemoryManager: Using 'Dynamic Heap' Allocator.
+11-20 18:11:20.000  9999 15083 I Unity   : Mimalloc is enabled and will override the Dynamic Heap and Dual Thread (Main and MainThread) allocators.
+11-20 18:11:20.015  9999  9999 I Unity   : windowFocusChanged: true
+11-20 18:11:20.021  9999 15083 I Unity   : SetGameState: isLoading: true, mode: UNKNOWN, label: -2, quality: -1
+11-20 18:11:20.044  9999 15083 E Unity   : java.lang.ClassNotFoundException: Didn't find class "com.google.android.play.core.assetpacks.AssetPackManager" on path: DexPathList[[zip file "/system/framework/sys-verifytool.jar", zip file "/system/framework/sys-sharememory.jar", zip file "/data/app/~~6_wv8ksvIi8lIAjl71Izvg==/au.edu.evolve.framelab-EgkBSpeYjXmVvhuLh5vJcg==/base.apk"],nativeLibraryDirectories=[/data/app/~~6_wv8ksvIi8lIAjl71Izvg==/au.edu.evolve.framelab-EgkBSpeYjXmVvhuLh5vJcg==/lib/arm64, /data/app/~~6_wv8ksvIi8lIAjl71Izvg==/au.edu.evolve.framelab-EgkBSpeYjXmVvhuLh5vJcg==/base.apk!/lib/arm64-v8a, /system/lib64, /system/lib64/soundfx, /system/lib64/vklayer, /system/lib64/gleslayers, /system_ext/lib64]]
+11-20 18:11:20.049  9999 15083 I Unity   : SystemInfo CPU = ARM64 FP ASIMD AES, Cores = 6, Memory = 11736mb
+11-20 18:11:20.049  9999 15083 I Unity   : SystemInfo ARM big.LITTLE configuration: 4 big (mask: 0x3c), 2 little (mask: 0x3)
+11-20 18:11:20.049  9999 15083 I Unity   : ApplicationInfo 'au.edu.evolve.framelab', Version '0.3.1', Min API Level '29', Target API Level '36'
+11-20 18:11:20.049  9999 15083 I Unity   : Built from '6000.6/staging' branch, Version '6000.6.9f1 (8c45277fb9c5)', Build type 'Development', Scripting Backend 'il2cpp', CPU 'arm64-v8a', Stripping 'Enabled'
+11-20 18:11:20.049  9999 15083 I Unity   : Device Model 'Pico A94Y0', OS 'Android OS 14 (API 34)'
+11-20 18:11:20.144  9999 15083 I Unity   : Company Name: EVOLVE Learning
+11-20 18:11:20.144  9999 15083 I Unity   : Product Name: EVOLVE Frame
+11-20 18:11:20.169  9999 15083 I Unity   : [XR] [528845716656] [18:11:20.169][Info   ] Available Layers: (0)
+11-20 18:11:20.484  9999 15083 I Unity   : XRGeneral Settings awakening...
+11-20 18:11:20.484  9999 15083 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:11:20.484  9999 15083 I Unity   : UnityEngine.XR.Management.XRGeneralSettings:Awake()
+11-20 18:11:20.484  9999 15083 I Unity   : 
+11-20 18:11:20.530  9999 15083 I Unity   : Loading OpenXR loader library at path: openxr_loader
+11-20 18:11:20.530  9999 15083 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:11:20.530  9999 15083 I Unity   : UnityEngine.XR.OpenXR.OpenXRLoaderBase:LoadOpenXRSymbols()
+11-20 18:11:20.530  9999 15083 I Unity   : UnityEngine.XR.OpenXR.OpenXRLoaderBase:InitializeInternal()
+11-20 18:11:20.530  9999 15083 I Unity   : UnityEngine.XR.OpenXR.OpenXRLoaderBase:Initialize()
+11-20 18:11:20.530  9999 15083 I Unity   : UnityEngine.XR.Management.XRManagerSettings:InitializeLoaderSync()
+11-20 18:11:20.530  9999 15083 I Unity   : 
+11-20 18:11:20.550  9999 15083 I Unity   : [XR] [528845716656] [18:11:20.550][Info   ] Available Layers: (0)
+11-20 18:11:20.580  9999 15083 W Unity   : Orientation Listener cannot detect orientation.
+11-20 18:11:20.581  9999 15083 I Unity   : SetGameState: isLoading: false, mode: UNKNOWN, label: -1, quality: 0
+11-20 18:11:20.667  9999 15083 I Unity   : SetGameState: isLoading: true, mode: UNKNOWN, label: 0, quality: 0
+11-20 18:11:20.709  9999 15083 I Unity   : [XR] [528845716656] [18:11:20.709][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_UNKNOWN->XR_SESSION_STATE_IDLE session=-5476376625992021696 time=0
+11-20 18:11:20.709  9999 15083 I Unity   : [XR] [528845716656] [18:11:20.709][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_IDLE->XR_SESSION_STATE_READY session=-5476376625992021696 time=0
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_READY->XR_SESSION_STATE_SYNCHRONIZED session=-5476376625992021696 time=0
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_VISIBLE session=-5476376625992021696 time=0
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_VISIBLE->XR_SESSION_STATE_FOCUSED session=-5476376625992021696 time=0
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] 
+11-20 18:11:21.358  9999 15083 I Unity   : 
+11-20 18:11:21.358  9999 15083 I Unity   : ==== Start Unity OpenXR Diagnostic Report ====
+11-20 18:11:21.358  9999 15083 I Unity   : 
+11-20 18:11:21.358  9999 15083 I Unity   : 
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] ==== Report Reason: System Startup Completed ====
+11-20 18:11:21.358  9999 15083 I Unity   : 
+11-20 18:11:21.358  9999 15083 I Unity   : 
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] ==== OpenXR Settings ====
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] 
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] Symmetric Projection: False
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] Stereo Rendering Mode: SinglePassInstanced
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] Latency Optimization: PrioritizeRendering
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] Color Submission Modes: kRenderTextureFormatGroup8888
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] Depth Submission Mode: None
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] Space Warp Motion Vector Texture Format: RGBA16f
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] Optimize Buffer Discards: False
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] Multiview Render Regions Optimization Mode: None
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] Use OpenXR Predicted Time: True
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] Foveated Rendering API: SRPFoveation
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] 
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] ==== OpenXR Provider Info ====
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] 
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] Provider Version: ecb5f4e-dirty
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] App: EVOLVE Frame #1389508478
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] Engine: 6000.6.9f1 #90215425
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] 
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] ==== Vulkan ====
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] 
+11-20 18:11:21.358  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] Depth Support Available: Yes
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.358][Info   ] 
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ] Enable: XR_KHR_vulkan_enable2
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ] 
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ] ==== OpenXR Runtime Info ====
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ] 
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ] Available Runtime Extensions: (143)
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_body_tracking: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_controller_interaction: Version=2
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_future_progress: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_spatial_anchor: Version=2
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_spatial_anchor_sharing: Version=2
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_spatial_mesh: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_spatial_plane: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_spatial_scene: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_spatial_sensing: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EPIC_view_configuration_fov: Version=2
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXTX_overlay: Version=5
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_active_action_set_priority: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_composition_layer_inverted_alpha: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_debug_utils: Version=5
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_eye_gaze_interaction: Version=2
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_future: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_hand_interaction: Version=2
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_hand_tracking: Version=4
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_performance_settings: Version=4
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_spatial_anchor: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_spatial_entity: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_spatial_persistence: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_spatial_persistence_operations: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_spatial_plane_tracking: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_user_presence: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_view_configuration_depth_range: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_FB_composition_layer_alpha_blend: Version=3
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_FB_composition_layer_image_layout: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_FB_composition_layer_secure_content: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_FB_composition_layer_settings: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_FB_display_refresh_rate: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_FB_foveation: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_FB_foveation_configuration: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_FB_foveation_vulkan: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_FB_passthrough: Version=4
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_FB_space_warp: Version=2
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_FB_swapchain_update_state: Version=3
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_FB_swapchain_update_state_android_surface: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_FB_swapchain_update_state_opengl_es: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_FB_swapchain_update_state_vulkan: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_FB_triangle_mesh: Version=2
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_android_create_instance: Version=3
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_android_surface_swapchain: Version=4
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_android_thread_settings: Version=6
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_composition_layer_color_scale_bias: Version=5
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_composition_layer_cube: Version=8
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_composition_layer_cylinder: Version=4
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_composition_layer_depth: Version=6
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_composition_layer_equirect: Version=3
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_composition_layer_equirect2: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_convert_timespec_time: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_loader_init: Version=2
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_loader_init_android: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_opengl_es_enable: Version=9
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_vulkan_enable: Version=9
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_vulkan_enable2: Version=3
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_vulkan_swapchain_format_list: Version=5
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_META_foveation_eye_tracked: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_META_vulkan_swapchain_create_info: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_MND_headless: Version=3
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_MSFT_composition_layer_reprojection: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_frame_synthesis: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_interaction_render_model: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_local_floor: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_palm_pose: Version=3
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_render_model: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_uuid: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_locate_spaces: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_maintenance1: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_android_blast_buffer_queue_swapchain: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_composition_layer_opaque_rect: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_spatial_runtime: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_swapchain_update_state_android_blast_buffer_queue: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_view_state_stage_pose: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_android_controller_function_ext_enable: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_auto_scene_capture: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_camera_image: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_configuration: Version=2
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_controller_interaction: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_frame_end: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_layer_color_matrix: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_scene_capture: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_scene_capture_creation: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_semi_auto_scene_capture: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_spatial_anchor: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_spatial_anchor_sharing: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_spatial_mesh: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_spatial_sensing: Version=2
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_spatial_plane: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_transform_background_color: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_view_state: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_anchor_entity: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_anchor_entity_persistence: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_anchor_entity_persistence_private: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_anchor_entity_quality: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_async_task: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_auto_room_capture: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_composition_layer_color_matrix: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_composition_layer_eac: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_composition_layer_fisheye: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_composition_layer_settings: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_composition_layer_vst_mask: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_facial_simulation: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_haptic_audioclip: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_human_occlusion_ext: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_motion_tracking: Version=2
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_mr_management: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_room_scene: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_scene_label: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_semi_auto_room_capture: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_spatial_anchor_discovery: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_spatial_anchor_persistence: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_spatial_localization_and_tracking: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_spatial_scene_1: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_spatial_tracking_state: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_environment_blend_mode_state: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_MetricsTool_ext: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_body_tracking: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_boundary: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_composition_layer_fisheye: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_configs_ext: Version=2
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_eye_tracking: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_frame_end_info_ext: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_hand_tracking: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_haptic_pcm: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_ipd: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_layer_settings: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_passthrough: Version=2
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_performance_metrics: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_reset_sensor: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_view_frustum: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_view_frustum_ext: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_view_ipd: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_view_state_ext_enable: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_adaptive_resolution: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_body_tracking2: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_expand_device: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_external_camera: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_motion_tracking: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_readback_tensor: Version=2
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_readback_tensor_opengles: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_readback_tensor_vulkan: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_PICO_virtual_boundary: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ] 
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ] Available Layers: (0)
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ] 
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ] Runtime Name: Pico XRRuntime()
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ] Runtime Version: 36481.57721.123
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ] 
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ] Form factor: XR_FORM_FACTOR_HEAD_MOUNTED_DISPLAY
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ] 
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ] Runtime extensions enabled: (11)
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_BD_controller_interaction: Version=2
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_local_floor: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_EXT_user_presence: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_android_create_instance: Version=3
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_composition_layer_depth: Version=6
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_KHR_vulkan_enable2: Version=3
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_FB_composition_layer_secure_content: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_FB_foveation: Version=1
+11-20 18:11:21.359  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.359][Info   ]   XR_FB_foveation_configuration: Version=1
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]   XR_FB_swapchain_update_state: Version=3
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]   XR_KHR_android_thread_settings: Version=6
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] 
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] Available Reference Spaces: (4)
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]   XR_REFERENCE_SPACE_TYPE_VIEW
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]   XR_REFERENCE_SPACE_TYPE_LOCAL
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]   XR_REFERENCE_SPACE_TYPE_STAGE
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]   XR_REFERENCE_SPACE_TYPE_LOCAL_FLOOR
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] 
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] Instance Id  : 0x4779c100
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] System Id    : 0x1
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] Session Id   : 0x477e4940
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] 
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] Available View Configuration Types: (1)
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]   XR_VIEW_CONFIGURATION_TYPE_PRIMARY_STEREO (Selected): FovMutable=False
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]     [0]: Recommended: Width=1920, Height=1920, SampleCount=1
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]     [0]:     Maximum: Width=2560, Height=2560, SampleCount=1
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]     [1]: Recommended: Width=1920, Height=1920, SampleCount=1
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]     [1]:     Maximum: Width=2560, Height=2560, SampleCount=1
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] 
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] Skip Present To Main Screen: Yes
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] 
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] Available Environment Blend Modes: (2)
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]   XR_ENVIRONMENT_BLEND_MODE_OPAQUE (Selected)
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]   XR_ENVIRONMENT_BLEND_MODE_ALPHA_BLEND
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] 
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] Features requested to be enabled: (2)
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]   PICO Support: Version=1.4.1, Company="PICO"
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]   PICO4 Ultra Touch Controller Profile: Version=1.0.0, Company="PICO", Extensions="XR_BD_controller_interaction"
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] 
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] Requested feature extensions not supported by runtime: (0)
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] 
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] System Properties: Name="PICO 4 Ultra Enterprise HMD", VendorId=42
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] System Graphics Properties: MaxWidth=16384, MaxHeight=16384, MaxLayers=16
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] System Tracking Properties: OrientationTracking=True, PositionTracking=True
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] 
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] ==== OpenXR API Spec Version ====
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] 
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] XrInstance Created with OpenXR API Version: 1.0.34
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] 
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] ==== OpenXR Input ====
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] 
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] Action Sets (1): 
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]   pico4ultracontroller: ActionCount=18
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] 
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] 
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] ==== OpenXR Swapchain Details ====
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] 
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] Render Mode: Single Pass Instanced
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] Latency Optimization: Prioritize Rendering
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] Color Submission Mode: RGBA, 8 bits per channel (LDR)
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] Depth Submission Mode: None
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] 
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] Swapchain Format Preferences: 
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    kRenderTextureFormatGroup8888
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] Swapchain Formats: 
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] [c:VK_FORMAT_R8G8B8A8_SRGB]
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R8_UNORM
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R8G8_UNORM
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R8G8B8A8_UNORM
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R8_SNORM
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R8G8_SNORM
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R5G6B5_UNORM_PACK16
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_A2B10G10R10_UNORM_PACK32
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R8G8B8A8_SNORM
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R16_UNORM
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R16G16_UNORM
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R16G16B16A16_UNORM
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R16_SNORM
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R16G16_SNORM
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R16G16B16A16_SNORM
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R16_UINT
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R16G16_UINT
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R16G16B16A16_UINT
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R16_SINT
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R16G16_SINT
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R16G16B16A16_SINT
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R16_SFLOAT
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R16G16_SFLOAT
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_R16G16B16A16_SFLOAT
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_A1R5G5B5_UNORM_PACK16
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ETC2_R8G8B8_UNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ETC2_R8G8B8A1_UNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ETC2_R8G8B8A8_UNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ETC2_R8G8B8_SRGB_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ETC2_R8G8B8A1_SRGB_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ETC2_R8G8B8A8_SRGB_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_EAC_R11_UNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_EAC_R11G11_UNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_EAC_R11_SNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_EAC_R11G11_SNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_4x4_UNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_5x4_UNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_5x5_UNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_6x5_UNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_6x6_UNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_8x5_UNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_8x6_UNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_8x8_UNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_10x5_UNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_10x6_UNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_10x8_UNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_10x10_UNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_12x10_UNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_12x12_UNORM_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_4x4_SRGB_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_5x4_SRGB_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_5x5_SRGB_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_6x5_SRGB_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_6x6_SRGB_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_8x5_SRGB_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_8x6_SRGB_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_8x8_SRGB_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_10x5_SRGB_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_10x6_SRGB_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_10x8_SRGB_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_10x10_SRGB_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_12x10_SRGB_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_ASTC_12x12_SRGB_BLOCK
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_D16_UNORM
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_X8_D24_UNORM_PACK32
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_D32_SFLOAT
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_D24_UNORM_S8_UINT
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_B8G8R8A8_UNORM
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]    VK_FORMAT_B8G8R8A8_SRGB
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] Swapchain Views: (2)
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ]   [0]: Width=1920, Height=1920, SampleCount=1
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] 
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] ==== Last 20 Events ====
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] XrEventDataSessionStateChanged: XR_SESSION_STATE_UNKNOWN->XR_SESSION_STATE_IDLE
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] XrEventDataSessionStateChanged: XR_SESSION_STATE_IDLE->XR_SESSION_STATE_READY
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] XrEventDataSessionStateChanged: XR_SESSION_STATE_READY->XR_SESSION_STATE_SYNCHRONIZED
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] XrEventDataSessionStateChanged: XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_VISIBLE
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] XrEventDataSessionStateChanged: XR_SESSION_STATE_VISIBLE->XR_SESSION_STATE_FOCUSED
+11-20 18:11:21.360  9999 15083 I Unity   : [XR] [528845716656] [18:11:21.360][Info   ] 
+11-20 18:11:21.360  9999 15083 I Unity   : 
+11-20 18:11:21.360  9999 15083 I Unity   : ==== End Unity OpenXR Diagnostic Report ====
+11-20 18:11:21.360  9999 15083 I Unity   : 
+11-20 18:11:21.360  9999 15083 I Unity   : 
+11-20 18:11:25.194  9999 15083 E Unity   : ArgumentNullException: Value cannot be null.
+11-20 18:11:25.194  9999 15083 E Unity   : Parameter name: shader
+11-20 18:11:25.194  9999 15083 E Unity   :   at UnityEngine.Bindings.SimpleThrowHelper.ThrowArgumentNullException (System.Object obj, System.String parameterName) [0x00000] in <00000000000000000000000000000000>:0 
+11-20 18:11:25.194  9999 15083 E Unity   :   at UnityEngine.Material.CreateWithShader (UnityEngine.Material self, UnityEngine.Shader shader) [0x00000] in <00000000000000000000000000000000>:0 
+11-20 18:11:25.194  9999 15083 E Unity   :   at FrameLab.FrameLabInspection.CreateHotspots () [0x00000] in <00000000000000000000000000000000>:0 
+11-20 18:11:25.194  9999 15083 E Unity   :   at FrameLab.FrameLabInspection.Initialize (FrameLab.FrameLabSession owner) [0x00000] in <00000000000000000000000000000000>:0 
+11-20 18:11:25.194  9999 15083 E Unity   :   at FrameLab.FrameLabSession.Awake () [0x00000] in <00000000000000000000000000000000>:0 
+11-20 18:11:25.194  9999 15083 E Unity   : 
+11-20 18:11:25.209  9999 15083 I Unity   : SetGameState: isLoading: false, mode: UNKNOWN, label: 0, quality: 0
+11-20 18:11:25.210  9999 15083 I Unity   : FRAME_LAB_RUNTIME_READY 0.3.1
+11-20 18:11:25.210  9999 15083 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-20 18:11:25.210  9999 15083 I Unity   : 
+11-20 18:11:32.195  9999  9999 I Unity   : onPause
+11-20 18:11:32.200  9999 15083 I Unity   : [XR] [528845716656] [18:11:32.200][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_FOCUSED->XR_SESSION_STATE_VISIBLE session=-5476376625992021696 time=0
+11-20 18:11:32.200  9999 15083 I Unity   : [XR] [528845716656] [18:11:32.200][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_VISIBLE->XR_SESSION_STATE_SYNCHRONIZED session=-5476376625992021696 time=0
+11-20 18:11:32.200  9999 15083 I Unity   : [XR] [528845716656] [18:11:32.200][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_STOPPING session=-5476376625992021696 time=0
+11-20 18:11:32.202  9999 15083 I Unity   : [XR] [528845716656] [18:11:32.202][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_STOPPING->XR_SESSION_STATE_IDLE session=-5476376625992021696 time=0
+11-20 18:11:32.228  9999  9999 I Unity   : Surface destroyed while running without focus - pausing Unity
+11-20 18:11:32.230  9999  9999 I Unity   : pauseUnity
+11-20 18:11:32.257  9999 15083 I Unity   : SetGameState: isLoading: false, mode: CONTENT, label: -6, quality: 0
+11-20 18:11:32.574  9999  9999 I Unity   : windowFocusChanged: false

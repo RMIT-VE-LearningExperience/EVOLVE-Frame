@@ -1,0 +1,23 @@
+{
+  "d05": [
+    {
+      "name": "D05 meals leg",
+      "width_m": 3.6000004026624666,
+      "height_m": 2.1,
+      "panels": 3
+    },
+    {
+      "name": "D05 family leg",
+      "width_m": 2.944999860365238,
+      "height_m": 2.1,
+      "panels": 3
+    }
+  ],
+  "corner": [
+    12.678926467895508,
+    3.6403849124908447
+  ],
+  "source": "Architectural sheets 07 and 11; frame profiles illustrative",
+  "garage_ceiling": true,
+  "theatre_platform_finished": true
+}

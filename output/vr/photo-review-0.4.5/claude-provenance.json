@@ -1,0 +1,39 @@
+{
+  "session": "5fa82adf-f974-415b-b120-7c7385156c5b",
+  "model_usage": {
+    "claude-fable-5-2": {
+      "inputTokens": 8,
+      "outputTokens": 6769,
+      "cacheReadInputTokens": 47472,
+      "cacheCreationInputTokens": 44464,
+      "webSearchRequests": 0,
+      "costUSD": 0.9917423999999999,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 2533,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "read_paths": [
+    "D:/Git/EVOLE Frame/output/vr/photo-review-0.4.5/contact-1.jpg",
+    "D:/Git/EVOLE Frame/output/vr/photo-review-0.4.5/contact-2.jpg",
+    "D:/Git/EVOLE Frame/output/vr/photo-review-0.4.5/previews/01.jpg",
+    "D:/Git/EVOLE Frame/output/vr/photo-review-0.4.5/previews/02.jpg",
+    "D:/Git/EVOLE Frame/output/vr/photo-review-0.4.5/previews/04.jpg",
+    "D:/Git/EVOLE Frame/output/vr/photo-review-0.4.5/previews/05.jpg",
+    "D:/Git/EVOLE Frame/output/vr/photo-review-0.4.5/previews/06.jpg",
+    "D:/Git/EVOLE Frame/output/vr/photo-review-0.4.5/previews/07.jpg",
+    "D:/Git/EVOLE Frame/output/vr/photo-review-0.4.5/previews/09.jpg",
+    "D:/Git/EVOLE Frame/output/vr/photo-review-0.4.5/previews/10.jpg",
+    "D:/Git/EVOLE Frame/output/vr/photo-review-0.4.5/previews/03.jpg",
+    "D:/Git/EVOLE Frame/output/vr/photo-review-0.4.5/previews/08.jpg",
+    "D:/Git/EVOLE Frame/output/vr/photo-review-0.4.5/previews/12.jpg",
+    "D:/Git/EVOLE Frame/output/vr/photo-review-0.4.5/previews/11.jpg",
+    "D:/Git/EVOLE Frame/scripts/vr_fixed_fitout.py",
+    "D:/Git/EVOLE Frame/scripts/vr_room_shells.py"
+  ],
+  "read_only": true,
+  "api_fallback_used": false
+}

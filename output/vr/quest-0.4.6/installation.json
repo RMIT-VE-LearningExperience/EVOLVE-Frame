@@ -1,0 +1,11 @@
+{
+  "result": "PASS",
+  "model": "Quest 3",
+  "serial": "2G0YC5ZFB5004M",
+  "version": "0.4.6",
+  "version_code": 14,
+  "installed_apk_sha256": "ac4939e45f1852e06a6d78d34fd7d68b0e38a673b68f37692843378e06b921cf",
+  "timestamp": "2026-11-21T19:28:58.197248+11:00",
+  "scope": "Installation and exact APK identity. Live session and physical controls are separate checks.",
+  "awake": false
+}

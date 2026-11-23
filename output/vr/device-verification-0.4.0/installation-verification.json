@@ -1,0 +1,16 @@
+{
+  "result": "PASS",
+  "timestamp": "2026-11-20T22:52:00.590172+11:00",
+  "scope": "Installed package identity, application label, version and exact APK hash. Live gameplay is a separate check.",
+  "serial": "PA94Y0MGJ9180026G",
+  "model": "A9210",
+  "application_label": "Leichhardt",
+  "package": "au.edu.evolve.framelab",
+  "version": "0.4.0",
+  "version_code": 8,
+  "apk": "D:\\Git\\EVOLE Frame\\unity-vr\\Builds\\Android\\Leichhardt-PICO.apk",
+  "apk_sha256": "f8a3924e91bf4b6549c63a5e637be92ea9f93dbaa36761da7e1a763d4adeed8a",
+  "installed_apk_sha256": "f8a3924e91bf4b6549c63a5e637be92ea9f93dbaa36761da7e1a763d4adeed8a",
+  "awake": false,
+  "live_session_verified": false
+}

@@ -1,0 +1,174 @@
+{
+  "status": "SOURCE CORRECTED AND CHECKED: Unity now configures the site sun for 22 September at 15:00 AEST. Eight Unity checks passed. Existing scene lightmaps and the installed headset still use the previous lighting; rebake and headset verification remain pending.",
+  "method_source": "https://gml.noaa.gov/grad/solcalc/solareqns.PDF",
+  "location": {
+    "address": "15 Leichhardt Avenue, Burnside Heights, Melbourne, Victoria, 3023",
+    "latitude": -37.732906731653,
+    "longitude": 144.7542880032,
+    "basis": "Esri PointAddress geocode, score100; suitable for visual solar reference, not surveyed site control"
+  },
+  "orientation": {
+    "sheet": 3,
+    "bearing": "05 degrees 24 minutes 40 seconds",
+    "basis": "Boundary bearing and north-arrow direction; floor plan left/down is north. Dimensioned site registration still needs cross-drawing reconciliation.",
+    "drawing_right_cardinal": "approximately south",
+    "blender_north": [
+      -0.9955436958839796,
+      -0.09430137637206712,
+      0
+    ],
+    "unity_north": [
+      0.9955436958839796,
+      0,
+      0.09430137637206712
+    ],
+    "unity_east": [
+      0.09430137637206712,
+      0,
+      -0.9955436958839796
+    ],
+    "axis_conversion": "Blender (x,y,z) -> Unity (-x,z,-y); scripts/prepare_guided_tour.py line5"
+  },
+  "previous_sun": {
+    "source": "FrameLabBuild.cs before this audit",
+    "euler_degrees": [
+      36,
+      -35,
+      0
+    ],
+    "direction_toward_sun": [
+      0.4640330845810166,
+      0.5877852522924731,
+      -0.662707924806774
+    ],
+    "azimuth_clockwise_from_true_north_deg": 60.411,
+    "elevation_deg": 36
+  },
+  "source_correction": {
+    "source": "unity-vr/Assets/FrameLab/Editor/LeichhardtSiteLighting.cs",
+    "called_by": [
+      "FrameLabBuild.Prepare",
+      "FrameLabLighting.Bake"
+    ],
+    "verification": "site-sun-verification.txt",
+    "unity_batch_exit": 0,
+    "sha256": "3266effc5b5a9a9965f47003956258444fd6302f7bf1d1270b000a5a05465475",
+    "scene_rebaked": false,
+    "apk_installed": false
+  },
+  "reference_date": "2026-09-22",
+  "date_basis": "Month/day and 09:00-15:00 from architectural sheets26-32. Year2026 is a declared visual-reference assumption; diagrams give no year. AEST UTC+10 from Australia/Melbourne.",
+  "default_time": "15:00 local, an assistant-selected default; no explicit user time selection received",
+  "positions": [
+    {
+      "local": "2026-09-22T09:00:00+10:00",
+      "azimuth_clockwise_from_true_north_deg": 60.959,
+      "elevation_deg": 31.152,
+      "unity_direction_toward_sun": [
+        0.484145,
+        0.517309,
+        -0.705688
+      ],
+      "unity_ground_shadow_per_metre_height_xz": [
+        -0.935891,
+        1.36415
+      ]
+    },
+    {
+      "local": "2026-09-22T10:00:00+10:00",
+      "azimuth_clockwise_from_true_north_deg": 46.66,
+      "elevation_deg": 40.752,
+      "unity_direction_toward_sun": [
+        0.569556,
+        0.652788,
+        -0.499474
+      ],
+      "unity_ground_shadow_per_metre_height_xz": [
+        -0.872498,
+        0.765139
+      ]
+    },
+    {
+      "local": "2026-09-22T11:00:00+10:00",
+      "azimuth_clockwise_from_true_north_deg": 28.202,
+      "elevation_deg": 48.011,
+      "unity_direction_toward_sun": [
+        0.616761,
+        0.74327,
+        -0.259143
+      ],
+      "unity_ground_shadow_per_metre_height_xz": [
+        -0.829794,
+        0.348652
+      ]
+    },
+    {
+      "local": "2026-09-22T12:00:00+10:00",
+      "azimuth_clockwise_from_true_north_deg": 5.511,
+      "elevation_deg": 51.499,
+      "unity_direction_toward_sun": [
+        0.622526,
+        0.782598,
+        -0.001083
+      ],
+      "unity_ground_shadow_per_metre_height_xz": [
+        -0.795461,
+        0.001384
+      ]
+    },
+    {
+      "local": "2026-09-22T13:00:00+10:00",
+      "azimuth_clockwise_from_true_north_deg": 341.737,
+      "elevation_deg": 50.184,
+      "unity_direction_toward_sun": [
+        0.586443,
+        0.768102,
+        0.257108
+      ],
+      "unity_ground_shadow_per_metre_height_xz": [
+        -0.763497,
+        -0.334732
+      ]
+    },
+    {
+      "local": "2026-09-22T14:00:00+10:00",
+      "azimuth_clockwise_from_true_north_deg": 321.157,
+      "elevation_deg": 44.49,
+      "unity_direction_toward_sun": [
+        0.510956,
+        0.700781,
+        0.497826
+      ],
+      "unity_ground_shadow_per_metre_height_xz": [
+        -0.729124,
+        -0.710388
+      ]
+    },
+    {
+      "local": "2026-09-22T15:00:00+10:00",
+      "azimuth_clockwise_from_true_north_deg": 305.066,
+      "elevation_deg": 35.82,
+      "unity_direction_toward_sun": [
+        0.401196,
+        0.585237,
+        0.704656
+      ],
+      "unity_ground_shadow_per_metre_height_xz": [
+        -0.685528,
+        -1.204052
+      ]
+    }
+  ],
+  "drawing_comparison": "Codex visually inspected all seven source shadow diagrams (sheets26-32). Morning shadows extend drawing-right/down, noon approximately right, afternoon right/up, consistent with the calculated directions. This checks direction only, not surveyed shadow extents.",
+  "remaining_checks": [
+    "Compare a top-down Unity shadow capture at09:00,12:00,15:00 against sheets26,29,32 after applying orientation.",
+    "Rebake all four lighting states after geometry is corrected.",
+    "Verify sunlit facade and ground contact in the PICO."
+  ],
+  "checks": {
+    "north_east_orthogonal": true,
+    "morning_east_of_north": true,
+    "afternoon_west_of_north": true,
+    "all_above_horizon": true
+  }
+}

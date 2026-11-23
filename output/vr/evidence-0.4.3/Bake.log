@@ -1,0 +1,1634 @@
+VBCSCompilerPreWarmer: watching VBCSCompiler (PID 59828)
+VBCSCompilerPreWarmer: pre-warm launched (dotnet PID 31920)
+VBCSCompiler prewarm took 11.63 ms
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Channel LicenseClient-lawre doesn't exist
+Built from '6000.6/staging' branch; Version is '6000.6.9f1 (8c45277fb9c5) revision 9192743'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 130988 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-11-20T21:52:59Z
+[Licensing::Module] Successfully launched the LicensingClient (PId: 26984)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-lawre" at "2026-11-20T21:52:59.4592132Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 26984, path: "C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.19.0+4cc3dda
+  Session Id:              e6ed5c8d4dff431e9d2e1e67291d62a3
+  Correlation Id:          52a465f6c3c990331303f9c584828fd1
+  External correlation Id: 1770604743704523887
+  Machine Id:              CFaVb/hQY/1TbBIdjsHYPVds/II=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-lawre" (connect: 0.04s, validation: 0.01s, handshake: 0.13s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-lawre-notifications" at "2026-11-20T21:52:59.5945462Z"
+[Licensing::Module] Connected to LicensingClient (PId: 26984, launch time: 0.00, total connection time: 0.18s)
+[Licensing::Module] Error: Access token is unavailable; failed to update
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-Z2YX-MG9R-7MT6-E4RS-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.00
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.18s
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.6.9f1\Editor\Unity.exe
+-batchmode
+-projectPath
+D:\Git\EVOLE Frame\unity-vr
+-executeMethod
+FrameLabLighting.Bake
+-logFile
+D:\Git\EVOLE Frame\unity-vr\Logs\Bake.log
+-quit
+Successfully changed project path to: D:\Git\EVOLE Frame\unity-vr
+D:/Git/EVOLE Frame/unity-vr
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Logging is directed to a specific file, skipping project log.
+Player connection [42904]  Target information:
+
+Player connection [42904]  * "[IP] 192.168.1.237 [Port] 55504 [Flags] 2 [Guid] 3521177098 [EditorId] 3521177098 [Version] 1048832 [Id] WindowsEditor(7,Lawrence) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [42904]  * "[IP] 192.168.137.1 [Port] 55504 [Flags] 2 [Guid] 3521177098 [EditorId] 3521177098 [Version] 1048832 [Id] WindowsEditor(7,Lawrence) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [42904] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [42904] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Package Manager] Connected to IPC stream "Upm-16932" after 0.3 seconds.
+[Licensing::Client] Successfully resolved entitlement details
+Library Redirect Path: Library/
+Launching Unity Data Store - C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/Tools/Unity.DataStore.exe 
+Unity Data Store artifact dir = Library/DataStore, working dir = D:/Git/EVOLE Frame/unity-vrUnity Data Store running and initialised
+[Licensing::Client] Successfully resolved entitlement details
+[Physics::Module] Selected backend (deferred post-plugins).
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Initialize engine version: 6000.6.9f1 (8c45277fb9c5)
+[EntityIdStore] init: VM path (explicit commit), pageSize=4096, blockCount=262144, entitiesPerBlock=1024, blocksPerSlotPage=0, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Git/EVOLE Frame/unity-vr/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.2]
+    Renderer:        NVIDIA GeForce RTX 5070 Ti (ID=0x2c05)
+    Vendor:          NVIDIA
+    VRAM:            15907 MB
+    App VRAM Budget: 15139 MB
+    Driver:          32.0.15.8157
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56932
+CodeReloadManager initialized
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.002679 seconds.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:False
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.758 seconds
+Domain Reload Profiling: 1400ms
+	BeginReloadAssembly (155ms)
+		CreateAndSetChildDomain (3ms)
+	RebuildCommonClasses (6ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (76ms)
+	LoadAllAssembliesAndSetupDomain (383ms)
+		LoadAssemblies (148ms)
+		TypeCache.Refresh (265ms)
+			TypeCache.ScanAssembly (248ms)
+		AnalyzeDomain (1ms)
+	FinalizeReload (759ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			BeforeProcessingInitializeOnLoad (115ms)
+			ProcessInitializeOnLoadAttributes (145ms)
+			ProcessInitializeOnLoadMethodAttributes (278ms)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 45 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.inputsystem@1.20.1 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.inputsystem@2436e68c60c4)
+    com.unity.xr.interaction.toolkit@3.6.1 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.interaction.toolkit@530ce2e6c59e)
+    com.unity.xr.openxr@1.18.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.openxr@b5b77b4027be)
+    com.unity.xr.management@4.7.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.management@2ad85c7dd480)
+    com.unity.xr.core-utils@2.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.core-utils@a8b900321199)
+    com.unity.cloud.gltfast@6.21.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.cloud.gltfast@15da4aaf9675)
+    com.unity.xr.legacyinputhelpers@3.0.1 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.legacyinputhelpers@3f62d634f63b)
+    com.unity.nuget.mono-cecil@1.11.6 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.nuget.mono-cecil@ecb9724e46ff)
+    com.unity.searcher@4.9.5 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.searcher@a463122f2c00)
+    com.unity.profiling.core@1.0.3 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.profiling.core@8a49f7027d06)
+  Built-in packages:
+    com.unity.render-pipelines.universal@17.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.render-pipelines.universal@2a6014b851d8)
+    com.unity.ugui@2.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.ugui@ff4f88904a57)
+    com.unity.modules.vectorgraphics@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.vectorgraphics)
+    com.unity.modules.physics@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.physics)
+    com.unity.modules.audio@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.audio)
+    com.unity.modules.ui@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.ui)
+    com.unity.modules.jsonserialize@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.jsonserialize)
+    com.unity.modules.xr@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.xr)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.particlesystem@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.particlesystem)
+    com.unity.modules.terrain@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.terrainphysics)
+    com.unity.modules.video@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.video)
+    com.unity.modules.screencapture@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.screencapture)
+    com.unity.modules.imageconversion@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.imageconversion)
+    com.unity.modules.unitywebrequest@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.unitywebrequest)
+    com.unity.modules.subsystems@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.subsystems)
+    com.unity.burst@2.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.burst@626e66ab421b)
+    com.unity.collections@6.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.collections@c70d71c1212e)
+    com.unity.mathematics@1.4.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.mathematics@8306a64d0cd6)
+    com.unity.modules.androidjni@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.androidjni)
+    com.unity.modules.imgui@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.imgui)
+    com.unity.modules.uielements@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.uielements)
+    com.unity.modules.physics2d@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.physics2d)
+    com.unity.render-pipelines.core@17.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.render-pipelines.core@77e675a23c5f)
+    com.unity.shadergraph@17.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.shadergraph@807b608040c3)
+    com.unity.render-pipelines.universal-config@17.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.render-pipelines.universal-config@561422b74439)
+    com.unity.test-framework@1.8.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.test-framework@01a8b42f9cf6)
+    com.unity.test-framework.performance@6.6.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.test-framework.performance@816c370aad5b)
+    com.unity.modules.hierarchycore@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.hierarchycore)
+    com.unity.modules.animation@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.animation)
+    com.unity.modules.physicscore2d@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.modules.physicscore2d)
+    com.unity.graph-authoring@1.0.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.graph-authoring@cfd2588851ee)
+    com.unity.ext.nunit@2.1.0 (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.ext.nunit@0198eae3b53e)
+  Git packages:
+    com.unity.xr.openxr.picoxr@https://github.com/Pico-Developer/PICO-Unity-OpenXR-SDK.git#3aa3e62bff41df618529eeb60ff02c29a515dafe (location: D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.openxr.picoxr@3aa3e62bff41)
+[Subsystems] Looking for new subsystems at path D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.openxr@b5b77b4027be
+[Subsystems] Novel subsystem found at Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Git/EVOLE Frame/unity-vr/Assets
+[Subsystems] Discovering subsystems at path D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.openxr@b5b77b4027be
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'displays' descriptors matched in Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  meshings in Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] Discovering subsystems at path D:\Git\EVOLE Frame\unity-vr\Library\PackageCache\com.unity.xr.openxr.picoxr@3aa3e62bff41
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.openxr.picoxr@3aa3e62bff41/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] No descriptors matched for  inputs in Library/PackageCache/com.unity.xr.openxr.picoxr@3aa3e62bff41/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] No descriptors matched for  displays in Library/PackageCache/com.unity.xr.openxr.picoxr@3aa3e62bff41/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'meshings' descriptors matched in Library/PackageCache/com.unity.xr.openxr.picoxr@3aa3e62bff41/Runtime/UnitySubsystemsManifest.json
+[Package Manager] Done registering packages in 0.01 seconds
+Starting: C:\Program Files\Unity\Hub\Editor\6000.6.9f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/1300b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: D:/Git/EVOLE Frame/unity-vr
+DisplayProgressbar: Compiling Scripts
+ExitCode: 0 Duration: 0s352ms
+[ 909/1192  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+*** Tundra build success (0.32 seconds), 1 items updated, 1192 evaluated
+AssetDatabase: script compilation time: 0.820112s
+Begin MonoManager ReloadAssembly
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 5.15 ms, found 12 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.969 seconds
+Domain Reload Profiling: 1978ms
+	BeginReloadAssembly (379ms)
+		DisableScriptedObjects (26ms)
+		CreateAndSetChildDomain (164ms)
+	RebuildCommonClasses (10ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (56ms)
+	LoadAllAssembliesAndSetupDomain (545ms)
+		LoadAssemblies (300ms)
+		TypeCache.Refresh (128ms)
+			TypeCache.ScanAssembly (115ms)
+		AnalyzeDomain (67ms)
+			BuildScriptInfoCaches (56ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (970ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			BeforeProcessingInitializeOnLoad (123ms)
+			ProcessInitializeOnLoadAttributes (177ms)
+			ProcessInitializeOnLoadMethodAttributes (343ms)
+			AfterProcessingInitializeOnLoad (8ms)
+		AwakeInstancesAfterBackupRestoration (28ms)
+Starting new worker id: 0 with log in D:/Git/EVOLE Frame/unity-vr/Logs/AssetImportWorkerHW0.log
+
+Asset Pipeline Refresh (id=d62130c490d849741b4fb596583410c2): Total: 3.439 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1435 ms
+		Asset DB Callback time: managed=43 ms, native=11 ms
+		Scripting: domain reloads=1, domain reload time=1063 ms, compile time=823 ms, other=62 ms
+		Project Asset Count: scripts=1368, non-scripts=2210
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 13.342ms
+	ApplyChangesToAssetFolders: 0.689ms
+	Scan: 67.498ms
+	Collect global state as custom dependencies: 22.758ms
+	CategorizeScriptCompilationAssets: 39.406ms
+	ProcessAssetsWithTransientArtifactChanges: 83.855ms
+	CategorizeAssets: 62.232ms
+	CompileScripts: 822.649ms
+	ImportOutOfDateAssets: 995.890ms (985.413ms without children)
+		UnloadImportedAssets: 2.686ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.666ms
+		ImportSchedulerStart: 7.086ms
+	PostProcessAllAssets: 43.249ms
+		MonoPostProcessAllAssets: 43.154ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 20.818ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 1.946ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 1.924ms
+			SyncVS.PostprocessSyncProject 1.609ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 0.924ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.707ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.559ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.333ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.295ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.221ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.183ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.176ms
+	UnloadStreamsBegin: 2.030ms
+	PersistCurrentRevisions: 0.105ms
+	GenerateScriptTypeHashes: 5.695ms
+	GenerateScriptTypeSerializationHashes: 9.861ms
+	Untracked: 1265.159ms
+
+Application.AssetDatabase Initial Refresh End
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Scanning for USB devices : 5.013ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Leichhardt
+Unloading 87 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5360 unused Assets / (11.8 MB). Loaded Objects now: 6333.
+Memory consumption went from 375.9 MB to 364.1 MB.
+Total: 12.809900 ms (FindLiveObjects: 0.817700 ms CreateObjectMapping: 0.738900 ms MarkObjects: 6.400000 ms  DeleteObjects: 4.632500 ms)
+
+Opening scene 'Assets/FrameLab/Scenes/Leichhardt.unity'
+Unloading 35 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/FrameLab/Scenes/Leichhardt.unity'
+	Deserialize:            23.871 ms
+	Integration:            227.725 ms
+	Integration of assets:  0.066 ms
+	Thread Wait Time:       0.008 ms
+	Total Operation Time:   251.669 ms
+Unloading 6 unused Assets / (81.0 KB). Loaded Objects now: 7943.
+Memory consumption went from 398.6 MB to 398.5 MB.
+Total: 7.779600 ms (FindLiveObjects: 0.754000 ms CreateObjectMapping: 0.343900 ms MarkObjects: 6.332200 ms  DeleteObjects: 0.107500 ms)
+
+Launched and connected uv unwrapper C:/Program Files/Unity/Hub/Editor/6000.6.9f1/Editor/Data/Tools/UnwrapCL.exe after 0.01 seconds
+Importing 'GUID: 40d3761f73371d5468f65cc393148f7e - Path: Assets/FrameLab/Generated/Plain ground.asset' with importer (NativeFormatImporter)
+Main Object Name 'Cube(Clone)' does not match filename 'Plain ground'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene)
+FrameLabLighting:Bake () (at Assets/FrameLab/Editor/FrameLabLighting.cs:117)
+
+[Assets/FrameLab/Editor/FrameLabLighting.cs line 117]
+
+Imported 'GUID: 40d3761f73371d5468f65cc393148f7e' -> (Import Result ID: '90dbaca31775846ed2eaafb3f8a699a5') in 0.005 seconds [static dependencies only]. Details - ImportResultOutputID=1214ef85392a2a8fbd9249d72c5138a5 DependenciesID=26d23bc80d8296d6983da24796b54fd6 StaticDependenciesID=d70c5e1189aa90ba2963155b9dbf96c6 
+Importing 'GUID: 81b60a85b1269cd49a876d19d40e26d0 - Path: Assets/FrameLab/Generated/Exterior viewing pad.asset' with importer (NativeFormatImporter)
+Main Object Name 'Cube(Clone)' does not match filename 'Exterior viewing pad'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene)
+FrameLabLighting:Bake () (at Assets/FrameLab/Editor/FrameLabLighting.cs:117)
+
+[Assets/FrameLab/Editor/FrameLabLighting.cs line 117]
+
+Imported 'GUID: 81b60a85b1269cd49a876d19d40e26d0' -> (Import Result ID: '08b5606990092633245b62468b540751') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=844f76a46ca5113c5e0327016234d06c DependenciesID=d9696bb42a08ae397c9dbf0e3f39000d StaticDependenciesID=c2bbe737416faf605cbb81d9a846f27d 
+Importing 'GUID: 84c7e17ccb42fa14db60e866b9fac138 - Path: Assets/FrameLab/Generated/Daylight bake.asset' with importer (NativeFormatImporter)
+Main Object Name 'Soft daylight bounce' does not match filename 'Daylight bake'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene)
+FrameLabLighting:Bake () (at Assets/FrameLab/Editor/FrameLabLighting.cs:117)
+
+[Assets/FrameLab/Editor/FrameLabLighting.cs line 117]
+
+Imported 'GUID: 84c7e17ccb42fa14db60e866b9fac138' -> (Import Result ID: '0c7e00556148fc03d35ce212b5d7f508') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=fa62e8247b22c208245ae144d4536138 DependenciesID=b340032b9e799f7c25f0556eed40dffb StaticDependenciesID=de8f7f99e9a1f21164aa0b51a8402b57 
+Importing 'GUID: a412975039f713c4cb3438f6ebd69144 - Path: Assets/FrameLab/Generated/Porch landing extension.asset' with importer (NativeFormatImporter)
+Main Object Name 'Cube(Clone)' does not match filename 'Porch landing extension'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene)
+FrameLabLighting:Bake () (at Assets/FrameLab/Editor/FrameLabLighting.cs:117)
+
+[Assets/FrameLab/Editor/FrameLabLighting.cs line 117]
+
+Imported 'GUID: a412975039f713c4cb3438f6ebd69144' -> (Import Result ID: 'ab6bf14f0b384f2fff71bbf50ec152bf') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=c9eae92a0dec787140aca27dbad6174b DependenciesID=eef634d4519b3b4502af111708383609 StaticDependenciesID=2da516a1e67849601ec3ed2a33a09d2a 
+Importing 'GUID: 36d0aac50e91c0d429cb7444965be02b - Path: Assets/FrameLab/Generated/Entry approach.asset' with importer (NativeFormatImporter)
+Main Object Name 'Cube(Clone)' does not match filename 'Entry approach'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene)
+FrameLabLighting:Bake () (at Assets/FrameLab/Editor/FrameLabLighting.cs:117)
+
+[Assets/FrameLab/Editor/FrameLabLighting.cs line 117]
+
+Imported 'GUID: 36d0aac50e91c0d429cb7444965be02b' -> (Import Result ID: '2d16f1a30b2d404b512557a31e79ca8c') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=52f539b68575a28436d7c4af538b287b DependenciesID=55a4619f55906b774371167f3d879b99 StaticDependenciesID=5b1d8a3e6aae4ad30a8c7cd8be34ba00 
+Importing 'GUID: aa25736c47c080a4ab0584427a63f23e - Path: Assets/FrameLab/Generated/Ground floor slab.asset' with importer (NativeFormatImporter)
+Main Object Name 'Cube(Clone)' does not match filename 'Ground floor slab'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene)
+FrameLabLighting:Bake () (at Assets/FrameLab/Editor/FrameLabLighting.cs:117)
+
+[Assets/FrameLab/Editor/FrameLabLighting.cs line 117]
+
+Imported 'GUID: aa25736c47c080a4ab0584427a63f23e' -> (Import Result ID: '830af2af50213af5053464ea8cb20f08') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=2e975a4fc358c9c149af8d4f95f27979 DependenciesID=d2b18f51369dd40a65d8e1975d923ae4 StaticDependenciesID=4481daa9a9ba901cf63bcc6d25f6509e 
+Importing 'GUID: ece4f5c425c4a934092900e2ee914e5d - Path: Assets/FrameLab/Generated/Garage slab.asset' with importer (NativeFormatImporter)
+Main Object Name 'Cube(Clone)' does not match filename 'Garage slab'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.SceneManagement.EditorSceneManager:SaveSceneInternal (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene,string,bool)
+UnityEditor.SceneManagement.EditorSceneManager:SaveScene (UnityEngine.SceneManagement.Scene)
+FrameLabLighting:Bake () (at Assets/FrameLab/Editor/FrameLabLighting.cs:117)
+
+[Assets/FrameLab/Editor/FrameLabLighting.cs line 117]
+
+Imported 'GUID: ece4f5c425c4a934092900e2ee914e5d' -> (Import Result ID: '4b327004a1772c14747d451e7d54c105') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=138fccad6ba6c633a95baf05f671a9eb DependenciesID=94dfa3830f719098663c3213d08300b7 StaticDependenciesID=8f39f7c1bfb4c2075db017f6b3bcfe93 
+Refreshing native plugins compatible for Editor in 4.67 ms, found 12 plugins.
+Asset Pipeline Refresh (id=8cf42038f51b0184da2708f9d7e9e79d): Total: 0.252 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 06b9a68c014772443baf627ec7c8de22 - Path: Assets/FrameLab/Scenes/Leichhardt.unity' with importer (DefaultImporter)
+Imported 'GUID: 06b9a68c014772443baf627ec7c8de22' -> (Import Result ID: 'b025b96a958dc18c53bf00c2e94d3267') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=a7b522d87175d5beb13381ad16979cff DependenciesID=097896317ddc382c93a15c6a0a73ef74 StaticDependenciesID=543f659d419555f91baaef783c92dffb 
+Refreshing native plugins compatible for Editor in 4.76 ms, found 12 plugins.
+Asset Pipeline Refresh (id=d81f21cd04dbd0649ba30a5b8b1f6c22): Total: 0.055 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+DisplayProgressbar: Baking Adaptive Probe Volumes
+Created GICache directory at C:/Users/lawre/AppData/LocalLow/Unity/Caches/GiCache. Took: 0.013s, timestamps: [8.423 - 8.436]
+[00:00:00] Precompute started.
+[BakePipeline::Driver] Extracted OOTS snapshot with 69 instances, 69 geometries, 69 meshes, 37 materials, 0 transmission textures, 14 lights, 0 cookies in 41.51ms.
+Worker ready: AssetImportWorkerHW0 0
+d3d12: upload buffer was too small for the requested resource! Size: 16777216. Requested: 18776064.
+-- Listing OpenCL platforms(s) --
+ * OpenCL platform 0
+	PROFILE = FULL_PROFILE
+	VERSION = OpenCL 3.0 CUDA 13.0.97
+	NAME = NVIDIA CUDA
+	VENDOR = NVIDIA Corporation
+-- Listing OpenCL device(s) --
+ * OpenCL platform 0, device 0 
+	DEVICE_TYPE = 4
+	DEVICE_NAME = NVIDIA GeForce RTX 5070 Ti
+	DEVICE_VENDOR = NVIDIA Corporation
+	DEVICE_VERSION = OpenCL 3.0 CUDA
+	DRIVER_VERSION = 581.57
+	DEVICE_MAX_COMPUTE_UNITS = 70
+	DEVICE_MAX_CLOCK_FREQUENCY = 2572
+	CL_DEVICE_MAX_CONSTANT_BUFFER_SIZE = 65536
+	CL_DEVICE_HOST_UNIFIED_MEMORY = false
+	CL_DEVICE_MAX_MEM_ALLOC_SIZE = 4273586176
+	DEVICE_GLOBAL_MEM_SIZE = 17094344704
+[BakePipeline::Driver] Transformed OOTS snapshot into LightBaker scene input (000001877BE8B610) in 427.02ms. Size: 131.61MB.
+[00:00:01] Builtin Sky manager started.
+[BakePipeline::PreprocessStage] Background thread started.
+[00:00:01] Finished 1 Layout Systems job (0.01s execute, 0.00s integrate, 0.75s wallclock)
+[00:00:01] Finished 1 Bake Ambient Probe job (0.00s execute, 0.00s integrate, 0.01s wallclock)
+[00:00:01] Finished 1 Tetrahedralize Probes job (0.00s execute, 0.00s integrate, 0.20s wallclock)
+[00:00:01] Precompute took 0.956340 seconds.
+Enlighten scene contents:   0 geometries.   0 instances.   0 systems.   0 probe groups.   0 cube maps. Scene is up-to-date.
+Starting cubemap convolution (size 128)
+...took 0.051 seconds
+[PathTracer] Finished packing lightmaps in 0.547018 seconds.
+[BakePipeline::BakeStage] Background thread started. Calling LightBaker.
+-- GPU Progressive lightmapper will use OpenCL device 'NVIDIA GeForce RTX 5070 Ti' from 'NVIDIA Corporation'--
+   use -OpenCL-PlatformAndDeviceIndices <platformIdx> <deviceIdx> as command line arguments if you want to select a specific adapter for OpenCL.
+Loading expansionAndGathering.cl with hash e33d408bae01eec0a741a8c66c71e7f2 from cache.
+Loading prepareLightRays.cl with hash 044b351bfec772ebb99c3b019246a99c from cache.
+Loading processLightRays.cl with hash 38d01c326a65429dabdc56898e8269d2 from cache.
+Loading intersectBvh.cl with hash 697849f15e3a99397ba17af133dcdc69 from cache.
+Loading preparePathRays.cl with hash 798d164f8b1e1457823f60223ce15924 from cache.
+Loading prepareEnvironmentRays.cl with hash dbe32462419af253a1493252cc24c950 from cache.
+Loading processEnvironment.cl with hash 1777e3d5c8ccd4845f073eb65efe17c2 from cache.
+Loading processBounce.cl with hash f28d7fe0177f1466296a61211543cd38 from cache.
+Loading culling.cl with hash ec693ef5a424b89805f210b7e47be135 from cache.
+Loading fillBuffer.cl with hash 3948f5b98c63dc90646df0ec15f2dadb from cache.
+Loading expansionAndGathering.cl with hash e96677d627455b4aaa2f5d402c73be40 from cache.
+Loading prepareLightRays.cl with hash 9c70b33130586a3d8e319d1dad8b6ecb from cache.
+Loading preparePathRays.cl with hash d5694437fece44a06dc6b497ef0d2f6c from cache.
+Loading prepareEnvironmentRays.cl with hash 38c5fe8c38680cb73a02ee122d4bb68f from cache.
+Loading processEnvironment.cl with hash 67819b704d7761874b55aae3f80db55f from cache.
+Loading processLightRays.cl with hash 6ada309b260b66e2934ccc51b472aef8 from cache.
+Loading processBounce.cl with hash 0d9af9af65d3f536ccdc9472f3f847cb from cache.
+Loading compositeLightmaps.cl with hash ff6f5f9ed0ccf675178c7953d8fa3b48 from cache.
+Loading atrousFilter.cl with hash 8d59b80028ff43693e5c1501f1fdc781 from cache.
+Loading atrousFilter.cl with hash 152a4810392383c8d78b5941e9246cb5 from cache.
+Loading atrousFilter.cl with hash 7e21375ec60f0641d982dde8fc982142 from cache.
+Loading convergence.cl with hash 688cac9cb967f59c5103b95beef04923 from cache.
+Loading customBake.cl with hash 4153701903552691c0c8a43cd7a50fd1 from cache.
+Loading postProcessProbes.cl with hash 3ef3a8de9f18a40862acbdbb73980ade from cache.
+[PathTracer] Loaded OpenCL shaders in 0.034 secs -> Timestamps: [9.910 - 9.944].
+Progress timing - render light probes	211.55	19660800	36382136473
+TrimDiskCacheJob: Current cache size 7086mb
+[BakePipeline::BakeStage] LightBaker bake took 48578.95ms and succeeded.
+[BakePipeline::PostProcessStage] Started.
+[BakePipeline::PostProcessStage] wrote post processed L2 SH coefficients for 96 light probe positions to Temp/PostProcessingOutput/probeRequest0/irradiance.shl2.
+[BakePipeline::PostProcessStage] wrote occlusion values for 96 light probe positions to Temp/PostProcessingOutput/probeRequest0/occlusion.occ.
+[BakePipeline::Run] Completed succesfully.
+[00:01:04] LightingDataAsset started.
+Refreshing native plugins compatible for Editor in 4.31 ms, found 12 plugins.
+Asset Pipeline Refresh (id=0270876cbb0edc9479546ccddeeac9de): Total: 0.042 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 4.35 ms, found 12 plugins.
+Asset Pipeline Refresh (id=398334b21ef6a624bb9e37fd2826bb80): Total: 0.053 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 4.14 ms, found 12 plugins.
+Asset Pipeline Refresh (id=bfdf49135d174f94cbc2c0ddd39f604e): Total: 0.045 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Licensing::Client] Successfully resolved entitlement details
+Importing 'GUID: b0e968d0e30424a4aace97a63121ea59 - Path: Assets/FrameLab/Scenes/Leichhardt/Lightmap-0_comp_light.exr' with importer (TextureImporter)
+Imported 'GUID: b0e968d0e30424a4aace97a63121ea59' -> (Import Result ID: '8d5017d6e4f3162f9bc3e1c2bf2a61f8') in 0.041 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6d9d32c06d1c9e89cd50b9cde97e21f1 DependenciesID=b5a83830fa956aec7ee1bf24c20c7161 StaticDependenciesID=c8b7d7f0b831f3feeadc53841e315781 
+Importing 'GUID: 7563e133a987ef8459b56b9a7820f871 - Path: Assets/FrameLab/Scenes/Leichhardt/Lightmap-1_comp_light.exr' with importer (TextureImporter)
+Imported 'GUID: 7563e133a987ef8459b56b9a7820f871' -> (Import Result ID: 'f167879b0046f52adfdae0c4f25b7cd1') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7d420f07639b16687b11f5ffccae9229 DependenciesID=a51a58b8cdf77d7f4b765dc4a8a52793 StaticDependenciesID=370eef9ea077c4473e59f2e7128c1aa9 
+Importing 'GUID: 1957748c803e9d24ca94d1876466a044 - Path: Assets/FrameLab/Scenes/Leichhardt/Lightmap-3_comp_light.exr' with importer (TextureImporter)
+Imported 'GUID: 1957748c803e9d24ca94d1876466a044' -> (Import Result ID: '34724dde63ba2678922c3ffc237c4a33') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=436509e579f106c2f6a5e307adf5e24a DependenciesID=d5d845f60816043ea146437178d50f13 StaticDependenciesID=d8fb9ae09ba6cc20af0afc5b584ea457 
+Importing 'GUID: dec5a8c22b470514ab33b8b8e30daa81 - Path: Assets/FrameLab/Scenes/Leichhardt/Lightmap-2_comp_light.exr' with importer (TextureImporter)
+Imported 'GUID: dec5a8c22b470514ab33b8b8e30daa81' -> (Import Result ID: '10f84b56307e5b010741c993e9cebe6e') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=abee6ec85a6b4e6acb7a7b60b2c934e1 DependenciesID=56702fcf0781a6fa23f8c5d57b3e42ca StaticDependenciesID=535b7ea32be06186514919d487018ba6 
+Refreshing native plugins compatible for Editor in 3.94 ms, found 12 plugins.
+Asset Pipeline Refresh (id=c806f1deeede59f4a9f7d05190e3be7b): Total: 0.114 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: b0e968d0e30424a4aace97a63121ea59 - Path: Assets/FrameLab/Scenes/Leichhardt/Lightmap-0_comp_light.exr' with importer (TextureImporter)
+Imported 'GUID: b0e968d0e30424a4aace97a63121ea59' -> (Import Result ID: 'a21836202ccec1d84ad57aa8d1f053b3') in 1.486 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a8f9136d1076f6758b7b9a35d40ea2e9 DependenciesID=42ec1c44c64749ee3d0d39a03119d40e StaticDependenciesID=20cec76b95f88d659303678741d8b052 
+Importing 'GUID: 7563e133a987ef8459b56b9a7820f871 - Path: Assets/FrameLab/Scenes/Leichhardt/Lightmap-1_comp_light.exr' with importer (TextureImporter)
+Imported 'GUID: 7563e133a987ef8459b56b9a7820f871' -> (Import Result ID: '9aae4abd400a4cf66ca3349833ad3afe') in 0.417 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=85feb8da79e6f3ec693d11a67600004a DependenciesID=5dc665d19611add26502787c3802bc06 StaticDependenciesID=66ec43c97977f0f1dc1aac0d08794dfe 
+Importing 'GUID: 1957748c803e9d24ca94d1876466a044 - Path: Assets/FrameLab/Scenes/Leichhardt/Lightmap-3_comp_light.exr' with importer (TextureImporter)
+Imported 'GUID: 1957748c803e9d24ca94d1876466a044' -> (Import Result ID: '4f4fd74e1ef2605de613c311aff37828') in 0.031 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cdc31f86ad707086f0ff1cab1ce7f073 DependenciesID=9c7db70cd4ab70822650f932ae5d6b63 StaticDependenciesID=21ad92ea65fdf592822918e72a2673be 
+Importing 'GUID: dec5a8c22b470514ab33b8b8e30daa81 - Path: Assets/FrameLab/Scenes/Leichhardt/Lightmap-2_comp_light.exr' with importer (TextureImporter)
+Imported 'GUID: dec5a8c22b470514ab33b8b8e30daa81' -> (Import Result ID: '7e5c4febdc4919c0b594cdc194ed1bab') in 0.390 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c6033ba5e086da51f23d5e2509e9867d DependenciesID=2b3330f613eaa0dfa76c1b1951997103 StaticDependenciesID=cbc4e5cbe6105c7636e940d249711fb6 
+Refreshing native plugins compatible for Editor in 4.02 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=64aa6a85fdc7c3c4288d7dbe0bda4b46): Total: 2.411 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=4 (actual=4, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=2403 ms
+		Asset DB Callback time: managed=1 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1368, non-scripts=2211
+		Asset File Changes: new=0, changed=8, moved=0, deleted=0
+		Scan Filter Count: 8
+	ApplyChangesToAssetFolders: 0.102ms
+	Scan: 25.665ms
+	Collect global state as custom dependencies: 0.450ms
+	OnSourceAssetsModified: 0.141ms
+	ProcessAssetsWithTransientArtifactChanges: 0.092ms
+	CategorizeAssets: 44.845ms
+	ImportOutOfDateAssets: 2326.499ms (0.151ms without children)
+		ImportManagerImport: 2325.409ms (0.395ms without children)
+			UpdateCategorizedAssets: 0.053ms
+		ReloadNativeAssets: 0.097ms
+		UnloadImportedAssets: 0.219ms
+		ReloadImportedAssets: 0.472ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.391ms
+		ImportSchedulerStart: 0.224ms
+	PostProcessAllAssets: 2.026ms
+		XRBuildSystem.XRAssetImported 1.111ms
+		MonoPostProcessAllAssets: 0.785ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.292ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.075ms
+	PostAssetChangesProfiler: 4.470ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.143ms
+	PersistCurrentRevisions: 0.170ms
+	Untracked: 6.317ms
+
+Asset Pipeline Refresh (id=c5ceec303d4efa04ebdee9595150b408): Total: 0.001 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 3.97 ms, found 12 plugins.
+Asset Pipeline Refresh (id=7d6096c209be9fe44886a9a280bc4206): Total: 0.038 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 0a11b273e0551c743a4592c3e54b8677 - Path: Assets/FrameLab/Scenes/Leichhardt/ReflectionProbe-0.exr' with importer (TextureImporter)
+Imported 'GUID: 0a11b273e0551c743a4592c3e54b8677' -> (Import Result ID: '695a6b58e894749353288b34292b4e97') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=16dba71bac953150ad869b862861b221 DependenciesID=4afac2d2fe478e1e918e1191a3c367fe StaticDependenciesID=90717d14389b169d32231b352941e83e 
+Refreshing native plugins compatible for Editor in 3.88 ms, found 12 plugins.
+Asset Pipeline Refresh (id=b36f37b109ed95843bb5440d170c9198): Total: 0.049 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 0a11b273e0551c743a4592c3e54b8677 - Path: Assets/FrameLab/Scenes/Leichhardt/ReflectionProbe-0.exr' with importer (TextureImporter)
+Starting cubemap convolution (size 128)
+...took 0.044 seconds
+Imported 'GUID: 0a11b273e0551c743a4592c3e54b8677' -> (Import Result ID: '95144429b875007eefe89bcef3da89a7') in 0.061 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=87a09177fecbfaff9863196332242cb9 DependenciesID=76b9dbdd59728c88cf5628584e9c152e StaticDependenciesID=839320204134a966c27894a7fcee2546 
+Refreshing native plugins compatible for Editor in 4.00 ms, found 12 plugins.
+Asset Pipeline Refresh (id=8eb31822e1893954eb116fd1d51d2338): Total: 0.133 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+> Collecting Enlighten data
+Importing 'GUID: 0ef1fb8275457b640bc0924866c83bb3 - Path: Assets/FrameLab/Scenes/Leichhardt/LightingData.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 0ef1fb8275457b640bc0924866c83bb3' -> (Import Result ID: '204021de1af79489a6620d7cd33b4d96') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=28707dec77706b95b47146d37fea0e20 DependenciesID=524b9b2aefc59899eb9693f5cd4cc711 StaticDependenciesID=fa00246ea56dbd8758383b061070cf73 
+Refreshing native plugins compatible for Editor in 4.09 ms, found 12 plugins.
+Asset Pipeline Refresh (id=85dcbc955f46d2642a7c5526fe836154): Total: 0.040 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=cfc94adc04bfb9a4ebc96ab399b2a21b): Total: 0.007 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 4.04 ms, found 12 plugins.
+Asset Pipeline Refresh (id=d493721242faeba4290b0065269b335c): Total: 0.040 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 6d39a9f6bdaa10a4b9fc745bbc467efe - Path: Assets/FrameLab/Lighting/WallsShown/Lightmap0.exr' with importer (TextureImporter)
+Imported 'GUID: 6d39a9f6bdaa10a4b9fc745bbc467efe' -> (Import Result ID: 'feb6d8bd0b85a5bf7d80a6bff8f16443') in 1.499 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d03f2298fed46c95a7a48bb9d58a4a11 DependenciesID=55b12471a1143617f9122f9187999f56 StaticDependenciesID=f4a15ac82378dfda81833f27477bfacc 
+Refreshing native plugins compatible for Editor in 4.01 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=cfa6b04022ab5704384df98f32ffc7b3): Total: 1.550 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1543 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1368, non-scripts=2211
+		Asset File Changes: new=1, changed=1, moved=0, deleted=0
+		Scan Filter Count: 5
+	ApplyChangesToAssetFolders: 0.067ms
+	Scan: 17.124ms
+	Collect global state as custom dependencies: 0.204ms
+	CategorizeAssets: 22.583ms
+	ImportOutOfDateAssets: 1501.198ms (0.228ms without children)
+		ImportManagerImport: 1499.985ms (0.317ms without children)
+		ReloadNativeAssets: 0.101ms
+		UnloadImportedAssets: 0.200ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.452ms
+		ImportSchedulerStart: 0.225ms
+	PostProcessAllAssets: 1.838ms
+		XRBuildSystem.XRAssetImported 1.144ms
+		MonoPostProcessAllAssets: 0.591ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.209ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.059ms
+	PostAssetChangesProfiler: 4.486ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.158ms
+	PersistCurrentRevisions: 0.148ms
+	Untracked: 2.370ms
+
+Importing 'GUID: 6d39a9f6bdaa10a4b9fc745bbc467efe - Path: Assets/FrameLab/Lighting/WallsShown/Lightmap0.exr' with importer (TextureImporter)
+Imported 'GUID: 6d39a9f6bdaa10a4b9fc745bbc467efe' -> (Import Result ID: '95855a908c3995e6b9b13c27418b795d') in 1.189 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=040ca0531a7f563f1bc69f34de2a2333 DependenciesID=79e3d3cac71b4e453774645be524adcd StaticDependenciesID=45d32667f8d8e0654d00395a41361c8d 
+Refreshing native plugins compatible for Editor in 4.19 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=d2debbb9096eefb40b712cb1a7f0430f): Total: 1.241 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1234 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1368, non-scripts=2211
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 5
+	ApplyChangesToAssetFolders: 0.144ms
+	Scan: 13.946ms
+	Collect global state as custom dependencies: 0.433ms
+	ProcessAssetsWithTransientArtifactChanges: 0.103ms
+	CategorizeAssets: 24.945ms
+	ImportOutOfDateAssets: 1190.543ms (0.153ms without children)
+		ImportManagerImport: 1189.442ms (0.285ms without children)
+		ReloadNativeAssets: 0.114ms
+		UnloadImportedAssets: 0.175ms
+		ReloadImportedAssets: 0.117ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.461ms
+		ImportSchedulerStart: 0.192ms
+	PostProcessAllAssets: 1.836ms
+		XRBuildSystem.XRAssetImported 1.084ms
+		MonoPostProcessAllAssets: 0.655ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.217ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.070ms
+	PostAssetChangesProfiler: 4.372ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.309ms
+	PersistCurrentRevisions: 0.149ms
+	Untracked: 3.975ms
+
+Refreshing native plugins compatible for Editor in 4.01 ms, found 12 plugins.
+Asset Pipeline Refresh (id=3267374eb69882c4d893092204c1d218): Total: 0.039 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 0e030c0d0c270e74ab42abe5512bd24d - Path: Assets/FrameLab/Lighting/WallsShown/Lightmap1.exr' with importer (TextureImporter)
+Imported 'GUID: 0e030c0d0c270e74ab42abe5512bd24d' -> (Import Result ID: '60580e376c351664e7bc7b79261d89d1') in 0.377 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=133e729f7d548bf9df2fa060fc0d062c DependenciesID=cc4816409bee96c97e8dd467db3c001a StaticDependenciesID=2a5a2cd5e10b84dac4975379deb8e829 
+Refreshing native plugins compatible for Editor in 4.13 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=1809f7a1fa0748b4385192c163847d29): Total: 0.423 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=416 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1368, non-scripts=2211
+		Asset File Changes: new=1, changed=1, moved=0, deleted=0
+		Scan Filter Count: 5
+	ApplyChangesToAssetFolders: 0.069ms
+	Scan: 10.975ms
+	Collect global state as custom dependencies: 0.209ms
+	CategorizeAssets: 22.816ms
+	ImportOutOfDateAssets: 378.721ms (0.228ms without children)
+		ImportManagerImport: 377.313ms (0.277ms without children)
+		ReloadNativeAssets: 0.127ms
+		UnloadImportedAssets: 0.217ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.580ms
+		ImportSchedulerStart: 0.249ms
+	PostProcessAllAssets: 1.734ms
+		XRBuildSystem.XRAssetImported 1.062ms
+		MonoPostProcessAllAssets: 0.584ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.206ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.055ms
+	PostAssetChangesProfiler: 4.563ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.156ms
+	PersistCurrentRevisions: 0.139ms
+	Untracked: 3.700ms
+
+Importing 'GUID: 0e030c0d0c270e74ab42abe5512bd24d - Path: Assets/FrameLab/Lighting/WallsShown/Lightmap1.exr' with importer (TextureImporter)
+Imported 'GUID: 0e030c0d0c270e74ab42abe5512bd24d' -> (Import Result ID: '2c0f2955b991e6014604f5b9e01195af') in 0.312 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4990287f57550e4f650826b78d3756dd DependenciesID=d472aaa4ef107341b16a3a5bc38e61fa StaticDependenciesID=d4598b2a817253da2312abcb3051fc4e 
+Refreshing native plugins compatible for Editor in 3.93 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=d3310e4f0782e2c4d92838ae76ba3c8c): Total: 0.361 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=355 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1368, non-scripts=2211
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 5
+	ApplyChangesToAssetFolders: 0.097ms
+	Scan: 13.537ms
+	Collect global state as custom dependencies: 0.414ms
+	ProcessAssetsWithTransientArtifactChanges: 0.070ms
+	CategorizeAssets: 23.590ms
+	ImportOutOfDateAssets: 313.690ms (0.189ms without children)
+		ImportManagerImport: 312.624ms (0.272ms without children)
+		ReloadNativeAssets: 0.098ms
+		UnloadImportedAssets: 0.178ms
+		ReloadImportedAssets: 0.108ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.407ms
+		ImportSchedulerStart: 0.186ms
+	PostProcessAllAssets: 1.784ms
+		XRBuildSystem.XRAssetImported 1.079ms
+		MonoPostProcessAllAssets: 0.632ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.185ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.057ms
+	PostAssetChangesProfiler: 4.098ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.150ms
+	PersistCurrentRevisions: 0.144ms
+	Untracked: 3.525ms
+
+Refreshing native plugins compatible for Editor in 3.96 ms, found 12 plugins.
+Asset Pipeline Refresh (id=ae244a6c991baf2449adbd8feb6a69c0): Total: 0.038 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 914f6595b5cd5024a91e7c3fb159604c - Path: Assets/FrameLab/Lighting/WallsShown/Lightmap2.exr' with importer (TextureImporter)
+Imported 'GUID: 914f6595b5cd5024a91e7c3fb159604c' -> (Import Result ID: 'bee8160ad325287c1ae0b73af0746eda') in 0.390 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e5c1c841fc9f32a04523c17f6b56a034 DependenciesID=3c83a45a487ec1d3195f846156a86810 StaticDependenciesID=4b74465bdeaee307013f40385d938b58 
+Refreshing native plugins compatible for Editor in 4.89 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=9ee018cd0255b6c4d9095d738e0c33a9): Total: 0.436 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=428 ms
+		Asset DB Callback time: managed=0 ms, native=6 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1368, non-scripts=2211
+		Asset File Changes: new=1, changed=1, moved=0, deleted=0
+		Scan Filter Count: 5
+	ApplyChangesToAssetFolders: 0.107ms
+	Scan: 10.683ms
+	Collect global state as custom dependencies: 0.203ms
+	OnSourceAssetsModified: 0.059ms
+	CategorizeAssets: 22.781ms
+	ImportOutOfDateAssets: 391.930ms (0.180ms without children)
+		ImportManagerImport: 390.846ms (0.272ms without children)
+		ReloadNativeAssets: 0.099ms
+		UnloadImportedAssets: 0.191ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.424ms
+		ImportSchedulerStart: 0.184ms
+	PostProcessAllAssets: 1.792ms
+		XRBuildSystem.XRAssetImported 1.092ms
+		MonoPostProcessAllAssets: 0.604ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.190ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.063ms
+	PostAssetChangesProfiler: 5.395ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.288ms
+	PersistCurrentRevisions: 0.131ms
+	Untracked: 2.456ms
+
+Importing 'GUID: 914f6595b5cd5024a91e7c3fb159604c - Path: Assets/FrameLab/Lighting/WallsShown/Lightmap2.exr' with importer (TextureImporter)
+Imported 'GUID: 914f6595b5cd5024a91e7c3fb159604c' -> (Import Result ID: '6a20c925f175ec3197023f1d7bbf32a8') in 0.355 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9fc3b4430086db4f6f54b9db8f8bc78c DependenciesID=9528e0704104859ca3b5f6e1c91c671e StaticDependenciesID=5adb8e20874127ce9ce8f5bb45ab76e3 
+Refreshing native plugins compatible for Editor in 3.99 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=5c3b0663d031742449cb4f795902c1d5): Total: 0.405 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=398 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1368, non-scripts=2211
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 5
+	ApplyChangesToAssetFolders: 0.092ms
+	Scan: 12.717ms
+	Collect global state as custom dependencies: 0.393ms
+	ProcessAssetsWithTransientArtifactChanges: 0.069ms
+	CategorizeAssets: 24.449ms
+	ImportOutOfDateAssets: 357.050ms (0.170ms without children)
+		ImportManagerImport: 355.865ms (0.315ms without children)
+		ReloadNativeAssets: 0.109ms
+		UnloadImportedAssets: 0.205ms
+		ReloadImportedAssets: 0.127ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.499ms
+		ImportSchedulerStart: 0.195ms
+	PostProcessAllAssets: 1.838ms
+		XRBuildSystem.XRAssetImported 1.164ms
+		MonoPostProcessAllAssets: 0.579ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.178ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.064ms
+	PostAssetChangesProfiler: 4.157ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.140ms
+	PersistCurrentRevisions: 0.171ms
+	Untracked: 3.847ms
+
+Importing 'GUID: 3495f4b988c4d2c45a5454334722aa7e - Path: Assets/FrameLab/Lighting/WallsShown/Lightmap3.exr' with importer (TextureImporter)
+Imported 'GUID: 3495f4b988c4d2c45a5454334722aa7e' -> (Import Result ID: 'f82691140e76d3c1096d0805e2cdf7b7') in 0.027 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=40603c2d2a31f45c74f6997a51dd27ff DependenciesID=da2127a30adafe5ca45bc3f312128931 StaticDependenciesID=7eb7387223b0644ac91e70b51e618171 
+Refreshing native plugins compatible for Editor in 3.92 ms, found 12 plugins.
+Asset Pipeline Refresh (id=5e80496993685464a87249ebe03d6100): Total: 0.071 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 3495f4b988c4d2c45a5454334722aa7e - Path: Assets/FrameLab/Lighting/WallsShown/Lightmap3.exr' with importer (TextureImporter)
+Imported 'GUID: 3495f4b988c4d2c45a5454334722aa7e' -> (Import Result ID: '94d1535a6bf8409570a61d53e9684361') in 0.018 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=87bb36f4addb650f77f32709e27acc86 DependenciesID=c4c32fe56cbac0aa96d0123a4ebb93c6 StaticDependenciesID=0eab9adf4dc754cbe950bf9baec54aed 
+Refreshing native plugins compatible for Editor in 3.97 ms, found 12 plugins.
+Asset Pipeline Refresh (id=3ae564133a9eec84a85678e4efb073ac): Total: 0.068 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+FRAME_LAB_LIGHTING_STATE WallsShown maps=4
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FrameLabLighting:Capture (string) (at Assets/FrameLab/Editor/FrameLabLighting.cs:266)
+FrameLabLighting:Bake () (at Assets/FrameLab/Editor/FrameLabLighting.cs:123)
+
+(Filename: Assets/FrameLab/Editor/FrameLabLighting.cs Line: 266)
+
+Enlighten scene contents:   0 geometries.   0 instances.   0 systems.   0 probe groups.   0 cube maps. Scene is up-to-date.
+[BakePipeline::Driver] Extracted OOTS snapshot with 36 instances, 36 geometries, 36 meshes, 15 materials, 0 transmission textures, 1 lights, 0 cookies in 0.70ms.
+[BakePipeline::Driver] Transformed OOTS snapshot into LightBaker scene input (00000187B5D35E90) in 239.07ms. Size: 85.67MB.
+[BakePipeline::PreprocessStage] Background thread started.
+[00:01:12] Finished 1 Bake Ambient Probe job (0.00s execute, 0.00s integrate, 0.01s wallclock)
+Starting cubemap convolution (size 128)
+...took 0.054 seconds
+[PathTracer] Finished packing lightmaps in 0.242543 seconds.
+[BakePipeline::BakeStage] Background thread started. Calling LightBaker.
+-- GPU Progressive lightmapper will use OpenCL device 'NVIDIA GeForce RTX 5070 Ti' from 'NVIDIA Corporation'--
+   use -OpenCL-PlatformAndDeviceIndices <platformIdx> <deviceIdx> as command line arguments if you want to select a specific adapter for OpenCL.
+Loading expansionAndGathering.cl with hash e33d408bae01eec0a741a8c66c71e7f2 from cache.
+Loading prepareLightRays.cl with hash 044b351bfec772ebb99c3b019246a99c from cache.
+Loading processLightRays.cl with hash 38d01c326a65429dabdc56898e8269d2 from cache.
+Loading intersectBvh.cl with hash 697849f15e3a99397ba17af133dcdc69 from cache.
+Loading preparePathRays.cl with hash 798d164f8b1e1457823f60223ce15924 from cache.
+Loading prepareEnvironmentRays.cl with hash dbe32462419af253a1493252cc24c950 from cache.
+Loading processEnvironment.cl with hash 1777e3d5c8ccd4845f073eb65efe17c2 from cache.
+Loading processBounce.cl with hash f28d7fe0177f1466296a61211543cd38 from cache.
+Loading culling.cl with hash ec693ef5a424b89805f210b7e47be135 from cache.
+Loading fillBuffer.cl with hash 3948f5b98c63dc90646df0ec15f2dadb from cache.
+Loading expansionAndGathering.cl with hash e96677d627455b4aaa2f5d402c73be40 from cache.
+Loading prepareLightRays.cl with hash 9c70b33130586a3d8e319d1dad8b6ecb from cache.
+Loading preparePathRays.cl with hash d5694437fece44a06dc6b497ef0d2f6c from cache.
+Loading prepareEnvironmentRays.cl with hash 38c5fe8c38680cb73a02ee122d4bb68f from cache.
+Loading processEnvironment.cl with hash 67819b704d7761874b55aae3f80db55f from cache.
+Loading processLightRays.cl with hash 6ada309b260b66e2934ccc51b472aef8 from cache.
+Loading processBounce.cl with hash 0d9af9af65d3f536ccdc9472f3f847cb from cache.
+Loading compositeLightmaps.cl with hash ff6f5f9ed0ccf675178c7953d8fa3b48 from cache.
+Loading atrousFilter.cl with hash 8d59b80028ff43693e5c1501f1fdc781 from cache.
+Loading atrousFilter.cl with hash 152a4810392383c8d78b5941e9246cb5 from cache.
+Loading atrousFilter.cl with hash 7e21375ec60f0641d982dde8fc982142 from cache.
+Loading convergence.cl with hash 688cac9cb967f59c5103b95beef04923 from cache.
+Loading customBake.cl with hash 4153701903552691c0c8a43cd7a50fd1 from cache.
+Loading postProcessProbes.cl with hash 3ef3a8de9f18a40862acbdbb73980ade from cache.
+[PathTracer] Loaded OpenCL shaders in 0.023 secs -> Timestamps: [80.564 - 80.587].
+Progress timing - render light probes	173.56	19660800	18543114740
+[BakePipeline::BakeStage] LightBaker bake took 27883.01ms and succeeded.
+[BakePipeline::PostProcessStage] Started.
+[BakePipeline::PostProcessStage] wrote post processed L2 SH coefficients for 96 light probe positions to Temp/PostProcessingOutput/probeRequest0/irradiance.shl2.
+[BakePipeline::PostProcessStage] wrote occlusion values for 96 light probe positions to Temp/PostProcessingOutput/probeRequest0/occlusion.occ.
+[BakePipeline::Run] Completed succesfully.
+Refreshing native plugins compatible for Editor in 4.19 ms, found 12 plugins.
+Asset Pipeline Refresh (id=cdf87a4beef8f8d4ab222af3a26bf4a7): Total: 0.039 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 3.95 ms, found 12 plugins.
+Asset Pipeline Refresh (id=6ffbaa722e8d39b4fa5efc272c90c55e): Total: 0.047 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 4.33 ms, found 12 plugins.
+Asset Pipeline Refresh (id=cfd014941916c9b4da1724651965e629): Total: 0.055 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 4.07 ms, found 12 plugins.
+Asset Pipeline Refresh (id=3faab7eb3a92ffb4c8abd7d15c67188e): Total: 0.048 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 4.05 ms, found 12 plugins.
+Asset Pipeline Refresh (id=ce94a6d0beca75f45b59c27b85a44888): Total: 0.047 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 0ef1fb8275457b640bc0924866c83bb3 - Path: Assets/FrameLab/Scenes/Leichhardt/LightingData.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 0ef1fb8275457b640bc0924866c83bb3' -> (Import Result ID: '1f33a688af07d36e52072032316ea67f') in 0.035 seconds [static dependencies only]. Details - ImportResultOutputID=c66409e60f56e42e37ecca5675b80fd8 DependenciesID=9c1814f01cc6c0c6b5749212e3afb9cd StaticDependenciesID=dcf6a0ac9a32b24285464d52765485a8 
+Refreshing native plugins compatible for Editor in 4.00 ms, found 12 plugins.
+Asset Pipeline Refresh (id=ba6c9599beef7584a9b6f3532b8ab21e): Total: 0.074 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 3.97 ms, found 12 plugins.
+Asset Pipeline Refresh (id=8d654b14bb281f841bdce8fde6958fc2): Total: 0.039 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: b0e968d0e30424a4aace97a63121ea59 - Path: Assets/FrameLab/Scenes/Leichhardt/Lightmap-0_comp_light.exr' with importer (TextureImporter)
+Imported 'GUID: b0e968d0e30424a4aace97a63121ea59' -> (Import Result ID: '8d5017d6e4f3162f9bc3e1c2bf2a61f8') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6d9d32c06d1c9e89cd50b9cde97e21f1 DependenciesID=b5a83830fa956aec7ee1bf24c20c7161 StaticDependenciesID=c8b7d7f0b831f3feeadc53841e315781 
+Refreshing native plugins compatible for Editor in 4.28 ms, found 12 plugins.
+Asset Pipeline Refresh (id=ca65ba23e8765c641b52a21b09335ef1): Total: 0.052 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: b0e968d0e30424a4aace97a63121ea59 - Path: Assets/FrameLab/Scenes/Leichhardt/Lightmap-0_comp_light.exr' with importer (TextureImporter)
+Imported 'GUID: b0e968d0e30424a4aace97a63121ea59' -> (Import Result ID: '8c7ac6cfcd41dad3443b0960698e4d3b') in 1.481 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=384d972a58dbc9389f3809b61f35fe69 DependenciesID=ea4a6b870065b0445271af90e0713431 StaticDependenciesID=51d5bf8b0b5656456bd45e588425f46d 
+Refreshing native plugins compatible for Editor in 4.07 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=1973048f72cdd0b47985124f862e8dd6): Total: 1.560 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1553 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1368, non-scripts=2207
+		Asset File Changes: new=0, changed=2, moved=0, deleted=0
+		Scan Filter Count: 5
+	ApplyChangesToAssetFolders: 0.108ms
+	Scan: 19.277ms
+	Collect global state as custom dependencies: 0.420ms
+	OnSourceAssetsModified: 0.087ms
+	ProcessAssetsWithTransientArtifactChanges: 0.094ms
+	CategorizeAssets: 44.682ms
+	ImportOutOfDateAssets: 1483.294ms (0.152ms without children)
+		ImportManagerImport: 1482.192ms (0.282ms without children)
+		ReloadNativeAssets: 0.098ms
+		UnloadImportedAssets: 0.208ms
+		ReloadImportedAssets: 0.120ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.424ms
+		ImportSchedulerStart: 0.213ms
+	PostProcessAllAssets: 1.709ms
+		XRBuildSystem.XRAssetImported 1.076ms
+		MonoPostProcessAllAssets: 0.555ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.169ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.060ms
+	PostAssetChangesProfiler: 4.526ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.143ms
+	PersistCurrentRevisions: 0.141ms
+	Untracked: 4.996ms
+
+Asset Pipeline Refresh (id=e1378509635714e4e964c782cb1a3c03): Total: 0.001 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 0a11b273e0551c743a4592c3e54b8677 - Path: Assets/FrameLab/Scenes/Leichhardt/ReflectionProbe-0.exr' with importer (TextureImporter)
+Imported 'GUID: 0a11b273e0551c743a4592c3e54b8677' -> (Import Result ID: '695a6b58e894749353288b34292b4e97') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=16dba71bac953150ad869b862861b221 DependenciesID=4afac2d2fe478e1e918e1191a3c367fe StaticDependenciesID=90717d14389b169d32231b352941e83e 
+Refreshing native plugins compatible for Editor in 4.21 ms, found 12 plugins.
+Asset Pipeline Refresh (id=5d94fdaaa9fd8ef4d8148169ddfc94e1): Total: 0.044 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 0a11b273e0551c743a4592c3e54b8677 - Path: Assets/FrameLab/Scenes/Leichhardt/ReflectionProbe-0.exr' with importer (TextureImporter)
+Starting cubemap convolution (size 128)
+...took 0.044 seconds
+Imported 'GUID: 0a11b273e0551c743a4592c3e54b8677' -> (Import Result ID: '95144429b875007eefe89bcef3da89a7') in 0.058 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=87a09177fecbfaff9863196332242cb9 DependenciesID=76b9dbdd59728c88cf5628584e9c152e StaticDependenciesID=839320204134a966c27894a7fcee2546 
+Refreshing native plugins compatible for Editor in 3.98 ms, found 12 plugins.
+Asset Pipeline Refresh (id=640dece608cb00f47832bd316241c7f6): Total: 0.126 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+> Collecting Enlighten data
+Importing 'GUID: 0ef1fb8275457b640bc0924866c83bb3 - Path: Assets/FrameLab/Scenes/Leichhardt/LightingData.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 0ef1fb8275457b640bc0924866c83bb3' -> (Import Result ID: 'f1450a4592fba3046545ef687235ccde') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=28707dec77706b95b47146d37fea0e20 DependenciesID=5f135fef678227002bb6d428be261014 StaticDependenciesID=acd0e8e3ec443fe47ec634c78d57e46a 
+Refreshing native plugins compatible for Editor in 4.07 ms, found 12 plugins.
+Asset Pipeline Refresh (id=622708350975fb64c9daa93da65b42eb): Total: 0.039 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=89e0fab61f99c584198a3924296d49c2): Total: 0.007 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 4.04 ms, found 12 plugins.
+Asset Pipeline Refresh (id=7aa86b3a9e007154ab7a5a1b32e8b4b7): Total: 0.038 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 8f377345948dc3e4e88f570b6ea29ec5 - Path: Assets/FrameLab/Lighting/WallsHidden/Lightmap0.exr' with importer (TextureImporter)
+Imported 'GUID: 8f377345948dc3e4e88f570b6ea29ec5' -> (Import Result ID: '7010676e2004943ed5de92e15dcc0051') in 1.489 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9af690b92d502948d642b093f26f7a02 DependenciesID=3a512566a8a527c1c1d9569a60727357 StaticDependenciesID=ebc09d9381fc806c636f61a7f4b86380 
+Refreshing native plugins compatible for Editor in 4.39 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=7f9c71c68e915464eb3e3e625685fd7b): Total: 1.540 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1532 ms
+		Asset DB Callback time: managed=1 ms, native=6 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1368, non-scripts=2209
+		Asset File Changes: new=1, changed=1, moved=0, deleted=0
+		Scan Filter Count: 5
+	ApplyChangesToAssetFolders: 0.066ms
+	Scan: 16.546ms
+	Collect global state as custom dependencies: 0.201ms
+	CategorizeAssets: 22.019ms
+	ImportOutOfDateAssets: 1490.698ms (0.293ms without children)
+		ImportManagerImport: 1489.395ms (0.366ms without children)
+		ReloadNativeAssets: 0.096ms
+		UnloadImportedAssets: 0.192ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.495ms
+		ImportSchedulerStart: 0.219ms
+	PostProcessAllAssets: 2.496ms
+		XRBuildSystem.XRAssetImported 1.522ms
+		MonoPostProcessAllAssets: 0.817ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.253ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.085ms
+	PostAssetChangesProfiler: 5.054ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.143ms
+	PersistCurrentRevisions: 0.249ms
+	Untracked: 2.774ms
+
+Importing 'GUID: 8f377345948dc3e4e88f570b6ea29ec5 - Path: Assets/FrameLab/Lighting/WallsHidden/Lightmap0.exr' with importer (TextureImporter)
+Imported 'GUID: 8f377345948dc3e4e88f570b6ea29ec5' -> (Import Result ID: 'c2a05ff6e59b402452ef80142c5c082c') in 1.090 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5ba14a041fd3697394c622bd2bcf660f DependenciesID=70b512f02d6eda4adbfbdd50d6c64882 StaticDependenciesID=bf84933dce6a4274c4c8d1d2153b1555 
+Refreshing native plugins compatible for Editor in 4.14 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=bf4b0a50d7095a644865872f20a46406): Total: 1.150 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1143 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1368, non-scripts=2209
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 5
+	ApplyChangesToAssetFolders: 0.149ms
+	Scan: 16.194ms
+	Collect global state as custom dependencies: 0.479ms
+	ProcessAssetsWithTransientArtifactChanges: 0.107ms
+	CategorizeAssets: 29.204ms
+	ImportOutOfDateAssets: 1092.028ms (0.173ms without children)
+		ImportManagerImport: 1090.821ms (0.328ms without children)
+		ReloadNativeAssets: 0.109ms
+		UnloadImportedAssets: 0.186ms
+		ReloadImportedAssets: 0.133ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.521ms
+		ImportSchedulerStart: 0.210ms
+	PostProcessAllAssets: 1.843ms
+		XRBuildSystem.XRAssetImported 1.123ms
+		MonoPostProcessAllAssets: 0.635ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.203ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.071ms
+	PostAssetChangesProfiler: 4.348ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.306ms
+	PersistCurrentRevisions: 0.169ms
+	Untracked: 4.856ms
+
+FRAME_LAB_LIGHTING_STATE WallsHidden maps=1
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FrameLabLighting:Capture (string) (at Assets/FrameLab/Editor/FrameLabLighting.cs:266)
+FrameLabLighting:Bake () (at Assets/FrameLab/Editor/FrameLabLighting.cs:127)
+
+(Filename: Assets/FrameLab/Editor/FrameLabLighting.cs Line: 266)
+
+Enlighten scene contents:   0 geometries.   0 instances.   0 systems.   0 probe groups.   0 cube maps. Scene is up-to-date.
+[BakePipeline::Driver] Extracted OOTS snapshot with 28 instances, 28 geometries, 28 meshes, 11 materials, 0 transmission textures, 1 lights, 0 cookies in 0.57ms.
+[BakePipeline::Driver] Transformed OOTS snapshot into LightBaker scene input (00000187B5D3B610) in 260.62ms. Size: 76.04MB.
+[BakePipeline::PreprocessStage] Background thread started.
+[00:01:54] Finished 1 Bake Ambient Probe job (0.00s execute, 0.00s integrate, 0.01s wallclock)
+Starting cubemap convolution (size 128)
+...took 0.051 seconds
+[PathTracer] Finished packing lightmaps in 0.211384 seconds.
+[BakePipeline::BakeStage] Background thread started. Calling LightBaker.
+-- GPU Progressive lightmapper will use OpenCL device 'NVIDIA GeForce RTX 5070 Ti' from 'NVIDIA Corporation'--
+   use -OpenCL-PlatformAndDeviceIndices <platformIdx> <deviceIdx> as command line arguments if you want to select a specific adapter for OpenCL.
+Loading expansionAndGathering.cl with hash e33d408bae01eec0a741a8c66c71e7f2 from cache.
+Loading prepareLightRays.cl with hash 044b351bfec772ebb99c3b019246a99c from cache.
+Loading processLightRays.cl with hash 38d01c326a65429dabdc56898e8269d2 from cache.
+Loading intersectBvh.cl with hash 697849f15e3a99397ba17af133dcdc69 from cache.
+Loading preparePathRays.cl with hash 798d164f8b1e1457823f60223ce15924 from cache.
+Loading prepareEnvironmentRays.cl with hash dbe32462419af253a1493252cc24c950 from cache.
+Loading processEnvironment.cl with hash 1777e3d5c8ccd4845f073eb65efe17c2 from cache.
+Loading processBounce.cl with hash f28d7fe0177f1466296a61211543cd38 from cache.
+Loading culling.cl with hash ec693ef5a424b89805f210b7e47be135 from cache.
+Loading fillBuffer.cl with hash 3948f5b98c63dc90646df0ec15f2dadb from cache.
+Loading expansionAndGathering.cl with hash e96677d627455b4aaa2f5d402c73be40 from cache.
+Loading prepareLightRays.cl with hash 9c70b33130586a3d8e319d1dad8b6ecb from cache.
+Loading preparePathRays.cl with hash d5694437fece44a06dc6b497ef0d2f6c from cache.
+Loading prepareEnvironmentRays.cl with hash 38c5fe8c38680cb73a02ee122d4bb68f from cache.
+Loading processEnvironment.cl with hash 67819b704d7761874b55aae3f80db55f from cache.
+Loading processLightRays.cl with hash 6ada309b260b66e2934ccc51b472aef8 from cache.
+Loading processBounce.cl with hash 0d9af9af65d3f536ccdc9472f3f847cb from cache.
+Loading compositeLightmaps.cl with hash ff6f5f9ed0ccf675178c7953d8fa3b48 from cache.
+Loading atrousFilter.cl with hash 8d59b80028ff43693e5c1501f1fdc781 from cache.
+Loading atrousFilter.cl with hash 152a4810392383c8d78b5941e9246cb5 from cache.
+Loading atrousFilter.cl with hash 7e21375ec60f0641d982dde8fc982142 from cache.
+Loading convergence.cl with hash 688cac9cb967f59c5103b95beef04923 from cache.
+Loading customBake.cl with hash 4153701903552691c0c8a43cd7a50fd1 from cache.
+Loading postProcessProbes.cl with hash 3ef3a8de9f18a40862acbdbb73980ade from cache.
+[PathTracer] Loaded OpenCL shaders in 0.022 secs -> Timestamps: [122.827 - 122.849].
+Progress timing - render light probes	164.66	19660800	16938286028
+[BakePipeline::BakeStage] LightBaker bake took 17329.22ms and succeeded.
+[BakePipeline::PostProcessStage] Started.
+[BakePipeline::PostProcessStage] wrote post processed L2 SH coefficients for 96 light probe positions to Temp/PostProcessingOutput/probeRequest0/irradiance.shl2.
+[BakePipeline::PostProcessStage] wrote occlusion values for 96 light probe positions to Temp/PostProcessingOutput/probeRequest0/occlusion.occ.
+[BakePipeline::Run] Completed succesfully.
+Refreshing native plugins compatible for Editor in 4.01 ms, found 12 plugins.
+Asset Pipeline Refresh (id=fc409b4e2a3a1544dbab6e05580d5e08): Total: 0.046 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 4.01 ms, found 12 plugins.
+Asset Pipeline Refresh (id=37f17a87ebb90604eb910d78299e71b4): Total: 0.045 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 0ef1fb8275457b640bc0924866c83bb3 - Path: Assets/FrameLab/Scenes/Leichhardt/LightingData.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 0ef1fb8275457b640bc0924866c83bb3' -> (Import Result ID: '0bc00504c4c99863140b21f7838edf48') in 0.014 seconds [static dependencies only]. Details - ImportResultOutputID=c66409e60f56e42e37ecca5675b80fd8 DependenciesID=ca4993b6b97c67e98f8236400436501e StaticDependenciesID=72c477957c64cf4db16416a25d52af16 
+Refreshing native plugins compatible for Editor in 3.89 ms, found 12 plugins.
+Asset Pipeline Refresh (id=61cef1c3baa69084a90228efee35d8f5): Total: 0.053 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 4.08 ms, found 12 plugins.
+Asset Pipeline Refresh (id=1658b9b261295b84aa5b9cc2991bb9a7): Total: 0.038 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: b0e968d0e30424a4aace97a63121ea59 - Path: Assets/FrameLab/Scenes/Leichhardt/Lightmap-0_comp_light.exr' with importer (TextureImporter)
+Imported 'GUID: b0e968d0e30424a4aace97a63121ea59' -> (Import Result ID: '8d5017d6e4f3162f9bc3e1c2bf2a61f8') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6d9d32c06d1c9e89cd50b9cde97e21f1 DependenciesID=b5a83830fa956aec7ee1bf24c20c7161 StaticDependenciesID=c8b7d7f0b831f3feeadc53841e315781 
+Refreshing native plugins compatible for Editor in 3.96 ms, found 12 plugins.
+Asset Pipeline Refresh (id=d06718de04d60ac45aaa7636f860b773): Total: 0.051 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: b0e968d0e30424a4aace97a63121ea59 - Path: Assets/FrameLab/Scenes/Leichhardt/Lightmap-0_comp_light.exr' with importer (TextureImporter)
+Imported 'GUID: b0e968d0e30424a4aace97a63121ea59' -> (Import Result ID: 'bdc8564afab16911ca18985534eb812f') in 1.451 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d7be4ebd2c639112a2f4acea1abba113 DependenciesID=5769abd2ad19411f4d5f22a1147fd8ca StaticDependenciesID=a1d6ac371a3e5bc58cdd2f782d7f5b55 
+Refreshing native plugins compatible for Editor in 3.99 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=647c79e1f3b0c8241958d61599bbfc72): Total: 1.528 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1521 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1368, non-scripts=2207
+		Asset File Changes: new=0, changed=2, moved=0, deleted=0
+		Scan Filter Count: 5
+	ApplyChangesToAssetFolders: 0.107ms
+	Scan: 17.908ms
+	Collect global state as custom dependencies: 0.493ms
+	OnSourceAssetsModified: 0.082ms
+	ProcessAssetsWithTransientArtifactChanges: 0.085ms
+	CategorizeAssets: 44.505ms
+	ImportOutOfDateAssets: 1453.035ms (0.178ms without children)
+		ImportManagerImport: 1451.923ms (0.286ms without children)
+		ReloadNativeAssets: 0.096ms
+		UnloadImportedAssets: 0.210ms
+		ReloadImportedAssets: 0.121ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.395ms
+		ImportSchedulerStart: 0.227ms
+	PostProcessAllAssets: 1.863ms
+		XRBuildSystem.XRAssetImported 1.143ms
+		MonoPostProcessAllAssets: 0.618ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.189ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.069ms
+	PostAssetChangesProfiler: 4.482ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.139ms
+	PersistCurrentRevisions: 0.168ms
+	Untracked: 4.860ms
+
+Asset Pipeline Refresh (id=91d7ea5bfcda7914da424d07bedd1454): Total: 0.001 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 0a11b273e0551c743a4592c3e54b8677 - Path: Assets/FrameLab/Scenes/Leichhardt/ReflectionProbe-0.exr' with importer (TextureImporter)
+Imported 'GUID: 0a11b273e0551c743a4592c3e54b8677' -> (Import Result ID: '695a6b58e894749353288b34292b4e97') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=16dba71bac953150ad869b862861b221 DependenciesID=4afac2d2fe478e1e918e1191a3c367fe StaticDependenciesID=90717d14389b169d32231b352941e83e 
+Refreshing native plugins compatible for Editor in 3.90 ms, found 12 plugins.
+Asset Pipeline Refresh (id=c00e85edb95e90a4a80721c26f60d755): Total: 0.043 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 0a11b273e0551c743a4592c3e54b8677 - Path: Assets/FrameLab/Scenes/Leichhardt/ReflectionProbe-0.exr' with importer (TextureImporter)
+Starting cubemap convolution (size 128)
+...took 0.045 seconds
+Imported 'GUID: 0a11b273e0551c743a4592c3e54b8677' -> (Import Result ID: '95144429b875007eefe89bcef3da89a7') in 0.060 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=87a09177fecbfaff9863196332242cb9 DependenciesID=76b9dbdd59728c88cf5628584e9c152e StaticDependenciesID=839320204134a966c27894a7fcee2546 
+Refreshing native plugins compatible for Editor in 4.22 ms, found 12 plugins.
+Asset Pipeline Refresh (id=16e0c51e74c03614d8bb56c823dc93a8): Total: 0.130 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+> Collecting Enlighten data
+Importing 'GUID: 0ef1fb8275457b640bc0924866c83bb3 - Path: Assets/FrameLab/Scenes/Leichhardt/LightingData.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 0ef1fb8275457b640bc0924866c83bb3' -> (Import Result ID: 'fc7363b93d79c9c52de47d5ff26387fb') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=28707dec77706b95b47146d37fea0e20 DependenciesID=28fd49f0533e645a0b3ad94289beb859 StaticDependenciesID=d6ef87ffd157c834f75923f29575d4b0 
+Refreshing native plugins compatible for Editor in 3.87 ms, found 12 plugins.
+Asset Pipeline Refresh (id=950cde9382030d2479049c217f5811ab): Total: 0.040 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=82b6c7c00c020cf43ab6f2caa145304d): Total: 0.006 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 4.08 ms, found 12 plugins.
+Asset Pipeline Refresh (id=107e808745ce5154ba74a21af878d5a1): Total: 0.039 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: d6aaa7d504e800a489ddaa7709281dbc - Path: Assets/FrameLab/Lighting/WallsHiddenRoofHidden/Lightmap0.exr' with importer (TextureImporter)
+Imported 'GUID: d6aaa7d504e800a489ddaa7709281dbc' -> (Import Result ID: 'dbbb99cb561ab70c0416a39aa6c23c00') in 1.482 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=404c35686db51d8b5c7fcd92657ef996 DependenciesID=50275ddbacc4fc04984df2b64884d83d StaticDependenciesID=f181f458b1142b4a7373f9e522d5b59a 
+Refreshing native plugins compatible for Editor in 4.21 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=d4717a8145f5e9349b3f99057660ae18): Total: 1.532 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1525 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1368, non-scripts=2209
+		Asset File Changes: new=1, changed=1, moved=0, deleted=0
+		Scan Filter Count: 5
+	ApplyChangesToAssetFolders: 0.064ms
+	Scan: 15.743ms
+	Collect global state as custom dependencies: 0.199ms
+	CategorizeAssets: 23.047ms
+	ImportOutOfDateAssets: 1483.542ms (0.192ms without children)
+		ImportManagerImport: 1482.200ms (0.274ms without children)
+		ReloadNativeAssets: 0.135ms
+		UnloadImportedAssets: 0.278ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.533ms
+		ImportSchedulerStart: 0.196ms
+	PostProcessAllAssets: 1.778ms
+		XRBuildSystem.XRAssetImported 1.079ms
+		MonoPostProcessAllAssets: 0.602ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.187ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.071ms
+	PostAssetChangesProfiler: 4.698ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.159ms
+	PersistCurrentRevisions: 0.157ms
+	Untracked: 2.319ms
+
+Importing 'GUID: d6aaa7d504e800a489ddaa7709281dbc - Path: Assets/FrameLab/Lighting/WallsHiddenRoofHidden/Lightmap0.exr' with importer (TextureImporter)
+Imported 'GUID: d6aaa7d504e800a489ddaa7709281dbc' -> (Import Result ID: '578c4647e25807f7d874f9ef731e5d87') in 0.953 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=725afed9a9fae3a0b6e15cf99afeb90c DependenciesID=2754cae649903d74eb3d1c4f0a931c0c StaticDependenciesID=e4f08eebb665b06c7462c5287e4c2fc4 
+Refreshing native plugins compatible for Editor in 4.02 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=eb84443dcd433e1428d357784988a042): Total: 1.004 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=997 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1368, non-scripts=2209
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 5
+	ApplyChangesToAssetFolders: 0.112ms
+	Scan: 13.270ms
+	Collect global state as custom dependencies: 0.401ms
+	ProcessAssetsWithTransientArtifactChanges: 0.069ms
+	CategorizeAssets: 24.850ms
+	ImportOutOfDateAssets: 954.661ms (0.161ms without children)
+		ImportManagerImport: 953.579ms (0.298ms without children)
+		ReloadNativeAssets: 0.102ms
+		UnloadImportedAssets: 0.167ms
+		ReloadImportedAssets: 0.123ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.432ms
+		ImportSchedulerStart: 0.213ms
+	PostProcessAllAssets: 2.404ms
+		XRBuildSystem.XRAssetImported 1.570ms
+		MonoPostProcessAllAssets: 0.733ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.217ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.094ms
+	PostAssetChangesProfiler: 4.211ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.141ms
+	PersistCurrentRevisions: 0.180ms
+	Untracked: 4.057ms
+
+FRAME_LAB_LIGHTING_STATE WallsHiddenRoofHidden maps=1
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FrameLabLighting:Capture (string) (at Assets/FrameLab/Editor/FrameLabLighting.cs:266)
+FrameLabLighting:Bake () (at Assets/FrameLab/Editor/FrameLabLighting.cs:130)
+
+(Filename: Assets/FrameLab/Editor/FrameLabLighting.cs Line: 266)
+
+Enlighten scene contents:   0 geometries.   0 instances.   0 systems.   0 probe groups.   0 cube maps. Scene is up-to-date.
+[BakePipeline::Driver] Extracted OOTS snapshot with 61 instances, 61 geometries, 61 meshes, 35 materials, 0 transmission textures, 1 lights, 0 cookies in 1.17ms.
+[BakePipeline::Driver] Transformed OOTS snapshot into LightBaker scene input (00000187B5D3DC90) in 358.77ms. Size: 121.98MB.
+[BakePipeline::PreprocessStage] Background thread started.
+[00:02:26] Finished 1 Bake Ambient Probe job (0.00s execute, 0.00s integrate, 0.01s wallclock)
+Starting cubemap convolution (size 128)
+...took 0.051 seconds
+[PathTracer] Finished packing lightmaps in 0.433359 seconds.
+[BakePipeline::BakeStage] Background thread started. Calling LightBaker.
+-- GPU Progressive lightmapper will use OpenCL device 'NVIDIA GeForce RTX 5070 Ti' from 'NVIDIA Corporation'--
+   use -OpenCL-PlatformAndDeviceIndices <platformIdx> <deviceIdx> as command line arguments if you want to select a specific adapter for OpenCL.
+Loading expansionAndGathering.cl with hash e33d408bae01eec0a741a8c66c71e7f2 from cache.
+Loading prepareLightRays.cl with hash 044b351bfec772ebb99c3b019246a99c from cache.
+Loading processLightRays.cl with hash 38d01c326a65429dabdc56898e8269d2 from cache.
+Loading intersectBvh.cl with hash 697849f15e3a99397ba17af133dcdc69 from cache.
+Loading preparePathRays.cl with hash 798d164f8b1e1457823f60223ce15924 from cache.
+Loading prepareEnvironmentRays.cl with hash dbe32462419af253a1493252cc24c950 from cache.
+Loading processEnvironment.cl with hash 1777e3d5c8ccd4845f073eb65efe17c2 from cache.
+Loading processBounce.cl with hash f28d7fe0177f1466296a61211543cd38 from cache.
+Loading culling.cl with hash ec693ef5a424b89805f210b7e47be135 from cache.
+Loading fillBuffer.cl with hash 3948f5b98c63dc90646df0ec15f2dadb from cache.
+Loading expansionAndGathering.cl with hash e96677d627455b4aaa2f5d402c73be40 from cache.
+Loading prepareLightRays.cl with hash 9c70b33130586a3d8e319d1dad8b6ecb from cache.
+Loading preparePathRays.cl with hash d5694437fece44a06dc6b497ef0d2f6c from cache.
+Loading prepareEnvironmentRays.cl with hash 38c5fe8c38680cb73a02ee122d4bb68f from cache.
+Loading processEnvironment.cl with hash 67819b704d7761874b55aae3f80db55f from cache.
+Loading processLightRays.cl with hash 6ada309b260b66e2934ccc51b472aef8 from cache.
+Loading processBounce.cl with hash 0d9af9af65d3f536ccdc9472f3f847cb from cache.
+Loading compositeLightmaps.cl with hash ff6f5f9ed0ccf675178c7953d8fa3b48 from cache.
+Loading atrousFilter.cl with hash 8d59b80028ff43693e5c1501f1fdc781 from cache.
+Loading atrousFilter.cl with hash 152a4810392383c8d78b5941e9246cb5 from cache.
+Loading atrousFilter.cl with hash 7e21375ec60f0641d982dde8fc982142 from cache.
+Loading convergence.cl with hash 688cac9cb967f59c5103b95beef04923 from cache.
+Loading customBake.cl with hash 4153701903552691c0c8a43cd7a50fd1 from cache.
+Loading postProcessProbes.cl with hash 3ef3a8de9f18a40862acbdbb73980ade from cache.
+[PathTracer] Loaded OpenCL shaders in 0.025 secs -> Timestamps: [154.318 - 154.343].
+Progress timing - render light probes	198.57	19660800	31240521265
+TrimDiskCacheJob: Current cache size 7411mb
+[BakePipeline::BakeStage] LightBaker bake took 28992.86ms and succeeded.
+[BakePipeline::PostProcessStage] Started.
+[BakePipeline::PostProcessStage] wrote post processed L2 SH coefficients for 96 light probe positions to Temp/PostProcessingOutput/probeRequest0/irradiance.shl2.
+[BakePipeline::PostProcessStage] wrote occlusion values for 96 light probe positions to Temp/PostProcessingOutput/probeRequest0/occlusion.occ.
+[BakePipeline::Run] Completed succesfully.
+Refreshing native plugins compatible for Editor in 4.11 ms, found 12 plugins.
+Asset Pipeline Refresh (id=ac4b7726e77e91846b03a0bdc95df792): Total: 0.039 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 3.94 ms, found 12 plugins.
+Asset Pipeline Refresh (id=5c16e7c2998404e44b4136c3f574c352): Total: 0.046 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 0ef1fb8275457b640bc0924866c83bb3 - Path: Assets/FrameLab/Scenes/Leichhardt/LightingData.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 0ef1fb8275457b640bc0924866c83bb3' -> (Import Result ID: 'e80a240c4134872a46b341898e4a6989') in 0.026 seconds [static dependencies only]. Details - ImportResultOutputID=c66409e60f56e42e37ecca5675b80fd8 DependenciesID=35aa2181c0b8748d5a2ef5eea294f2f7 StaticDependenciesID=27560deaa728cc367c007df64210660d 
+Refreshing native plugins compatible for Editor in 4.10 ms, found 12 plugins.
+Asset Pipeline Refresh (id=fc4833dc4ce664544bdc12b12ac8dd34): Total: 0.066 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 6.02 ms, found 12 plugins.
+Asset Pipeline Refresh (id=aab5f17e01ab0b547a173c0827a995d2): Total: 0.050 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: b0e968d0e30424a4aace97a63121ea59 - Path: Assets/FrameLab/Scenes/Leichhardt/Lightmap-0_comp_light.exr' with importer (TextureImporter)
+Imported 'GUID: b0e968d0e30424a4aace97a63121ea59' -> (Import Result ID: '8d5017d6e4f3162f9bc3e1c2bf2a61f8') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6d9d32c06d1c9e89cd50b9cde97e21f1 DependenciesID=b5a83830fa956aec7ee1bf24c20c7161 StaticDependenciesID=c8b7d7f0b831f3feeadc53841e315781 
+Importing 'GUID: 7563e133a987ef8459b56b9a7820f871 - Path: Assets/FrameLab/Scenes/Leichhardt/Lightmap-1_comp_light.exr' with importer (TextureImporter)
+Imported 'GUID: 7563e133a987ef8459b56b9a7820f871' -> (Import Result ID: 'f167879b0046f52adfdae0c4f25b7cd1') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7d420f07639b16687b11f5ffccae9229 DependenciesID=a51a58b8cdf77d7f4b765dc4a8a52793 StaticDependenciesID=370eef9ea077c4473e59f2e7128c1aa9 
+Importing 'GUID: dec5a8c22b470514ab33b8b8e30daa81 - Path: Assets/FrameLab/Scenes/Leichhardt/Lightmap-2_comp_light.exr' with importer (TextureImporter)
+Imported 'GUID: dec5a8c22b470514ab33b8b8e30daa81' -> (Import Result ID: '10f84b56307e5b010741c993e9cebe6e') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=abee6ec85a6b4e6acb7a7b60b2c934e1 DependenciesID=56702fcf0781a6fa23f8c5d57b3e42ca StaticDependenciesID=535b7ea32be06186514919d487018ba6 
+Refreshing native plugins compatible for Editor in 3.98 ms, found 12 plugins.
+Asset Pipeline Refresh (id=e51181562ba9389478c99ed848f72afe): Total: 0.075 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: b0e968d0e30424a4aace97a63121ea59 - Path: Assets/FrameLab/Scenes/Leichhardt/Lightmap-0_comp_light.exr' with importer (TextureImporter)
+Imported 'GUID: b0e968d0e30424a4aace97a63121ea59' -> (Import Result ID: 'c991804bf491cbdefb87bb382a9b1aba') in 1.466 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d47e9bf582d4b2bd7aae1bca6c5f382e DependenciesID=37d078440b9e2eb0e4a8b6c5fe4e3d7a StaticDependenciesID=ef9b5b871d29270a6f225dd1d2ce82ca 
+Importing 'GUID: 7563e133a987ef8459b56b9a7820f871 - Path: Assets/FrameLab/Scenes/Leichhardt/Lightmap-1_comp_light.exr' with importer (TextureImporter)
+Imported 'GUID: 7563e133a987ef8459b56b9a7820f871' -> (Import Result ID: '23af7e9e96b50f79e02cad6dcac36ae7') in 0.373 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d133d1c0e59aaf2548acf0c93f302f99 DependenciesID=4b9abbcf35c42bac0723eb2cbf0e91c9 StaticDependenciesID=31a057dee9ebc101b0869d75b6fe4ac7 
+Importing 'GUID: dec5a8c22b470514ab33b8b8e30daa81 - Path: Assets/FrameLab/Scenes/Leichhardt/Lightmap-2_comp_light.exr' with importer (TextureImporter)
+Imported 'GUID: dec5a8c22b470514ab33b8b8e30daa81' -> (Import Result ID: '545c8f012443c8b68029841280ca6866') in 0.359 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7bab81182b0e5c6295d8b73889da4fff DependenciesID=dfafa88aa199336719bbfb0e8504ea73 StaticDependenciesID=272d12f9b73aeb8047bdbbc8c7ffbb1f 
+Refreshing native plugins compatible for Editor in 4.05 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=6d7cd5073054aa9408054d98cb3e91a7): Total: 2.280 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=3 (actual=3, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=2272 ms
+		Asset DB Callback time: managed=1 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1368, non-scripts=2209
+		Asset File Changes: new=0, changed=6, moved=0, deleted=0
+		Scan Filter Count: 7
+	ApplyChangesToAssetFolders: 0.113ms
+	Scan: 21.194ms
+	Collect global state as custom dependencies: 0.466ms
+	OnSourceAssetsModified: 0.081ms
+	ProcessAssetsWithTransientArtifactChanges: 0.083ms
+	CategorizeAssets: 44.774ms
+	ImportOutOfDateAssets: 2200.919ms (0.177ms without children)
+		ImportManagerImport: 2199.653ms (0.395ms without children)
+		ReloadNativeAssets: 0.125ms
+		UnloadImportedAssets: 0.237ms
+		ReloadImportedAssets: 0.406ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.508ms
+		ImportSchedulerStart: 0.211ms
+	PostProcessAllAssets: 1.868ms
+		XRBuildSystem.XRAssetImported 1.071ms
+		MonoPostProcessAllAssets: 0.689ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.237ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.068ms
+	PostAssetChangesProfiler: 4.544ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.170ms
+	PersistCurrentRevisions: 0.155ms
+	Untracked: 5.553ms
+
+Asset Pipeline Refresh (id=277f6769db926a7499922991fbcfb4ed): Total: 0.001 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 0a11b273e0551c743a4592c3e54b8677 - Path: Assets/FrameLab/Scenes/Leichhardt/ReflectionProbe-0.exr' with importer (TextureImporter)
+Imported 'GUID: 0a11b273e0551c743a4592c3e54b8677' -> (Import Result ID: '695a6b58e894749353288b34292b4e97') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=16dba71bac953150ad869b862861b221 DependenciesID=4afac2d2fe478e1e918e1191a3c367fe StaticDependenciesID=90717d14389b169d32231b352941e83e 
+Refreshing native plugins compatible for Editor in 3.82 ms, found 12 plugins.
+Asset Pipeline Refresh (id=a0d958ac061355248a18c2a15db6d8f1): Total: 0.042 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 0a11b273e0551c743a4592c3e54b8677 - Path: Assets/FrameLab/Scenes/Leichhardt/ReflectionProbe-0.exr' with importer (TextureImporter)
+Starting cubemap convolution (size 128)
+...took 0.045 seconds
+Imported 'GUID: 0a11b273e0551c743a4592c3e54b8677' -> (Import Result ID: '95144429b875007eefe89bcef3da89a7') in 0.059 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=87a09177fecbfaff9863196332242cb9 DependenciesID=76b9dbdd59728c88cf5628584e9c152e StaticDependenciesID=839320204134a966c27894a7fcee2546 
+Refreshing native plugins compatible for Editor in 3.98 ms, found 12 plugins.
+Asset Pipeline Refresh (id=e7d3887aedf02cf4893de5d31e41bb02): Total: 0.128 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+> Collecting Enlighten data
+Importing 'GUID: 0ef1fb8275457b640bc0924866c83bb3 - Path: Assets/FrameLab/Scenes/Leichhardt/LightingData.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 0ef1fb8275457b640bc0924866c83bb3' -> (Import Result ID: 'b1f55409a865fa5c78ac077ca10ed16d') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=28707dec77706b95b47146d37fea0e20 DependenciesID=f7335e2ecd86951e23930741ef28d2ff StaticDependenciesID=9efe3b44e1d951edf5022c33dec951fe 
+Refreshing native plugins compatible for Editor in 3.96 ms, found 12 plugins.
+Asset Pipeline Refresh (id=709b3e77ec5e86543985e540f30762e5): Total: 0.042 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=73f94dc26ec3b194d8cd4b387b37b0ca): Total: 0.007 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 3.98 ms, found 12 plugins.
+Asset Pipeline Refresh (id=7076258ecbb05c647a81e3d9779ef1eb): Total: 0.041 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 75426fcd9a9ef004293a0801c2dd7a4e - Path: Assets/FrameLab/Lighting/WallsShownRoofHidden/Lightmap0.exr' with importer (TextureImporter)
+Imported 'GUID: 75426fcd9a9ef004293a0801c2dd7a4e' -> (Import Result ID: '78c15ae37ec9e4b1aa19239d46312469') in 1.471 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2e4774187cf34a3c5a152d5602d056ee DependenciesID=ffb41c96745797c265efc7dccceee484 StaticDependenciesID=b2fcc00cead2532dc67de33430774255 
+Refreshing native plugins compatible for Editor in 4.00 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=45840f052a9e15e4ebbf806c4c662599): Total: 1.522 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1515 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1368, non-scripts=2211
+		Asset File Changes: new=1, changed=1, moved=0, deleted=0
+		Scan Filter Count: 5
+	ApplyChangesToAssetFolders: 0.070ms
+	Scan: 16.868ms
+	Collect global state as custom dependencies: 0.216ms
+	OnSourceAssetsModified: 0.057ms
+	ProcessAssetsWithTransientArtifactChanges: 0.052ms
+	CategorizeAssets: 22.754ms
+	ImportOutOfDateAssets: 1472.618ms (0.249ms without children)
+		ImportManagerImport: 1471.326ms (0.280ms without children)
+		ReloadNativeAssets: 0.102ms
+		UnloadImportedAssets: 0.191ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.519ms
+		ImportSchedulerStart: 0.225ms
+	PostProcessAllAssets: 1.726ms
+		XRBuildSystem.XRAssetImported 1.072ms
+		MonoPostProcessAllAssets: 0.551ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.174ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.059ms
+	PostAssetChangesProfiler: 4.444ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.146ms
+	PersistCurrentRevisions: 0.161ms
+	Untracked: 2.966ms
+
+Importing 'GUID: 75426fcd9a9ef004293a0801c2dd7a4e - Path: Assets/FrameLab/Lighting/WallsShownRoofHidden/Lightmap0.exr' with importer (TextureImporter)
+Imported 'GUID: 75426fcd9a9ef004293a0801c2dd7a4e' -> (Import Result ID: '728a82981f2d796af285ad38330f79a4') in 1.015 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3e770488f572c767a6471b14f587329d DependenciesID=d45f1046710f7eaf1a81e0890d1ad478 StaticDependenciesID=c4a22a7e43a98b22fc9c796391f5c8a4 
+Refreshing native plugins compatible for Editor in 4.24 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=9e0918aaf6309f840b8b778c2d84454f): Total: 1.066 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1059 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1368, non-scripts=2211
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 5
+	ApplyChangesToAssetFolders: 0.105ms
+	Scan: 13.264ms
+	Collect global state as custom dependencies: 0.436ms
+	ProcessAssetsWithTransientArtifactChanges: 0.086ms
+	CategorizeAssets: 24.991ms
+	ImportOutOfDateAssets: 1016.753ms (0.162ms without children)
+		ImportManagerImport: 1015.701ms (0.278ms without children)
+		ReloadNativeAssets: 0.104ms
+		UnloadImportedAssets: 0.170ms
+		ReloadImportedAssets: 0.113ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.419ms
+		ImportSchedulerStart: 0.191ms
+	PostProcessAllAssets: 1.717ms
+		XRBuildSystem.XRAssetImported 1.085ms
+		MonoPostProcessAllAssets: 0.555ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.172ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.058ms
+	PostAssetChangesProfiler: 4.399ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.143ms
+	PersistCurrentRevisions: 0.151ms
+	Untracked: 4.065ms
+
+Refreshing native plugins compatible for Editor in 3.92 ms, found 12 plugins.
+Asset Pipeline Refresh (id=12ab03405dcd2304ab581516ac9c7e8a): Total: 0.038 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: ea7cfabf7a798cb42ba6209a9934ab27 - Path: Assets/FrameLab/Lighting/WallsShownRoofHidden/Lightmap1.exr' with importer (TextureImporter)
+Imported 'GUID: ea7cfabf7a798cb42ba6209a9934ab27' -> (Import Result ID: 'baa9363d8385ef9a52df05b3b56a6cdd') in 0.375 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3df8809a0ff9b54c79b3b7c4c438761e DependenciesID=cff8bcac93066e6c5296fc3efcf4e706 StaticDependenciesID=367741f446303c4e000851425193536b 
+Refreshing native plugins compatible for Editor in 4.04 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=283a23a4a3e9d734b817fde677ce3645): Total: 0.420 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=413 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1368, non-scripts=2211
+		Asset File Changes: new=1, changed=1, moved=0, deleted=0
+		Scan Filter Count: 5
+	ApplyChangesToAssetFolders: 0.063ms
+	Scan: 10.472ms
+	Collect global state as custom dependencies: 0.206ms
+	CategorizeAssets: 23.666ms
+	ImportOutOfDateAssets: 376.892ms (0.187ms without children)
+		ImportManagerImport: 375.801ms (0.278ms without children)
+		ReloadNativeAssets: 0.104ms
+		UnloadImportedAssets: 0.197ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.405ms
+		ImportSchedulerStart: 0.190ms
+	PostProcessAllAssets: 1.767ms
+		XRBuildSystem.XRAssetImported 1.099ms
+		MonoPostProcessAllAssets: 0.571ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.185ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.060ms
+	PostAssetChangesProfiler: 4.517ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.154ms
+	PersistCurrentRevisions: 0.155ms
+	Untracked: 2.308ms
+
+Importing 'GUID: ea7cfabf7a798cb42ba6209a9934ab27 - Path: Assets/FrameLab/Lighting/WallsShownRoofHidden/Lightmap1.exr' with importer (TextureImporter)
+Imported 'GUID: ea7cfabf7a798cb42ba6209a9934ab27' -> (Import Result ID: '90e329c96e2226a459da79c54ad75e06') in 0.264 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5461376c07ba6b3a178db01c78e0362e DependenciesID=0be01a0dc32ecd7b568c83cf3ffb5743 StaticDependenciesID=f769b77c0558decd2592b418dd832e36 
+Refreshing native plugins compatible for Editor in 4.10 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=34de61eab7d7f554994839dbdbf85d6b): Total: 0.315 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=308 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1368, non-scripts=2211
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 5
+	ApplyChangesToAssetFolders: 0.097ms
+	Scan: 13.255ms
+	Collect global state as custom dependencies: 0.424ms
+	ProcessAssetsWithTransientArtifactChanges: 0.069ms
+	CategorizeAssets: 24.965ms
+	ImportOutOfDateAssets: 266.146ms (0.151ms without children)
+		ImportManagerImport: 265.039ms (0.272ms without children)
+		ReloadNativeAssets: 0.104ms
+		UnloadImportedAssets: 0.185ms
+		ReloadImportedAssets: 0.116ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.472ms
+		ImportSchedulerStart: 0.187ms
+	PostProcessAllAssets: 1.891ms
+		XRBuildSystem.XRAssetImported 1.238ms
+		MonoPostProcessAllAssets: 0.573ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.178ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.058ms
+	PostAssetChangesProfiler: 4.265ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.140ms
+	PersistCurrentRevisions: 0.141ms
+	Untracked: 3.860ms
+
+Refreshing native plugins compatible for Editor in 3.88 ms, found 12 plugins.
+Asset Pipeline Refresh (id=f57600f3c7ef0bd46b1f2d9c005e29d1): Total: 0.038 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 597aa80a469843d4a83ea334a5aeaaa3 - Path: Assets/FrameLab/Lighting/WallsShownRoofHidden/Lightmap2.exr' with importer (TextureImporter)
+Imported 'GUID: 597aa80a469843d4a83ea334a5aeaaa3' -> (Import Result ID: '91ed813c217de21854bbb9d462f62f16') in 0.365 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ae78facbbfa3d4a2fb9dfdc01cad0705 DependenciesID=d660ee7a5b74e2a915f7181b2c69f964 StaticDependenciesID=ab376d5a416e5fa782536a9a92db494e 
+Refreshing native plugins compatible for Editor in 3.93 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=01b092721ba464b47ac8ceb386aa1bea): Total: 0.408 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=400 ms
+		Asset DB Callback time: managed=0 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1368, non-scripts=2211
+		Asset File Changes: new=1, changed=1, moved=0, deleted=0
+		Scan Filter Count: 5
+	ApplyChangesToAssetFolders: 0.059ms
+	Scan: 9.523ms
+	Collect global state as custom dependencies: 0.217ms
+	CategorizeAssets: 22.090ms
+	ImportOutOfDateAssets: 366.576ms (0.200ms without children)
+		ImportManagerImport: 365.415ms (0.280ms without children)
+		ReloadNativeAssets: 0.098ms
+		UnloadImportedAssets: 0.196ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.465ms
+		ImportSchedulerStart: 0.196ms
+	PostProcessAllAssets: 1.904ms
+		XRBuildSystem.XRAssetImported 1.205ms
+		MonoPostProcessAllAssets: 0.587ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.182ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.065ms
+	PostAssetChangesProfiler: 4.387ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.156ms
+	PersistCurrentRevisions: 0.151ms
+	Untracked: 2.333ms
+
+Importing 'GUID: 597aa80a469843d4a83ea334a5aeaaa3 - Path: Assets/FrameLab/Lighting/WallsShownRoofHidden/Lightmap2.exr' with importer (TextureImporter)
+Imported 'GUID: 597aa80a469843d4a83ea334a5aeaaa3' -> (Import Result ID: 'ece9c5d8529a6e27a8687a8e5ad40fc0') in 0.182 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1413f91676112e773c998b927ddc04b9 DependenciesID=7d2798034c1d41f1db8fff66ea306677 StaticDependenciesID=e14cc686fb94f25a9a56fb50b30bd419 
+Refreshing native plugins compatible for Editor in 3.94 ms, found 12 plugins.
+Asset Pipeline Refresh (id=4236b807ac8a4e449aeced0d66be097c): Total: 0.231 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+FRAME_LAB_LIGHTING_STATE WallsShownRoofHidden maps=3
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FrameLabLighting:Capture (string) (at Assets/FrameLab/Editor/FrameLabLighting.cs:266)
+FrameLabLighting:Bake () (at Assets/FrameLab/Editor/FrameLabLighting.cs:133)
+
+(Filename: Assets/FrameLab/Editor/FrameLabLighting.cs Line: 266)
+
+Importing 'GUID: 06b9a68c014772443baf627ec7c8de22 - Path: Assets/FrameLab/Scenes/Leichhardt.unity' with importer (DefaultImporter)
+Imported 'GUID: 06b9a68c014772443baf627ec7c8de22' -> (Import Result ID: 'd38191235bfe425afe663c82dc0cb580') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=a7b522d87175d5beb13381ad16979cff DependenciesID=2a91913e235d19470ede411c3ff41b7f StaticDependenciesID=dd3517a3b098550eac01bc59edc99aaf 
+Refreshing native plugins compatible for Editor in 4.01 ms, found 12 plugins.
+Asset Pipeline Refresh (id=a418d68d8d9ec7b439d3efb4978d6082): Total: 0.041 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=a99a3e59a0cd06648a11d4423a7e32cb): Total: 0.006 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+Importing 'GUID: 2887f914d43be974b9eba0a1b051564e - Path: Assets/FrameLab/Lighting/Reflections/Interior.exr' with importer (TextureImporter)
+Starting cubemap convolution (size 128)
+...took 0.044 seconds
+Imported 'GUID: 2887f914d43be974b9eba0a1b051564e' -> (Import Result ID: '709655377037a5043e3a08219a21e190') in 0.071 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f3646c8553084d8dc89c8f26d3802d53 DependenciesID=b82a39628fe77f92546035a3bcb43f94 StaticDependenciesID=d0be9a640bb6ae8a2e4d19104f2d0158 
+Refreshing native plugins compatible for Editor in 5.00 ms, found 12 plugins.
+Asset Pipeline Refresh (id=ce442fbf56e812742bdf104b3563b7f1): Total: 0.116 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 2887f914d43be974b9eba0a1b051564e - Path: Assets/FrameLab/Lighting/Reflections/Interior.exr' with importer (TextureImporter)
+Starting cubemap convolution (size 128)
+...took 0.045 seconds
+Imported 'GUID: 2887f914d43be974b9eba0a1b051564e' -> (Import Result ID: '709655377037a5043e3a08219a21e190') in 0.070 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f3646c8553084d8dc89c8f26d3802d53 DependenciesID=b82a39628fe77f92546035a3bcb43f94 StaticDependenciesID=d0be9a640bb6ae8a2e4d19104f2d0158 
+Refreshing native plugins compatible for Editor in 3.96 ms, found 12 plugins.
+Asset Pipeline Refresh (id=19023326de6669d4ca063dd0454fe3ff): Total: 0.090 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 2644ba7ecaf5cbd40ba10df361288023 - Path: Assets/FrameLab/Lighting/Reflections/Ensuite.exr' with importer (TextureImporter)
+Starting cubemap convolution (size 128)
+...took 0.044 seconds
+Imported 'GUID: 2644ba7ecaf5cbd40ba10df361288023' -> (Import Result ID: '8d38f2eceb5f4e7321d08d98856969ba') in 0.068 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8b810269c00b8eb6e82f0dae49df2761 DependenciesID=c627d0834177277aaffba20b2f7e19f6 StaticDependenciesID=f6a4439971697ebc66b85dc01c19f145 
+Refreshing native plugins compatible for Editor in 4.13 ms, found 12 plugins.
+Asset Pipeline Refresh (id=c6cbcc9eef3a27a4f9623d9022e1c7a6): Total: 0.111 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 2644ba7ecaf5cbd40ba10df361288023 - Path: Assets/FrameLab/Lighting/Reflections/Ensuite.exr' with importer (TextureImporter)
+Starting cubemap convolution (size 128)
+...took 0.045 seconds
+Imported 'GUID: 2644ba7ecaf5cbd40ba10df361288023' -> (Import Result ID: '8d38f2eceb5f4e7321d08d98856969ba') in 0.067 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8b810269c00b8eb6e82f0dae49df2761 DependenciesID=c627d0834177277aaffba20b2f7e19f6 StaticDependenciesID=f6a4439971697ebc66b85dc01c19f145 
+Refreshing native plugins compatible for Editor in 4.03 ms, found 12 plugins.
+Asset Pipeline Refresh (id=93ad42d1a338db444939c000c03e96ab): Total: 0.087 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 65ee7c60ab61f8c4589d0ae4d2482d99 - Path: Assets/FrameLab/Lighting/Reflections/Powder.exr' with importer (TextureImporter)
+Starting cubemap convolution (size 128)
+...took 0.044 seconds
+Imported 'GUID: 65ee7c60ab61f8c4589d0ae4d2482d99' -> (Import Result ID: '2151c905176c28bbd853a38c671b265c') in 0.069 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e9e3a3b6798946d699d14df204452cc2 DependenciesID=6e4dd4739c7912d93a495a3cf86bf543 StaticDependenciesID=beceae0ee03e085c3a1a107ad4a43ab8 
+Refreshing native plugins compatible for Editor in 3.98 ms, found 12 plugins.
+Asset Pipeline Refresh (id=607bdeb2439385d4aa7612bbed86657b): Total: 0.113 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 65ee7c60ab61f8c4589d0ae4d2482d99 - Path: Assets/FrameLab/Lighting/Reflections/Powder.exr' with importer (TextureImporter)
+Starting cubemap convolution (size 128)
+...took 0.044 seconds
+Imported 'GUID: 65ee7c60ab61f8c4589d0ae4d2482d99' -> (Import Result ID: '2151c905176c28bbd853a38c671b265c') in 0.067 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e9e3a3b6798946d699d14df204452cc2 DependenciesID=6e4dd4739c7912d93a495a3cf86bf543 StaticDependenciesID=beceae0ee03e085c3a1a107ad4a43ab8 
+Refreshing native plugins compatible for Editor in 4.05 ms, found 12 plugins.
+Asset Pipeline Refresh (id=be7ae78f823d5064abcc5188615a7242): Total: 0.088 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: df76f98796d6a0a49a8b518ee50451d9 - Path: Assets/FrameLab/Lighting/Reflections/Bathroom2.exr' with importer (TextureImporter)
+Starting cubemap convolution (size 128)
+...took 0.044 seconds
+Imported 'GUID: df76f98796d6a0a49a8b518ee50451d9' -> (Import Result ID: '079114248a01affc647137ea3b68ccd6') in 0.069 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d0a719aea005bed6680234ebc08bb2ed DependenciesID=9fe21045451960e8a13fd969225a36c3 StaticDependenciesID=9338cc59affb1795c564f38c5851b0ca 
+Refreshing native plugins compatible for Editor in 4.42 ms, found 12 plugins.
+Asset Pipeline Refresh (id=375e56f316c07d545811bbca750f93e8): Total: 0.111 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: df76f98796d6a0a49a8b518ee50451d9 - Path: Assets/FrameLab/Lighting/Reflections/Bathroom2.exr' with importer (TextureImporter)
+Starting cubemap convolution (size 128)
+...took 0.044 seconds
+Imported 'GUID: df76f98796d6a0a49a8b518ee50451d9' -> (Import Result ID: '079114248a01affc647137ea3b68ccd6') in 0.068 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d0a719aea005bed6680234ebc08bb2ed DependenciesID=9fe21045451960e8a13fd969225a36c3 StaticDependenciesID=9338cc59affb1795c564f38c5851b0ca 
+Refreshing native plugins compatible for Editor in 4.08 ms, found 12 plugins.
+Asset Pipeline Refresh (id=ea6f8171aef48c14b97ec62c3a46dba6): Total: 0.088 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: c9e3b52a00712944eb0148da6688b5b2 - Path: Assets/FrameLab/Lighting/Reflections/UpperBathroom.exr' with importer (TextureImporter)
+Starting cubemap convolution (size 128)
+...took 0.044 seconds
+Imported 'GUID: c9e3b52a00712944eb0148da6688b5b2' -> (Import Result ID: '9d10e100bd1d99174d498d9578b07fa0') in 0.069 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=25b970a01a04d4516a5fb08fc3522cf4 DependenciesID=9090e8e5cf0910227501b883b1c83b91 StaticDependenciesID=d851f15ad919302fae1603536592d41c 
+Refreshing native plugins compatible for Editor in 3.96 ms, found 12 plugins.
+Asset Pipeline Refresh (id=6f696e4f83fe1c3458036cb61cb216ba): Total: 0.113 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: c9e3b52a00712944eb0148da6688b5b2 - Path: Assets/FrameLab/Lighting/Reflections/UpperBathroom.exr' with importer (TextureImporter)
+Starting cubemap convolution (size 128)
+...took 0.044 seconds
+Imported 'GUID: c9e3b52a00712944eb0148da6688b5b2' -> (Import Result ID: '9d10e100bd1d99174d498d9578b07fa0') in 0.067 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=25b970a01a04d4516a5fb08fc3522cf4 DependenciesID=9090e8e5cf0910227501b883b1c83b91 StaticDependenciesID=d851f15ad919302fae1603536592d41c 
+Refreshing native plugins compatible for Editor in 3.96 ms, found 12 plugins.
+Asset Pipeline Refresh (id=13348ba3c02a2e2428d525274d2100c5): Total: 0.087 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+LEICHHARDT_REFLECTION_BAKE_PASS probes=5 resolution=128 mode=Custom
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FrameLabLighting:BakeInteriorReflections () (at Assets/FrameLab/Editor/FrameLabLighting.cs:196)
+FrameLabLighting:Bake () (at Assets/FrameLab/Editor/FrameLabLighting.cs:146)
+
+(Filename: Assets/FrameLab/Editor/FrameLabLighting.cs Line: 196)
+
+Importing 'GUID: 06b9a68c014772443baf627ec7c8de22 - Path: Assets/FrameLab/Scenes/Leichhardt.unity' with importer (DefaultImporter)
+Imported 'GUID: 06b9a68c014772443baf627ec7c8de22' -> (Import Result ID: 'd9c6fb0b617413c21cc8ebafe75327e1') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=a7b522d87175d5beb13381ad16979cff DependenciesID=4442859c335413132366d69b77fd6a27 StaticDependenciesID=0f77614d46c9c45d4b428e61f8c5b264 
+Refreshing native plugins compatible for Editor in 4.11 ms, found 12 plugins.
+Asset Pipeline Refresh (id=65981947b1e0b3f4daa4746bc38c3996): Total: 0.041 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+FRAME_LAB_BAKE_PASS maps=4
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+FrameLabLighting:Bake () (at Assets/FrameLab/Editor/FrameLabLighting.cs:149)
+
+(Filename: Assets/FrameLab/Editor/FrameLabLighting.cs Line: 149)
+
+[Licensing::Client] Successfully resolved entitlement details
+Batchmode quit successfully invoked - shutting down!
+Killing ADB server in 0.0464721 seconds.
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input Polling Thread exited.
+Input System module state changed to: Shutdown.
+[Licensing::IpcConnector] LicenseClient-lawre-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-lawre channel disconnected successfully.
+Lingering sessions upon destruction of worker manager
+Unity Data Store service was successfully shut down
+UDS shutting down local client system
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+CodeReloadManager destroyed
+Exiting batchmode successfully now!
+[ExitDontLaunchBugReporter] Exiting without the bug reporter. Application will exit with return code 0

@@ -1,0 +1,13 @@
+{
+  "sha256": "ba25c916129772d546eb1bf889ed459e18b5680a47ca37d779bebde74e77ff4b",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "This is the family area. Look around the larger open space, then look up. Hiding the walls also removes the ceiling linings, so you can see the floor framing above. The Roof button controls the roof covering separately. Turn the layers back on to compare the structure with the enclosed rooms. Nothing moves until you choose to continue. Next room takes us to the laundry.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

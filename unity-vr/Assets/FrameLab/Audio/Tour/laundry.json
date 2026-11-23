@@ -1,0 +1,13 @@
+{
+  "sha256": "cc3260af392f7d309f44b3816cc2e91e623b22f5c6777fac1534cbd766fa7e35",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "We're in the laundry. Notice the external doorway and the wall shared with the garage. Each opening interrupts the regular run of studs, so its edges need their own framing. Compare the solid wall view with the revealed frame. The room list lets you jump directly to any of these stops. Choose Next room to visit the garage.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "sha256": "26d9f84296dcefe3272d4a18a41d702c36fb092d69f8ff20af55bcd4e9a45f31",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "This is the kitchen and meals area. Compare the island with the rear bench, and notice the clear working aisle between them. Look towards the low, wide kitchen window, then up at the dropped ceiling over the kitchen. Hiding the walls reveals the framing behind these finishes. Follow the lintel across the window opening and the studs down towards the floor. Next room takes us into the pantry.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

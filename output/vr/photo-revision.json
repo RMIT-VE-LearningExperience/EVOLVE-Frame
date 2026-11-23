@@ -1,0 +1,27 @@
+{
+  "review": "photo-review-0.4.0/claude-review.txt",
+  "changes": [
+    "Porch now has hollow470x590 masonry piers, rendered side returns/front beam, soffit and concealed roof; P1 timber cores retained.",
+    "Garage exposed fascia/eaves replaced by brick parapet and thin metal cap; covering recessed inside veneer.",
+    "Single garage door slab replaced with six neutral metal panels and five recessed joints.",
+    "Handrail ends return to their wall; open robe towers receive tops at their existing specified2016mm height."
+  ],
+  "unresolved": [
+    "Porch footprint follows retained P1 cores; written pier sizes470x590 used, absolute setout remains provisional.",
+    "Porch parapet3.245 and garage parapet3.65 are temporarily coordinated above existing trusses. Plan heights/NGL and supplier truss datum require reconciliation.",
+    "Theatre floor division remains unresolved; no platform height invented."
+  ],
+  "garage_house_clearance": "New parapet/roof trimmed at upper house outside planeX6.280 and north edgeY7.980; lower garage wall geometry retained.",
+  "brick_module_m": [
+    0.24,
+    0.086
+  ],
+  "brick_scale_decision": "Retain correctly dimensioned230x76 bricks with10mm joints; Claude visual overscale claim not substantiated by world-space UVs.",
+  "bedroom5_strip": "Ray audit hit existing FF Bed5 west lining; no duplicate plaster infill added. Revisit lighting after bake.",
+  "new_garage_parts_upper_interior_aabb_check": {
+    "result": "PASS",
+    "intrusions": [],
+    "scope": "New garage parts against finished upper-storey interior volume."
+  },
+  "porch_pier_caps": 2
+}

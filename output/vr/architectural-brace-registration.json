@@ -1,0 +1,371 @@
+[
+  {
+    "object": "GF Garage D1 diagonal",
+    "wall": "Garage rear",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2425.4,
+    "revised_span_mm": 2425.4,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Garage D1 cross",
+    "wall": "Garage rear",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2425.4,
+    "revised_span_mm": 2425.4,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Garage D2 diagonal",
+    "wall": "Garage rear",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2447.6,
+    "revised_span_mm": 2447.6,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Garage D2 cross",
+    "wall": "Garage rear",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2447.6,
+    "revised_span_mm": 2447.6,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Meals kitchen D diagonal",
+    "wall": "GF North wall",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2713.6,
+    "revised_span_mm": 2713.6,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Meals kitchen D cross",
+    "wall": "GF North wall",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2713.6,
+    "revised_span_mm": 2713.6,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Kitchen D diagonal",
+    "wall": "GF North wall",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 270.9,
+    "original_span_mm": 2425.4,
+    "revised_span_mm": 2425.4,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Kitchen D cross",
+    "wall": "GF North wall",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 270.9,
+    "original_span_mm": 2425.4,
+    "revised_span_mm": 2425.4,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Entry D diagonal",
+    "wall": "GF North wall",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2713.6,
+    "revised_span_mm": 2713.6,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Entry D cross",
+    "wall": "GF North wall",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2713.6,
+    "revised_span_mm": 2713.6,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Laundry D diagonal",
+    "wall": "Laundry east",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2418.7,
+    "revised_span_mm": 2418.7,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Laundry D cross",
+    "wall": "Laundry east",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2418.7,
+    "revised_span_mm": 2418.7,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Bedroom D diagonal",
+    "wall": "GF South family and suite",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2713.6,
+    "revised_span_mm": 2713.6,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Bedroom D cross",
+    "wall": "GF South family and suite",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2713.6,
+    "revised_span_mm": 2713.6,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Suite D diagonal",
+    "wall": "WIR bedroom division",
+    "normal_shift_mm": 71.9,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2706.1,
+    "revised_span_mm": 2706.1,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Suite D cross",
+    "wall": "WIR bedroom division",
+    "normal_shift_mm": 71.9,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2706.1,
+    "revised_span_mm": 2706.1,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Ensuite D diagonal",
+    "wall": "Ensuite west",
+    "normal_shift_mm": 539.2,
+    "along_shift_mm": 42.8,
+    "original_span_mm": 3568.5,
+    "revised_span_mm": 3568.5,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Ensuite D cross",
+    "wall": "Ensuite west",
+    "normal_shift_mm": 539.2,
+    "along_shift_mm": 42.8,
+    "original_span_mm": 3568.5,
+    "revised_span_mm": 3568.5,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Entry E 4.8mm hardboard",
+    "wall": "GF East entry and bedroom",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 74.6,
+    "original_span_mm": 710.2,
+    "revised_span_mm": 580.0,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Corner B 4.8mm hardboard",
+    "wall": "GF South family and suite",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 100.0,
+    "original_span_mm": 779.0,
+    "revised_span_mm": 779.0,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Garage D3 diagonal",
+    "wall": "Garage south",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2159.5,
+    "revised_span_mm": 2159.5,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "GF Garage D3 cross",
+    "wall": "Garage south",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2159.5,
+    "revised_span_mm": 2159.5,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "FF Bed4 D diagonal",
+    "wall": "FF North wall",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2715.8,
+    "revised_span_mm": 2715.8,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "FF Bed4 D cross",
+    "wall": "FF North wall",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2715.8,
+    "revised_span_mm": 2715.8,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "FF Bath D diagonal",
+    "wall": "FF North wall",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": -21.8,
+    "original_span_mm": 2715.8,
+    "revised_span_mm": 2715.8,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "FF Bath D cross",
+    "wall": "FF North wall",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": -21.8,
+    "original_span_mm": 2715.8,
+    "revised_span_mm": 2715.8,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "FF Void D diagonal",
+    "wall": "FF North wall",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2715.8,
+    "revised_span_mm": 2715.8,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "FF Void D cross",
+    "wall": "FF North wall",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2715.8,
+    "revised_span_mm": 2715.8,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "FF West D diagonal",
+    "wall": "FF West wall",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2602.3,
+    "revised_span_mm": 2602.3,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "FF West D cross",
+    "wall": "FF West wall",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2602.3,
+    "revised_span_mm": 2602.3,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "FF Bed5 C diagonal",
+    "wall": "FF Bed 5 east",
+    "normal_shift_mm": 28.4,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2646.3,
+    "revised_span_mm": 2646.3,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "FF Hall C diagonal",
+    "wall": "FF Bed 2 study hall",
+    "normal_shift_mm": 68.1,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2715.8,
+    "revised_span_mm": 2715.8,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "FF Bed2 C diagonal",
+    "wall": "FF Bath 2 east",
+    "normal_shift_mm": 110.2,
+    "along_shift_mm": 68.3,
+    "original_span_mm": 2009.2,
+    "revised_span_mm": 2009.2,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "FF Study D diagonal",
+    "wall": "FF Study retreat division",
+    "normal_shift_mm": 28.4,
+    "along_shift_mm": 0.7,
+    "original_span_mm": 2624.3,
+    "revised_span_mm": 2080.0,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "FF Study D cross",
+    "wall": "FF Study retreat division",
+    "normal_shift_mm": 28.4,
+    "along_shift_mm": 0.7,
+    "original_span_mm": 2624.3,
+    "revised_span_mm": 2080.0,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "FF Theatre C diagonal",
+    "wall": "FF Theatre west",
+    "normal_shift_mm": 21.5,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 3129.9,
+    "revised_span_mm": 3129.9,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "FF Theatre D diagonal",
+    "wall": "FF South wall",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2427.4,
+    "revised_span_mm": 2427.4,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "FF Theatre D cross",
+    "wall": "FF South wall",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 2427.4,
+    "revised_span_mm": 2427.4,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "FF Bed4 E 4.8mm hardboard",
+    "wall": "FF West wall",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 67.5,
+    "original_span_mm": 507.6,
+    "revised_span_mm": 384.2,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "FF Bed3 B 4.8mm hardboard",
+    "wall": "FF South wall",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 10.9,
+    "original_span_mm": 935.8,
+    "revised_span_mm": 712.5,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  },
+  {
+    "object": "FF Bath2 B 4.8mm hardboard",
+    "wall": "FF South wall",
+    "normal_shift_mm": -0.0,
+    "along_shift_mm": 0.0,
+    "original_span_mm": 757.5,
+    "revised_span_mm": 757.5,
+    "status": "Geometry coordination only; engineering acceptance pending"
+  }
+]

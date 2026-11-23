@@ -1,0 +1,13 @@
+{
+  "sha256": "b5a03cc2e22d9b8b43d6675750441c4b90a3e1e4085ca4859c45c625eb7f6dec",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "Welcome to Leichhardt. I'm Clara. We'll explore the rooms of this house, then reveal the structure and examine a window. Point a controller at a button and squeeze the trigger. Next room moves you gently with a short fade; you decide when to continue. Use the right stick to turn in small steps. Press the A button on your right controller to hide or show the guide. When you bring it back, it will find a clear position beside your view. When you're ready, choose Next room to enter the hall.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "session": "bb97e48a-3f0f-4931-bcbf-4244bcacffda",
+  "model_usage": {
+    "claude-fable-5-2": {
+      "inputTokens": 8,
+      "outputTokens": 11361,
+      "cacheReadInputTokens": 44536,
+      "cacheCreationInputTokens": 81451,
+      "webSearchRequests": 0,
+      "costUSD": 1.7666271999999998,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 5179,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "read_paths": [
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/manifest.json",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/01-exteriors.jpg",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/02-details.jpg",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/03-rooms-a.jpg",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/04-rooms-b.jpg",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/05-structure.jpg",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/06-entries.jpg",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/07-fitout.jpg",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/01-exterior-entry.png",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/02-exterior-alfresco.png",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/04-exterior-rear-garage.png",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/05-canopy-under.png",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/07-alfresco-edge.png",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/09-stair-junction.png",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/10-stair-landing.png",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/room-05-ensuite.png",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/room-12-landing.png",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/room-21-bedroom5.png",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/37-upperbath-from-hall.png",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/39-powder-window.png",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/room-13-theatre.png",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.0/47-robe-fitout.png",
+    "D:/Git/EVOLE Frame/output/vr/architectural-review-2026-11-20/plans/sheet-09.png",
+    "D:/Git/EVOLE Frame/output/vr/architectural-review-2026-11-20/plans/sheet-10.png",
+    "D:/Git/EVOLE Frame/output/vr/architectural-review-2026-11-20/plans/sheet-07.png",
+    "D:/Git/EVOLE Frame/output/vr/architectural-review-2026-11-20/plans/sheet-08.png"
+  ],
+  "read_only": true,
+  "api_fallback_used": false
+}

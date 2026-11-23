@@ -1,0 +1,22 @@
+{
+  "id": "1795165628288635900",
+  "version": "0.3.2",
+  "room": "bathroom2",
+  "error": "",
+  "changing": false,
+  "focused": true,
+  "guide": true,
+  "narration": true,
+  "detail": false,
+  "isolated": false,
+  "location": 16,
+  "hotspots": 9,
+  "visibleParts": 9,
+  "explosion": 0.0,
+  "zoom": 1.0,
+  "eye": {
+    "x": -11.746025085449219,
+    "y": 4.6652750968933105,
+    "z": -1.0045185089111328
+  }
+}

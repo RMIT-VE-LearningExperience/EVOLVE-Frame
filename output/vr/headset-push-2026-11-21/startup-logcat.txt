@@ -1,0 +1,331 @@
+--------- beginning of main
+11-21 08:33:18.204 17597 17597 W usap64  : type=1400 audit(0.0:78236): avc:  denied  { write } for  name="syseventsw" dev="tmpfs" ino=1286 scontext=u:r:zygote:s0 tcontext=u:object_r:syseventsw_socket:s0 tclass=sock_file permissive=0
+11-21 08:33:18.204 17597 17597 W usap64  : type=1400 audit(0.0:78237): avc:  denied  { write } for  name="syseventsw" dev="tmpfs" ino=1286 scontext=u:r:zygote:s0 tcontext=u:object_r:syseventsw_socket:s0 tclass=sock_file permissive=0
+11-21 08:33:18.207 17597 17597 I zygote64: setSvpFgState tid 17597 fg 1
+11-21 08:33:18.220 17597 17597 I evolve.framelab: Late-enabling -Xcheck:jni
+11-21 08:33:18.232 17597 17597 I evolve.framelab: Using CollectorTypeCC GC.
+--------- beginning of system
+11-21 08:33:18.251 17597 14178 I ActivityThread: onBindApplication, processName: au.edu.evolve.framelab, displayId: -1, initDensityDpi: 640
+11-21 08:33:18.257 17597 14177 I SysMonitorFwBridge: sISysMonitorFwFactory = android.app.SysMonitorFwFactoryImpl@2e7c5cc
+11-21 08:33:18.269 17597 17597 I LoadedApk: add sharememory/verifytool jar
+11-21 08:33:18.272 17597 17597 W ziparchive: Unable to open '/data/app/~~3ay0DLPFGnuL9FHUhGRd_w==/au.edu.evolve.framelab-YOIzSCQusER0pk3bGolzpw==/base.dm': No such file or directory
+11-21 08:33:18.272 17597 17597 W ziparchive: Unable to open '/data/app/~~3ay0DLPFGnuL9FHUhGRd_w==/au.edu.evolve.framelab-YOIzSCQusER0pk3bGolzpw==/base.dm': No such file or directory
+11-21 08:33:18.285 17597 17597 E ANDR-BPERF-JNI: com.bytedance.util.BPerformance: loading JNI
+11-21 08:33:18.285 17597 17597 I Perf    : Connecting to perf service.
+11-21 08:33:18.299 17597 17597 I evolve.framelab: hprofopt setDumpFlag: 0
+11-21 08:33:18.302 17597 17597 W ActivityThread: notifyAppLaunchStatus au.edu.evolve.framelab com.unity3d.player.UnityPlayerActivity
+11-21 08:33:18.305 17597 17597 I ActivityThread: updateApplicationDisplay from: -1 to: 0
+11-21 08:33:18.321 17597 17597 E SYS_DEFAULT_LOG: class android.app.ISysMonitorFwFactory$8|IRecoverActions|setCurActivity|SYS_DEFAULT_FUN_CONTENT
+11-21 08:33:18.321 17597 17597 E SYS_DEFAULT_LOG: class android.app.ISysMonitorFwFactory$8|IRecoverActions|setCurActivity|SYS_DEFAULT_FUN_CONTENT
+11-21 08:33:18.379 17597 17597 I IL2CPP  : JNI_OnLoad
+11-21 08:33:18.403 17597 17597 I Unity   : resumeUnity
+11-21 08:33:18.412 17597 17597 E SYS_DEFAULT_LOG: class android.app.ISysMonitorFwFactory$8|IRecoverActions|setCurActivity|SYS_DEFAULT_FUN_CONTENT
+11-21 08:33:18.414 17597 17597 I Unity   : onResume
+11-21 08:33:18.421 17597 14188 W ziparchive: Unable to open '/system/framework/QXPerformance.dm': No such file or directory
+11-21 08:33:18.421 17597 14188 W ziparchive: Unable to open '/system/framework/QXPerformance.dm': No such file or directory
+11-21 08:33:18.433 17597 17597 I Unity   : onPause
+11-21 08:33:18.441 17597 17597 E RmClient: DelayInfoManager
+11-21 08:33:18.441 17597 17597 E RmClient: open(13) /dev/k_rs_cpufreqinfo fail(Permission denied)
+11-21 08:33:18.467 17597 17597 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=com.unity3d.player.a.c$$ExternalSyntheticLambda0@1391e00
+11-21 08:33:18.468 17597 17597 I Unity   : pauseUnity
+11-21 08:33:18.478 17597 17597 I Unity   : resumeUnity
+11-21 08:33:18.482 17597 17597 E SYS_DEFAULT_LOG: class android.app.ISysMonitorFwFactory$8|IRecoverActions|setCurActivity|SYS_DEFAULT_FUN_CONTENT
+11-21 08:33:18.482 17597 17597 I Unity   : onResume
+11-21 08:33:18.504 17597 17597 W evolve.framelab: type=1400 audit(0.0:78243): avc:  denied  { read } for  name="u:object_r:vendor_display_prop:s0" dev="tmpfs" ino=405 scontext=u:r:untrusted_app:s0:c170,c256,c512,c768 tcontext=u:object_r:vendor_display_prop:s0 tclass=file permissive=0
+11-21 08:33:18.508 17597 17597 W libc    : Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+11-21 08:33:18.509 17597 17597 I ViewRootImplExt: setScaleInfo, ViewRootImpl[au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity] scaleChanged=false, byServer=false, isHwui=false
+11-21 08:33:18.509 17597 17597 W evolve.framelab: SetSurfaceScaleInfo, width=4320, height=2160, scale=0.000000
+11-21 08:33:18.518 17597 17597 W libc    : Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+11-21 08:33:18.526 17597 14186 I Unity   : MemoryManager: Using 'Dynamic Heap' Allocator.
+11-21 08:33:18.526 17597 14186 I Unity   : Mimalloc is enabled and will override the Dynamic Heap and Dual Thread (Main and MainThread) allocators.
+11-21 08:33:18.528 17597 17597 I ViewRootImpl: Will skip draw vr actvity :au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity
+11-21 08:33:18.537 17597 17597 I ViewRootImpl: Will skip draw vr actvity :au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity
+11-21 08:33:18.549 17597 14186 I Unity   : SetGameState: isLoading: true, mode: UNKNOWN, label: -2, quality: -1
+11-21 08:33:18.563 17597 14186 E Unity   : java.lang.ClassNotFoundException: Didn't find class "com.google.android.play.core.assetpacks.AssetPackManager" on path: DexPathList[[zip file "/system/framework/sys-verifytool.jar", zip file "/system/framework/sys-sharememory.jar", zip file "/data/app/~~3ay0DLPFGnuL9FHUhGRd_w==/au.edu.evolve.framelab-YOIzSCQusER0pk3bGolzpw==/base.apk"],nativeLibraryDirectories=[/data/app/~~3ay0DLPFGnuL9FHUhGRd_w==/au.edu.evolve.framelab-YOIzSCQusER0pk3bGolzpw==/lib/arm64, /data/app/~~3ay0DLPFGnuL9FHUhGRd_w==/au.edu.evolve.framelab-YOIzSCQusER0pk3bGolzpw==/base.apk!/lib/arm64-v8a, /system/lib64, /system/lib64/soundfx, /system/lib64/vklayer, /system/lib64/gleslayers, /system_ext/lib64]]
+11-21 08:33:18.568 17597 14186 I Unity   : SystemInfo CPU = ARM64 FP ASIMD AES, Cores = 6, Memory = 11736mb
+11-21 08:33:18.568 17597 14186 I Unity   : SystemInfo ARM big.LITTLE configuration: 4 big (mask: 0x3c), 2 little (mask: 0x3)
+11-21 08:33:18.569 17597 14186 I Unity   : ApplicationInfo 'au.edu.evolve.framelab', Version '0.4.4', Min API Level '29', Target API Level '36'
+11-21 08:33:18.569 17597 14186 I Unity   : Built from '6000.6/staging' branch, Version '6000.6.9f1 (8c45277fb9c5)', Build type 'Development', Scripting Backend 'il2cpp', CPU 'arm64-v8a', Stripping 'Enabled'
+11-21 08:33:18.569 17597 14186 I Unity   : Device Model 'Pico A94Y0', OS 'Android OS 14 (API 34)'
+11-21 08:33:18.603 17597 17597 I ViewRootImplExt: setScaleInfo, ViewRootImpl[au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity] scaleChanged=false, byServer=false, isHwui=false
+11-21 08:33:18.603 17597 17597 W evolve.framelab: SetSurfaceScaleInfo, width=4320, height=2160, scale=0.000000
+11-21 08:33:18.603 17597 17597 I ViewRootImpl: Will skip draw vr actvity :au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity
+11-21 08:33:18.718 17597 14186 I Unity   : Company Name: EVOLVE Learning
+11-21 08:33:18.718 17597 14186 I Unity   : Product Name: Leichhardt
+11-21 08:33:18.724 17597 14186 E HardwareProfiles: Status: Not active
+11-21 08:33:18.730 17597 14186 W PicoXR  : context addr is 0x7b222fff58.
+11-21 08:33:18.734 17597 17597 I ViewRootImpl: Will skip draw vr actvity :au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity
+11-21 08:33:18.742 17597 14186 E PxrLoader: Error [GENERAL | xrEnumerateInstanceExtensionProperties | PxrLoader] : RuntimeInterface::LoadRuntime supports XR_KHR_LOADER_INIT_SUPPORT!
+11-21 08:33:18.742 17597 14186 E APxrRuntime: Java_com_pico_xr_openxr_1runtime_DriverLoader_nativeGetProcAddr: InitializeLoaderKHR!
+11-21 08:33:18.742 17597 14186 E APxrRuntime: abel, xrInitializeLoaderKHR
+11-21 08:33:18.742 17597 14186 W libc    : Access denied finding property "ro.debuggable"
+11-21 08:33:18.742 17597 14186 E APxrRuntime: Java_com_pico_xr_openxr_1runtime_DriverLoader_nativeGetProcAddr: NegotiateLoaderRuntimeInterface!
+11-21 08:33:18.742 17597 14186 E PxrRuntime: xrNegotiateLoaderRuntimeInterface
+11-21 08:33:18.742 17597 14186 I PxrLoader: Info [GENERAL | xrEnumerateInstanceExtensionProperties | PxrLoader] : RuntimeInterface::LoadRuntime succeeded loading runtime defined in manifest file  using interface version 1 and OpenXR API version 1.1
+11-21 08:33:18.742 17597 14186 E APxrRuntime: ExtensionConfig, cloudExtensionCount 0,openxr common 0,openxr10 0,openxr11 0,experimental 0,pico only 0,private 0,third party 0,hidden 0
+11-21 08:33:18.744 17597 14186 I Unity   : [XR] [528854564016] [08:33:18.744][Info   ] Available Layers: (0)
+11-21 08:33:18.744 17597 14186 I PxrLoader: Info [GENERAL | xrCreateInstance:  | PxrLoader] : app API version:1.1  pxrLoader current version:1.0.24
+11-21 08:33:18.744 17597 14186 E PxrLoader: Error [GENERAL | xrCreateInstance | PxrLoader] : xrCreateInstance called with invalid API version 1.1.  Max supported version is 1.0
+11-21 08:33:18.744 17597 14186 I PxrLoader: Info [GENERAL | xrCreateInstance:  | PxrLoader] : app API version:1.0  pxrLoader current version:1.0.24
+11-21 08:33:18.745 17597 14186 I PxrConfigServiceClient: [###][###:75]: connect configuration service, using time: 0
+11-21 08:33:18.749 17597 14186 E oxr_config: sdk_boundary_EnableSeethroughDelayLog=0
+11-21 08:33:18.749 17597 14186 E oxr_config: sdk_boundary_ReportSeethroughDelayData=1
+11-21 08:33:18.749 17597 14186 E oxr_config:   xrMrEngineSupport is 1
+11-21 08:33:18.749 17597 14186 E oxr_config: ctrltype updateConfigControllerInfo 842 xrControllerType 8
+11-21 08:33:18.751 17597 14186 E APxrRuntime: getPackageManagerInfo : {"app_fps":0,"eyebufferHeight":0,"eyebufferWidth":0}
+11-21 08:33:18.751 17597 14186 E APxrRuntime:  oxr_instance_create ,package_name au.edu.evolve.framelab,eyebuffer (0,0),packageFps 0, isGLTileRender 0
+11-21 08:33:18.751 17597 14186 E PxrConfigServiceClient: [###][###:122]: find configname: au.edu.evolve.framelab value is null, please check it!
+11-21 08:33:18.751 17597 14186 E APxrRuntime:  oxr_instance_create ,package_name au.edu.evolve.framelab,PxrPerformanceParams refreshRate 0,resolutionRate 0.000000, cpuLevel 0, gpuLevel 0, ffrLevel 0
+11-21 08:33:18.751 17597 14186 W APxrRuntime: debug_get_log_option_persist.pxr.log_IPC_LOG raw:(null)
+11-21 08:33:18.755 17597 14186 I pico-ipc-client: Client(long nativePointer)
+11-21 08:33:18.755 17597 14186 W APxrRuntime: ipc_client_android start to initiate the guardian and persistence client object info
+11-21 08:33:18.756 17597 14186 I PersistenceClient: Client(long nativePointer)
+11-21 08:33:18.765 17597 14186 I pico-ipc-client: blockingConnect
+11-21 08:33:18.765 17597 14186 I pico-ipc-client: bind
+11-21 08:33:18.767 17597 14276 I pico-ipc-client: onServiceConnected
+11-21 08:33:18.768 17597 14276 I pico-ipc-client: au.edu.evolve.framelab,Runtime versionCode 200201388
+11-21 08:33:18.770 17597 14186 W APxrRuntime: Connect success, fd=114
+11-21 08:33:18.770 17597 14186 E APxrRuntime: is_selabel_priv_app getline u:r:untrusted_app:s0:c170,c256,c512,c768
+11-21 08:33:18.771 17597 14186 I TrackingClient: [###][###:105]: onFirstRef TRACKER_COUNT 5
+11-21 08:33:18.772 17597 14186 I TrackingClient: mLoglevel 0
+11-21 08:33:18.772 17597 14186 I TrackingClient: [###][###:112]: Connect service, name: pvrtracking
+11-21 08:33:18.772 17597 14186 I TrackingClient: [###][###:158]: ServiceStatus update, status: 1
+11-21 08:33:18.772 17597 14186 I TrackingClient: [###][###:158]: ServiceStatus update, status: 2
+11-21 08:33:18.772 17597 14186 I TrackingClient: [onServiceConnected]
+11-21 08:33:18.773 17597 14186 I TrackingClient: mmap success, 514008 size
+11-21 08:33:18.773 17597 14186 I TrackingClient: setShareMemoryFD 112
+11-21 08:33:18.773 17597 14186 I TrackingClient: initializeShareMemory start
+11-21 08:33:18.773 17597 14186 I TrackingClient: initializeShareMemory, fake pose mode 0
+11-21 08:33:18.773 17597 14186 I TrackingClient: initializeShareMemory, hook hand tracking mode 0.
+11-21 08:33:18.773 17597 14186 I TrackingClient: initializeShareMemory end
+11-21 08:33:18.773 17597 14186 I TrackingClient: [###][###:2024]: reset notify state 00000000000000000000000000000000
+11-21 08:33:18.773 17597 14186 E TrackingClient: getSwiftTrackerExtDevInfo: cant do operation in tracker Mode: 0
+11-21 08:33:18.773 17597 14186 E TrackingClient: extDev updateTrackerExtDevStatus: faild!
+11-21 08:33:18.773 17597 14186 I TrackingClient: [###][###:858]: key 3, size 4
+11-21 08:33:18.773 17597 14186 E APxrRuntime: ism->num_isdevs:5 
+11-21 08:33:18.773 17597 14186 E APxrRuntime: ism->num_itracks:5 
+11-21 08:33:18.774 17597 14186 E APxrRuntime: ctrltype xrt_controller_device_set_name_str 483 deviceModel 8
+11-21 08:33:18.774 17597 14186 E APxrRuntime: controllertype  xrt_controller_device_set_name_str 507 deviceModel 8 xdev->name 6
+11-21 08:33:18.774 17597 14186 E APxrRuntime: ctrltype xrt_controller_device_set_name_str 483 deviceModel 8
+11-21 08:33:18.774 17597 14186 E APxrRuntime: controllertype  xrt_controller_device_set_name_str 507 deviceModel 8 xdev->name 6
+11-21 08:33:18.774 17597 14186 E APxrRuntime: ii->num_xtracks:5 
+11-21 08:33:18.774 17597 14186 E APxrRuntime: ism->num_isdevs:5 
+11-21 08:33:18.774 17597 14186 E APxrRuntime: isdev->name: 1
+11-21 08:33:18.774 17597 14186 E APxrRuntime: XRT_DEVICE_GENERIC_HMD, 0
+11-21 08:33:18.774 17597 14186 E APxrRuntime: isdev->name: 6
+11-21 08:33:18.774 17597 14186 E APxrRuntime: XRT_DEVICE_GENERIC_DEVICE, 1
+11-21 08:33:18.774 17597 14186 E APxrRuntime: isdev->name: 6
+11-21 08:33:18.774 17597 14186 E APxrRuntime: XRT_DEVICE_GENERIC_DEVICE, 2
+11-21 08:33:18.774 17597 14186 E APxrRuntime: isdev->name: 6
+11-21 08:33:18.774 17597 14186 E APxrRuntime: XRT_DEVICE_GENERIC_DEVICE, 3
+11-21 08:33:18.774 17597 14186 E APxrRuntime: isdev->name: 12
+11-21 08:33:18.774 17597 14186 W APxrRuntime: oxr_instance_create u_device_assign_xdev_roles sys->num_xdevs = 16,NUM_XDEVS  = 16
+11-21 08:33:18.774 17597 14186 E APxrRuntime: runtime oxr_instance_create u_device_assign_xdev_roles sys->role.left = 1,sys->role.right  = 2
+11-21 08:33:18.774 17597 14186 E PCTP    : PCTP upload:{"pkg_name":"au.edu.evolve.framelab","type":"fov","value":"104","power_need":true}
+11-21 08:33:18.774 17597 14186 E APxrRuntime: oxr_instance, texture_redirect_mark_interface2 0
+11-21 08:33:18.775 17597 14186 E APxrRuntime: oxr_instance, redirect hook_result==0, result==0 
+11-21 08:33:18.775 17597 14186 E PxrConfigServiceClient: [###][###:122]: find configname: key_et_enable value is null, please check it!
+11-21 08:33:18.775 17597 14186 W oxr_config: from config service, et  enable 0
+11-21 08:33:18.775 17597 14186 E PxrConfigServiceClient: [###][###:122]: find configname: key_ft_enable value is null, please check it!
+11-21 08:33:18.775 17597 14186 W oxr_config: from config service, ft  enable 0
+11-21 08:33:18.775 17597 14186 I evolve.framelab: SysPerfTracker acquireUIFirst pid 17597
+11-21 08:33:18.775 17597 14186 E APxrRuntime: update client version shm: 0.4.4, version: 0.4.4
+11-21 08:33:18.777 17597 14186 I PxrLoader: Info [GENERAL | xrCreateInstance | PxrLoader] : LoaderInstance::CreateInstance succeeded with 0 layers enabled and runtime interface - created instance = 0xb40000794845a3c0
+11-21 08:33:18.777 17597 14186 W APxrRuntime: debug_get_log_option_persist.pxr.log_XRT_COMPOSITOR_LOG raw:(null)
+11-21 08:33:18.779 17597 14186 I vulkan  : Loaded layer VK_LAYER_PICO
+11-21 08:33:18.783 17597 14186 I AdrenoVK-0: ===== BEGIN DUMP OF OVERRIDDEN SETTINGS =====
+11-21 08:33:18.783 17597 14186 I AdrenoVK-0: ===== END DUMP OF OVERRIDDEN SETTINGS =====
+11-21 08:33:18.786 17597 14186 I AdrenoVK-0: QUALCOMM build          : 796d02fee9, Ia74af94f1a
+11-21 08:33:18.786 17597 14186 I AdrenoVK-0: Build Date              : 03/15/24
+11-21 08:33:18.786 17597 14186 I AdrenoVK-0: Shader Compiler Version : E031.46.00.00
+11-21 08:33:18.786 17597 14186 I AdrenoVK-0: Local Branch            : 
+11-21 08:33:18.786 17597 14186 I AdrenoVK-0: Remote Branch           : refs/tags/AU_LINUX_ANDROID_LA.VENDOR.14.3.4.11.00.00.1126.111
+11-21 08:33:18.786 17597 14186 I AdrenoVK-0: Remote Branch           : NONE
+11-21 08:33:18.786 17597 14186 I AdrenoVK-0: Reconstruct Branch      : NOTHING
+11-21 08:33:18.786 17597 14186 I AdrenoVK-0: Build Config            : S P 16.1.2 AArch64
+11-21 08:33:18.786 17597 14186 I AdrenoVK-0: Driver Path             : /vendor/lib64/hw/vulkan.adreno.so
+11-21 08:33:18.786 17597 14186 I AdrenoVK-0: Driver Version          : 0772.0
+11-21 08:33:18.786 17597 14186 I AdrenoVK-0: PFP                     : 0x01511181
+11-21 08:33:18.786 17597 14186 I AdrenoVK-0: ME                      : 0x00000000
+11-21 08:33:18.786 17597 14186 I AdrenoVK-0: Application Name    : Leichhardt
+11-21 08:33:18.786 17597 14186 I AdrenoVK-0: Application Version : 0x00000001
+11-21 08:33:18.786 17597 14186 I AdrenoVK-0: Engine Name         : Unity
+11-21 08:33:18.786 17597 14186 I AdrenoVK-0: Engine Version      : 0x00000001
+11-21 08:33:18.786 17597 14186 I AdrenoVK-0: Api Version         : 0x00401000
+11-21 08:33:18.786 17597 14186 W APxrRuntime: Did not find runtime suggested GPU, fall back to GPU 0
+11-21 08:33:18.788 17597 14186 I vulkan  : Loaded layer VK_LAYER_PICO
+11-21 08:33:18.791 17597 14186 I AdrenoVK-0: QUALCOMM build          : 796d02fee9, Ia74af94f1a
+11-21 08:33:18.791 17597 14186 I AdrenoVK-0: Build Date              : 03/15/24
+11-21 08:33:18.791 17597 14186 I AdrenoVK-0: Shader Compiler Version : E031.46.00.00
+11-21 08:33:18.791 17597 14186 I AdrenoVK-0: Local Branch            : 
+11-21 08:33:18.791 17597 14186 I AdrenoVK-0: Remote Branch           : refs/tags/AU_LINUX_ANDROID_LA.VENDOR.14.3.4.11.00.00.1126.111
+11-21 08:33:18.791 17597 14186 I AdrenoVK-0: Remote Branch           : NONE
+11-21 08:33:18.791 17597 14186 I AdrenoVK-0: Reconstruct Branch      : NOTHING
+11-21 08:33:18.791 17597 14186 I AdrenoVK-0: Build Config            : S P 16.1.2 AArch64
+11-21 08:33:18.791 17597 14186 I AdrenoVK-0: Driver Path             : /vendor/lib64/hw/vulkan.adreno.so
+11-21 08:33:18.791 17597 14186 I AdrenoVK-0: Driver Version          : 0772.0
+11-21 08:33:18.791 17597 14186 I AdrenoVK-0: PFP                     : 0x01511181
+11-21 08:33:18.791 17597 14186 I AdrenoVK-0: ME                      : 0x00000000
+11-21 08:33:18.791 17597 14186 I AdrenoVK-0: Application Name    : Leichhardt
+11-21 08:33:18.791 17597 14186 I AdrenoVK-0: Application Version : 0x00000001
+11-21 08:33:18.791 17597 14186 I AdrenoVK-0: Engine Name         : Unity
+11-21 08:33:18.791 17597 14186 I AdrenoVK-0: Engine Version      : 0x00000001
+11-21 08:33:18.791 17597 14186 I AdrenoVK-0: Api Version         : 0x00401000
+11-21 08:33:18.792 17597 14186 W APxrRuntime: Did not find runtime suggested GPU, fall back to GPU 0
+11-21 08:33:18.792 17597 14186 I PicoLayer: Engine doesn't support 'VK_KHR_fragment_shading_rate', we disabled it now.
+11-21 08:33:18.792 17597 14186 I PicoLayer: Engine doesn't support 'VK_KHR_fragment_shading_rate', we disabled it now.
+11-21 08:33:18.792 17597 14186 I PicoLayer: Engine doesn't support 'VK_KHR_fragment_shading_rate', we disabled it now.
+11-21 08:33:18.792 17597 14186 I PicoLayer: Engine doesn't support 'VK_KHR_fragment_shading_rate', we disabled it now.
+11-21 08:33:18.812 17597 14186 I MediaRouter: Skip setBluetoothA2dpOn(): types=8388615, isPlaybackActive()=false, BT route=null
+11-21 08:33:18.821 17597 14186 I FastMixerState: sMaxFastTracks = 8
+11-21 08:33:18.826 17597 14186 I AAudio  : AAudioStreamBuilder_openStream() called ----------------------------------------
+11-21 08:33:18.826 17597 14186 I AudioStreamBuilder: rate   =  24000, channels  = 2, channelMask = 0x80000003, format   = 5, sharing = SH, dir = OUTPUT
+11-21 08:33:18.826 17597 14186 I AudioStreamBuilder: device =      0, sessionId = 0, perfMode = 12, callback: ON with frames = 512
+11-21 08:33:18.826 17597 14186 I AudioStreamBuilder: usage  =      0, contentType = 0, inputPreset = 0, allowedCapturePolicy = 0
+11-21 08:33:18.826 17597 14186 I AudioStreamBuilder: privacy sensitive = false, opPackageName = (null), attributionTag = (null)
+11-21 08:33:18.835 17597 14186 I AAudio  : AAudioStreamBuilder_openStream() returns 0 = AAUDIO_OK for s#1 ----------------
+11-21 08:33:19.084 17597 14186 I Unity   : XRGeneral Settings awakening...
+11-21 08:33:19.084 17597 14186 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 08:33:19.084 17597 14186 I Unity   : UnityEngine.XR.Management.XRGeneralSettings:Awake()
+11-21 08:33:19.084 17597 14186 I Unity   : 
+11-21 08:33:19.093 17597 14186 I IL2CPP  : Locale en-GB
+11-21 08:33:19.125 17597 14186 I Unity   : Loading OpenXR loader library at path: openxr_loader
+11-21 08:33:19.125 17597 14186 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 08:33:19.125 17597 14186 I Unity   : UnityEngine.XR.OpenXR.OpenXRLoaderBase:LoadOpenXRSymbols()
+11-21 08:33:19.125 17597 14186 I Unity   : UnityEngine.XR.OpenXR.OpenXRLoaderBase:InitializeInternal()
+11-21 08:33:19.125 17597 14186 I Unity   : UnityEngine.XR.OpenXR.OpenXRLoaderBase:Initialize()
+11-21 08:33:19.125 17597 14186 I Unity   : UnityEngine.XR.Management.XRManagerSettings:InitializeLoaderSync()
+11-21 08:33:19.125 17597 14186 I Unity   : 
+11-21 08:33:19.125 17597 14186 E APxrRuntime: ipc_client_android_destory ii = 0xb400007ab04cb200
+11-21 08:33:19.125 17597 14186 E APxrRuntime: [ipc_client_android_destroy][2048] ipc_sense_client destroy ica
+11-21 08:33:19.125 17597 14186 I pico-ipc-client: markAsDiscardedByNative()
+11-21 08:33:19.125 17597 14186 I pico-ipc-client: shutdown()
+11-21 08:33:19.127 17597 14186 I evolve.framelab: SysPerfTracker releaseUIFirst pid 17597
+11-21 08:33:19.127 17597 14186 I PxrLoader: Info [GENERAL | xrDestroyInstance | PxrLoader] : RuntimeInterface::UnloadRuntime - Unloading RuntimeInterface
+11-21 08:33:19.127 17597 14186 I PxrLoader: Info [GENERAL |  | PxrLoader] : RuntimeInterface being destroyed.
+11-21 08:33:19.131 17597 14186 W PicoXR  : context addr is 0x7b22300038.
+11-21 08:33:19.131 17597 14186 E PxrLoader: Error [GENERAL | xrEnumerateInstanceExtensionProperties | PxrLoader] : RuntimeInterface::LoadRuntime supports XR_KHR_LOADER_INIT_SUPPORT!
+11-21 08:33:19.132 17597 14186 E APxrRuntime: Java_com_pico_xr_openxr_1runtime_DriverLoader_nativeGetProcAddr: InitializeLoaderKHR!
+11-21 08:33:19.132 17597 14186 E APxrRuntime: abel, xrInitializeLoaderKHR
+11-21 08:33:19.132 17597 14186 E APxrRuntime: Java_com_pico_xr_openxr_1runtime_DriverLoader_nativeGetProcAddr: NegotiateLoaderRuntimeInterface!
+11-21 08:33:19.132 17597 14186 E PxrRuntime: xrNegotiateLoaderRuntimeInterface
+11-21 08:33:19.132 17597 14186 I PxrLoader: Info [GENERAL | xrEnumerateInstanceExtensionProperties | PxrLoader] : RuntimeInterface::LoadRuntime succeeded loading runtime defined in manifest file  using interface version 1 and OpenXR API version 1.1
+11-21 08:33:19.132 17597 14186 E APxrRuntime: ExtensionConfig, cloudExtensionCount 0,openxr common 0,openxr10 0,openxr11 0,experimental 0,pico only 0,private 0,third party 0,hidden 0
+11-21 08:33:19.140 17597 17597 I Unity   : windowFocusChanged: true
+11-21 08:33:19.146 17597 14186 I Unity   : [XR] [528854564016] [08:33:19.146][Info   ] Available Layers: (0)
+11-21 08:33:19.146 17597 14186 I PxrLoader: Info [GENERAL | xrCreateInstance:  | PxrLoader] : app API version:1.1  pxrLoader current version:1.0.24
+11-21 08:33:19.146 17597 14186 E PxrLoader: Error [GENERAL | xrCreateInstance | PxrLoader] : xrCreateInstance called with invalid API version 1.1.  Max supported version is 1.0
+11-21 08:33:19.146 17597 14186 I PxrLoader: Info [GENERAL | xrCreateInstance:  | PxrLoader] : app API version:1.0  pxrLoader current version:1.0.24
+11-21 08:33:19.153 17597 14186 E oxr_config: sdk_boundary_EnableSeethroughDelayLog=0
+11-21 08:33:19.153 17597 14186 E oxr_config: sdk_boundary_ReportSeethroughDelayData=1
+11-21 08:33:19.153 17597 14186 E oxr_config:   xrMrEngineSupport is 1
+11-21 08:33:19.153 17597 14186 E oxr_config: ctrltype updateConfigControllerInfo 842 xrControllerType 8
+11-21 08:33:19.154 17597 14186 E APxrRuntime: getPackageManagerInfo : {"app_fps":0,"eyebufferHeight":0,"eyebufferWidth":0}
+11-21 08:33:19.154 17597 14186 E APxrRuntime:  oxr_instance_create ,package_name au.edu.evolve.framelab,eyebuffer (0,0),packageFps 0, isGLTileRender 0
+11-21 08:33:19.155 17597 14186 E PxrConfigServiceClient: [###][###:122]: find configname: au.edu.evolve.framelab value is null, please check it!
+11-21 08:33:19.155 17597 14186 E APxrRuntime:  oxr_instance_create ,package_name au.edu.evolve.framelab,PxrPerformanceParams refreshRate 0,resolutionRate 0.000000, cpuLevel 0, gpuLevel 0, ffrLevel 0
+11-21 08:33:19.157 17597 14186 I pico-ipc-client: Client(long nativePointer)
+11-21 08:33:19.157 17597 14186 W APxrRuntime: ipc_client_android start to initiate the guardian and persistence client object info
+11-21 08:33:19.159 17597 14186 I PersistenceClient: Client(long nativePointer)
+11-21 08:33:19.170 17597 14186 I pico-ipc-client: blockingConnect
+11-21 08:33:19.170 17597 14186 I pico-ipc-client: bind
+11-21 08:33:19.175 17597 14313 I pico-ipc-client: onServiceConnected
+11-21 08:33:19.175 17597 14313 I pico-ipc-client: au.edu.evolve.framelab,Runtime versionCode 200201388
+11-21 08:33:19.176 17597 14186 W APxrRuntime: Connect success, fd=127
+11-21 08:33:19.176 17597 14186 E APxrRuntime: is_selabel_priv_app getline u:r:untrusted_app:s0:c170,c256,c512,c768
+11-21 08:33:19.177 17597 14186 E APxrRuntime: ism->num_isdevs:5 
+11-21 08:33:19.177 17597 14186 E APxrRuntime: ism->num_itracks:5 
+11-21 08:33:19.177 17597 14186 E APxrRuntime: ctrltype xrt_controller_device_set_name_str 483 deviceModel 8
+11-21 08:33:19.177 17597 14186 E APxrRuntime: controllertype  xrt_controller_device_set_name_str 507 deviceModel 8 xdev->name 6
+11-21 08:33:19.177 17597 14186 E APxrRuntime: ctrltype xrt_controller_device_set_name_str 483 deviceModel 8
+11-21 08:33:19.177 17597 14186 E APxrRuntime: controllertype  xrt_controller_device_set_name_str 507 deviceModel 8 xdev->name 6
+11-21 08:33:19.177 17597 14186 E APxrRuntime: ii->num_xtracks:5 
+11-21 08:33:19.177 17597 14186 E APxrRuntime: ism->num_isdevs:5 
+11-21 08:33:19.177 17597 14186 E APxrRuntime: isdev->name: 1
+11-21 08:33:19.177 17597 14186 E APxrRuntime: XRT_DEVICE_GENERIC_HMD, 0
+11-21 08:33:19.177 17597 14186 E APxrRuntime: isdev->name: 6
+11-21 08:33:19.177 17597 14186 E APxrRuntime: XRT_DEVICE_GENERIC_DEVICE, 1
+11-21 08:33:19.177 17597 14186 E APxrRuntime: isdev->name: 6
+11-21 08:33:19.177 17597 14186 E APxrRuntime: XRT_DEVICE_GENERIC_DEVICE, 2
+11-21 08:33:19.177 17597 14186 E APxrRuntime: isdev->name: 6
+11-21 08:33:19.177 17597 14186 E APxrRuntime: XRT_DEVICE_GENERIC_DEVICE, 3
+11-21 08:33:19.177 17597 14186 E APxrRuntime: isdev->name: 12
+11-21 08:33:19.177 17597 14186 W APxrRuntime: oxr_instance_create u_device_assign_xdev_roles sys->num_xdevs = 16,NUM_XDEVS  = 16
+11-21 08:33:19.177 17597 14186 E APxrRuntime: runtime oxr_instance_create u_device_assign_xdev_roles sys->role.left = 1,sys->role.right  = 2
+11-21 08:33:19.177 17597 14186 E PCTP    : PCTP upload:{"pkg_name":"au.edu.evolve.framelab","type":"fov","value":"104","power_need":true}
+11-21 08:33:19.178 17597 14186 E APxrRuntime: oxr_instance, texture_redirect_mark_interface2 0
+11-21 08:33:19.178 17597 14186 E APxrRuntime: oxr_instance, redirect hook_result==0, result==0 
+11-21 08:33:19.178 17597 14186 E PxrConfigServiceClient: [###][###:122]: find configname: key_et_enable value is null, please check it!
+11-21 08:33:19.178 17597 14186 W oxr_config: from config service, et  enable 0
+11-21 08:33:19.178 17597 14186 E PxrConfigServiceClient: [###][###:122]: find configname: key_ft_enable value is null, please check it!
+11-21 08:33:19.178 17597 14186 W oxr_config: from config service, ft  enable 0
+11-21 08:33:19.178 17597 14186 I evolve.framelab: SysPerfTracker acquireUIFirst pid 17597
+11-21 08:33:19.178 17597 14186 E APxrRuntime: update client version shm: 0.4.4, version: 0.4.4
+11-21 08:33:19.179 17597 14186 I PxrLoader: Info [GENERAL | xrCreateInstance | PxrLoader] : LoaderInstance::CreateInstance succeeded with 0 layers enabled and runtime interface - created instance = 0xb4000079486bd680
+11-21 08:33:19.193 17597 14186 E SensorManager: getFullSensorList check calling is 10170
+11-21 08:33:19.193 17597 14186 W Unity   : Orientation Listener cannot detect orientation.
+11-21 08:33:19.194 17597 14186 I Unity   : SetGameState: isLoading: false, mode: UNKNOWN, label: -1, quality: 0
+11-21 08:33:19.228 17597 14186 W APxrRuntime: Did not find runtime suggested GPU, fall back to GPU 0
+11-21 08:33:19.228 17597 14186 E APxrRuntime: xsi.is_spatial = 0
+11-21 08:33:19.229 17597 14186 E APxrRuntime: ipc_guardian_android_blocking_connect unsupported
+11-21 08:33:19.229 17597 14186 E APxrRuntime: ipc_mrservice_android_blocking_connect unsupported
+11-21 08:33:19.242 17597 14186 E APxrRuntime: running_mode fixed latency found:0,set: 3.000000
+11-21 08:33:19.242 17597 14186 E APxrRuntime: running_mode work_harder found:0, set: 0
+11-21 08:33:19.242 17597 14186 E APxrRuntime: running_mode detail_log found:0, set: 0
+11-21 08:33:19.242 17597 14186 E APxrRuntime: running_mode margin found:0, set: 0.000000s
+11-21 08:33:19.242 17597 14186 E APxrRuntime: running_mode fix_fps found:0, set: 0.000000
+11-21 08:33:19.242 17597 14186 E APxrRuntime: running_mode fix_padding found:0, set: 0.000000
+11-21 08:33:19.242 17597 14186 E APxrRuntime: running_mode virtual_fetch found:0, set: 0
+11-21 08:33:19.242 17597 14186 E APxrRuntime: debug_marker function disabled
+11-21 08:33:19.242 17597 14186 W APxrRuntime: oxr_session_create newly_installed_app: 0,32
+11-21 08:33:19.242 17597 14186 W xrt_session: oxr_session_manage_state, client: au.edu.evolve.framelab, action=1, state=XR_SESSION_STATE_UNKNOWN
+11-21 08:33:19.242 17597 14186 W xrt_session: oxr_session_change_state from 0 to 1
+11-21 08:33:19.243 17597 14186 E APxrRuntime: oxr_session_create floor_height 1.650000
+11-21 08:33:19.243 17597 14186 W pico-ipc-client: prefetch_app 0
+11-21 08:33:19.244 17597 17597 W pico-ipc-client: prefetch_app 0
+11-21 08:33:19.244 17597 14186 W oxr_config: from config service, oxr_get_motion_tracking_enable  enable 0
+11-21 08:33:19.244 17597 17597 I pico-ipc-client: registerActivityLifecycleCallbacks activity:com.unity3d.player.UnityPlayerActivity@c120732, resume:true, preload:false
+11-21 08:33:19.244 17597 17597 I SurfaceViewFinder: SurfaceViewFinder found SurfaceView of unity!
+11-21 08:33:19.245 17597 17597 I EngineListener: Window Focus:true, Surface created:true, App preload:false
+11-21 08:33:19.245 17597 17597 I EngineListener: Activity resume:true, Window Focus:true, Surface created:true, App preload:false, Achieved:true
+11-21 08:33:19.245 17597 17597 E APxrRuntime: Native activity resumed name = au.edu.evolve.framelab
+11-21 08:33:19.245 17597 17597 W xrt_session: au.edu.evolve.framelab, session_on_foucus_changed
+11-21 08:33:19.248 17597 17597 W xrt_session: au.edu.evolve.framelab, session_on_activity_resume: in: 0x1
+11-21 08:33:19.248 17597 17597 W APxrRuntime: Java_com_pico_picoopenxr_ipc_Client_NativeActivityResumed: 0xb400007948332e00
+11-21 08:33:19.249 17597 14319 I Choreographer: UnityChoreographer packageName: au.edu.evolve.framelab false 0
+11-21 08:33:19.263 17597 17597 I ViewRootImplExt: setScaleInfo, ViewRootImpl[au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity] scaleChanged=false, byServer=false, isHwui=false
+11-21 08:33:19.263 17597 17597 W evolve.framelab: SetSurfaceScaleInfo, width=4320, height=2160, scale=0.000000
+11-21 08:33:19.264 17597 17597 I ViewRootImpl: Will skip draw vr actvity :au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity
+11-21 08:33:19.287 17597 14186 I Unity   : SetGameState: isLoading: true, mode: UNKNOWN, label: 0, quality: 0
+11-21 08:33:19.331 17597 14186 W xrt_session: au.edu.evolve.framelab: client: oxr_session_handler_xrtCompositorEventResumeChange, receive RESUME changed event
+11-21 08:33:19.331 17597 14186 W xrt_session: oxr_session_manage_state, client: au.edu.evolve.framelab, action=2, state=XR_SESSION_STATE_IDLE
+11-21 08:33:19.331 17597 14186 E xrt_session: oxr_session_manage_state: client au.edu.evolve.framelab reiceive resumed when session is idle:activity resumed:1
+11-21 08:33:19.331 17597 14186 W xrt_session: oxr_session_change_state from 1 to 2
+11-21 08:33:19.331 17597 14186 I Unity   : [XR] [528854564016] [08:33:19.331][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_UNKNOWN->XR_SESSION_STATE_IDLE session=-5476376625976067712 time=0
+11-21 08:33:19.332 17597 14186 I Unity   : [XR] [528854564016] [08:33:19.332][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_IDLE->XR_SESSION_STATE_READY session=-5476376625976067712 time=0
+11-21 08:33:19.333 17597 14186 E APxrRuntime: pxr_set_trackingorigin level type 0, xrEnableFloorLevel 1
+11-21 08:33:19.333 17597 14186 W APxrRuntime: TopApp 1
+11-21 08:33:19.334 17597 14186 E APxrRuntime: set_desired_fps:invalid param,0.013889,0
+11-21 08:33:19.334 17597 14186 W APxrRuntime: set_desired_fps done,-1,13.888889,0,0
+11-21 08:33:19.335 17597 14186 E APxrRuntime: Call error '-1'!, func: ipc_compositor_set_config
+11-21 08:33:19.335 17597 14186 E APxrRuntime: oxr_session_set_android_application_thread_khr enter
+11-21 08:33:19.336 17597 14186 E APxrRuntime: oxr_session_set_android_application_thread_khr enter
+11-21 08:33:19.344 17597 14186 W APxrRuntime: actionsystem runtime oxr_session_attach_action_sets 1359 after oxr_find_profile_for_device, profiles.left path str = /interaction_profiles/bytedance/pico4s_controller 
+11-21 08:33:19.582 17597 17597 I pico-ipc-client: onActivityPaused activity:com.unity3d.player.UnityPlayerActivity@c120732
+11-21 08:33:19.582 17597 17597 W xrt_session: au.edu.evolve.framelab, session_on_foucus_changed
+11-21 08:33:19.582 17597 17597 W xrt_session: au.edu.evolve.framelab, session_on_activity_pause: in: 0x2
+11-21 08:33:19.582 17597 17597 W APxrRuntime: Java_com_pico_picoopenxr_ipc_Client_NativeActivityPaused: 0xb400007948332e00
+11-21 08:33:19.582 17597 17597 I Unity   : onPause
+11-21 08:33:19.597 17597 14329 W RmClient: Rm::create() mRm 0xb400007b210c2c00
+11-21 08:33:19.607 17597 14329 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+11-21 08:33:19.608 17597 17597 I Unity   : Surface destroyed while running without focus - pausing Unity
+11-21 08:33:19.610 17597 17597 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=com.unity3d.player.a.c$$ExternalSyntheticLambda0@c9cad18
+11-21 08:33:19.610 17597 17597 I Unity   : pauseUnity
+11-21 08:33:20.268 17597 14186 I Unity   : SetGameState: isLoading: true, mode: CONTENT, label: -6, quality: 0
+11-21 08:33:20.269 17597 17597 I EngineListener: EngineListener SurfaceView's surface destroyed
+11-21 08:33:20.269 17597 17597 I BufferQueueProducer: [](id:44bd00000001,api:0,p:0,c:17597) disconnect: api -1, w*h = 4320 * 2160
+11-21 08:33:20.275 17597 17597 I Unity   : windowFocusChanged: false
+11-21 08:33:20.275 17597 17597 I EngineListener: EngineListener window focus changed:false
+11-21 08:33:20.276 17597 17597 I pico-ipc-client: onActivityStopped activity:com.unity3d.player.UnityPlayerActivity@c120732
+11-21 08:33:20.277 17597 17597 I pico-ipc-client: onActivitySaveInstanceState activity:com.unity3d.player.UnityPlayerActivity@c120732
+11-21 08:33:54.908 17597 17597 W FinalizerDaemon: type=1400 audit(0.0:78305): avc:  denied  { getopt } for  path="/dev/socket/usap_pool_primary" scontext=u:r:untrusted_app:s0:c170,c256,c512,c768 tcontext=u:r:zygote:s0 tclass=unix_stream_socket permissive=0

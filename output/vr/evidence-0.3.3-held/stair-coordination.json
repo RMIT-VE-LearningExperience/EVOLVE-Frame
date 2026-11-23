@@ -1,0 +1,351 @@
+{
+  "risers": 17,
+  "timber_treads": 16,
+  "rise_m": 0.1858235294117647,
+  "going_m": 0.2468437499999998,
+  "width_m": 1.0199999999999996,
+  "floor_to_floor_m": 3.159,
+  "foot_x": 24.9,
+  "landing_edge_x": 20.9505,
+  "flight_clear_run_m": 3.949499999999997,
+  "basis": "Existing approximately 4 m flight coordinated to trimmer face, 18 mm landing riser and 19 mm floor deck; illustrative finish detail",
+  "checks": "PASS: uniform rises/goings, final riser meets deck underside, stringers meet trimmer face, lowest stringers bear on slab; closed wall-side string fills 25 mm junction",
+  "wall_side_junction_m": 0,
+  "steps": [
+    {
+      "step": 1,
+      "top": 0.1858235294117647,
+      "front": 24.9,
+      "back": 24.65315625
+    },
+    {
+      "step": 2,
+      "top": 0.3716470588235294,
+      "front": 24.65315625,
+      "back": 24.4063125
+    },
+    {
+      "step": 3,
+      "top": 0.557470588235294,
+      "front": 24.4063125,
+      "back": 24.15946875
+    },
+    {
+      "step": 4,
+      "top": 0.7432941176470588,
+      "front": 24.15946875,
+      "back": 23.912625
+    },
+    {
+      "step": 5,
+      "top": 0.9291176470588235,
+      "front": 23.912625,
+      "back": 23.66578125
+    },
+    {
+      "step": 6,
+      "top": 1.114941176470588,
+      "front": 23.66578125,
+      "back": 23.4189375
+    },
+    {
+      "step": 7,
+      "top": 1.3007647058823528,
+      "front": 23.4189375,
+      "back": 23.17209375
+    },
+    {
+      "step": 8,
+      "top": 1.4865882352941175,
+      "front": 23.17209375,
+      "back": 22.92525
+    },
+    {
+      "step": 9,
+      "top": 1.6724117647058823,
+      "front": 22.92525,
+      "back": 22.67840625
+    },
+    {
+      "step": 10,
+      "top": 1.858235294117647,
+      "front": 22.678406250000002,
+      "back": 22.431562500000002
+    },
+    {
+      "step": 11,
+      "top": 2.0440588235294115,
+      "front": 22.431562500000002,
+      "back": 22.184718750000002
+    },
+    {
+      "step": 12,
+      "top": 2.229882352941176,
+      "front": 22.184718750000002,
+      "back": 21.937875000000002
+    },
+    {
+      "step": 13,
+      "top": 2.415705882352941,
+      "front": 21.937875000000002,
+      "back": 21.69103125
+    },
+    {
+      "step": 14,
+      "top": 2.6015294117647056,
+      "front": 21.69103125,
+      "back": 21.4441875
+    },
+    {
+      "step": 15,
+      "top": 2.7873529411764704,
+      "front": 21.4441875,
+      "back": 21.19734375
+    },
+    {
+      "step": 16,
+      "top": 2.973176470588235,
+      "front": 21.19734375,
+      "back": 20.9505
+    }
+  ],
+  "column_caps": [
+    {
+      "column": "C1 alfresco west",
+      "bearing_z": 2.5999996662139893,
+      "old_gap_mm": -0.0
+    },
+    {
+      "column": "C1 alfresco middle",
+      "bearing_z": 2.5999999046325684,
+      "old_gap_mm": 0.0
+    },
+    {
+      "column": "C1 nook",
+      "bearing_z": 2.6000001430511475,
+      "old_gap_mm": 0.0
+    },
+    {
+      "column": "C3 portal south",
+      "bearing_z": 2.75,
+      "old_gap_mm": 0.0
+    },
+    {
+      "column": "C3 portal north",
+      "bearing_z": 2.75,
+      "old_gap_mm": 0.0
+    },
+    {
+      "column": "C1 living",
+      "bearing_z": 2.755000114440918,
+      "old_gap_mm": 5.0
+    }
+  ],
+  "brace_offsets": [
+    {
+      "object": "GF Garage D1 diagonal",
+      "wall": "Garage rear",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "GF Garage D1 cross",
+      "wall": "Garage rear",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "GF Garage D2 diagonal",
+      "wall": "Garage rear",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "GF Garage D2 cross",
+      "wall": "Garage rear",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "GF Meals kitchen D diagonal",
+      "wall": "GF North wall",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "GF Meals kitchen D cross",
+      "wall": "GF North wall",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "GF Kitchen D diagonal",
+      "wall": "GF North wall",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "GF Kitchen D cross",
+      "wall": "GF North wall",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "GF Entry D diagonal",
+      "wall": "GF North wall",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "GF Entry D cross",
+      "wall": "GF North wall",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "GF Laundry D diagonal",
+      "wall": "Laundry east",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "GF Laundry D cross",
+      "wall": "Laundry east",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "GF Bedroom D diagonal",
+      "wall": "GF South family and suite",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "GF Bedroom D cross",
+      "wall": "GF South family and suite",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "GF Suite D diagonal",
+      "wall": "WIR bedroom division",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "GF Suite D cross",
+      "wall": "WIR bedroom division",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "GF Ensuite D diagonal",
+      "wall": "Ensuite west",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "GF Ensuite D cross",
+      "wall": "Ensuite west",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "GF Entry E 4.8mm hardboard",
+      "wall": "GF East entry and bedroom",
+      "shift_mm": -7.6
+    },
+    {
+      "object": "GF Corner B 4.8mm hardboard",
+      "wall": "GF South family and suite",
+      "shift_mm": -7.6
+    },
+    {
+      "object": "GF Garage D3 diagonal",
+      "wall": "Garage south",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "GF Garage D3 cross",
+      "wall": "Garage south",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "FF Bed4 D diagonal",
+      "wall": "FF North wall",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "FF Bed4 D cross",
+      "wall": "FF North wall",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "FF Bath D diagonal",
+      "wall": "FF North wall",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "FF Bath D cross",
+      "wall": "FF North wall",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "FF Void D diagonal",
+      "wall": "FF North wall",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "FF Void D cross",
+      "wall": "FF North wall",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "FF West D diagonal",
+      "wall": "FF West wall",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "FF West D cross",
+      "wall": "FF West wall",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "FF Bed5 C diagonal",
+      "wall": "FF Bed 5 east",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "FF Hall C diagonal",
+      "wall": "FF Bed 2 study hall",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "FF Bed2 C diagonal",
+      "wall": "FF Bath 2 east",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "FF Study D diagonal",
+      "wall": "FF Study retreat division",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "FF Study D cross",
+      "wall": "FF Study retreat division",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "FF Theatre C diagonal",
+      "wall": "FF Theatre west",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "FF Theatre D diagonal",
+      "wall": "FF South wall",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "FF Theatre D cross",
+      "wall": "FF South wall",
+      "shift_mm": -9.25
+    },
+    {
+      "object": "FF Bed4 E 4.8mm hardboard",
+      "wall": "FF West wall",
+      "shift_mm": -7.6
+    },
+    {
+      "object": "FF Bed3 B 4.8mm hardboard",
+      "wall": "FF South wall",
+      "shift_mm": -7.6
+    },
+    {
+      "object": "FF Bath2 B 4.8mm hardboard",
+      "wall": "FF South wall",
+      "shift_mm": -7.6
+    }
+  ]
+}

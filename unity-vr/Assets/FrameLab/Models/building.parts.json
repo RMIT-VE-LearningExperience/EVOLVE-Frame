@@ -1,0 +1,1138 @@
+{
+  "parts": [
+    {
+      "name": "02 Ground floor walls",
+      "title": "Ground floor walls",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web MGP10 pine.001",
+      "color": [
+        0.6200000047683716,
+        0.3799999952316284,
+        0.1599999964237213,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.550000011920929
+    },
+    {
+      "name": "02 Ground floor walls.001",
+      "title": "Ground floor walls",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web LVL beams.001",
+      "color": [
+        0.41999998688697815,
+        0.23000000417232513,
+        0.09000000357627869,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.550000011920929
+    },
+    {
+      "name": "03 Ground floor steel and LVL",
+      "title": "Ground floor steel and LVL",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web Structural steel.001",
+      "color": [
+        0.14000000059604645,
+        0.20000000298023224,
+        0.25,
+        1
+      ],
+      "metallic": 0.7200000286102295,
+      "roughness": 0.550000011920929
+    },
+    {
+      "name": "03 Ground floor steel and LVL.001",
+      "title": "Ground floor steel and LVL",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web LVL beams.001",
+      "color": [
+        0.41999998688697815,
+        0.23000000417232513,
+        0.09000000357627869,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.550000011920929
+    },
+    {
+      "name": "03 Ground floor steel and LVL.002",
+      "title": "Ground floor steel and LVL",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web MGP10 pine.001",
+      "color": [
+        0.6200000047683716,
+        0.3799999952316284,
+        0.1599999964237213,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.550000011920929
+    },
+    {
+      "name": "04 First floor joists",
+      "title": "First floor joists",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web MGP10 pine.001",
+      "color": [
+        0.6200000047683716,
+        0.3799999952316284,
+        0.1599999964237213,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.550000011920929
+    },
+    {
+      "name": "04 First floor joists.001",
+      "title": "First floor joists",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web Galvanised connectors.001",
+      "color": [
+        0.47999998927116394,
+        0.5699999928474426,
+        0.6299999952316284,
+        1
+      ],
+      "metallic": 0.75,
+      "roughness": 0.550000011920929
+    },
+    {
+      "name": "04 First floor joists.002",
+      "title": "First floor joists",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web LVL beams.001",
+      "color": [
+        0.41999998688697815,
+        0.23000000417232513,
+        0.09000000357627869,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.550000011920929
+    },
+    {
+      "name": "05 Upper floor walls",
+      "title": "Upper floor walls",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web MGP10 pine.001",
+      "color": [
+        0.6200000047683716,
+        0.3799999952316284,
+        0.1599999964237213,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.550000011920929
+    },
+    {
+      "name": "05 Upper floor walls.001",
+      "title": "Upper floor walls",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web LVL beams.001",
+      "color": [
+        0.41999998688697815,
+        0.23000000417232513,
+        0.09000000357627869,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.550000011920929
+    },
+    {
+      "name": "06 Upper roof trusses",
+      "title": "Upper roof trusses",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web MGP10 pine.001",
+      "color": [
+        0.6200000047683716,
+        0.3799999952316284,
+        0.1599999964237213,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.550000011920929
+    },
+    {
+      "name": "07 Garage roof",
+      "title": "Garage roof",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web MGP10 pine.001",
+      "color": [
+        0.6200000047683716,
+        0.3799999952316284,
+        0.1599999964237213,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.550000011920929
+    },
+    {
+      "name": "08 Porch roof",
+      "title": "Porch roof",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web MGP10 pine.001",
+      "color": [
+        0.6200000047683716,
+        0.3799999952316284,
+        0.1599999964237213,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.550000011920929
+    },
+    {
+      "name": "09 Bracing and connections",
+      "title": "Bracing and connections",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web Galvanised connectors.001",
+      "color": [
+        0.47999998927116394,
+        0.5699999928474426,
+        0.6299999952316284,
+        1
+      ],
+      "metallic": 0.75,
+      "roughness": 0.550000011920929
+    },
+    {
+      "name": "09 Bracing and connections.001",
+      "title": "Bracing and connections",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web Structural steel.001",
+      "color": [
+        0.14000000059604645,
+        0.20000000298023224,
+        0.25,
+        1
+      ],
+      "metallic": 0.7200000286102295,
+      "roughness": 0.550000011920929
+    },
+    {
+      "name": "09 Bracing and connections.002",
+      "title": "Bracing and connections",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web Hardboard bracing.001",
+      "color": [
+        0.2199999988079071,
+        0.11999999731779099,
+        0.06499999761581421,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.550000011920929
+    },
+    {
+      "name": "11 Roof battens",
+      "title": "Roof battens",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web MGP10 pine.001",
+      "color": [
+        0.6200000047683716,
+        0.3799999952316284,
+        0.1599999964237213,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.550000011920929
+    },
+    {
+      "name": "20 Main roof covering",
+      "title": "Main roof covering",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Garage metal roof",
+      "color": [
+        0.0949999988079071,
+        0.12999999523162842,
+        0.15000000596046448,
+        1
+      ],
+      "metallic": 0.7200000286102295,
+      "roughness": 0.36000001430511475
+    },
+    {
+      "name": "20 Main roof covering.001",
+      "title": "Main roof covering",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web ENV Metal roof - colour unselected.001",
+      "color": [
+        0.0949999988079071,
+        0.12999999523162842,
+        0.15000000596046448,
+        1
+      ],
+      "metallic": 0.7200000286102295,
+      "roughness": 0.36000001430511475
+    },
+    {
+      "name": "20 Main roof covering cut",
+      "title": "Main roof covering",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web ENV Metal roof - colour unselected.001",
+      "color": [
+        0.0949999988079071,
+        0.12999999523162842,
+        0.15000000596046448,
+        1
+      ],
+      "metallic": 0.7200000286102295,
+      "roughness": 0.36000001430511475
+    },
+    {
+      "name": "21 Main roof sarking",
+      "title": "Main roof sarking",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web ENV Roof sarking - illustrative.001",
+      "color": [
+        0.47999998927116394,
+        0.5600000023841858,
+        0.6000000238418579,
+        1
+      ],
+      "metallic": 0.5,
+      "roughness": 0.5
+    },
+    {
+      "name": "21 Main roof sarking cut",
+      "title": "Main roof sarking",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web ENV Roof sarking - illustrative.001",
+      "color": [
+        0.47999998927116394,
+        0.5600000023841858,
+        0.6000000238418579,
+        1
+      ],
+      "metallic": 0.5,
+      "roughness": 0.5
+    },
+    {
+      "name": "22 Fascia and gutters",
+      "title": "Fascia and gutters",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Neutral white ceiling",
+      "color": [
+        0.8799999952316284,
+        0.8799999952316284,
+        0.8700000047683716,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6499999761581421
+    },
+    {
+      "name": "22 Fascia and gutters.001",
+      "title": "Fascia and gutters",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web ENV Metal roof - colour unselected.001",
+      "color": [
+        0.0949999988079071,
+        0.12999999523162842,
+        0.15000000596046448,
+        1
+      ],
+      "metallic": 0.7200000286102295,
+      "roughness": 0.36000001430511475
+    },
+    {
+      "name": "22 Fascia and gutters cut",
+      "title": "Fascia and gutters",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web ENV Metal roof - colour unselected.001",
+      "color": [
+        0.0949999988079071,
+        0.12999999523162842,
+        0.15000000596046448,
+        1
+      ],
+      "metallic": 0.7200000286102295,
+      "roughness": 0.36000001430511475
+    },
+    {
+      "name": "23 Ground brick veneer",
+      "title": "Ground brick veneer",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web ENV Brick veneer - colour unselected.001",
+      "color": [
+        0.3499999940395355,
+        0.17000000178813934,
+        0.10000000149011612,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.9200000166893005
+    },
+    {
+      "name": "23 Ground brick veneer cut",
+      "title": "Ground brick veneer",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web ENV Brick veneer - colour unselected.001",
+      "color": [
+        0.3499999940395355,
+        0.17000000178813934,
+        0.10000000149011612,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.9200000166893005
+    },
+    {
+      "name": "24 Upper foam render",
+      "title": "Upper foam render",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web ENV Foam render - colour unselected.001",
+      "color": [
+        0.7699999809265137,
+        0.7599999904632568,
+        0.6899999976158142,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.8299999833106995
+    },
+    {
+      "name": "24 Upper foam render cut",
+      "title": "Upper foam render",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web ENV Foam render - colour unselected.001",
+      "color": [
+        0.7699999809265137,
+        0.7599999904632568,
+        0.6899999976158142,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.8299999833106995
+    },
+    {
+      "name": "25 Wall wrap",
+      "title": "Wall wrap",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web ENV Wall membrane - illustrative.001",
+      "color": [
+        0.1599999964237213,
+        0.3400000035762787,
+        0.3199999928474426,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.800000011920929
+    },
+    {
+      "name": "25 Wall wrap cut",
+      "title": "Wall wrap",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web ENV Wall membrane - illustrative.001",
+      "color": [
+        0.1599999964237213,
+        0.3400000035762787,
+        0.3199999928474426,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.800000011920929
+    },
+    {
+      "name": "26 Windows and doors",
+      "title": "Windows and doors",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web ENV Aluminium frames - illustrative.001",
+      "color": [
+        0.05999999865889549,
+        0.07500000298023224,
+        0.07999999821186066,
+        1
+      ],
+      "metallic": 0.699999988079071,
+      "roughness": 0.30000001192092896
+    },
+    {
+      "name": "26 Windows and doors.001",
+      "title": "Windows and doors",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web ENV Glazing proxy.001",
+      "color": [
+        0.23999999463558197,
+        0.47999998927116394,
+        0.5799999833106995,
+        1
+      ],
+      "metallic": 0.11999999731779099,
+      "roughness": 0.1599999964237213
+    },
+    {
+      "name": "26 Windows and doors.002",
+      "title": "Windows and doors",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Warm white plaster",
+      "color": [
+        0.8899999856948853,
+        0.8600000143051147,
+        0.800000011920929,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.8799999952316284
+    },
+    {
+      "name": "26 Windows and doors.003",
+      "title": "Windows and doors",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web Structural steel.001",
+      "color": [
+        0.14000000059604645,
+        0.20000000298023224,
+        0.25,
+        1
+      ],
+      "metallic": 0.7200000286102295,
+      "roughness": 0.550000011920929
+    },
+    {
+      "name": "26 Windows and doors.004",
+      "title": "Windows and doors",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Finished door timber",
+      "color": [
+        0.5199999809265137,
+        0.38999998569488525,
+        0.25,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6499999761581421
+    },
+    {
+      "name": "26 Windows and doors.005",
+      "title": "Windows and doors",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Door bronze hardware",
+      "color": [
+        0.11999999731779099,
+        0.10499999672174454,
+        0.08500000089406967,
+        1
+      ],
+      "metallic": 0.75,
+      "roughness": 0.3199999928474426
+    },
+    {
+      "name": "26 Windows and doors.006",
+      "title": "Windows and doors",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Obscure privacy glazing",
+      "color": [
+        0.800000011920929,
+        0.8399999737739563,
+        0.8299999833106995,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.7200000286102295
+    },
+    {
+      "name": "26 Windows and doors.007",
+      "title": "Windows and doors",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Garage door neutral metal",
+      "color": [
+        0.47999998927116394,
+        0.49000000953674316,
+        0.49000000953674316,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6499999761581421
+    },
+    {
+      "name": "26 Windows and doors cut",
+      "title": "Windows and doors",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web ENV Aluminium frames - illustrative.001",
+      "color": [
+        0.05999999865889549,
+        0.07500000298023224,
+        0.07999999821186066,
+        1
+      ],
+      "metallic": 0.699999988079071,
+      "roughness": 0.30000001192092896
+    },
+    {
+      "name": "26 Windows and doors cut.001",
+      "title": "Windows and doors",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web ENV Glazing proxy.001",
+      "color": [
+        0.23999999463558197,
+        0.47999998927116394,
+        0.5799999833106995,
+        1
+      ],
+      "metallic": 0.11999999731779099,
+      "roughness": 0.1599999964237213
+    },
+    {
+      "name": "26 Windows and doors cut.002",
+      "title": "Windows and doors",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Obscure privacy glazing",
+      "color": [
+        0.800000011920929,
+        0.8399999737739563,
+        0.8299999833106995,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.7200000286102295
+    },
+    {
+      "name": "12 Finished staircase",
+      "title": "Finished staircase",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Stair oak timber",
+      "color": [
+        0.7300000190734863,
+        0.5799999833106995,
+        0.38999998569488525,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6499999761581421
+    },
+    {
+      "name": "12 Finished staircase.001",
+      "title": "Finished staircase",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Stair warm white lining",
+      "color": [
+        0.8999999761581421,
+        0.8799999952316284,
+        0.8399999737739563,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6499999761581421
+    },
+    {
+      "name": "29 Stair finish balustrade",
+      "title": "Stair finish balustrade",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Stair oak timber",
+      "color": [
+        0.7300000190734863,
+        0.5799999833106995,
+        0.38999998569488525,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6499999761581421
+    },
+    {
+      "name": "29 Stair finish balustrade.001",
+      "title": "Stair finish balustrade",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web Structural steel.001",
+      "color": [
+        0.14000000059604645,
+        0.20000000298023224,
+        0.25,
+        1
+      ],
+      "metallic": 0.7200000286102295,
+      "roughness": 0.550000011920929
+    },
+    {
+      "name": "27 Interior linings and ceilings",
+      "title": "Interior linings and ceilings",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Warm white plaster",
+      "color": [
+        0.8899999856948853,
+        0.8600000143051147,
+        0.800000011920929,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.8799999952316284
+    },
+    {
+      "name": "27 Interior linings and ceilings.001",
+      "title": "Interior linings and ceilings",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Plaster skirting trim",
+      "color": [
+        0.8399999737739563,
+        0.8349999785423279,
+        0.8199999928474426,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6499999761581421
+    },
+    {
+      "name": "27 Interior linings and ceilings.002",
+      "title": "Interior linings and ceilings",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Bathroom wall porcelain",
+      "color": [
+        0.800000011920929,
+        0.7900000214576721,
+        0.7599999904632568,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6499999761581421
+    },
+    {
+      "name": "27 Interior linings and ceilings.003",
+      "title": "Interior linings and ceilings",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Plaster junction returns",
+      "color": [
+        0.8399999737739563,
+        0.8349999785423279,
+        0.8199999928474426,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6499999761581421
+    },
+    {
+      "name": "27 Interior linings and ceilings.004",
+      "title": "Interior linings and ceilings",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Neutral white ceiling",
+      "color": [
+        0.8799999952316284,
+        0.8799999952316284,
+        0.8700000047683716,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6499999761581421
+    },
+    {
+      "name": "27 Interior linings and ceilings.005",
+      "title": "Interior linings and ceilings",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Pale oak decking",
+      "color": [
+        0.7200000286102295,
+        0.550000011920929,
+        0.3499999940395355,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.8799999952316284
+    },
+    {
+      "name": "28 Upper floor decking",
+      "title": "Upper floor decking",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Pale oak decking",
+      "color": [
+        0.7200000286102295,
+        0.550000011920929,
+        0.3499999940395355,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.8799999952316284
+    },
+    {
+      "name": "13 Ground bearing plinths",
+      "title": "Ground bearing plinths",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Foundation concrete",
+      "color": [
+        0.6399999856948853,
+        0.6200000047683716,
+        0.5799999833106995,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6499999761581421
+    },
+    {
+      "name": "30 Kitchen",
+      "title": "Kitchen",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout warm white cabinetry",
+      "color": [
+        0.8100000023841858,
+        0.800000011920929,
+        0.7599999904632568,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6499999761581421
+    },
+    {
+      "name": "30 Kitchen.001",
+      "title": "Kitchen",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout brushed nickel",
+      "color": [
+        0.550000011920929,
+        0.5799999833106995,
+        0.5799999833106995,
+        1
+      ],
+      "metallic": 0.800000011920929,
+      "roughness": 0.2800000011920929
+    },
+    {
+      "name": "30 Kitchen.002",
+      "title": "Kitchen",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout charcoal appliance",
+      "color": [
+        0.04800000041723251,
+        0.0560000017285347,
+        0.05900000035762787,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.25
+    },
+    {
+      "name": "30 Kitchen.003",
+      "title": "Kitchen",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout honed pale stone",
+      "color": [
+        0.7699999809265137,
+        0.7599999904632568,
+        0.7099999785423279,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.3499999940395355
+    },
+    {
+      "name": "33 Vanities and mirrors",
+      "title": "Vanities and mirrors",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout warm white cabinetry",
+      "color": [
+        0.8100000023841858,
+        0.800000011920929,
+        0.7599999904632568,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6499999761581421
+    },
+    {
+      "name": "33 Vanities and mirrors.001",
+      "title": "Vanities and mirrors",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout brushed nickel",
+      "color": [
+        0.550000011920929,
+        0.5799999833106995,
+        0.5799999833106995,
+        1
+      ],
+      "metallic": 0.800000011920929,
+      "roughness": 0.2800000011920929
+    },
+    {
+      "name": "33 Vanities and mirrors.002",
+      "title": "Vanities and mirrors",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout honed pale stone",
+      "color": [
+        0.7699999809265137,
+        0.7599999904632568,
+        0.7099999785423279,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.3499999940395355
+    },
+    {
+      "name": "33 Vanities and mirrors.003",
+      "title": "Vanities and mirrors",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout mirror Powder vanity",
+      "color": [
+        0.6899999976158142,
+        0.7400000095367432,
+        0.75,
+        1
+      ],
+      "metallic": 0.949999988079071,
+      "roughness": 0.1599999964237213
+    },
+    {
+      "name": "33 Vanities and mirrors.004",
+      "title": "Vanities and mirrors",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout white ceramic",
+      "color": [
+        0.9100000262260437,
+        0.9200000166893005,
+        0.8999999761581421,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.1599999964237213
+    },
+    {
+      "name": "33 Vanities and mirrors.005",
+      "title": "Vanities and mirrors",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout mirror Ensuite double vanity",
+      "color": [
+        0.6899999976158142,
+        0.7400000095367432,
+        0.75,
+        1
+      ],
+      "metallic": 0.949999988079071,
+      "roughness": 0.1599999964237213
+    },
+    {
+      "name": "33 Vanities and mirrors.006",
+      "title": "Vanities and mirrors",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout mirror Upper bath vanity",
+      "color": [
+        0.6899999976158142,
+        0.7400000095367432,
+        0.75,
+        1
+      ],
+      "metallic": 0.949999988079071,
+      "roughness": 0.1599999964237213
+    },
+    {
+      "name": "33 Vanities and mirrors.007",
+      "title": "Vanities and mirrors",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout mirror Bath 2 vanity",
+      "color": [
+        0.6899999976158142,
+        0.7400000095367432,
+        0.75,
+        1
+      ],
+      "metallic": 0.949999988079071,
+      "roughness": 0.1599999964237213
+    },
+    {
+      "name": "35 Toilets",
+      "title": "Toilets",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout white ceramic",
+      "color": [
+        0.9100000262260437,
+        0.9200000166893005,
+        0.8999999761581421,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.1599999964237213
+    },
+    {
+      "name": "35 Toilets.001",
+      "title": "Toilets",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout brushed nickel",
+      "color": [
+        0.550000011920929,
+        0.5799999833106995,
+        0.5799999833106995,
+        1
+      ],
+      "metallic": 0.800000011920929,
+      "roughness": 0.2800000011920929
+    },
+    {
+      "name": "27 Fixed joinery and fixtures",
+      "title": "Fixed joinery and fixtures",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout floor porcelain",
+      "color": [
+        0.6700000166893005,
+        0.6600000262260437,
+        0.6299999952316284,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6499999761581421
+    },
+    {
+      "name": "34 Showers",
+      "title": "Showers",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout brushed nickel",
+      "color": [
+        0.550000011920929,
+        0.5799999833106995,
+        0.5799999833106995,
+        1
+      ],
+      "metallic": 0.800000011920929,
+      "roughness": 0.2800000011920929
+    },
+    {
+      "name": "34 Showers.001",
+      "title": "Showers",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout clear shower glass",
+      "color": [
+        0.699999988079071,
+        0.8500000238418579,
+        0.8799999952316284,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.10000000149011612
+    },
+    {
+      "name": "31 Laundry",
+      "title": "Laundry",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout warm white cabinetry",
+      "color": [
+        0.8100000023841858,
+        0.800000011920929,
+        0.7599999904632568,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6499999761581421
+    },
+    {
+      "name": "31 Laundry.001",
+      "title": "Laundry",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout brushed nickel",
+      "color": [
+        0.550000011920929,
+        0.5799999833106995,
+        0.5799999833106995,
+        1
+      ],
+      "metallic": 0.800000011920929,
+      "roughness": 0.2800000011920929
+    },
+    {
+      "name": "31 Laundry.002",
+      "title": "Laundry",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout charcoal appliance",
+      "color": [
+        0.04800000041723251,
+        0.0560000017285347,
+        0.05900000035762787,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.25
+    },
+    {
+      "name": "31 Laundry.003",
+      "title": "Laundry",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout honed pale stone",
+      "color": [
+        0.7699999809265137,
+        0.7599999904632568,
+        0.7099999785423279,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.3499999940395355
+    },
+    {
+      "name": "32 Wardrobes and linen",
+      "title": "Wardrobes and linen",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout warm white cabinetry",
+      "color": [
+        0.8100000023841858,
+        0.800000011920929,
+        0.7599999904632568,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6499999761581421
+    },
+    {
+      "name": "32 Wardrobes and linen.001",
+      "title": "Wardrobes and linen",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Fitout brushed nickel",
+      "color": [
+        0.550000011920929,
+        0.5799999833106995,
+        0.5799999833106995,
+        1
+      ],
+      "metallic": 0.800000011920929,
+      "roughness": 0.2800000011920929
+    },
+    {
+      "name": "27 Architectural exterior finishes",
+      "title": "Architectural exterior finishes",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web ENV Brick veneer - colour unselected.001",
+      "color": [
+        0.3499999940395355,
+        0.17000000178813934,
+        0.10000000149011612,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.9200000166893005
+    },
+    {
+      "name": "27 Architectural exterior finishes.001",
+      "title": "Architectural exterior finishes",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Neutral porch render",
+      "color": [
+        0.7900000214576721,
+        0.7900000214576721,
+        0.7699999809265137,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6499999761581421
+    },
+    {
+      "name": "27 Architectural exterior finishes.002",
+      "title": "Architectural exterior finishes",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web VR Neutral white ceiling",
+      "color": [
+        0.8799999952316284,
+        0.8799999952316284,
+        0.8700000047683716,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 0.6499999761581421
+    },
+    {
+      "name": "27 Architectural exterior finishes.003",
+      "title": "Architectural exterior finishes",
+      "note": "VR revision; W04 corrected. Remaining coordination items recorded in the position audit.",
+      "material": "LEARN Web ENV Metal roof - colour unselected.001",
+      "color": [
+        0.0949999988079071,
+        0.12999999523162842,
+        0.15000000596046448,
+        1
+      ],
+      "metallic": 0.7200000286102295,
+      "roughness": 0.36000001430511475
+    }
+  ]
+}

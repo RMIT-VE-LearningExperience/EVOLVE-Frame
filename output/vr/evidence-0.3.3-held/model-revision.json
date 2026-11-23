@@ -1,0 +1,290 @@
+{
+  "source": "output\\learning\\Leichhardt_Learning_Experience.blend",
+  "source_sha256": "dba309decf25d9178f9c0d460cdc32ebaeec739d94e46ad1e524b8f2ee222e0b",
+  "source_unchanged": true,
+  "w04_sill_mm": 905,
+  "w04_head_mm": 1419,
+  "bevelled_timber_members": 2706,
+  "bevel_width_mm": 0.8,
+  "removed_exact_duplicate_solids": [],
+  "triangles": 190528,
+  "batches": 47,
+  "changes": [
+    {
+      "object": "GF North wall | W04 kitchen jack stud",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen jack stud.001",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen LVL lintel",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen sill",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen sill cripple",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen head cripple",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen sill cripple.001",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen head cripple.001",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen sill cripple.002",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen head cripple.002",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen sill cripple.003",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "GF North wall | W04 kitchen head cripple.003",
+      "action": "Coordinated W04 framing to 905 mm sill"
+    },
+    {
+      "object": "OPENING | W04 kitchen",
+      "action": "Lowered complete window proxy 514 mm"
+    },
+    {
+      "object": "GF North wall | Ground brick veneer.006",
+      "action": "Refitted membrane/masonry to corrected W04 opening"
+    },
+    {
+      "object": "GF North wall | Ground brick veneer.007",
+      "action": "Refitted membrane/masonry to corrected W04 opening"
+    },
+    {
+      "object": "GF North wall | Wall wrap.006",
+      "action": "Refitted membrane/masonry to corrected W04 opening"
+    },
+    {
+      "object": "GF North wall | Wall wrap.007",
+      "action": "Refitted membrane/masonry to corrected W04 opening"
+    },
+    {
+      "object": "W04 kitchen | glass.001",
+      "action": "Removed generic subdivision from scheduled single fixed light"
+    },
+    {
+      "object": "W04 kitchen | mullion",
+      "action": "Removed generic subdivision from scheduled single fixed light"
+    },
+    {
+      "object": "FF stair balustrade",
+      "action": "Rebuilt over floor trimmer, closed corner joint, bottom at structural deck datum"
+    },
+    {
+      "object": "FF void balustrade",
+      "action": "Rebuilt over floor trimmer, closed corner joint, bottom at structural deck datum"
+    },
+    {
+      "object": "Wall bracing",
+      "action": "41 straps/panels seated on the stud face, behind lining"
+    },
+    {
+      "object": "FF Hall C diagonal",
+      "action": "Relocated 0.596 m into solid wall bay, clearing Bedroom 2 door; visual coordination"
+    },
+    {
+      "object": "Steel column heads",
+      "action": "Six closed bearing caps coordinated to beam undersides"
+    },
+    {
+      "object": "C1 alfresco west baseplate",
+      "action": "Recessed plate/anchors below finished slab and extended column foot to bearing face"
+    },
+    {
+      "object": "C1 alfresco middle baseplate",
+      "action": "Recessed plate/anchors below finished slab and extended column foot to bearing face"
+    },
+    {
+      "object": "C1 nook baseplate",
+      "action": "Recessed plate/anchors below finished slab and extended column foot to bearing face"
+    },
+    {
+      "object": "C3 portal south baseplate",
+      "action": "Recessed plate/anchors below finished slab and extended column foot to bearing face"
+    },
+    {
+      "object": "C3 portal north baseplate",
+      "action": "Recessed plate/anchors below finished slab and extended column foot to bearing face"
+    },
+    {
+      "object": "C1 living baseplate",
+      "action": "Recessed plate/anchors below finished slab and extended column foot to bearing face"
+    },
+    {
+      "object": "C2 full height stair A baseplate",
+      "action": "Recessed plate/anchors below finished slab and extended column foot to bearing face"
+    },
+    {
+      "object": "C2 full height stair B baseplate",
+      "action": "Recessed plate/anchors below finished slab and extended column foot to bearing face"
+    },
+    {
+      "object": "Complete staircase",
+      "action": "16 timber treads, 17 closed risers, 3 fitted stringers, newels, balusters, handrails and brackets; connected to finished landing"
+    },
+    {
+      "object": "FF Bed 5 west",
+      "action": "Extended incomplete partition to hall framing; sheet 08 has no side passage here"
+    },
+    {
+      "object": "FF WC bath division",
+      "action": "Extended incomplete partition to hall framing; sheet 08 has no side passage here"
+    },
+    {
+      "object": "FF Bed 5 south",
+      "action": "Rebuilt framing for scheduled leaf plus jamb/reveal allowances; retained hinge-side position"
+    },
+    {
+      "object": "FF Bath hall",
+      "action": "Rebuilt framing for scheduled leaf plus jamb/reveal allowances; retained hinge-side position"
+    },
+    {
+      "object": "Room shell",
+      "action": "253 opening-aware lining pieces; deck retains stair void; ceilings removable"
+    },
+    {
+      "object": "GF North wall | Ground brick veneer",
+      "action": "Trimmed exterior skin corner extension out of garage interior"
+    },
+    {
+      "object": "GF North wall | Wall wrap",
+      "action": "Trimmed exterior skin corner extension out of garage interior"
+    },
+    {
+      "object": "D02 laundry | door leaf",
+      "action": "Replaced structural plywood proxy with finished door timber; schedule D01/D02"
+    },
+    {
+      "object": "D01 double entry | door leaf",
+      "action": "Replaced structural plywood proxy with finished door timber; schedule D01/D02"
+    },
+    {
+      "object": "Interior finish coordination",
+      "action": "Added garage ceiling, glazed D05 corner stacker, finished door material, doorway casings and theatre platform deck/fascias"
+    },
+    {
+      "object": "Entry canopy and alfresco",
+      "action": "Completed matching pitched metal canopy with fascia, soffit and gutter; enclosed exposed alfresco floor edge and added continuous lower soffit"
+    },
+    {
+      "object": "Garage roof",
+      "action": "Completed metal covering on measured T5 pitch, seams, perimeter fascia and gutter; retained roof toggle"
+    },
+    {
+      "object": "Bedroom 5 and upper bathroom entries",
+      "action": "Sheet 08 door proportions, complete wall returns, finished jambs and open painted leaves; geometric portal and lining checks passed"
+    },
+    {
+      "object": "Exterior contacts and visible finishes",
+      "action": {
+        "stair_wall_members_trimmed": [
+          "Powder east | top plate lower",
+          "Powder east | top plate upper",
+          "Powder east | common stud",
+          "Powder east | common stud.002",
+          "Powder east | common stud.003",
+          "Powder east | lining",
+          "Powder east | lining.001"
+        ],
+        "stair_obstruction_ray_checks": "PASS",
+        "ground_grade_m": -0.06,
+        "masonry_bearing_strips": 28,
+        "canopy_post_core": "P1 90 x 90 F7 H3 treated pine; S09/S10",
+        "canopy_finish": "Illustrative warm white paint, removable in structural view",
+        "meals_column": "C3 portal north, 200 x 100 x 6 RHS retained; S09/S10. Removable 10 mm illustrative lining.",
+        "entry_door": "Scheduled timber; split double leaves, satin finish and illustrative bronze pulls"
+      }
+    },
+    {
+      "object": "Powder/stair window and C2(F) pier",
+      "action": {
+        "basis": "VR model coordination using scheduled W03/W10 sizes (architectural 11) and C2(F)/ST1 identities (S09/S10). Adjusted setout and connections are illustrative, not fabrication documentation.",
+        "column_old_x": 20.875703811645508,
+        "column_new_x": 20.47,
+        "column_shift_mm": -405.7,
+        "upper_window_shift_mm": -250,
+        "powder_window_size_mm": [
+          810,
+          2120
+        ],
+        "upper_window_size_mm": [
+          850,
+          1800
+        ],
+        "powder_window_position_unchanged": true,
+        "stair_layout_unchanged": true,
+        "updated_facade_and_wrap_panels": [
+          "FF North wall | Upper foam render.009",
+          "FF North wall | Upper foam render.010",
+          "FF North wall | Upper foam render.011",
+          "FF North wall | Upper foam render.012",
+          "FF North wall | Wall wrap.009",
+          "FF North wall | Wall wrap.010",
+          "FF North wall | Wall wrap.011",
+          "FF North wall | Wall wrap.012"
+        ],
+        "connected_head_members": [
+          "ST1 150x100x6 RHS profile 1",
+          "ST1 150x100x6 RHS profile 2",
+          "ST1 150x100x6 RHS profile 3",
+          "ST1 150x100x6 RHS profile 4"
+        ],
+        "timber_clearance_trims": [
+          "GF North wall | bottom plate.001",
+          "GF North wall | top plate lower",
+          "GF North wall | top plate upper",
+          "GF North wall | W03 powder king stud replaced by steel pier",
+          "GF North wall | W03 powder jack stud",
+          "GF North wall | W03 powder LVL lintel",
+          "GF North wall | nogging.021",
+          "GF North wall | nogging.055",
+          "Floor rim/trimmer 2",
+          "C2 pier floor bearing pack",
+          "FF North wall | bottom plate",
+          "FF North wall | top plate lower",
+          "FF North wall | top plate upper",
+          "FF North wall | W10 stair king stud.001 replaced by steel pier",
+          "FF North wall | W10 stair jack stud.001 replaced by steel pier",
+          "FF North wall | W10 stair LVL lintel",
+          "FF North wall | nogging.022",
+          "FF North wall | nogging.059"
+        ],
+        "result": "PASS",
+        "window_checks": [
+          {
+            "window": "W03 powder",
+            "clear_glazing_rays": 30
+          },
+          {
+            "window": "W10 stair",
+            "clear_glazing_rays": 30
+          }
+        ],
+        "column_internal_clearance_rays": 48,
+        "head_connection": "ST1 meets post east face; 1B2, stair trimmer and adjacent joist butt against its inner face. Redundant timber rim replaced by steel with 45 mm bearing pack above.",
+        "extended_head_overlap_check": "PASS"
+      }
+    }
+  ],
+  "remaining": "Other position-audit items remain open; this is a partial coordinated revision."
+}

@@ -1,0 +1,39 @@
+{
+  "session": "ee61ae65-2742-4af0-8d89-3b694724a521",
+  "model_usage": {
+    "claude-fable-5-2": {
+      "inputTokens": 8,
+      "outputTokens": 6122,
+      "cacheReadInputTokens": 80007,
+      "cacheCreationInputTokens": 42270,
+      "webSearchRequests": 0,
+      "costUSD": 0.9372654,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 2642,
+      "canonicalModel": "claude-fable-5-2",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "read_paths": [
+    "D:/Git/EVOLE Frame/output/vr/photo-review-0.4.0/claude-review.txt",
+    "D:/Git/EVOLE Frame/output/vr/photo-review-0.4.1/codex-response.json",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.1/01-exteriors.jpg",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.1/02-details.jpg",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.1/04-rooms-b.jpg",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.1/07-fitout.jpg",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.1/37-upperbath-from-hall.png",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.1/39-powder-window.png",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.1/47-robe-fitout.png",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.1/49-bedroom5-robe-check.png",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.1/50-powder-door-check.png",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.1/room-19-bedroom4.png",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.1/02-exterior-alfresco.png",
+    "D:/Git/EVOLE Frame/output/vr/review-0.4.1/room-20-upperbath.png"
+  ],
+  "read_only": true,
+  "api_fallback_used": false,
+  "reviewed_gallery_snapshot": "D:\\Git\\EVOLE Frame\\output\\vr\\review-0.4.1-claude-followup",
+  "snapshot_manifest_sha256": "90a058e97896ccce7b5d474be25e1645fe8f723d345403de995c0b891db58308"
+}

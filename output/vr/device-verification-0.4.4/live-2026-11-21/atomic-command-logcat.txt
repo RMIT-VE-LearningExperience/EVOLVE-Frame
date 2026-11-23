@@ -1,0 +1,7 @@
+--------- beginning of main
+11-21 08:49:25.536 23565 15885 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 488300528079293
+11-21 08:49:26.064 23565 15837 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795216764747720300 status
+11-21 08:49:26.064 23565 15837 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 08:49:26.064 23565 15837 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 08:49:26.064 23565 15837 I Unity   : 
+11-21 08:49:26.236 23565 15904 I PxrMetric: FPS=89/90,MTP=29.31ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.94ms,FrmGpu=12.42ms,FrmTime=15.37ms,ATWGPU=1.54ms,VsyncDelay=1,GPU=84%/545Mhz,GPUTemp=52.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=10689

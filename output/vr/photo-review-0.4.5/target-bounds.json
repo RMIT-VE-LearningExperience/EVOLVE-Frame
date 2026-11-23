@@ -1,0 +1,8186 @@
+[
+  {
+    "name": "GF Laundry west | bottom plate",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        2.5085043907165527,
+        3.4910969734191895
+      ],
+      [
+        -7.180666017347903e-08,
+        0.03500007092952728
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | bottom plate.001",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        4.411096096038818,
+        7.835000514984131
+      ],
+      [
+        -2.358125357204699e-07,
+        0.035000234842300415
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | top plate lower",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        2.5085039138793945,
+        7.835000038146973
+      ],
+      [
+        2.6499996185302734,
+        2.695000171661377
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | top plate upper",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        2.5085039138793945,
+        7.835000038146973
+      ],
+      [
+        2.6949996948242188,
+        2.7400002479553223
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | Garage access king stud",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        3.39859676361084,
+        3.443596839904785
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | Garage access king stud.001",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        4.458596706390381,
+        4.503596782684326
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | Garage access jack stud",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        3.443596839904785,
+        3.4885969161987305
+      ],
+      [
+        0.034999966621398926,
+        2.3400001525878906
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | Garage access jack stud.001",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        4.4135966300964355,
+        4.458596706390381
+      ],
+      [
+        0.034999966621398926,
+        2.3400001525878906
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | Garage access LVL lintel",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        3.441096782684326,
+        4.46109676361084
+      ],
+      [
+        2.3399999141693115,
+        2.4600002765655518
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "LVL beams"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | Garage access head cripple",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        3.8410043716430664,
+        3.876004219055176
+      ],
+      [
+        2.4600000381469727,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | Garage access head cripple.001",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        4.291004180908203,
+        4.3260040283203125
+      ],
+      [
+        2.4600000381469727,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | common stud",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        2.5085043907165527,
+        2.543504238128662
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | common stud.001",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        7.800000190734863,
+        7.835000038146973
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | common stud.002",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        2.941004514694214,
+        2.9760043621063232
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | common stud.003",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        4.741004467010498,
+        4.776004314422607
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | common stud.004",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        5.191004753112793,
+        5.226004600524902
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | common stud.005",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        5.64100456237793,
+        5.676004409790039
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | common stud.006",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        6.091004371643066,
+        6.126004219055176
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | common stud.007",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        6.541004657745361,
+        6.576004505157471
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | common stud.008",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        6.991004467010498,
+        7.026004314422607
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | common stud.009",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        7.441004276275635,
+        7.476004123687744
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | nogging",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        2.543504476547241,
+        2.9410040378570557
+      ],
+      [
+        0.8958333730697632,
+        0.9308333396911621
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | nogging.001",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        2.9760043621063232,
+        3.3910043239593506
+      ],
+      [
+        0.8958333134651184,
+        0.9308333992958069
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | nogging.002",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        4.498596668243408,
+        4.741004467010498
+      ],
+      [
+        0.8958333134651184,
+        0.9308333992958069
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | nogging.003",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        4.776004314422607,
+        5.191004276275635
+      ],
+      [
+        0.8958333134651184,
+        0.9308333992958069
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | nogging.004",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        5.226004600524902,
+        5.64100456237793
+      ],
+      [
+        0.8958333134651184,
+        0.9308333992958069
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | nogging.005",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        5.676004409790039,
+        6.091004371643066
+      ],
+      [
+        0.8958333134651184,
+        0.9308333992958069
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | nogging.006",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        6.126004219055176,
+        6.541004180908203
+      ],
+      [
+        0.8958333134651184,
+        0.9308333992958069
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | nogging.007",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        6.576004505157471,
+        6.991004467010498
+      ],
+      [
+        0.8958333134651184,
+        0.9308333992958069
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | nogging.008",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        7.026004314422607,
+        7.441004276275635
+      ],
+      [
+        0.8958333134651184,
+        0.9308333992958069
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | nogging.009",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        7.476004600524902,
+        7.800000190734863
+      ],
+      [
+        0.8958333134651184,
+        0.9308333992958069
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | nogging.010",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        2.543504476547241,
+        2.9410040378570557
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | nogging.011",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        2.9760043621063232,
+        3.3910043239593506
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | nogging.012",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        4.498596668243408,
+        4.741004467010498
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | nogging.013",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        4.776004314422607,
+        5.191004276275635
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | nogging.014",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        5.226004600524902,
+        5.64100456237793
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | nogging.015",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        5.676004409790039,
+        6.091004371643066
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | nogging.016",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        6.126004219055176,
+        6.541004180908203
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | nogging.017",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        6.576004505157471,
+        6.991004467010498
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | nogging.018",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        7.026004314422607,
+        7.441004276275635
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | nogging.019",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        7.476004600524902,
+        7.800000190734863
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry nook | bottom plate",
+    "bounds": [
+      [
+        6.425000190734863,
+        8.53931713104248
+      ],
+      [
+        2.4635043144226074,
+        2.553504467010498
+      ],
+      [
+        -2.3592239273284576e-16,
+        0.03500000014901161
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry nook | top plate lower",
+    "bounds": [
+      [
+        6.425000190734863,
+        8.53931713104248
+      ],
+      [
+        2.4635043144226074,
+        2.553504467010498
+      ],
+      [
+        2.6499998569488525,
+        2.694999933242798
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry nook | top plate upper",
+    "bounds": [
+      [
+        6.425000190734863,
+        8.53931713104248
+      ],
+      [
+        2.4635043144226074,
+        2.553504467010498
+      ],
+      [
+        2.694999933242798,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry nook | common stud",
+    "bounds": [
+      [
+        6.425000190734863,
+        6.460000038146973
+      ],
+      [
+        2.4635043144226074,
+        2.553504467010498
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry nook | common stud.001",
+    "bounds": [
+      [
+        8.504317283630371,
+        8.53931713104248
+      ],
+      [
+        2.4635043144226074,
+        2.553504467010498
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry nook | common stud.002",
+    "bounds": [
+      [
+        6.857500076293945,
+        6.892499923706055
+      ],
+      [
+        2.4635043144226074,
+        2.553504467010498
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry nook | common stud.003",
+    "bounds": [
+      [
+        7.30750036239624,
+        7.34250020980835
+      ],
+      [
+        2.4635043144226074,
+        2.553504467010498
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry nook | common stud.004",
+    "bounds": [
+      [
+        7.757500171661377,
+        7.792500019073486
+      ],
+      [
+        2.4635043144226074,
+        2.553504467010498
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry nook | common stud.005",
+    "bounds": [
+      [
+        8.207500457763672,
+        8.242500305175781
+      ],
+      [
+        2.4635043144226074,
+        2.553504467010498
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry nook | nogging",
+    "bounds": [
+      [
+        6.460000038146973,
+        6.857500076293945
+      ],
+      [
+        2.4635043144226074,
+        2.553504467010498
+      ],
+      [
+        0.8958333730697632,
+        0.9308333396911621
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry nook | nogging.001",
+    "bounds": [
+      [
+        6.892500400543213,
+        7.30750036239624
+      ],
+      [
+        2.4635043144226074,
+        2.553504467010498
+      ],
+      [
+        0.8958333730697632,
+        0.9308333396911621
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry nook | nogging.002",
+    "bounds": [
+      [
+        7.34250020980835,
+        7.757500171661377
+      ],
+      [
+        2.4635043144226074,
+        2.553504467010498
+      ],
+      [
+        0.8958333730697632,
+        0.9308333396911621
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry nook | nogging.003",
+    "bounds": [
+      [
+        7.792499542236328,
+        8.207500457763672
+      ],
+      [
+        2.4635043144226074,
+        2.553504467010498
+      ],
+      [
+        0.8958333730697632,
+        0.9308333396911621
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry nook | nogging.004",
+    "bounds": [
+      [
+        8.242500305175781,
+        8.504318237304688
+      ],
+      [
+        2.4635043144226074,
+        2.553504467010498
+      ],
+      [
+        0.8958333730697632,
+        0.9308333396911621
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry nook | nogging.005",
+    "bounds": [
+      [
+        6.460000038146973,
+        6.857500076293945
+      ],
+      [
+        2.4635043144226074,
+        2.553504467010498
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry nook | nogging.006",
+    "bounds": [
+      [
+        6.892500400543213,
+        7.30750036239624
+      ],
+      [
+        2.4635043144226074,
+        2.553504467010498
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry nook | nogging.007",
+    "bounds": [
+      [
+        7.34250020980835,
+        7.757500171661377
+      ],
+      [
+        2.4635043144226074,
+        2.553504467010498
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry nook | nogging.008",
+    "bounds": [
+      [
+        7.792499542236328,
+        8.207500457763672
+      ],
+      [
+        2.4635043144226074,
+        2.553504467010498
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry nook | nogging.009",
+    "bounds": [
+      [
+        8.242500305175781,
+        8.504318237304688
+      ],
+      [
+        2.4635043144226074,
+        2.553504467010498
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Nook return | bottom plate",
+    "bounds": [
+      [
+        8.494317054748535,
+        8.584317207336426
+      ],
+      [
+        2.5085043907165527,
+        3.6403846740722656
+      ],
+      [
+        -8.18357435150574e-08,
+        0.03500008210539818
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Nook return | top plate lower",
+    "bounds": [
+      [
+        8.494317054748535,
+        8.584317207336426
+      ],
+      [
+        2.5085043907165527,
+        3.6403846740722656
+      ],
+      [
+        2.6499998569488525,
+        2.694999933242798
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Nook return | top plate upper",
+    "bounds": [
+      [
+        8.494317054748535,
+        8.584317207336426
+      ],
+      [
+        2.5085043907165527,
+        3.6403846740722656
+      ],
+      [
+        2.694999933242798,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Nook return | common stud",
+    "bounds": [
+      [
+        8.494317054748535,
+        8.584317207336426
+      ],
+      [
+        2.5085043907165527,
+        2.543504238128662
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Nook return | common stud.001",
+    "bounds": [
+      [
+        8.494317054748535,
+        8.584317207336426
+      ],
+      [
+        3.6053848266601562,
+        3.6403846740722656
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Nook return | common stud.002",
+    "bounds": [
+      [
+        8.494317054748535,
+        8.584317207336426
+      ],
+      [
+        2.941004514694214,
+        2.9760043621063232
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Nook return | common stud.003",
+    "bounds": [
+      [
+        8.494317054748535,
+        8.584317207336426
+      ],
+      [
+        3.3910045623779297,
+        3.426004409790039
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Nook return | nogging",
+    "bounds": [
+      [
+        8.494317054748535,
+        8.584317207336426
+      ],
+      [
+        2.543504476547241,
+        2.9410040378570557
+      ],
+      [
+        0.8958333730697632,
+        0.9308333396911621
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Nook return | nogging.001",
+    "bounds": [
+      [
+        8.494317054748535,
+        8.584317207336426
+      ],
+      [
+        2.9760043621063232,
+        3.3910043239593506
+      ],
+      [
+        0.8958333134651184,
+        0.9308333992958069
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Nook return | nogging.002",
+    "bounds": [
+      [
+        8.494317054748535,
+        8.584317207336426
+      ],
+      [
+        3.426004409790039,
+        3.6053848266601562
+      ],
+      [
+        0.8958333134651184,
+        0.9308333992958069
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Nook return | nogging.003",
+    "bounds": [
+      [
+        8.494317054748535,
+        8.584317207336426
+      ],
+      [
+        2.543504476547241,
+        2.9410040378570557
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Nook return | nogging.004",
+    "bounds": [
+      [
+        8.494317054748535,
+        8.584317207336426
+      ],
+      [
+        2.9760043621063232,
+        3.3910043239593506
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Nook return | nogging.005",
+    "bounds": [
+      [
+        8.494317054748535,
+        8.584317207336426
+      ],
+      [
+        3.426004409790039,
+        3.6053848266601562
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "Garage east upstand | bottom plate",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        7.835000038146973,
+        9.321980476379395
+      ],
+      [
+        -1.0175713782700768e-07,
+        0.03500010073184967
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "Garage east upstand | top plate lower",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        7.835000038146973,
+        9.321980476379395
+      ],
+      [
+        2.6499998569488525,
+        2.694999933242798
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "Garage east upstand | top plate upper",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        7.835000038146973,
+        9.321980476379395
+      ],
+      [
+        2.694999933242798,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "Garage east upstand | common stud",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        9.286980628967285,
+        9.321980476379395
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "Garage east upstand | common stud.001",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        7.835000038146973,
+        7.869999885559082
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "Garage east upstand | common stud.002",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        8.854480743408203,
+        8.889480590820312
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "Garage east upstand | common stud.003",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        8.404480934143066,
+        8.439480781555176
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "Garage east upstand | common stud.004",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        7.9544806480407715,
+        7.989480495452881
+      ],
+      [
+        0.034999966621398926,
+        2.6500000953674316
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "Garage east upstand | nogging",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        8.889479637145996,
+        9.286980628967285
+      ],
+      [
+        0.8958333134651184,
+        0.9308333992958069
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "Garage east upstand | nogging.001",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        8.43947982788086,
+        8.854480743408203
+      ],
+      [
+        0.8958333134651184,
+        0.9308333992958069
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "Garage east upstand | nogging.002",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        7.989480495452881,
+        8.40447998046875
+      ],
+      [
+        0.8958333134651184,
+        0.9308333992958069
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "Garage east upstand | nogging.003",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        7.869999408721924,
+        7.9544806480407715
+      ],
+      [
+        0.8958333730697632,
+        0.9308333396911621
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "Garage east upstand | nogging.004",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        8.889479637145996,
+        9.286980628967285
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "Garage east upstand | nogging.005",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        8.43947982788086,
+        8.854480743408203
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "Garage east upstand | nogging.006",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        7.989480495452881,
+        8.40447998046875
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "Garage east upstand | nogging.007",
+    "bounds": [
+      [
+        6.380000114440918,
+        6.470000267028809
+      ],
+      [
+        7.869999408721924,
+        7.9544806480407715
+      ],
+      [
+        1.809166669845581,
+        1.8441667556762695
+      ]
+    ],
+    "collections": [
+      "02 Ground floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "1B4 310UC137 profile 1",
+    "bounds": [
+      [
+        12.672773361206055,
+        12.982772827148438
+      ],
+      [
+        0.04500007629394531,
+        7.084688186645508
+      ],
+      [
+        2.75,
+        2.7750000953674316
+      ]
+    ],
+    "collections": [
+      "03 Ground floor steel and LVL"
+    ],
+    "materials": [
+      "Structural steel"
+    ],
+    "source": "Structural S09/S10"
+  },
+  {
+    "name": "1B4 310UC137 profile 2",
+    "bounds": [
+      [
+        12.672773361206055,
+        12.982772827148438
+      ],
+      [
+        0.04500007629394531,
+        7.084688186645508
+      ],
+      [
+        3.0450000762939453,
+        3.070000171661377
+      ]
+    ],
+    "collections": [
+      "03 Ground floor steel and LVL"
+    ],
+    "materials": [
+      "Structural steel"
+    ],
+    "source": "Structural S09/S10"
+  },
+  {
+    "name": "1B4 310UC137 profile 3",
+    "bounds": [
+      [
+        12.819772720336914,
+        12.835773468017578
+      ],
+      [
+        0.045000072568655014,
+        7.084688186645508
+      ],
+      [
+        2.7749998569488525,
+        3.0450003147125244
+      ]
+    ],
+    "collections": [
+      "03 Ground floor steel and LVL"
+    ],
+    "materials": [
+      "Structural steel"
+    ],
+    "source": "Structural S09/S10"
+  },
+  {
+    "name": "1B5 310UB40.4 profile 1",
+    "bounds": [
+      [
+        12.82777214050293,
+        20.47553062438965
+      ],
+      [
+        3.780261993408203,
+        3.9452619552612305
+      ],
+      [
+        2.755000114440918,
+        2.767000198364258
+      ]
+    ],
+    "collections": [
+      "03 Ground floor steel and LVL"
+    ],
+    "materials": [
+      "Structural steel"
+    ],
+    "source": "Structural S09/S10"
+  },
+  {
+    "name": "1B5 310UB40.4 profile 2",
+    "bounds": [
+      [
+        12.82777214050293,
+        20.47553062438965
+      ],
+      [
+        3.780261993408203,
+        3.9452619552612305
+      ],
+      [
+        3.052999973297119,
+        3.065000057220459
+      ]
+    ],
+    "collections": [
+      "03 Ground floor steel and LVL"
+    ],
+    "materials": [
+      "Structural steel"
+    ],
+    "source": "Structural S09/S10"
+  },
+  {
+    "name": "1B5 310UB40.4 profile 3",
+    "bounds": [
+      [
+        12.82777214050293,
+        20.47553062438965
+      ],
+      [
+        3.85876202583313,
+        3.8667619228363037
+      ],
+      [
+        2.7669999599456787,
+        3.0530002117156982
+      ]
+    ],
+    "collections": [
+      "03 Ground floor steel and LVL"
+    ],
+    "materials": [
+      "Structural steel"
+    ],
+    "source": "Structural S09/S10"
+  },
+  {
+    "name": "1B1 2-300x45",
+    "bounds": [
+      [
+        20.875703811645508,
+        24.32164192199707
+      ],
+      [
+        6.598328590393066,
+        6.688328742980957
+      ],
+      [
+        2.7899999618530273,
+        3.0900001525878906
+      ]
+    ],
+    "collections": [
+      "03 Ground floor steel and LVL"
+    ],
+    "materials": [
+      "LVL beams"
+    ],
+    "source": "Structural S09/S10"
+  },
+  {
+    "name": "1B2 300x45",
+    "bounds": [
+      [
+        20.85320472717285,
+        20.898202896118164
+      ],
+      [
+        6.643328666687012,
+        7.784999847412109
+      ],
+      [
+        2.7899997234344482,
+        3.0900001525878906
+      ]
+    ],
+    "collections": [
+      "03 Ground floor steel and LVL"
+    ],
+    "materials": [
+      "LVL beams"
+    ],
+    "source": "Structural S09/S10"
+  },
+  {
+    "name": "1B3 300x45",
+    "bounds": [
+      [
+        24.299142837524414,
+        24.344141006469727
+      ],
+      [
+        4.5689377784729,
+        6.64332914352417
+      ],
+      [
+        2.7899999618530273,
+        3.0900001525878906
+      ]
+    ],
+    "collections": [
+      "03 Ground floor steel and LVL"
+    ],
+    "materials": [
+      "LVL beams"
+    ],
+    "source": "Structural S09/S10"
+  },
+  {
+    "name": "1B6 2-300x45",
+    "bounds": [
+      [
+        19.430633544921875,
+        21.609355926513672
+      ],
+      [
+        5.097705364227295,
+        5.1877055168151855
+      ],
+      [
+        2.7899999618530273,
+        3.0900001525878906
+      ]
+    ],
+    "collections": [
+      "03 Ground floor steel and LVL"
+    ],
+    "materials": [
+      "LVL beams"
+    ],
+    "source": "Structural S09/S10"
+  },
+  {
+    "name": "1B7 2-300x45",
+    "bounds": [
+      [
+        24.876901626586914,
+        24.966901779174805
+      ],
+      [
+        0.04499981924891472,
+        4.635000705718994
+      ],
+      [
+        2.7899997234344482,
+        3.0900003910064697
+      ]
+    ],
+    "collections": [
+      "03 Ground floor steel and LVL"
+    ],
+    "materials": [
+      "LVL beams"
+    ],
+    "source": "Structural S09/S10"
+  },
+  {
+    "name": "Floor rim/trimmer 1",
+    "bounds": [
+      [
+        6.424999237060547,
+        26.94499969482422
+      ],
+      [
+        0.02250000089406967,
+        0.06750000268220901
+      ],
+      [
+        2.740000009536743,
+        3.140000104904175
+      ]
+    ],
+    "collections": [
+      "04 First floor joists"
+    ],
+    "materials": [
+      "LVL beams"
+    ],
+    "source": "Subfloor layout; S09"
+  },
+  {
+    "name": "Floor rim/trimmer 2",
+    "bounds": [
+      [
+        6.424999713897705,
+        20.663677215576172
+      ],
+      [
+        7.812499523162842,
+        7.857500076293945
+      ],
+      [
+        2.740000009536743,
+        3.140000104904175
+      ]
+    ],
+    "collections": [
+      "04 First floor joists"
+    ],
+    "materials": [
+      "LVL beams"
+    ],
+    "source": "Subfloor layout; S09"
+  },
+  {
+    "name": "Floor rim/trimmer 3",
+    "bounds": [
+      [
+        6.402500152587891,
+        6.447500228881836
+      ],
+      [
+        0.04499957337975502,
+        7.835000514984131
+      ],
+      [
+        2.739999532699585,
+        3.140000581741333
+      ]
+    ],
+    "collections": [
+      "04 First floor joists"
+    ],
+    "materials": [
+      "LVL beams"
+    ],
+    "source": "Subfloor layout; S09"
+  },
+  {
+    "name": "Floor rim/trimmer 4",
+    "bounds": [
+      [
+        26.92249870300293,
+        26.967498779296875
+      ],
+      [
+        0.04499981179833412,
+        4.635000705718994
+      ],
+      [
+        2.739999771118164,
+        3.140000581741333
+      ]
+    ],
+    "collections": [
+      "04 First floor joists"
+    ],
+    "materials": [
+      "LVL beams"
+    ],
+    "source": "Subfloor layout; S09"
+  },
+  {
+    "name": "Floor rim/trimmer 5",
+    "bounds": [
+      [
+        20.887500762939453,
+        20.9325008392334
+      ],
+      [
+        6.59999942779541,
+        7.784999847412109
+      ],
+      [
+        2.740000009536743,
+        3.140000343322754
+      ]
+    ],
+    "collections": [
+      "04 First floor joists"
+    ],
+    "materials": [
+      "LVL beams"
+    ],
+    "source": "Subfloor layout; S09"
+  },
+  {
+    "name": "Floor rim/trimmer 6",
+    "bounds": [
+      [
+        20.90999984741211,
+        24.35000228881836
+      ],
+      [
+        6.577499866485596,
+        6.622499942779541
+      ],
+      [
+        2.740000009536743,
+        3.140000104904175
+      ]
+    ],
+    "collections": [
+      "04 First floor joists"
+    ],
+    "materials": [
+      "LVL beams"
+    ],
+    "source": "Subfloor layout; S09"
+  },
+  {
+    "name": "Floor rim/trimmer 7",
+    "bounds": [
+      [
+        24.32750129699707,
+        24.372499465942383
+      ],
+      [
+        4.657499313354492,
+        6.599999904632568
+      ],
+      [
+        2.739999771118164,
+        3.140000104904175
+      ]
+    ],
+    "collections": [
+      "04 First floor joists"
+    ],
+    "materials": [
+      "LVL beams"
+    ],
+    "source": "Subfloor layout; S09"
+  },
+  {
+    "name": "Floor rim/trimmer 8",
+    "bounds": [
+      [
+        24.349998474121094,
+        26.94499969482422
+      ],
+      [
+        4.612500190734863,
+        4.657500267028809
+      ],
+      [
+        2.740000009536743,
+        3.140000104904175
+      ]
+    ],
+    "collections": [
+      "04 First floor joists"
+    ],
+    "materials": [
+      "LVL beams"
+    ],
+    "source": "Subfloor layout; S09"
+  },
+  {
+    "name": "FF North wall | bottom plate",
+    "bounds": [
+      [
+        6.424999237060547,
+        26.94499969482422
+      ],
+      [
+        7.789999961853027,
+        7.880000114440918
+      ],
+      [
+        3.1399998664855957,
+        3.184999942779541
+      ]
+    ],
+    "collections": [
+      "05 Upper floor walls"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Architectural 07/08/11; Structural S12/S13"
+  },
+  {
+    "name": "GF Laundry west | anchor washer",
+    "bounds": [
+      [
+        6.407500267028809,
+        6.442500114440918
+      ],
+      [
+        2.691004514694214,
+        2.7260043621063232
+      ],
+      [
+        0.05299999937415123,
+        0.05700000002980232
+      ]
+    ],
+    "collections": [
+      "Ground connections"
+    ],
+    "materials": [
+      "Galvanised connectors"
+    ],
+    "source": "S20-S25"
+  },
+  {
+    "name": "GF Laundry west | anchor washer.001",
+    "bounds": [
+      [
+        6.407500267028809,
+        6.442500114440918
+      ],
+      [
+        4.491004467010498,
+        4.526004314422607
+      ],
+      [
+        0.05299999937415123,
+        0.05700000002980232
+      ]
+    ],
+    "collections": [
+      "Ground connections"
+    ],
+    "materials": [
+      "Galvanised connectors"
+    ],
+    "source": "S20-S25"
+  },
+  {
+    "name": "GF Laundry west | anchor washer.002",
+    "bounds": [
+      [
+        6.407500267028809,
+        6.442500114440918
+      ],
+      [
+        5.39100456237793,
+        5.426004409790039
+      ],
+      [
+        0.05299999937415123,
+        0.05700000002980232
+      ]
+    ],
+    "collections": [
+      "Ground connections"
+    ],
+    "materials": [
+      "Galvanised connectors"
+    ],
+    "source": "S20-S25"
+  },
+  {
+    "name": "GF Laundry west | anchor washer.003",
+    "bounds": [
+      [
+        6.407500267028809,
+        6.442500114440918
+      ],
+      [
+        6.291004180908203,
+        6.3260040283203125
+      ],
+      [
+        0.05299999937415123,
+        0.05700000002980232
+      ]
+    ],
+    "collections": [
+      "Ground connections"
+    ],
+    "materials": [
+      "Galvanised connectors"
+    ],
+    "source": "S20-S25"
+  },
+  {
+    "name": "GF Laundry nook | anchor washer",
+    "bounds": [
+      [
+        6.607500076293945,
+        6.642499923706055
+      ],
+      [
+        2.491004467010498,
+        2.5260043144226074
+      ],
+      [
+        0.05299999937415123,
+        0.05700000002980232
+      ]
+    ],
+    "collections": [
+      "Ground connections"
+    ],
+    "materials": [
+      "Galvanised connectors"
+    ],
+    "source": "S20-S25"
+  },
+  {
+    "name": "GF Laundry nook | anchor washer.001",
+    "bounds": [
+      [
+        7.507500171661377,
+        7.542500019073486
+      ],
+      [
+        2.491004467010498,
+        2.5260043144226074
+      ],
+      [
+        0.05299999937415123,
+        0.05700000002980232
+      ]
+    ],
+    "collections": [
+      "Ground connections"
+    ],
+    "materials": [
+      "Galvanised connectors"
+    ],
+    "source": "S20-S25"
+  },
+  {
+    "name": "GF Nook return | anchor washer",
+    "bounds": [
+      [
+        8.521817207336426,
+        8.556817054748535
+      ],
+      [
+        2.691004514694214,
+        2.7260043621063232
+      ],
+      [
+        0.05299999937415123,
+        0.05700000002980232
+      ]
+    ],
+    "collections": [
+      "Ground connections"
+    ],
+    "materials": [
+      "Galvanised connectors"
+    ],
+    "source": "S20-S25"
+  },
+  {
+    "name": "Garage east upstand | anchor washer",
+    "bounds": [
+      [
+        6.407500267028809,
+        6.442500114440918
+      ],
+      [
+        9.104480743408203,
+        9.139480590820312
+      ],
+      [
+        0.05299999937415123,
+        0.05700000002980232
+      ]
+    ],
+    "collections": [
+      "Ground connections"
+    ],
+    "materials": [
+      "Galvanised connectors"
+    ],
+    "source": "S20-S25"
+  },
+  {
+    "name": "GF Laundry D diagonal",
+    "bounds": [
+      [
+        8.87364387512207,
+        8.875143051147461
+      ],
+      [
+        5.227424144744873,
+        7.646165370941162
+      ],
+      [
+        0.08970502018928528,
+        2.6502950191497803
+      ]
+    ],
+    "collections": [
+      "Ground connections"
+    ],
+    "materials": [
+      "Galvanised connectors"
+    ],
+    "source": "Structural S18/S19"
+  },
+  {
+    "name": "GF Laundry D cross",
+    "bounds": [
+      [
+        8.87364387512207,
+        8.875143051147461
+      ],
+      [
+        5.227423667907715,
+        7.64616584777832
+      ],
+      [
+        0.08970525115728378,
+        2.650294780731201
+      ]
+    ],
+    "collections": [
+      "Ground connections"
+    ],
+    "materials": [
+      "Galvanised connectors"
+    ],
+    "source": "Structural S18/S19"
+  },
+  {
+    "name": "Main roof batten",
+    "bounds": [
+      [
+        5.830000877380371,
+        27.540000915527344
+      ],
+      [
+        -0.5724999904632568,
+        -0.5275000333786011
+      ],
+      [
+        5.632030963897705,
+        5.6670308113098145
+      ]
+    ],
+    "collections": [
+      "11 Roof battens"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Roof Truss Frame K0964, 10 April 2026"
+  },
+  {
+    "name": "Main roof batten.001",
+    "bounds": [
+      [
+        5.830000877380371,
+        27.540000915527344
+      ],
+      [
+        8.407500267028809,
+        8.452500343322754
+      ],
+      [
+        5.632030963897705,
+        5.6670308113098145
+      ]
+    ],
+    "collections": [
+      "11 Roof battens"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Roof Truss Frame K0964, 10 April 2026"
+  },
+  {
+    "name": "Main roof batten.002",
+    "bounds": [
+      [
+        6.580000877380371,
+        26.790000915527344
+      ],
+      [
+        0.17750000953674316,
+        0.2224999964237213
+      ],
+      [
+        5.981761455535889,
+        6.016761302947998
+      ]
+    ],
+    "collections": [
+      "11 Roof battens"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Roof Truss Frame K0964, 10 April 2026"
+  },
+  {
+    "name": "Main roof batten.003",
+    "bounds": [
+      [
+        6.580000877380371,
+        26.790000915527344
+      ],
+      [
+        7.65749979019165,
+        7.702499866485596
+      ],
+      [
+        5.981761455535889,
+        6.016761302947998
+      ]
+    ],
+    "collections": [
+      "11 Roof battens"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Roof Truss Frame K0964, 10 April 2026"
+  },
+  {
+    "name": "Main roof batten.004",
+    "bounds": [
+      [
+        7.330000877380371,
+        26.040000915527344
+      ],
+      [
+        0.9275000095367432,
+        0.9724999666213989
+      ],
+      [
+        6.3314924240112305,
+        6.36649227142334
+      ]
+    ],
+    "collections": [
+      "11 Roof battens"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Roof Truss Frame K0964, 10 April 2026"
+  },
+  {
+    "name": "Main roof batten.005",
+    "bounds": [
+      [
+        7.330000877380371,
+        26.040000915527344
+      ],
+      [
+        6.90749979019165,
+        6.952499866485596
+      ],
+      [
+        6.3314924240112305,
+        6.36649227142334
+      ]
+    ],
+    "collections": [
+      "11 Roof battens"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Roof Truss Frame K0964, 10 April 2026"
+  },
+  {
+    "name": "Main roof batten.006",
+    "bounds": [
+      [
+        8.080000877380371,
+        25.290000915527344
+      ],
+      [
+        1.6775000095367432,
+        1.7225000858306885
+      ],
+      [
+        6.681222915649414,
+        6.716222763061523
+      ]
+    ],
+    "collections": [
+      "11 Roof battens"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Roof Truss Frame K0964, 10 April 2026"
+  },
+  {
+    "name": "Main roof batten.007",
+    "bounds": [
+      [
+        8.080000877380371,
+        25.290000915527344
+      ],
+      [
+        6.15749979019165,
+        6.202499866485596
+      ],
+      [
+        6.681222915649414,
+        6.716222763061523
+      ]
+    ],
+    "collections": [
+      "11 Roof battens"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Roof Truss Frame K0964, 10 April 2026"
+  },
+  {
+    "name": "Main roof batten.008",
+    "bounds": [
+      [
+        8.830000877380371,
+        24.540000915527344
+      ],
+      [
+        2.427500009536743,
+        2.4725000858306885
+      ],
+      [
+        7.030953884124756,
+        7.065953731536865
+      ]
+    ],
+    "collections": [
+      "11 Roof battens"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Roof Truss Frame K0964, 10 April 2026"
+  },
+  {
+    "name": "Main roof batten.009",
+    "bounds": [
+      [
+        8.830000877380371,
+        24.540000915527344
+      ],
+      [
+        5.40749979019165,
+        5.452499866485596
+      ],
+      [
+        7.030953884124756,
+        7.065953731536865
+      ]
+    ],
+    "collections": [
+      "11 Roof battens"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Roof Truss Frame K0964, 10 April 2026"
+  },
+  {
+    "name": "Main roof batten.010",
+    "bounds": [
+      [
+        9.580000877380371,
+        23.790000915527344
+      ],
+      [
+        3.177500009536743,
+        3.2225000858306885
+      ],
+      [
+        7.3806843757629395,
+        7.415684223175049
+      ]
+    ],
+    "collections": [
+      "11 Roof battens"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Roof Truss Frame K0964, 10 April 2026"
+  },
+  {
+    "name": "Main roof batten.011",
+    "bounds": [
+      [
+        9.580000877380371,
+        23.790000915527344
+      ],
+      [
+        4.65749979019165,
+        4.702499866485596
+      ],
+      [
+        7.3806843757629395,
+        7.415684223175049
+      ]
+    ],
+    "collections": [
+      "11 Roof battens"
+    ],
+    "materials": [
+      "MGP10 pine"
+    ],
+    "source": "Roof Truss Frame K0964, 10 April 2026"
+  },
+  {
+    "name": "Main roof covering | Far slope",
+    "bounds": [
+      [
+        5.829999923706055,
+        27.540000915527344
+      ],
+      [
+        3.939577341079712,
+        8.430000305175781
+      ],
+      [
+        5.691624164581299,
+        7.786252021789551
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Architectural 12; existing frame envelope"
+  },
+  {
+    "name": "Main roof covering | Garage hip",
+    "bounds": [
+      [
+        5.829999923706055,
+        10.320422172546387
+      ],
+      [
+        -0.550000011920929,
+        8.430000305175781
+      ],
+      [
+        5.691624164581299,
+        7.786252021789551
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Architectural 12; existing frame envelope"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.001",
+    "bounds": [
+      [
+        6.121000289916992,
+        6.138999938964844
+      ],
+      [
+        8.12746524810791,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        5.851861000061035
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.003",
+    "bounds": [
+      [
+        6.421000003814697,
+        6.438999652862549
+      ],
+      [
+        7.8274641036987305,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        5.991753578186035
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.005",
+    "bounds": [
+      [
+        6.7210001945495605,
+        6.738999843597412
+      ],
+      [
+        7.527464866638184,
+        8.432536125183105
+      ],
+      [
+        5.7010931968688965,
+        6.131645679473877
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.007",
+    "bounds": [
+      [
+        7.021000385284424,
+        7.039000034332275
+      ],
+      [
+        7.227464199066162,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        6.271537780761719
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.009",
+    "bounds": [
+      [
+        7.321000099182129,
+        7.3389997482299805
+      ],
+      [
+        6.927464485168457,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        6.411430358886719
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.011",
+    "bounds": [
+      [
+        7.621000289916992,
+        7.638999938964844
+      ],
+      [
+        6.627464294433594,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        6.551321983337402
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.013",
+    "bounds": [
+      [
+        7.921000003814697,
+        7.938999652862549
+      ],
+      [
+        6.3274641036987305,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        6.691214561462402
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.015",
+    "bounds": [
+      [
+        8.220999717712402,
+        8.238999366760254
+      ],
+      [
+        6.027464866638184,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        6.831107139587402
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.017",
+    "bounds": [
+      [
+        8.520999908447266,
+        8.538999557495117
+      ],
+      [
+        5.727464199066162,
+        8.432536125183105
+      ],
+      [
+        5.7010931968688965,
+        6.970999240875244
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.019",
+    "bounds": [
+      [
+        8.821000099182129,
+        8.83899974822998
+      ],
+      [
+        5.427464008331299,
+        8.432536125183105
+      ],
+      [
+        5.7010931968688965,
+        7.110891819000244
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.021",
+    "bounds": [
+      [
+        9.121000289916992,
+        9.138999938964844
+      ],
+      [
+        5.127464294433594,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.250783920288086
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.023",
+    "bounds": [
+      [
+        9.421000480651855,
+        9.439000129699707
+      ],
+      [
+        4.8274641036987305,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.3906755447387695
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.025",
+    "bounds": [
+      [
+        9.720999717712402,
+        9.738999366760254
+      ],
+      [
+        4.527464866638184,
+        8.432536125183105
+      ],
+      [
+        5.70109224319458,
+        7.530568599700928
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.027",
+    "bounds": [
+      [
+        10.020999908447266,
+        10.038999557495117
+      ],
+      [
+        4.227463722229004,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.6704607009887695
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.029",
+    "bounds": [
+      [
+        10.321000099182129,
+        10.33899974822998
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.031",
+    "bounds": [
+      [
+        10.621000289916992,
+        10.638999938964844
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.033",
+    "bounds": [
+      [
+        10.921000480651855,
+        10.939000129699707
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.035",
+    "bounds": [
+      [
+        11.220999717712402,
+        11.238999366760254
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.037",
+    "bounds": [
+      [
+        11.520999908447266,
+        11.538999557495117
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.039",
+    "bounds": [
+      [
+        11.821000099182129,
+        11.83899974822998
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.041",
+    "bounds": [
+      [
+        12.121000289916992,
+        12.138999938964844
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.043",
+    "bounds": [
+      [
+        12.421000480651855,
+        12.439000129699707
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.045",
+    "bounds": [
+      [
+        12.720999717712402,
+        12.738999366760254
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.047",
+    "bounds": [
+      [
+        13.020999908447266,
+        13.038999557495117
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.049",
+    "bounds": [
+      [
+        13.321000099182129,
+        13.33899974822998
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.051",
+    "bounds": [
+      [
+        13.621000289916992,
+        13.638999938964844
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.053",
+    "bounds": [
+      [
+        13.921000480651855,
+        13.939000129699707
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.055",
+    "bounds": [
+      [
+        14.220999717712402,
+        14.238999366760254
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.057",
+    "bounds": [
+      [
+        14.520999908447266,
+        14.538999557495117
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.059",
+    "bounds": [
+      [
+        14.821000099182129,
+        14.83899974822998
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.061",
+    "bounds": [
+      [
+        15.121000289916992,
+        15.138999938964844
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.063",
+    "bounds": [
+      [
+        15.421000480651855,
+        15.439000129699707
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.065",
+    "bounds": [
+      [
+        15.720999717712402,
+        15.738999366760254
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.067",
+    "bounds": [
+      [
+        16.020999908447266,
+        16.03900146484375
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.069",
+    "bounds": [
+      [
+        16.320999145507812,
+        16.339000701904297
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.071",
+    "bounds": [
+      [
+        16.62099838256836,
+        16.638999938964844
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.073",
+    "bounds": [
+      [
+        16.92099952697754,
+        16.939001083374023
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.075",
+    "bounds": [
+      [
+        17.220998764038086,
+        17.23900032043457
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.077",
+    "bounds": [
+      [
+        17.520999908447266,
+        17.53900146484375
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.079",
+    "bounds": [
+      [
+        17.820999145507812,
+        17.839000701904297
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.081",
+    "bounds": [
+      [
+        18.12099838256836,
+        18.138999938964844
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.083",
+    "bounds": [
+      [
+        18.42099952697754,
+        18.439001083374023
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.085",
+    "bounds": [
+      [
+        18.720998764038086,
+        18.73900032043457
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.087",
+    "bounds": [
+      [
+        19.020999908447266,
+        19.03900146484375
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.089",
+    "bounds": [
+      [
+        19.320999145507812,
+        19.339000701904297
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.091",
+    "bounds": [
+      [
+        19.62099838256836,
+        19.638999938964844
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.093",
+    "bounds": [
+      [
+        19.92099952697754,
+        19.939001083374023
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.095",
+    "bounds": [
+      [
+        20.220998764038086,
+        20.23900032043457
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.097",
+    "bounds": [
+      [
+        20.520999908447266,
+        20.53900146484375
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.099",
+    "bounds": [
+      [
+        20.820999145507812,
+        20.839000701904297
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.101",
+    "bounds": [
+      [
+        21.12099838256836,
+        21.138999938964844
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.103",
+    "bounds": [
+      [
+        21.42099952697754,
+        21.439001083374023
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.105",
+    "bounds": [
+      [
+        21.720998764038086,
+        21.73900032043457
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.107",
+    "bounds": [
+      [
+        22.020999908447266,
+        22.03900146484375
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.109",
+    "bounds": [
+      [
+        22.320999145507812,
+        22.339000701904297
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.111",
+    "bounds": [
+      [
+        22.62099838256836,
+        22.638999938964844
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.113",
+    "bounds": [
+      [
+        22.92099952697754,
+        22.939001083374023
+      ],
+      [
+        3.9374642372131348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.115",
+    "bounds": [
+      [
+        23.220998764038086,
+        23.23900032043457
+      ],
+      [
+        4.117464065551758,
+        8.432536125183105
+      ],
+      [
+        5.7010931968688965,
+        7.721754550933838
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.117",
+    "bounds": [
+      [
+        23.520999908447266,
+        23.53900146484375
+      ],
+      [
+        4.417464256286621,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.581862449645996
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.119",
+    "bounds": [
+      [
+        23.820999145507812,
+        23.839000701904297
+      ],
+      [
+        4.717463970184326,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.441969871520996
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.121",
+    "bounds": [
+      [
+        24.12099838256836,
+        24.138999938964844
+      ],
+      [
+        5.0174641609191895,
+        8.432537078857422
+      ],
+      [
+        5.701092720031738,
+        7.302077293395996
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.123",
+    "bounds": [
+      [
+        24.42099952697754,
+        24.439001083374023
+      ],
+      [
+        5.317464351654053,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.1621856689453125
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.125",
+    "bounds": [
+      [
+        24.720998764038086,
+        24.73900032043457
+      ],
+      [
+        5.617464065551758,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        7.0222930908203125
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.127",
+    "bounds": [
+      [
+        25.020999908447266,
+        25.03900146484375
+      ],
+      [
+        5.917464256286621,
+        8.432536125183105
+      ],
+      [
+        5.7010931968688965,
+        6.882400989532471
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.129",
+    "bounds": [
+      [
+        25.320999145507812,
+        25.339000701904297
+      ],
+      [
+        6.217463970184326,
+        8.432536125183105
+      ],
+      [
+        5.7010931968688965,
+        6.742508411407471
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.131",
+    "bounds": [
+      [
+        25.62099838256836,
+        25.638999938964844
+      ],
+      [
+        6.517464637756348,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        6.602616310119629
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.133",
+    "bounds": [
+      [
+        25.92099952697754,
+        25.939001083374023
+      ],
+      [
+        6.817464351654053,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        6.462723731994629
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.135",
+    "bounds": [
+      [
+        26.220998764038086,
+        26.23900032043457
+      ],
+      [
+        7.117464065551758,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        6.322831153869629
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.137",
+    "bounds": [
+      [
+        26.520999908447266,
+        26.53900146484375
+      ],
+      [
+        7.417464256286621,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        6.182939529418945
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.139",
+    "bounds": [
+      [
+        26.820999145507812,
+        26.839000701904297
+      ],
+      [
+        7.717463970184326,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        6.043046951293945
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.141",
+    "bounds": [
+      [
+        27.12099838256836,
+        27.138999938964844
+      ],
+      [
+        8.017464637756348,
+        8.432536125183105
+      ],
+      [
+        5.7010931968688965,
+        5.9031548500061035
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.143",
+    "bounds": [
+      [
+        27.42099952697754,
+        27.439001083374023
+      ],
+      [
+        8.317463874816895,
+        8.432536125183105
+      ],
+      [
+        5.701092720031738,
+        5.763262748718262
+      ]
+    ],
+    "collections": [
+      "Retained"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof covering | Near slope",
+    "bounds": [
+      [
+        5.829999923706055,
+        27.540000915527344
+      ],
+      [
+        -0.550000011920929,
+        3.940422773361206
+      ],
+      [
+        5.691624164581299,
+        7.786252021789551
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Architectural 12; existing frame envelope"
+  },
+  {
+    "name": "Main roof covering | Entry hip",
+    "bounds": [
+      [
+        23.049575805664062,
+        27.540000915527344
+      ],
+      [
+        -0.550000011920929,
+        8.430000305175781
+      ],
+      [
+        5.691624164581299,
+        7.786252021789551
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Architectural 12; existing frame envelope"
+  },
+  {
+    "name": "Main roof | schematic sheet rib",
+    "bounds": [
+      [
+        6.121000289916992,
+        6.138999938964844
+      ],
+      [
+        -0.5525357127189636,
+        -0.24746426939964294
+      ],
+      [
+        5.701092720031738,
+        5.851861000061035
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.002",
+    "bounds": [
+      [
+        6.421000003814697,
+        6.438999652862549
+      ],
+      [
+        -0.5525357723236084,
+        0.052535753697156906
+      ],
+      [
+        5.7010931968688965,
+        5.991753101348877
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.004",
+    "bounds": [
+      [
+        6.7210001945495605,
+        6.738999843597412
+      ],
+      [
+        -0.5525357127189636,
+        0.3525357246398926
+      ],
+      [
+        5.7010931968688965,
+        6.131645679473877
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.006",
+    "bounds": [
+      [
+        7.021000385284424,
+        7.039000034332275
+      ],
+      [
+        -0.5525358319282532,
+        0.6525357961654663
+      ],
+      [
+        5.701092720031738,
+        6.271537780761719
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.008",
+    "bounds": [
+      [
+        7.321000099182129,
+        7.3389997482299805
+      ],
+      [
+        -0.5525357127189636,
+        0.9525356888771057
+      ],
+      [
+        5.701092720031738,
+        6.411430358886719
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.010",
+    "bounds": [
+      [
+        7.621000289916992,
+        7.638999938964844
+      ],
+      [
+        -0.5525356531143188,
+        1.2525355815887451
+      ],
+      [
+        5.70109224319458,
+        6.5513224601745605
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.012",
+    "bounds": [
+      [
+        7.921000003814697,
+        7.938999652862549
+      ],
+      [
+        -0.5525355935096741,
+        1.5525355339050293
+      ],
+      [
+        5.701092720031738,
+        6.691214561462402
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.014",
+    "bounds": [
+      [
+        8.220999717712402,
+        8.238999366760254
+      ],
+      [
+        -0.552535891532898,
+        1.8525358438491821
+      ],
+      [
+        5.701092720031738,
+        6.831107139587402
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.016",
+    "bounds": [
+      [
+        8.520999908447266,
+        8.538999557495117
+      ],
+      [
+        -0.5525357723236084,
+        2.152535915374756
+      ],
+      [
+        5.701092720031738,
+        6.970999717712402
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.018",
+    "bounds": [
+      [
+        8.821000099182129,
+        8.83899974822998
+      ],
+      [
+        -0.5525355339050293,
+        2.452535629272461
+      ],
+      [
+        5.701092720031738,
+        7.110892295837402
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.020",
+    "bounds": [
+      [
+        9.121000289916992,
+        9.138999938964844
+      ],
+      [
+        -0.5525357723236084,
+        2.752535820007324
+      ],
+      [
+        5.701092720031738,
+        7.250783920288086
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.022",
+    "bounds": [
+      [
+        9.421000480651855,
+        9.439000129699707
+      ],
+      [
+        -0.5525356531143188,
+        3.0525357723236084
+      ],
+      [
+        5.70109224319458,
+        7.390676021575928
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.024",
+    "bounds": [
+      [
+        9.720999717712402,
+        9.738999366760254
+      ],
+      [
+        -0.552535891532898,
+        3.3525359630584717
+      ],
+      [
+        5.701092720031738,
+        7.5305681228637695
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.026",
+    "bounds": [
+      [
+        10.020999908447266,
+        10.038999557495117
+      ],
+      [
+        -0.5525360107421875,
+        3.652536153793335
+      ],
+      [
+        5.701092720031738,
+        7.6704607009887695
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.028",
+    "bounds": [
+      [
+        10.321000099182129,
+        10.33899974822998
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.030",
+    "bounds": [
+      [
+        10.621000289916992,
+        10.638999938964844
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.032",
+    "bounds": [
+      [
+        10.921000480651855,
+        10.939000129699707
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.034",
+    "bounds": [
+      [
+        11.220999717712402,
+        11.238999366760254
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.036",
+    "bounds": [
+      [
+        11.520999908447266,
+        11.538999557495117
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.038",
+    "bounds": [
+      [
+        11.821000099182129,
+        11.83899974822998
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.040",
+    "bounds": [
+      [
+        12.121000289916992,
+        12.138999938964844
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.042",
+    "bounds": [
+      [
+        12.421000480651855,
+        12.439000129699707
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.044",
+    "bounds": [
+      [
+        12.720999717712402,
+        12.738999366760254
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.046",
+    "bounds": [
+      [
+        13.020999908447266,
+        13.038999557495117
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.048",
+    "bounds": [
+      [
+        13.321000099182129,
+        13.33899974822998
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.050",
+    "bounds": [
+      [
+        13.621000289916992,
+        13.638999938964844
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.052",
+    "bounds": [
+      [
+        13.921000480651855,
+        13.939000129699707
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.054",
+    "bounds": [
+      [
+        14.220999717712402,
+        14.238999366760254
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.056",
+    "bounds": [
+      [
+        14.520999908447266,
+        14.538999557495117
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.058",
+    "bounds": [
+      [
+        14.821000099182129,
+        14.83899974822998
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.060",
+    "bounds": [
+      [
+        15.121000289916992,
+        15.138999938964844
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.062",
+    "bounds": [
+      [
+        15.421000480651855,
+        15.439000129699707
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.064",
+    "bounds": [
+      [
+        15.720999717712402,
+        15.738999366760254
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.066",
+    "bounds": [
+      [
+        16.020999908447266,
+        16.03900146484375
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.068",
+    "bounds": [
+      [
+        16.320999145507812,
+        16.339000701904297
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.070",
+    "bounds": [
+      [
+        16.62099838256836,
+        16.638999938964844
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.072",
+    "bounds": [
+      [
+        16.92099952697754,
+        16.939001083374023
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.074",
+    "bounds": [
+      [
+        17.220998764038086,
+        17.23900032043457
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.076",
+    "bounds": [
+      [
+        17.520999908447266,
+        17.53900146484375
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.078",
+    "bounds": [
+      [
+        17.820999145507812,
+        17.839000701904297
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.080",
+    "bounds": [
+      [
+        18.12099838256836,
+        18.138999938964844
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.082",
+    "bounds": [
+      [
+        18.42099952697754,
+        18.439001083374023
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.084",
+    "bounds": [
+      [
+        18.720998764038086,
+        18.73900032043457
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.086",
+    "bounds": [
+      [
+        19.020999908447266,
+        19.03900146484375
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.088",
+    "bounds": [
+      [
+        19.320999145507812,
+        19.339000701904297
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.090",
+    "bounds": [
+      [
+        19.62099838256836,
+        19.638999938964844
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.092",
+    "bounds": [
+      [
+        19.92099952697754,
+        19.939001083374023
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.094",
+    "bounds": [
+      [
+        20.220998764038086,
+        20.23900032043457
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.096",
+    "bounds": [
+      [
+        20.520999908447266,
+        20.53900146484375
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.098",
+    "bounds": [
+      [
+        20.820999145507812,
+        20.839000701904297
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.100",
+    "bounds": [
+      [
+        21.12099838256836,
+        21.138999938964844
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.102",
+    "bounds": [
+      [
+        21.42099952697754,
+        21.439001083374023
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.104",
+    "bounds": [
+      [
+        21.720998764038086,
+        21.73900032043457
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.106",
+    "bounds": [
+      [
+        22.020999908447266,
+        22.03900146484375
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.108",
+    "bounds": [
+      [
+        22.320999145507812,
+        22.339000701904297
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.110",
+    "bounds": [
+      [
+        22.62099838256836,
+        22.638999938964844
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.112",
+    "bounds": [
+      [
+        22.92099952697754,
+        22.939001083374023
+      ],
+      [
+        -0.5525360107421875,
+        3.9425361156463623
+      ],
+      [
+        5.701092720031738,
+        7.805689811706543
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.114",
+    "bounds": [
+      [
+        23.220998764038086,
+        23.23900032043457
+      ],
+      [
+        -0.552535891532898,
+        3.76253604888916
+      ],
+      [
+        5.701092720031738,
+        7.721755027770996
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.116",
+    "bounds": [
+      [
+        23.520999908447266,
+        23.53900146484375
+      ],
+      [
+        -0.5525355339050293,
+        3.4625356197357178
+      ],
+      [
+        5.70109224319458,
+        7.581862926483154
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.118",
+    "bounds": [
+      [
+        23.820999145507812,
+        23.839000701904297
+      ],
+      [
+        -0.5525355339050293,
+        3.1625356674194336
+      ],
+      [
+        5.701092720031738,
+        7.441969871520996
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.120",
+    "bounds": [
+      [
+        24.12099838256836,
+        24.138999938964844
+      ],
+      [
+        -0.5525355339050293,
+        2.8625354766845703
+      ],
+      [
+        5.701092720031738,
+        7.302077293395996
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.122",
+    "bounds": [
+      [
+        24.42099952697754,
+        24.439001083374023
+      ],
+      [
+        -0.5525355339050293,
+        2.562535524368286
+      ],
+      [
+        5.701092720031738,
+        7.1621856689453125
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.124",
+    "bounds": [
+      [
+        24.720998764038086,
+        24.73900032043457
+      ],
+      [
+        -0.5525354146957397,
+        2.262535572052002
+      ],
+      [
+        5.70109224319458,
+        7.022293567657471
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.126",
+    "bounds": [
+      [
+        25.020999908447266,
+        25.03900146484375
+      ],
+      [
+        -0.5525355339050293,
+        1.9625356197357178
+      ],
+      [
+        5.701092720031738,
+        6.882401466369629
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.128",
+    "bounds": [
+      [
+        25.320999145507812,
+        25.339000701904297
+      ],
+      [
+        -0.5525357723236084,
+        1.6625356674194336
+      ],
+      [
+        5.701092720031738,
+        6.742508888244629
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.130",
+    "bounds": [
+      [
+        25.62099838256836,
+        25.638999938964844
+      ],
+      [
+        -0.552535891532898,
+        1.362535834312439
+      ],
+      [
+        5.701092720031738,
+        6.602616310119629
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.132",
+    "bounds": [
+      [
+        25.92099952697754,
+        25.939001083374023
+      ],
+      [
+        -0.5525357723236084,
+        1.0625356435775757
+      ],
+      [
+        5.701092720031738,
+        6.462723731994629
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.134",
+    "bounds": [
+      [
+        26.220998764038086,
+        26.23900032043457
+      ],
+      [
+        -0.5525357127189636,
+        0.7625356912612915
+      ],
+      [
+        5.70109224319458,
+        6.322831630706787
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.136",
+    "bounds": [
+      [
+        26.520999908447266,
+        26.53900146484375
+      ],
+      [
+        -0.5525357127189636,
+        0.46253570914268494
+      ],
+      [
+        5.701092720031738,
+        6.182939529418945
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.138",
+    "bounds": [
+      [
+        26.820999145507812,
+        26.839000701904297
+      ],
+      [
+        -0.5525357127189636,
+        0.16253572702407837
+      ],
+      [
+        5.701092720031738,
+        6.043046951293945
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.140",
+    "bounds": [
+      [
+        27.12099838256836,
+        27.138999938964844
+      ],
+      [
+        -0.5525357723236084,
+        -0.1374642252922058
+      ],
+      [
+        5.7010931968688965,
+        5.9031548500061035
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof | schematic sheet rib.142",
+    "bounds": [
+      [
+        27.42099952697754,
+        27.439001083374023
+      ],
+      [
+        -0.5525357127189636,
+        -0.43746429681777954
+      ],
+      [
+        5.701092720031738,
+        5.763262748718262
+      ]
+    ],
+    "collections": [
+      "Cutaway removal"
+    ],
+    "materials": [
+      "ENV Metal roof - colour unselected"
+    ],
+    "source": "Assembly study; see material register"
+  },
+  {
+    "name": "Main roof sarking | Far slope",
+    "bounds": [
+      [
+        5.829999923706055,
+        27.540000915527344
+      ],
+      [
+        3.939577341079712,
+        8.430000305175781
+      ],
+      [
+        5.669624328613281,
+        7.764252185821533
+      ]
+    ],
+    "collections": [
+      "Retained.001"
+    ],
+    "materials": [
+      "ENV Roof sarking - illustrative"
+    ],
+    "source": "Architectural 12; existing frame envelope"
+  },
+  {
+    "name": "Main roof sarking | Garage hip",
+    "bounds": [
+      [
+        5.829999923706055,
+        10.320422172546387
+      ],
+      [
+        -0.550000011920929,
+        8.430000305175781
+      ],
+      [
+        5.669624328613281,
+        7.764252185821533
+      ]
+    ],
+    "collections": [
+      "Retained.001"
+    ],
+    "materials": [
+      "ENV Roof sarking - illustrative"
+    ],
+    "source": "Architectural 12; existing frame envelope"
+  },
+  {
+    "name": "Main roof sarking | Near slope",
+    "bounds": [
+      [
+        5.829999923706055,
+        27.540000915527344
+      ],
+      [
+        -0.550000011920929,
+        3.940422773361206
+      ],
+      [
+        5.669624328613281,
+        7.764252185821533
+      ]
+    ],
+    "collections": [
+      "Cutaway removal.001"
+    ],
+    "materials": [
+      "ENV Roof sarking - illustrative"
+    ],
+    "source": "Architectural 12; existing frame envelope"
+  },
+  {
+    "name": "Main roof sarking | Entry hip",
+    "bounds": [
+      [
+        23.049575805664062,
+        27.540000915527344
+      ],
+      [
+        -0.550000011920929,
+        8.430000305175781
+      ],
+      [
+        5.669624328613281,
+        7.764252185821533
+      ]
+    ],
+    "collections": [
+      "Cutaway removal.001"
+    ],
+    "materials": [
+      "ENV Roof sarking - illustrative"
+    ],
+    "source": "Architectural 12; existing frame envelope"
+  },
+  {
+    "name": "GF Nook return | Ground brick veneer",
+    "bounds": [
+      [
+        8.624317169189453,
+        8.734317779541016
+      ],
+      [
+        2.313504457473755,
+        3.8353846073150635
+      ],
+      [
+        0.0,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "Retained.003"
+    ],
+    "materials": [
+      "ENV Brick veneer - colour unselected"
+    ],
+    "source": "Architectural 07/08/11/12; current frame openings"
+  },
+  {
+    "name": "Garage east upstand | Ground brick veneer",
+    "bounds": [
+      [
+        6.510000228881836,
+        6.619999885559082
+      ],
+      [
+        7.639999866485596,
+        9.516980171203613
+      ],
+      [
+        0.0,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "Retained.003"
+    ],
+    "materials": [
+      "ENV Brick veneer - colour unselected"
+    ],
+    "source": "Architectural 07/08/11/12; current frame openings"
+  },
+  {
+    "name": "GF Laundry nook | Ground brick veneer",
+    "bounds": [
+      [
+        6.2300004959106445,
+        8.7343168258667
+      ],
+      [
+        2.313504219055176,
+        2.42350435256958
+      ],
+      [
+        0.0,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "Cutaway removal.003"
+    ],
+    "materials": [
+      "ENV Brick veneer - colour unselected"
+    ],
+    "source": "Architectural 07/08/11/12; current frame openings"
+  },
+  {
+    "name": "GF Nook return | Wall wrap",
+    "bounds": [
+      [
+        8.585817337036133,
+        8.586816787719727
+      ],
+      [
+        2.4610042572021484,
+        3.68788480758667
+      ],
+      [
+        0.0,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "Retained.005"
+    ],
+    "materials": [
+      "ENV Wall membrane - illustrative"
+    ],
+    "source": "Architectural 07/08/11/12; current frame openings"
+  },
+  {
+    "name": "Garage east upstand | Wall wrap",
+    "bounds": [
+      [
+        6.471499919891357,
+        6.472500324249268
+      ],
+      [
+        7.787499904632568,
+        9.36948013305664
+      ],
+      [
+        0.0,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "Retained.005"
+    ],
+    "materials": [
+      "ENV Wall membrane - illustrative"
+    ],
+    "source": "Architectural 07/08/11/12; current frame openings"
+  },
+  {
+    "name": "GF Laundry nook | Wall wrap",
+    "bounds": [
+      [
+        6.377500057220459,
+        8.586816787719727
+      ],
+      [
+        2.4610044956207275,
+        2.4620044231414795
+      ],
+      [
+        0.0,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "Cutaway removal.005"
+    ],
+    "materials": [
+      "ENV Wall membrane - illustrative"
+    ],
+    "source": "Architectural 07/08/11/12; current frame openings"
+  },
+  {
+    "name": "D01 finished timber leaf 1",
+    "bounds": [
+      [
+        27.002500534057617,
+        27.037500381469727
+      ],
+      [
+        4.552108287811279,
+        5.325108051300049
+      ],
+      [
+        0.04500007629394531,
+        2.2950000762939453
+      ]
+    ],
+    "collections": [
+      "26 Windows and doors"
+    ],
+    "materials": [
+      "VR Finished door timber"
+    ],
+    "source": ""
+  },
+  {
+    "name": "D01 bronze pull 1",
+    "bounds": [
+      [
+        27.10099983215332,
+        27.119001388549805
+      ],
+      [
+        5.253108024597168,
+        5.2711076736450195
+      ],
+      [
+        0.8299999237060547,
+        1.2799999713897705
+      ]
+    ],
+    "collections": [
+      "26 Windows and doors"
+    ],
+    "materials": [
+      "VR Door bronze hardware"
+    ],
+    "source": ""
+  },
+  {
+    "name": "D01 pull fixing 1",
+    "bounds": [
+      [
+        27.037500381469727,
+        27.10099983215332
+      ],
+      [
+        5.256107807159424,
+        5.268107891082764
+      ],
+      [
+        0.8539999723434448,
+        0.8660000562667847
+      ]
+    ],
+    "collections": [
+      "26 Windows and doors"
+    ],
+    "materials": [
+      "VR Door bronze hardware"
+    ],
+    "source": ""
+  },
+  {
+    "name": "D01 pull fixing 1.001",
+    "bounds": [
+      [
+        27.037500381469727,
+        27.10099983215332
+      ],
+      [
+        5.256107807159424,
+        5.268107891082764
+      ],
+      [
+        1.24399995803833,
+        1.25600004196167
+      ]
+    ],
+    "collections": [
+      "26 Windows and doors"
+    ],
+    "materials": [
+      "VR Door bronze hardware"
+    ],
+    "source": ""
+  },
+  {
+    "name": "D01 finished timber leaf 2",
+    "bounds": [
+      [
+        27.002500534057617,
+        27.037500381469727
+      ],
+      [
+        5.329107761383057,
+        6.102107524871826
+      ],
+      [
+        0.04500007629394531,
+        2.2950000762939453
+      ]
+    ],
+    "collections": [
+      "26 Windows and doors"
+    ],
+    "materials": [
+      "VR Finished door timber"
+    ],
+    "source": ""
+  },
+  {
+    "name": "D01 bronze pull 2",
+    "bounds": [
+      [
+        27.10099983215332,
+        27.119001388549805
+      ],
+      [
+        5.383108139038086,
+        5.4011077880859375
+      ],
+      [
+        0.8299999237060547,
+        1.2799999713897705
+      ]
+    ],
+    "collections": [
+      "26 Windows and doors"
+    ],
+    "materials": [
+      "VR Door bronze hardware"
+    ],
+    "source": ""
+  },
+  {
+    "name": "D01 pull fixing 2",
+    "bounds": [
+      [
+        27.037500381469727,
+        27.10099983215332
+      ],
+      [
+        5.386107921600342,
+        5.398108005523682
+      ],
+      [
+        0.8539999723434448,
+        0.8660000562667847
+      ]
+    ],
+    "collections": [
+      "26 Windows and doors"
+    ],
+    "materials": [
+      "VR Door bronze hardware"
+    ],
+    "source": ""
+  },
+  {
+    "name": "D01 pull fixing 2.001",
+    "bounds": [
+      [
+        27.037500381469727,
+        27.10099983215332
+      ],
+      [
+        5.386107921600342,
+        5.398108005523682
+      ],
+      [
+        1.24399995803833,
+        1.25600004196167
+      ]
+    ],
+    "collections": [
+      "26 Windows and doors"
+    ],
+    "materials": [
+      "VR Door bronze hardware"
+    ],
+    "source": ""
+  },
+  {
+    "name": "D02 laundry | left jamb",
+    "bounds": [
+      [
+        7.194565296173096,
+        7.239565372467041
+      ],
+      [
+        7.894999980926514,
+        7.955000400543213
+      ],
+      [
+        0.0,
+        2.3399999141693115
+      ]
+    ],
+    "collections": [
+      "Retained.006"
+    ],
+    "materials": [
+      "ENV Aluminium frames - illustrative"
+    ],
+    "source": "Architectural 11"
+  },
+  {
+    "name": "D02 laundry | right jamb",
+    "bounds": [
+      [
+        7.969564914703369,
+        8.014564514160156
+      ],
+      [
+        7.894999980926514,
+        7.955000400543213
+      ],
+      [
+        0.0,
+        2.3399999141693115
+      ]
+    ],
+    "collections": [
+      "Retained.006"
+    ],
+    "materials": [
+      "ENV Aluminium frames - illustrative"
+    ],
+    "source": "Architectural 11"
+  },
+  {
+    "name": "D02 laundry | head",
+    "bounds": [
+      [
+        7.194565296173096,
+        8.014565467834473
+      ],
+      [
+        7.894999980926514,
+        7.955000400543213
+      ],
+      [
+        2.2950000762939453,
+        2.3400001525878906
+      ]
+    ],
+    "collections": [
+      "Retained.006"
+    ],
+    "materials": [
+      "ENV Aluminium frames - illustrative"
+    ],
+    "source": "Architectural 11"
+  },
+  {
+    "name": "D02 laundry | sill",
+    "bounds": [
+      [
+        7.194565296173096,
+        8.014565467834473
+      ],
+      [
+        7.894999980926514,
+        7.955000400543213
+      ],
+      [
+        0.0,
+        0.04500000178813934
+      ]
+    ],
+    "collections": [
+      "Retained.006"
+    ],
+    "materials": [
+      "ENV Aluminium frames - illustrative"
+    ],
+    "source": "Architectural 11"
+  },
+  {
+    "name": "D02 laundry | door leaf",
+    "bounds": [
+      [
+        7.239564895629883,
+        7.969565391540527
+      ],
+      [
+        7.922500133514404,
+        7.957499980926514
+      ],
+      [
+        0.04499995708465576,
+        2.2950000762939453
+      ]
+    ],
+    "collections": [
+      "Retained.006"
+    ],
+    "materials": [
+      "VR Finished door timber"
+    ],
+    "source": "Architectural 11"
+  },
+  {
+    "name": "D01 double entry | left jamb",
+    "bounds": [
+      [
+        27.0049991607666,
+        27.065000534057617
+      ],
+      [
+        4.507107734680176,
+        4.552107810974121
+      ],
+      [
+        0.0,
+        2.3399999141693115
+      ]
+    ],
+    "collections": [
+      "Retained.006"
+    ],
+    "materials": [
+      "ENV Aluminium frames - illustrative"
+    ],
+    "source": "Architectural 11"
+  },
+  {
+    "name": "D01 double entry | right jamb",
+    "bounds": [
+      [
+        27.0049991607666,
+        27.065000534057617
+      ],
+      [
+        6.102108001708984,
+        6.14710807800293
+      ],
+      [
+        0.0,
+        2.3399999141693115
+      ]
+    ],
+    "collections": [
+      "Retained.006"
+    ],
+    "materials": [
+      "ENV Aluminium frames - illustrative"
+    ],
+    "source": "Architectural 11"
+  },
+  {
+    "name": "D01 double entry | head",
+    "bounds": [
+      [
+        27.0049991607666,
+        27.065000534057617
+      ],
+      [
+        4.507107734680176,
+        6.14710807800293
+      ],
+      [
+        2.2950000762939453,
+        2.3400001525878906
+      ]
+    ],
+    "collections": [
+      "Retained.006"
+    ],
+    "materials": [
+      "ENV Aluminium frames - illustrative"
+    ],
+    "source": "Architectural 11"
+  },
+  {
+    "name": "D01 double entry | sill",
+    "bounds": [
+      [
+        27.0049991607666,
+        27.065000534057617
+      ],
+      [
+        4.507107734680176,
+        6.14710807800293
+      ],
+      [
+        0.0,
+        0.04500000178813934
+      ]
+    ],
+    "collections": [
+      "Retained.006"
+    ],
+    "materials": [
+      "ENV Aluminium frames - illustrative"
+    ],
+    "source": "Architectural 11"
+  },
+  {
+    "name": "D01 double entry | double-door meeting stile",
+    "bounds": [
+      [
+        27.040000915527344,
+        27.049999237060547
+      ],
+      [
+        5.321107864379883,
+        5.333107948303223
+      ],
+      [
+        0.04499995708465576,
+        2.2950000762939453
+      ]
+    ],
+    "collections": [
+      "Retained.006"
+    ],
+    "materials": [
+      "ENV Aluminium frames - illustrative"
+    ],
+    "source": "Architectural 11"
+  },
+  {
+    "name": "GF Laundry west | lining",
+    "bounds": [
+      [
+        6.365000247955322,
+        6.375
+      ],
+      [
+        2.5685043334960938,
+        3.491096258163452
+      ],
+      [
+        0.0,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "GF Laundry west | skirting",
+    "bounds": [
+      [
+        6.3580002784729,
+        6.365000247955322
+      ],
+      [
+        2.5685043334960938,
+        3.491096258163452
+      ],
+      [
+        0.0,
+        0.07000000029802322
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "GF Laundry west | lining.001",
+    "bounds": [
+      [
+        6.475000381469727,
+        6.485000133514404
+      ],
+      [
+        2.5685043334960938,
+        3.491096258163452
+      ],
+      [
+        0.0,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "GF Laundry west | skirting.001",
+    "bounds": [
+      [
+        6.485000133514404,
+        6.492000102996826
+      ],
+      [
+        2.5685043334960938,
+        3.491096258163452
+      ],
+      [
+        0.0,
+        0.07000000029802322
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "GF Laundry west | lining.002",
+    "bounds": [
+      [
+        6.365000247955322,
+        6.375
+      ],
+      [
+        3.491096258163452,
+        4.411096572875977
+      ],
+      [
+        2.3399999141693115,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "GF Laundry west | lining.003",
+    "bounds": [
+      [
+        6.475000381469727,
+        6.485000133514404
+      ],
+      [
+        3.491096258163452,
+        4.411096572875977
+      ],
+      [
+        2.3399999141693115,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "GF Laundry west | lining.004",
+    "bounds": [
+      [
+        6.365000247955322,
+        6.375
+      ],
+      [
+        4.411096572875977,
+        7.835000038146973
+      ],
+      [
+        0.0,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "GF Laundry west | skirting.002",
+    "bounds": [
+      [
+        6.3580002784729,
+        6.365000247955322
+      ],
+      [
+        4.411096572875977,
+        7.894999980926514
+      ],
+      [
+        0.0,
+        0.07000000029802322
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "GF Laundry west | lining.005",
+    "bounds": [
+      [
+        6.475000381469727,
+        6.485000133514404
+      ],
+      [
+        4.411096572875977,
+        4.579102516174316
+      ],
+      [
+        0.0,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "GF Laundry west | lining.006",
+    "bounds": [
+      [
+        6.475000381469727,
+        6.485000133514404
+      ],
+      [
+        4.699102401733398,
+        7.775000095367432
+      ],
+      [
+        0.0,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "GF Laundry west | skirting.003",
+    "bounds": [
+      [
+        6.485000133514404,
+        6.492000102996826
+      ],
+      [
+        4.411096572875977,
+        4.579102516174316
+      ],
+      [
+        0.0,
+        0.07000000029802322
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "GF Laundry west | skirting.004",
+    "bounds": [
+      [
+        6.485000133514404,
+        6.492000102996826
+      ],
+      [
+        4.699102401733398,
+        7.76800012588501
+      ],
+      [
+        0.0,
+        0.07000000029802322
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "GF Laundry west | opening return",
+    "bounds": [
+      [
+        6.365000247955322,
+        6.485000133514404
+      ],
+      [
+        3.491096258163452,
+        3.501096248626709
+      ],
+      [
+        0.0,
+        2.3399999141693115
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "GF Laundry west | opening return.001",
+    "bounds": [
+      [
+        6.365000247955322,
+        6.485000133514404
+      ],
+      [
+        4.401096343994141,
+        4.411096572875977
+      ],
+      [
+        0.0,
+        2.3399999141693115
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "GF Laundry west | opening return.002",
+    "bounds": [
+      [
+        6.365000247955322,
+        6.485000133514404
+      ],
+      [
+        3.501096248626709,
+        4.401096343994141
+      ],
+      [
+        2.3299999237060547,
+        2.3399999141693115
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "GF Laundry nook | lining",
+    "bounds": [
+      [
+        6.485000133514404,
+        8.479316711425781
+      ],
+      [
+        2.558504343032837,
+        2.5685043334960938
+      ],
+      [
+        0.0,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "GF Laundry nook | skirting",
+    "bounds": [
+      [
+        6.492000102996826,
+        8.479316711425781
+      ],
+      [
+        2.5685043334960938,
+        2.5755043029785156
+      ],
+      [
+        0.0,
+        0.07000000029802322
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "GF Nook return | lining",
+    "bounds": [
+      [
+        8.479316711425781,
+        8.489316940307617
+      ],
+      [
+        2.5685043334960938,
+        3.6503846645355225
+      ],
+      [
+        0.0,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "GF Nook return | skirting",
+    "bounds": [
+      [
+        8.47231674194336,
+        8.479316711425781
+      ],
+      [
+        2.5755043029785156,
+        3.6503846645355225
+      ],
+      [
+        0.0,
+        0.07000000029802322
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "GF Nook return | end return",
+    "bounds": [
+      [
+        8.489316940307617,
+        8.589317321777344
+      ],
+      [
+        3.6403846740722656,
+        3.6503846645355225
+      ],
+      [
+        0.0,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Plaster junction returns"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "Garage east upstand | lining",
+    "bounds": [
+      [
+        6.365000247955322,
+        6.375
+      ],
+      [
+        7.835000038146973,
+        9.261980056762695
+      ],
+      [
+        0.0,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "Garage east upstand | skirting",
+    "bounds": [
+      [
+        6.3580002784729,
+        6.365000247955322
+      ],
+      [
+        7.894999980926514,
+        9.254980087280273
+      ],
+      [
+        0.0,
+        0.07000000029802322
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "Ground ceiling 2",
+    "bounds": [
+      [
+        24.350000381469727,
+        26.885000228881836
+      ],
+      [
+        0.10500000417232513,
+        4.575000286102295
+      ],
+      [
+        2.7300000190734863,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Neutral white ceiling"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "Ground ceiling 2.001",
+    "bounds": [
+      [
+        26.94499969482422,
+        26.989999771118164
+      ],
+      [
+        0.0,
+        0.04499959945678711
+      ],
+      [
+        2.7300000190734863,
+        2.740000009536743
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Neutral white ceiling"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "Stair void fascia",
+    "bounds": [
+      [
+        20.95050048828125,
+        21.60500144958496
+      ],
+      [
+        6.699999809265137,
+        6.710000038146973
+      ],
+      [
+        2.7300000190734863,
+        3.1589999198913574
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "Stair void fascia.001",
+    "bounds": [
+      [
+        21.615001678466797,
+        21.71500015258789
+      ],
+      [
+        6.699999809265137,
+        6.710000038146973
+      ],
+      [
+        2.7300000190734863,
+        3.1589999198913574
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "Stair void fascia.002",
+    "bounds": [
+      [
+        21.725000381469727,
+        24.399999618530273
+      ],
+      [
+        6.699999809265137,
+        6.710000038146973
+      ],
+      [
+        2.7300000190734863,
+        3.1589999198913574
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "Stair void fascia.003",
+    "bounds": [
+      [
+        21.71500015258789,
+        21.725000381469727
+      ],
+      [
+        6.699999809265137,
+        6.710000038146973
+      ],
+      [
+        2.740000009536743,
+        3.1589999198913574
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "Stair void fascia.004",
+    "bounds": [
+      [
+        21.60500144958496,
+        21.615001678466797
+      ],
+      [
+        6.699999809265137,
+        6.710000038146973
+      ],
+      [
+        2.740000009536743,
+        3.1589999198913574
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "Void return fascia",
+    "bounds": [
+      [
+        24.399999618530273,
+        24.40999984741211
+      ],
+      [
+        4.695000171661377,
+        6.539999961853027
+      ],
+      [
+        2.7300000190734863,
+        3.1589999198913574
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "Void return fascia.001",
+    "bounds": [
+      [
+        24.399999618530273,
+        24.40999984741211
+      ],
+      [
+        6.549999713897705,
+        6.650000095367432
+      ],
+      [
+        2.7300000190734863,
+        3.1589999198913574
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "Void return fascia.002",
+    "bounds": [
+      [
+        24.399999618530273,
+        24.40999984741211
+      ],
+      [
+        6.539999961853027,
+        6.549999713897705
+      ],
+      [
+        2.740000009536743,
+        3.1589999198913574
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "Void return fascia.003",
+    "bounds": [
+      [
+        24.399999618530273,
+        24.40999984741211
+      ],
+      [
+        6.659999847412109,
+        6.710000038146973
+      ],
+      [
+        2.7300000190734863,
+        3.1589999198913574
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  },
+  {
+    "name": "Void return fascia.004",
+    "bounds": [
+      [
+        24.399999618530273,
+        24.40999984741211
+      ],
+      [
+        6.650000095367432,
+        6.659999847412109
+      ],
+      [
+        2.740000009536743,
+        3.1589999198913574
+      ]
+    ],
+    "collections": [
+      "27 Interior linings and ceilings"
+    ],
+    "materials": [
+      "VR Warm white plaster"
+    ],
+    "source": "Current frame setout; 10 mm illustrative lining, 19 mm deck"
+  }
+]

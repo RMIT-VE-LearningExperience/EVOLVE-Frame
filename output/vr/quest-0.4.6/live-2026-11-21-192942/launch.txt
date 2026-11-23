@@ -1,0 +1,7 @@
+Starting: Intent { cmp=au.edu.evolve.framelab/com.unity3d.player.UnityPlayerGameActivity }
+Status: ok
+LaunchState: COLD
+Activity: au.edu.evolve.framelab/com.unity3d.player.UnityPlayerGameActivity
+TotalTime: 678
+WaitTime: 722
+Complete

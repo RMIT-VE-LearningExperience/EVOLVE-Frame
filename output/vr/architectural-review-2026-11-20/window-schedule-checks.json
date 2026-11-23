@@ -1,0 +1,519 @@
+{
+  "source": "Architectural sheet11, visually read all19 windows",
+  "model": "uninstalled0.3.3 candidate",
+  "results": [
+    {
+      "window": "W01",
+      "source_sheet": 11,
+      "scheduled_width_height_sill_mm": [
+        3000,
+        2400,
+        0
+      ],
+      "measured_width_height_sill_mm": [
+        3000.0,
+        2400.0,
+        0.0
+      ],
+      "difference_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominal_envelope_check": "PASS",
+      "glass_pieces": 3,
+      "obscure_required": false,
+      "glass_materials": [
+        "ENV Glazing proxy"
+      ],
+      "position_approved": false,
+      "scope": "Frame envelope only. Does not approve location, sash configuration, privacy, or finished-floor datum. Upper VR deck is19mm above the drawing datum."
+    },
+    {
+      "window": "W02",
+      "source_sheet": 11,
+      "scheduled_width_height_sill_mm": [
+        810,
+        2120,
+        280
+      ],
+      "measured_width_height_sill_mm": [
+        810.0,
+        2120.0,
+        280.0
+      ],
+      "difference_mm": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "nominal_envelope_check": "PASS",
+      "glass_pieces": 1,
+      "obscure_required": false,
+      "glass_materials": [
+        "ENV Glazing proxy"
+      ],
+      "position_approved": false,
+      "scope": "Frame envelope only. Does not approve location, sash configuration, privacy, or finished-floor datum. Upper VR deck is19mm above the drawing datum."
+    },
+    {
+      "window": "W03",
+      "source_sheet": 11,
+      "scheduled_width_height_sill_mm": [
+        810,
+        2120,
+        280
+      ],
+      "measured_width_height_sill_mm": [
+        810.0,
+        2120.0,
+        280.0
+      ],
+      "difference_mm": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "nominal_envelope_check": "PASS",
+      "glass_pieces": 1,
+      "obscure_required": true,
+      "glass_materials": [
+        "ENV Glazing proxy"
+      ],
+      "position_approved": false,
+      "scope": "Frame envelope only. Does not approve location, sash configuration, privacy, or finished-floor datum. Upper VR deck is19mm above the drawing datum."
+    },
+    {
+      "window": "W04",
+      "source_sheet": 11,
+      "scheduled_width_height_sill_mm": [
+        1510,
+        514,
+        905
+      ],
+      "measured_width_height_sill_mm": [
+        1510.0,
+        514.0,
+        905.0
+      ],
+      "difference_mm": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "nominal_envelope_check": "PASS",
+      "glass_pieces": 1,
+      "obscure_required": false,
+      "glass_materials": [
+        "ENV Glazing proxy"
+      ],
+      "position_approved": false,
+      "scope": "Frame envelope only. Does not approve location, sash configuration, privacy, or finished-floor datum. Upper VR deck is19mm above the drawing datum."
+    },
+    {
+      "window": "W05",
+      "source_sheet": 11,
+      "scheduled_width_height_sill_mm": [
+        2710,
+        2120,
+        280
+      ],
+      "measured_width_height_sill_mm": [
+        2710.0,
+        2120.0,
+        280.0
+      ],
+      "difference_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominal_envelope_check": "PASS",
+      "glass_pieces": 3,
+      "obscure_required": false,
+      "glass_materials": [
+        "ENV Glazing proxy"
+      ],
+      "position_approved": false,
+      "scope": "Frame envelope only. Does not approve location, sash configuration, privacy, or finished-floor datum. Upper VR deck is19mm above the drawing datum."
+    },
+    {
+      "window": "W06",
+      "source_sheet": 11,
+      "scheduled_width_height_sill_mm": [
+        3060,
+        2100,
+        300
+      ],
+      "measured_width_height_sill_mm": [
+        3060.0,
+        2100.0,
+        300.0
+      ],
+      "difference_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominal_envelope_check": "PASS",
+      "glass_pieces": 3,
+      "obscure_required": false,
+      "glass_materials": [
+        "ENV Glazing proxy"
+      ],
+      "position_approved": false,
+      "scope": "Frame envelope only. Does not approve location, sash configuration, privacy, or finished-floor datum. Upper VR deck is19mm above the drawing datum."
+    },
+    {
+      "window": "W07",
+      "source_sheet": 11,
+      "scheduled_width_height_sill_mm": [
+        1510,
+        1260,
+        1140
+      ],
+      "measured_width_height_sill_mm": [
+        1510.0,
+        1260.0,
+        1140.0
+      ],
+      "difference_mm": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "nominal_envelope_check": "PASS",
+      "glass_pieces": 2,
+      "obscure_required": true,
+      "glass_materials": [
+        "ENV Glazing proxy"
+      ],
+      "position_approved": false,
+      "scope": "Frame envelope only. Does not approve location, sash configuration, privacy, or finished-floor datum. Upper VR deck is19mm above the drawing datum."
+    },
+    {
+      "window": "W08",
+      "source_sheet": 11,
+      "scheduled_width_height_sill_mm": [
+        2710,
+        1800,
+        480
+      ],
+      "measured_width_height_sill_mm": [
+        2710.0,
+        1800.0,
+        480.0
+      ],
+      "difference_mm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "nominal_envelope_check": "PASS",
+      "glass_pieces": 3,
+      "obscure_required": false,
+      "glass_materials": [
+        "ENV Glazing proxy"
+      ],
+      "position_approved": false,
+      "scope": "Frame envelope only. Does not approve location, sash configuration, privacy, or finished-floor datum. Upper VR deck is19mm above the drawing datum."
+    },
+    {
+      "window": "W09",
+      "source_sheet": 11,
+      "scheduled_width_height_sill_mm": [
+        2710,
+        1800,
+        480
+      ],
+      "measured_width_height_sill_mm": [
+        2710.0,
+        1800.0,
+        480.0
+      ],
+      "difference_mm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "nominal_envelope_check": "PASS",
+      "glass_pieces": 3,
+      "obscure_required": false,
+      "glass_materials": [
+        "ENV Glazing proxy"
+      ],
+      "position_approved": false,
+      "scope": "Frame envelope only. Does not approve location, sash configuration, privacy, or finished-floor datum. Upper VR deck is19mm above the drawing datum."
+    },
+    {
+      "window": "W10",
+      "source_sheet": 11,
+      "scheduled_width_height_sill_mm": [
+        850,
+        1800,
+        480
+      ],
+      "measured_width_height_sill_mm": [
+        850.0,
+        1800.0,
+        480.0
+      ],
+      "difference_mm": [
+        -0.0,
+        -0.0,
+        0.0
+      ],
+      "nominal_envelope_check": "PASS",
+      "glass_pieces": 1,
+      "obscure_required": false,
+      "glass_materials": [
+        "ENV Glazing proxy"
+      ],
+      "position_approved": false,
+      "scope": "Frame envelope only. Does not approve location, sash configuration, privacy, or finished-floor datum. Upper VR deck is19mm above the drawing datum."
+    },
+    {
+      "window": "W11",
+      "source_sheet": 11,
+      "scheduled_width_height_sill_mm": [
+        2230,
+        1520,
+        760
+      ],
+      "measured_width_height_sill_mm": [
+        2230.0,
+        1520.0,
+        760.0
+      ],
+      "difference_mm": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "nominal_envelope_check": "PASS",
+      "glass_pieces": 2,
+      "obscure_required": false,
+      "glass_materials": [
+        "ENV Glazing proxy"
+      ],
+      "position_approved": false,
+      "scope": "Frame envelope only. Does not approve location, sash configuration, privacy, or finished-floor datum. Upper VR deck is19mm above the drawing datum."
+    },
+    {
+      "window": "W12",
+      "source_sheet": 11,
+      "scheduled_width_height_sill_mm": [
+        670,
+        1260,
+        1020
+      ],
+      "measured_width_height_sill_mm": [
+        670.0,
+        1260.0,
+        1020.0
+      ],
+      "difference_mm": [
+        -0.0,
+        -0.0,
+        0.0
+      ],
+      "nominal_envelope_check": "PASS",
+      "glass_pieces": 1,
+      "obscure_required": true,
+      "glass_materials": [
+        "ENV Glazing proxy"
+      ],
+      "position_approved": false,
+      "scope": "Frame envelope only. Does not approve location, sash configuration, privacy, or finished-floor datum. Upper VR deck is19mm above the drawing datum."
+    },
+    {
+      "window": "W13",
+      "source_sheet": 11,
+      "scheduled_width_height_sill_mm": [
+        670,
+        1260,
+        1020
+      ],
+      "measured_width_height_sill_mm": [
+        670.0,
+        1260.0,
+        1020.0
+      ],
+      "difference_mm": [
+        -0.0,
+        -0.0,
+        0.0
+      ],
+      "nominal_envelope_check": "PASS",
+      "glass_pieces": 1,
+      "obscure_required": true,
+      "glass_materials": [
+        "ENV Glazing proxy"
+      ],
+      "position_approved": false,
+      "scope": "Frame envelope only. Does not approve location, sash configuration, privacy, or finished-floor datum. Upper VR deck is19mm above the drawing datum."
+    },
+    {
+      "window": "W14",
+      "source_sheet": 11,
+      "scheduled_width_height_sill_mm": [
+        2230,
+        1520,
+        760
+      ],
+      "measured_width_height_sill_mm": [
+        2230.0,
+        1520.0,
+        760.0
+      ],
+      "difference_mm": [
+        -0.0,
+        0.0,
+        -0.0
+      ],
+      "nominal_envelope_check": "PASS",
+      "glass_pieces": 2,
+      "obscure_required": false,
+      "glass_materials": [
+        "ENV Glazing proxy"
+      ],
+      "position_approved": false,
+      "scope": "Frame envelope only. Does not approve location, sash configuration, privacy, or finished-floor datum. Upper VR deck is19mm above the drawing datum."
+    },
+    {
+      "window": "W15",
+      "source_sheet": 11,
+      "scheduled_width_height_sill_mm": [
+        2230,
+        1520,
+        760
+      ],
+      "measured_width_height_sill_mm": [
+        2230.0,
+        1520.0,
+        760.0
+      ],
+      "difference_mm": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "nominal_envelope_check": "PASS",
+      "glass_pieces": 2,
+      "obscure_required": false,
+      "glass_materials": [
+        "ENV Glazing proxy"
+      ],
+      "position_approved": false,
+      "scope": "Frame envelope only. Does not approve location, sash configuration, privacy, or finished-floor datum. Upper VR deck is19mm above the drawing datum."
+    },
+    {
+      "window": "W16",
+      "source_sheet": 11,
+      "scheduled_width_height_sill_mm": [
+        670,
+        1260,
+        1020
+      ],
+      "measured_width_height_sill_mm": [
+        670.0,
+        1260.0,
+        1020.0
+      ],
+      "difference_mm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "nominal_envelope_check": "PASS",
+      "glass_pieces": 1,
+      "obscure_required": true,
+      "glass_materials": [
+        "ENV Glazing proxy"
+      ],
+      "position_approved": false,
+      "scope": "Frame envelope only. Does not approve location, sash configuration, privacy, or finished-floor datum. Upper VR deck is19mm above the drawing datum."
+    },
+    {
+      "window": "W17",
+      "source_sheet": 11,
+      "scheduled_width_height_sill_mm": [
+        2230,
+        1520,
+        760
+      ],
+      "measured_width_height_sill_mm": [
+        2230.0,
+        1520.0,
+        760.0
+      ],
+      "difference_mm": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "nominal_envelope_check": "PASS",
+      "glass_pieces": 2,
+      "obscure_required": false,
+      "glass_materials": [
+        "ENV Glazing proxy"
+      ],
+      "position_approved": false,
+      "scope": "Frame envelope only. Does not approve location, sash configuration, privacy, or finished-floor datum. Upper VR deck is19mm above the drawing datum."
+    },
+    {
+      "window": "W18",
+      "source_sheet": 11,
+      "scheduled_width_height_sill_mm": [
+        1810,
+        1520,
+        760
+      ],
+      "measured_width_height_sill_mm": [
+        1810.0,
+        1520.0,
+        760.0
+      ],
+      "difference_mm": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "nominal_envelope_check": "PASS",
+      "glass_pieces": 2,
+      "obscure_required": false,
+      "glass_materials": [
+        "ENV Glazing proxy"
+      ],
+      "position_approved": false,
+      "scope": "Frame envelope only. Does not approve location, sash configuration, privacy, or finished-floor datum. Upper VR deck is19mm above the drawing datum."
+    },
+    {
+      "window": "W19",
+      "source_sheet": 11,
+      "scheduled_width_height_sill_mm": [
+        2230,
+        1520,
+        760
+      ],
+      "measured_width_height_sill_mm": [
+        2230.0,
+        1520.0,
+        760.0
+      ],
+      "difference_mm": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "nominal_envelope_check": "PASS",
+      "glass_pieces": 2,
+      "obscure_required": false,
+      "glass_materials": [
+        "ENV Glazing proxy"
+      ],
+      "position_approved": false,
+      "scope": "Frame envelope only. Does not approve location, sash configuration, privacy, or finished-floor datum. Upper VR deck is19mm above the drawing datum."
+    }
+  ]
+}

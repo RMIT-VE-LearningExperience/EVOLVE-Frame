@@ -1,0 +1,13 @@
+{
+  "sha256": "97b43bef7a3ea430641f5f7cd0cbc8693eaa15fcb65b8322598404c701a538c3",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "The assembly is separated. Use the slider to bring the layers closer or spread them apart. Each number identifies a component. Select it to hear its explanation, then choose Isolate part to inspect it without the surrounding layers. You can rotate the complete model with the grip, or drag the rotation slider. Use the zoom buttons to change its size. All parts restores the other components. Reset all also restores the original position and assembles the window. When you're finished, return to Tour guide and choose Finish tour.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

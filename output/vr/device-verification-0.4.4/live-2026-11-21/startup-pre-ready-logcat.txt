@@ -1,0 +1,738 @@
+--------- beginning of main
+11-21 08:46:51.046 19254 19254 I zygote64: setSvpTask pid 19254 tid 19254 pri 3 packageName au.edu.evolve.framelab fg 1 startType 0
+11-21 08:46:51.046 19254 19254 I zygote64: setSvpFgState tid 19254 fg 1
+11-21 08:46:51.057 19254 19254 I evolve.framelab: Late-enabling -Xcheck:jni
+11-21 08:46:51.073 19254 19254 I evolve.framelab: Using CollectorTypeCC GC.
+--------- beginning of system
+11-21 08:46:51.112 19254 15563 I ActivityThread: onBindApplication, processName: au.edu.evolve.framelab, displayId: -1, initDensityDpi: 640
+11-21 08:46:51.122 19254 19254 I LoadedApk: add sharememory/verifytool jar
+11-21 08:46:51.132 19254 19254 W ziparchive: Unable to open '/data/app/~~3ay0DLPFGnuL9FHUhGRd_w==/au.edu.evolve.framelab-YOIzSCQusER0pk3bGolzpw==/base.dm': No such file or directory
+11-21 08:46:51.132 19254 19254 W ziparchive: Unable to open '/data/app/~~3ay0DLPFGnuL9FHUhGRd_w==/au.edu.evolve.framelab-YOIzSCQusER0pk3bGolzpw==/base.dm': No such file or directory
+11-21 08:46:51.138 19254 15563 I SysMonitorFwBridge: sISysMonitorFwFactory = android.app.SysMonitorFwFactoryImpl@2bb9015
+11-21 08:46:51.151 19254 19254 E ANDR-BPERF-JNI: com.bytedance.util.BPerformance: loading JNI
+11-21 08:46:51.151 19254 19254 I Perf    : Connecting to perf service.
+11-21 08:46:51.172 19254 19254 I evolve.framelab: hprofopt setDumpFlag: 0
+11-21 08:46:51.207 19254 19254 W ActivityThread: notifyAppLaunchStatus au.edu.evolve.framelab com.unity3d.player.UnityPlayerActivity
+11-21 08:46:51.212 19254 19254 I ActivityThread: updateApplicationDisplay from: -1 to: 0
+11-21 08:46:51.227 19254 19254 E SYS_DEFAULT_LOG: class android.app.ISysMonitorFwFactory$8|IRecoverActions|setCurActivity|SYS_DEFAULT_FUN_CONTENT
+11-21 08:46:51.227 19254 19254 E SYS_DEFAULT_LOG: class android.app.ISysMonitorFwFactory$8|IRecoverActions|setCurActivity|SYS_DEFAULT_FUN_CONTENT
+11-21 08:46:51.281 19254 19254 I IL2CPP  : JNI_OnLoad
+11-21 08:46:51.305 19254 19254 I Unity   : resumeUnity
+11-21 08:46:51.315 19254 19254 E SYS_DEFAULT_LOG: class android.app.ISysMonitorFwFactory$8|IRecoverActions|setCurActivity|SYS_DEFAULT_FUN_CONTENT
+11-21 08:46:51.316 19254 19254 I Unity   : onResume
+11-21 08:46:51.322 19254 15587 W ziparchive: Unable to open '/system/framework/QXPerformance.dm': No such file or directory
+11-21 08:46:51.322 19254 15587 W ziparchive: Unable to open '/system/framework/QXPerformance.dm': No such file or directory
+11-21 08:46:51.330 19254 19254 E RmClient: DelayInfoManager
+11-21 08:46:51.331 19254 19254 E RmClient: open(13) /dev/k_rs_cpufreqinfo fail(Permission denied)
+11-21 08:46:51.348 19254 19254 W libc    : Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+11-21 08:46:51.349 19254 19254 I ViewRootImplExt: setScaleInfo, ViewRootImpl[au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity] scaleChanged=false, byServer=false, isHwui=false
+11-21 08:46:51.349 19254 19254 W evolve.framelab: SetSurfaceScaleInfo, width=4320, height=2160, scale=0.000000
+11-21 08:46:51.354 19254 19254 W libc    : Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+11-21 08:46:51.357 19254 19254 I ViewRootImpl: Will skip draw vr actvity :au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity
+11-21 08:46:51.359 19254 19254 I ViewRootImpl: Will skip draw vr actvity :au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity
+11-21 08:46:51.360 19254 15580 I Unity   : MemoryManager: Using 'Dynamic Heap' Allocator.
+11-21 08:46:51.360 19254 15580 I Unity   : Mimalloc is enabled and will override the Dynamic Heap and Dual Thread (Main and MainThread) allocators.
+11-21 08:46:51.368 19254 19254 I Unity   : windowFocusChanged: true
+11-21 08:46:51.382 19254 15580 I Unity   : SetGameState: isLoading: true, mode: UNKNOWN, label: -2, quality: -1
+11-21 08:46:51.398 19254 15580 E Unity   : java.lang.ClassNotFoundException: Didn't find class "com.google.android.play.core.assetpacks.AssetPackManager" on path: DexPathList[[zip file "/system/framework/sys-verifytool.jar", zip file "/system/framework/sys-sharememory.jar", zip file "/data/app/~~3ay0DLPFGnuL9FHUhGRd_w==/au.edu.evolve.framelab-YOIzSCQusER0pk3bGolzpw==/base.apk"],nativeLibraryDirectories=[/data/app/~~3ay0DLPFGnuL9FHUhGRd_w==/au.edu.evolve.framelab-YOIzSCQusER0pk3bGolzpw==/lib/arm64, /data/app/~~3ay0DLPFGnuL9FHUhGRd_w==/au.edu.evolve.framelab-YOIzSCQusER0pk3bGolzpw==/base.apk!/lib/arm64-v8a, /system/lib64, /system/lib64/soundfx, /system/lib64/vklayer, /system/lib64/gleslayers, /system_ext/lib64]]
+11-21 08:46:51.403 19254 15580 I Unity   : SystemInfo CPU = ARM64 FP ASIMD AES, Cores = 6, Memory = 11736mb
+11-21 08:46:51.403 19254 15580 I Unity   : SystemInfo ARM big.LITTLE configuration: 4 big (mask: 0x3c), 2 little (mask: 0x3)
+11-21 08:46:51.403 19254 15580 I Unity   : ApplicationInfo 'au.edu.evolve.framelab', Version '0.4.4', Min API Level '29', Target API Level '36'
+11-21 08:46:51.403 19254 15580 I Unity   : Built from '6000.6/staging' branch, Version '6000.6.9f1 (8c45277fb9c5)', Build type 'Development', Scripting Backend 'il2cpp', CPU 'arm64-v8a', Stripping 'Enabled'
+11-21 08:46:51.403 19254 15580 I Unity   : Device Model 'Pico A94Y0', OS 'Android OS 14 (API 34)'
+11-21 08:46:51.408 19254 19254 I ViewRootImplExt: setScaleInfo, ViewRootImpl[au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity] scaleChanged=false, byServer=false, isHwui=false
+11-21 08:46:51.408 19254 19254 W evolve.framelab: SetSurfaceScaleInfo, width=4320, height=2160, scale=0.000000
+11-21 08:46:51.408 19254 19254 I ViewRootImpl: Will skip draw vr actvity :au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity
+11-21 08:46:51.494 19254 15580 I Unity   : Company Name: EVOLVE Learning
+11-21 08:46:51.494 19254 15580 I Unity   : Product Name: Leichhardt
+11-21 08:46:51.494 19254 19254 I ViewRootImpl: Will skip draw vr actvity :au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity
+11-21 08:46:51.498 19254 15580 E HardwareProfiles: Status: Not active
+11-21 08:46:51.509 19254 15580 W PicoXR  : context addr is 0x7b22210f58.
+11-21 08:46:51.522 19254 15580 E PxrLoader: Error [GENERAL | xrEnumerateInstanceExtensionProperties | PxrLoader] : RuntimeInterface::LoadRuntime supports XR_KHR_LOADER_INIT_SUPPORT!
+11-21 08:46:51.522 19254 15580 E APxrRuntime: Java_com_pico_xr_openxr_1runtime_DriverLoader_nativeGetProcAddr: InitializeLoaderKHR!
+11-21 08:46:51.522 19254 15580 E APxrRuntime: abel, xrInitializeLoaderKHR
+11-21 08:46:51.522 19254 15580 W libc    : Access denied finding property "ro.debuggable"
+11-21 08:46:51.522 19254 15580 E APxrRuntime: Java_com_pico_xr_openxr_1runtime_DriverLoader_nativeGetProcAddr: NegotiateLoaderRuntimeInterface!
+11-21 08:46:51.522 19254 15580 E PxrRuntime: xrNegotiateLoaderRuntimeInterface
+11-21 08:46:51.522 19254 15580 I PxrLoader: Info [GENERAL | xrEnumerateInstanceExtensionProperties | PxrLoader] : RuntimeInterface::LoadRuntime succeeded loading runtime defined in manifest file  using interface version 1 and OpenXR API version 1.1
+11-21 08:46:51.522 19254 15580 E APxrRuntime: ExtensionConfig, cloudExtensionCount 0,openxr common 0,openxr10 0,openxr11 0,experimental 0,pico only 0,private 0,third party 0,hidden 0
+11-21 08:46:51.523 19254 15580 I Unity   : [XR] [528853585072] [08:46:51.523][Info   ] Available Layers: (0)
+11-21 08:46:51.524 19254 15580 I PxrLoader: Info [GENERAL | xrCreateInstance:  | PxrLoader] : app API version:1.1  pxrLoader current version:1.0.24
+11-21 08:46:51.524 19254 15580 E PxrLoader: Error [GENERAL | xrCreateInstance | PxrLoader] : xrCreateInstance called with invalid API version 1.1.  Max supported version is 1.0
+11-21 08:46:51.524 19254 15580 I PxrLoader: Info [GENERAL | xrCreateInstance:  | PxrLoader] : app API version:1.0  pxrLoader current version:1.0.24
+11-21 08:46:51.524 19254 15580 I PxrConfigServiceClient: [###][###:75]: connect configuration service, using time: 0
+11-21 08:46:51.527 19254 15580 E oxr_config: sdk_boundary_EnableSeethroughDelayLog=0
+11-21 08:46:51.527 19254 15580 E oxr_config: sdk_boundary_ReportSeethroughDelayData=1
+11-21 08:46:51.527 19254 15580 E oxr_config:   xrMrEngineSupport is 1
+11-21 08:46:51.527 19254 15580 E oxr_config: ctrltype updateConfigControllerInfo 842 xrControllerType 8
+11-21 08:46:51.529 19254 15580 E APxrRuntime: getPackageManagerInfo : {"app_fps":0,"eyebufferHeight":0,"eyebufferWidth":0}
+11-21 08:46:51.529 19254 15580 E APxrRuntime:  oxr_instance_create ,package_name au.edu.evolve.framelab,eyebuffer (0,0),packageFps 0, isGLTileRender 0
+11-21 08:46:51.529 19254 15580 E PxrConfigServiceClient: [###][###:122]: find configname: au.edu.evolve.framelab value is null, please check it!
+11-21 08:46:51.529 19254 15580 E APxrRuntime:  oxr_instance_create ,package_name au.edu.evolve.framelab,PxrPerformanceParams refreshRate 0,resolutionRate 0.000000, cpuLevel 0, gpuLevel 0, ffrLevel 0
+11-21 08:46:51.529 19254 15580 W APxrRuntime: debug_get_log_option_persist.pxr.log_IPC_LOG raw:(null)
+11-21 08:46:51.533 19254 15580 I pico-ipc-client: Client(long nativePointer)
+11-21 08:46:51.533 19254 15580 W APxrRuntime: ipc_client_android start to initiate the guardian and persistence client object info
+11-21 08:46:51.534 19254 15580 I PersistenceClient: Client(long nativePointer)
+11-21 08:46:51.543 19254 15580 I pico-ipc-client: blockingConnect
+11-21 08:46:51.543 19254 15580 I pico-ipc-client: bind
+11-21 08:46:51.545 19254 15628 I pico-ipc-client: onServiceConnected
+11-21 08:46:51.546 19254 15628 I pico-ipc-client: au.edu.evolve.framelab,Runtime versionCode 200201388
+11-21 08:46:51.549 19254 15580 W APxrRuntime: Connect success, fd=114
+11-21 08:46:51.549 19254 15580 E APxrRuntime: is_selabel_priv_app getline u:r:untrusted_app:s0:c170,c256,c512,c768
+11-21 08:46:51.550 19254 15580 I TrackingClient: [###][###:105]: onFirstRef TRACKER_COUNT 5
+11-21 08:46:51.550 19254 15580 I TrackingClient: mLoglevel 0
+11-21 08:46:51.550 19254 15580 I TrackingClient: [###][###:112]: Connect service, name: pvrtracking
+11-21 08:46:51.551 19254 15580 I TrackingClient: [###][###:158]: ServiceStatus update, status: 1
+11-21 08:46:51.551 19254 15580 I TrackingClient: [###][###:158]: ServiceStatus update, status: 2
+11-21 08:46:51.551 19254 15580 I TrackingClient: [onServiceConnected]
+11-21 08:46:51.553 19254 15580 I TrackingClient: mmap success, 514008 size
+11-21 08:46:51.553 19254 15580 I TrackingClient: setShareMemoryFD 112
+11-21 08:46:51.553 19254 15580 I TrackingClient: initializeShareMemory start
+11-21 08:46:51.553 19254 15580 I TrackingClient: initializeShareMemory, fake pose mode 0
+11-21 08:46:51.553 19254 15580 I TrackingClient: initializeShareMemory, hook hand tracking mode 0.
+11-21 08:46:51.553 19254 15580 I TrackingClient: initializeShareMemory end
+11-21 08:46:51.553 19254 15580 I TrackingClient: [###][###:2024]: reset notify state 00000000000000000000000000000000
+11-21 08:46:51.553 19254 15580 E TrackingClient: getSwiftTrackerExtDevInfo: cant do operation in tracker Mode: 0
+11-21 08:46:51.553 19254 15580 E TrackingClient: extDev updateTrackerExtDevStatus: faild!
+11-21 08:46:51.553 19254 15580 I TrackingClient: [###][###:858]: key 3, size 4
+11-21 08:46:51.553 19254 15580 E APxrRuntime: ism->num_isdevs:5 
+11-21 08:46:51.553 19254 15580 E APxrRuntime: ism->num_itracks:5 
+11-21 08:46:51.554 19254 15580 E APxrRuntime: ctrltype xrt_controller_device_set_name_str 483 deviceModel 8
+11-21 08:46:51.554 19254 15580 E APxrRuntime: controllertype  xrt_controller_device_set_name_str 507 deviceModel 8 xdev->name 6
+11-21 08:46:51.554 19254 15580 E APxrRuntime: ctrltype xrt_controller_device_set_name_str 483 deviceModel 8
+11-21 08:46:51.554 19254 15580 E APxrRuntime: controllertype  xrt_controller_device_set_name_str 507 deviceModel 8 xdev->name 6
+11-21 08:46:51.554 19254 15580 E APxrRuntime: ii->num_xtracks:5 
+11-21 08:46:51.554 19254 15580 E APxrRuntime: ism->num_isdevs:5 
+11-21 08:46:51.554 19254 15580 E APxrRuntime: isdev->name: 1
+11-21 08:46:51.554 19254 15580 E APxrRuntime: XRT_DEVICE_GENERIC_HMD, 0
+11-21 08:46:51.554 19254 15580 E APxrRuntime: isdev->name: 6
+11-21 08:46:51.554 19254 15580 E APxrRuntime: XRT_DEVICE_GENERIC_DEVICE, 1
+11-21 08:46:51.554 19254 15580 E APxrRuntime: isdev->name: 6
+11-21 08:46:51.554 19254 15580 E APxrRuntime: XRT_DEVICE_GENERIC_DEVICE, 2
+11-21 08:46:51.554 19254 15580 E APxrRuntime: isdev->name: 6
+11-21 08:46:51.554 19254 15580 E APxrRuntime: XRT_DEVICE_GENERIC_DEVICE, 3
+11-21 08:46:51.554 19254 15580 E APxrRuntime: isdev->name: 12
+11-21 08:46:51.554 19254 15580 W APxrRuntime: oxr_instance_create u_device_assign_xdev_roles sys->num_xdevs = 16,NUM_XDEVS  = 16
+11-21 08:46:51.554 19254 15580 E APxrRuntime: runtime oxr_instance_create u_device_assign_xdev_roles sys->role.left = 1,sys->role.right  = 2
+11-21 08:46:51.554 19254 15580 E PCTP    : PCTP upload:{"pkg_name":"au.edu.evolve.framelab","type":"fov","value":"104","power_need":true}
+11-21 08:46:51.554 19254 15580 E APxrRuntime: oxr_instance, texture_redirect_mark_interface2 0
+11-21 08:46:51.554 19254 15580 E APxrRuntime: oxr_instance, redirect hook_result==0, result==0 
+11-21 08:46:51.554 19254 15580 E PxrConfigServiceClient: [###][###:122]: find configname: key_et_enable value is null, please check it!
+11-21 08:46:51.554 19254 15580 W oxr_config: from config service, et  enable 0
+11-21 08:46:51.555 19254 15580 E PxrConfigServiceClient: [###][###:122]: find configname: key_ft_enable value is null, please check it!
+11-21 08:46:51.555 19254 15580 W oxr_config: from config service, ft  enable 0
+11-21 08:46:51.555 19254 15580 I evolve.framelab: SysPerfTracker acquireUIFirst pid 19254
+11-21 08:46:51.555 19254 15580 E APxrRuntime: update client version shm: 0.4.4, version: 0.4.4
+11-21 08:46:51.557 19254 15580 I PxrLoader: Info [GENERAL | xrCreateInstance | PxrLoader] : LoaderInstance::CreateInstance succeeded with 0 layers enabled and runtime interface - created instance = 0xb40000793b913c00
+11-21 08:46:51.557 19254 15580 W APxrRuntime: debug_get_log_option_persist.pxr.log_XRT_COMPOSITOR_LOG raw:(null)
+11-21 08:46:51.558 19254 15580 I vulkan  : Loaded layer VK_LAYER_PICO
+11-21 08:46:51.562 19254 15580 I AdrenoVK-0: ===== BEGIN DUMP OF OVERRIDDEN SETTINGS =====
+11-21 08:46:51.563 19254 15580 I AdrenoVK-0: ===== END DUMP OF OVERRIDDEN SETTINGS =====
+11-21 08:46:51.565 19254 15580 I AdrenoVK-0: QUALCOMM build          : 796d02fee9, Ia74af94f1a
+11-21 08:46:51.565 19254 15580 I AdrenoVK-0: Build Date              : 03/15/24
+11-21 08:46:51.565 19254 15580 I AdrenoVK-0: Shader Compiler Version : E031.46.00.00
+11-21 08:46:51.565 19254 15580 I AdrenoVK-0: Local Branch            : 
+11-21 08:46:51.565 19254 15580 I AdrenoVK-0: Remote Branch           : refs/tags/AU_LINUX_ANDROID_LA.VENDOR.14.3.4.11.00.00.1126.111
+11-21 08:46:51.565 19254 15580 I AdrenoVK-0: Remote Branch           : NONE
+11-21 08:46:51.565 19254 15580 I AdrenoVK-0: Reconstruct Branch      : NOTHING
+11-21 08:46:51.565 19254 15580 I AdrenoVK-0: Build Config            : S P 16.1.2 AArch64
+11-21 08:46:51.565 19254 15580 I AdrenoVK-0: Driver Path             : /vendor/lib64/hw/vulkan.adreno.so
+11-21 08:46:51.565 19254 15580 I AdrenoVK-0: Driver Version          : 0772.0
+11-21 08:46:51.565 19254 15580 I AdrenoVK-0: PFP                     : 0x01511181
+11-21 08:46:51.565 19254 15580 I AdrenoVK-0: ME                      : 0x00000000
+11-21 08:46:51.565 19254 15580 I AdrenoVK-0: Application Name    : Leichhardt
+11-21 08:46:51.565 19254 15580 I AdrenoVK-0: Application Version : 0x00000001
+11-21 08:46:51.565 19254 15580 I AdrenoVK-0: Engine Name         : Unity
+11-21 08:46:51.565 19254 15580 I AdrenoVK-0: Engine Version      : 0x00000001
+11-21 08:46:51.565 19254 15580 I AdrenoVK-0: Api Version         : 0x00401000
+11-21 08:46:51.565 19254 15580 W APxrRuntime: Did not find runtime suggested GPU, fall back to GPU 0
+11-21 08:46:51.567 19254 15580 I vulkan  : Loaded layer VK_LAYER_PICO
+11-21 08:46:51.570 19254 15580 I AdrenoVK-0: QUALCOMM build          : 796d02fee9, Ia74af94f1a
+11-21 08:46:51.570 19254 15580 I AdrenoVK-0: Build Date              : 03/15/24
+11-21 08:46:51.570 19254 15580 I AdrenoVK-0: Shader Compiler Version : E031.46.00.00
+11-21 08:46:51.570 19254 15580 I AdrenoVK-0: Local Branch            : 
+11-21 08:46:51.570 19254 15580 I AdrenoVK-0: Remote Branch           : refs/tags/AU_LINUX_ANDROID_LA.VENDOR.14.3.4.11.00.00.1126.111
+11-21 08:46:51.570 19254 15580 I AdrenoVK-0: Remote Branch           : NONE
+11-21 08:46:51.570 19254 15580 I AdrenoVK-0: Reconstruct Branch      : NOTHING
+11-21 08:46:51.570 19254 15580 I AdrenoVK-0: Build Config            : S P 16.1.2 AArch64
+11-21 08:46:51.570 19254 15580 I AdrenoVK-0: Driver Path             : /vendor/lib64/hw/vulkan.adreno.so
+11-21 08:46:51.570 19254 15580 I AdrenoVK-0: Driver Version          : 0772.0
+11-21 08:46:51.570 19254 15580 I AdrenoVK-0: PFP                     : 0x01511181
+11-21 08:46:51.570 19254 15580 I AdrenoVK-0: ME                      : 0x00000000
+11-21 08:46:51.570 19254 15580 I AdrenoVK-0: Application Name    : Leichhardt
+11-21 08:46:51.570 19254 15580 I AdrenoVK-0: Application Version : 0x00000001
+11-21 08:46:51.570 19254 15580 I AdrenoVK-0: Engine Name         : Unity
+11-21 08:46:51.570 19254 15580 I AdrenoVK-0: Engine Version      : 0x00000001
+11-21 08:46:51.570 19254 15580 I AdrenoVK-0: Api Version         : 0x00401000
+11-21 08:46:51.570 19254 15580 W APxrRuntime: Did not find runtime suggested GPU, fall back to GPU 0
+11-21 08:46:51.571 19254 15580 I PicoLayer: Engine doesn't support 'VK_KHR_fragment_shading_rate', we disabled it now.
+11-21 08:46:51.571 19254 15580 I PicoLayer: Engine doesn't support 'VK_KHR_fragment_shading_rate', we disabled it now.
+11-21 08:46:51.571 19254 15580 I PicoLayer: Engine doesn't support 'VK_KHR_fragment_shading_rate', we disabled it now.
+11-21 08:46:51.571 19254 15580 I PicoLayer: Engine doesn't support 'VK_KHR_fragment_shading_rate', we disabled it now.
+11-21 08:46:51.594 19254 15580 I MediaRouter: Skip setBluetoothA2dpOn(): types=8388615, isPlaybackActive()=false, BT route=null
+11-21 08:46:51.604 19254 15580 I FastMixerState: sMaxFastTracks = 8
+11-21 08:46:51.609 19254 15580 I AAudio  : AAudioStreamBuilder_openStream() called ----------------------------------------
+11-21 08:46:51.609 19254 15580 I AudioStreamBuilder: rate   =  24000, channels  = 2, channelMask = 0x80000003, format   = 5, sharing = SH, dir = OUTPUT
+11-21 08:46:51.609 19254 15580 I AudioStreamBuilder: device =      0, sessionId = 0, perfMode = 12, callback: ON with frames = 512
+11-21 08:46:51.609 19254 15580 I AudioStreamBuilder: usage  =      0, contentType = 0, inputPreset = 0, allowedCapturePolicy = 0
+11-21 08:46:51.609 19254 15580 I AudioStreamBuilder: privacy sensitive = false, opPackageName = (null), attributionTag = (null)
+11-21 08:46:51.634 19254 15580 I AAudio  : AAudioStreamBuilder_openStream() returns 0 = AAUDIO_OK for s#1 ----------------
+11-21 08:46:51.859 19254 15580 I Unity   : XRGeneral Settings awakening...
+11-21 08:46:51.859 19254 15580 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 08:46:51.859 19254 15580 I Unity   : UnityEngine.XR.Management.XRGeneralSettings:Awake()
+11-21 08:46:51.859 19254 15580 I Unity   : 
+11-21 08:46:51.870 19254 15580 I IL2CPP  : Locale en-GB
+11-21 08:46:51.906 19254 15580 I Unity   : Loading OpenXR loader library at path: openxr_loader
+11-21 08:46:51.906 19254 15580 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 08:46:51.906 19254 15580 I Unity   : UnityEngine.XR.OpenXR.OpenXRLoaderBase:LoadOpenXRSymbols()
+11-21 08:46:51.906 19254 15580 I Unity   : UnityEngine.XR.OpenXR.OpenXRLoaderBase:InitializeInternal()
+11-21 08:46:51.906 19254 15580 I Unity   : UnityEngine.XR.OpenXR.OpenXRLoaderBase:Initialize()
+11-21 08:46:51.906 19254 15580 I Unity   : UnityEngine.XR.Management.XRManagerSettings:InitializeLoaderSync()
+11-21 08:46:51.906 19254 15580 I Unity   : 
+11-21 08:46:51.907 19254 15580 E APxrRuntime: ipc_client_android_destory ii = 0xb40000793bf6ee00
+11-21 08:46:51.907 19254 15580 E APxrRuntime: [ipc_client_android_destroy][2048] ipc_sense_client destroy ica
+11-21 08:46:51.907 19254 15580 I pico-ipc-client: markAsDiscardedByNative()
+11-21 08:46:51.907 19254 15580 I pico-ipc-client: shutdown()
+11-21 08:46:51.909 19254 15580 I evolve.framelab: SysPerfTracker releaseUIFirst pid 19254
+11-21 08:46:51.909 19254 15580 I PxrLoader: Info [GENERAL | xrDestroyInstance | PxrLoader] : RuntimeInterface::UnloadRuntime - Unloading RuntimeInterface
+11-21 08:46:51.909 19254 15580 I PxrLoader: Info [GENERAL |  | PxrLoader] : RuntimeInterface being destroyed.
+11-21 08:46:51.914 19254 15580 W PicoXR  : context addr is 0x7b22211038.
+11-21 08:46:51.915 19254 15580 E PxrLoader: Error [GENERAL | xrEnumerateInstanceExtensionProperties | PxrLoader] : RuntimeInterface::LoadRuntime supports XR_KHR_LOADER_INIT_SUPPORT!
+11-21 08:46:51.915 19254 15580 E APxrRuntime: Java_com_pico_xr_openxr_1runtime_DriverLoader_nativeGetProcAddr: InitializeLoaderKHR!
+11-21 08:46:51.915 19254 15580 E APxrRuntime: abel, xrInitializeLoaderKHR
+11-21 08:46:51.915 19254 15580 E APxrRuntime: Java_com_pico_xr_openxr_1runtime_DriverLoader_nativeGetProcAddr: NegotiateLoaderRuntimeInterface!
+11-21 08:46:51.915 19254 15580 E PxrRuntime: xrNegotiateLoaderRuntimeInterface
+11-21 08:46:51.915 19254 15580 I PxrLoader: Info [GENERAL | xrEnumerateInstanceExtensionProperties | PxrLoader] : RuntimeInterface::LoadRuntime succeeded loading runtime defined in manifest file  using interface version 1 and OpenXR API version 1.1
+11-21 08:46:51.915 19254 15580 E APxrRuntime: ExtensionConfig, cloudExtensionCount 0,openxr common 0,openxr10 0,openxr11 0,experimental 0,pico only 0,private 0,third party 0,hidden 0
+11-21 08:46:51.929 19254 15580 I Unity   : [XR] [528853585072] [08:46:51.929][Info   ] Available Layers: (0)
+11-21 08:46:51.930 19254 15580 I PxrLoader: Info [GENERAL | xrCreateInstance:  | PxrLoader] : app API version:1.1  pxrLoader current version:1.0.24
+11-21 08:46:51.930 19254 15580 E PxrLoader: Error [GENERAL | xrCreateInstance | PxrLoader] : xrCreateInstance called with invalid API version 1.1.  Max supported version is 1.0
+11-21 08:46:51.930 19254 15580 I PxrLoader: Info [GENERAL | xrCreateInstance:  | PxrLoader] : app API version:1.0  pxrLoader current version:1.0.24
+11-21 08:46:51.932 19254 15580 E oxr_config: sdk_boundary_EnableSeethroughDelayLog=0
+11-21 08:46:51.932 19254 15580 E oxr_config: sdk_boundary_ReportSeethroughDelayData=1
+11-21 08:46:51.932 19254 15580 E oxr_config:   xrMrEngineSupport is 1
+11-21 08:46:51.932 19254 15580 E oxr_config: ctrltype updateConfigControllerInfo 842 xrControllerType 8
+11-21 08:46:51.933 19254 15580 E APxrRuntime: getPackageManagerInfo : {"app_fps":0,"eyebufferHeight":0,"eyebufferWidth":0}
+11-21 08:46:51.933 19254 15580 E APxrRuntime:  oxr_instance_create ,package_name au.edu.evolve.framelab,eyebuffer (0,0),packageFps 0, isGLTileRender 0
+11-21 08:46:51.933 19254 15580 E PxrConfigServiceClient: [###][###:122]: find configname: au.edu.evolve.framelab value is null, please check it!
+11-21 08:46:51.933 19254 15580 E APxrRuntime:  oxr_instance_create ,package_name au.edu.evolve.framelab,PxrPerformanceParams refreshRate 0,resolutionRate 0.000000, cpuLevel 0, gpuLevel 0, ffrLevel 0
+11-21 08:46:51.935 19254 15580 I pico-ipc-client: Client(long nativePointer)
+11-21 08:46:51.935 19254 15580 W APxrRuntime: ipc_client_android start to initiate the guardian and persistence client object info
+11-21 08:46:51.936 19254 15580 I PersistenceClient: Client(long nativePointer)
+11-21 08:46:51.942 19254 15580 I pico-ipc-client: blockingConnect
+11-21 08:46:51.942 19254 15580 I pico-ipc-client: bind
+11-21 08:46:51.945 19254 15650 I pico-ipc-client: onServiceConnected
+11-21 08:46:51.946 19254 15650 I pico-ipc-client: au.edu.evolve.framelab,Runtime versionCode 200201388
+11-21 08:46:51.947 19254 15580 W APxrRuntime: Connect success, fd=127
+11-21 08:46:51.947 19254 15580 E APxrRuntime: is_selabel_priv_app getline u:r:untrusted_app:s0:c170,c256,c512,c768
+11-21 08:46:51.948 19254 15580 E APxrRuntime: ism->num_isdevs:5 
+11-21 08:46:51.948 19254 15580 E APxrRuntime: ism->num_itracks:5 
+11-21 08:46:51.948 19254 15580 E APxrRuntime: ctrltype xrt_controller_device_set_name_str 483 deviceModel 8
+11-21 08:46:51.948 19254 15580 E APxrRuntime: controllertype  xrt_controller_device_set_name_str 507 deviceModel 8 xdev->name 6
+11-21 08:46:51.948 19254 15580 E APxrRuntime: ctrltype xrt_controller_device_set_name_str 483 deviceModel 8
+11-21 08:46:51.948 19254 15580 E APxrRuntime: controllertype  xrt_controller_device_set_name_str 507 deviceModel 8 xdev->name 6
+11-21 08:46:51.948 19254 15580 E APxrRuntime: ii->num_xtracks:5 
+11-21 08:46:51.948 19254 15580 E APxrRuntime: ism->num_isdevs:5 
+11-21 08:46:51.948 19254 15580 E APxrRuntime: isdev->name: 1
+11-21 08:46:51.948 19254 15580 E APxrRuntime: XRT_DEVICE_GENERIC_HMD, 0
+11-21 08:46:51.948 19254 15580 E APxrRuntime: isdev->name: 6
+11-21 08:46:51.948 19254 15580 E APxrRuntime: XRT_DEVICE_GENERIC_DEVICE, 1
+11-21 08:46:51.948 19254 15580 E APxrRuntime: isdev->name: 6
+11-21 08:46:51.948 19254 15580 E APxrRuntime: XRT_DEVICE_GENERIC_DEVICE, 2
+11-21 08:46:51.948 19254 15580 E APxrRuntime: isdev->name: 6
+11-21 08:46:51.948 19254 15580 E APxrRuntime: XRT_DEVICE_GENERIC_DEVICE, 3
+11-21 08:46:51.948 19254 15580 E APxrRuntime: isdev->name: 12
+11-21 08:46:51.948 19254 15580 W APxrRuntime: oxr_instance_create u_device_assign_xdev_roles sys->num_xdevs = 16,NUM_XDEVS  = 16
+11-21 08:46:51.948 19254 15580 E APxrRuntime: runtime oxr_instance_create u_device_assign_xdev_roles sys->role.left = 1,sys->role.right  = 2
+11-21 08:46:51.948 19254 15580 E PCTP    : PCTP upload:{"pkg_name":"au.edu.evolve.framelab","type":"fov","value":"104","power_need":true}
+11-21 08:46:51.949 19254 15580 E APxrRuntime: oxr_instance, texture_redirect_mark_interface2 0
+11-21 08:46:51.949 19254 15580 E APxrRuntime: oxr_instance, redirect hook_result==0, result==0 
+11-21 08:46:51.949 19254 15580 E PxrConfigServiceClient: [###][###:122]: find configname: key_et_enable value is null, please check it!
+11-21 08:46:51.949 19254 15580 W oxr_config: from config service, et  enable 0
+11-21 08:46:51.949 19254 15580 E PxrConfigServiceClient: [###][###:122]: find configname: key_ft_enable value is null, please check it!
+11-21 08:46:51.949 19254 15580 W oxr_config: from config service, ft  enable 0
+11-21 08:46:51.949 19254 15580 I evolve.framelab: SysPerfTracker acquireUIFirst pid 19254
+11-21 08:46:51.949 19254 15580 E APxrRuntime: update client version shm: 0.4.4, version: 0.4.4
+11-21 08:46:51.950 19254 15580 I PxrLoader: Info [GENERAL | xrCreateInstance | PxrLoader] : LoaderInstance::CreateInstance succeeded with 0 layers enabled and runtime interface - created instance = 0xb4000079168906c0
+11-21 08:46:51.965 19254 15580 E SensorManager: getFullSensorList check calling is 10170
+11-21 08:46:51.965 19254 15580 W Unity   : Orientation Listener cannot detect orientation.
+11-21 08:46:51.966 19254 15580 I Unity   : SetGameState: isLoading: false, mode: UNKNOWN, label: -1, quality: 0
+11-21 08:46:52.005 19254 15580 W APxrRuntime: Did not find runtime suggested GPU, fall back to GPU 0
+11-21 08:46:52.005 19254 15580 E APxrRuntime: xsi.is_spatial = 0
+11-21 08:46:52.007 19254 15580 E APxrRuntime: ipc_guardian_android_blocking_connect unsupported
+11-21 08:46:52.007 19254 15580 E APxrRuntime: ipc_mrservice_android_blocking_connect unsupported
+11-21 08:46:52.020 19254 15580 E APxrRuntime: running_mode fixed latency found:0,set: 3.000000
+11-21 08:46:52.020 19254 15580 E APxrRuntime: running_mode work_harder found:0, set: 0
+11-21 08:46:52.020 19254 15580 E APxrRuntime: running_mode detail_log found:0, set: 0
+11-21 08:46:52.020 19254 15580 E APxrRuntime: running_mode margin found:0, set: 0.000000s
+11-21 08:46:52.020 19254 15580 E APxrRuntime: running_mode fix_fps found:0, set: 0.000000
+11-21 08:46:52.020 19254 15580 E APxrRuntime: running_mode fix_padding found:0, set: 0.000000
+11-21 08:46:52.020 19254 15580 E APxrRuntime: running_mode virtual_fetch found:0, set: 0
+11-21 08:46:52.021 19254 15580 E APxrRuntime: debug_marker function disabled
+11-21 08:46:52.021 19254 15580 W APxrRuntime: oxr_session_create newly_installed_app: 0,32
+11-21 08:46:52.021 19254 15580 W xrt_session: oxr_session_manage_state, client: au.edu.evolve.framelab, action=1, state=XR_SESSION_STATE_UNKNOWN
+11-21 08:46:52.021 19254 15580 W xrt_session: oxr_session_change_state from 0 to 1
+11-21 08:46:52.021 19254 15580 E APxrRuntime: oxr_session_create floor_height 1.270152
+11-21 08:46:52.022 19254 15580 W pico-ipc-client: prefetch_app 0
+11-21 08:46:52.022 19254 19254 W pico-ipc-client: prefetch_app 0
+11-21 08:46:52.022 19254 15580 W oxr_config: from config service, oxr_get_motion_tracking_enable  enable 0
+11-21 08:46:52.023 19254 19254 I pico-ipc-client: registerActivityLifecycleCallbacks activity:com.unity3d.player.UnityPlayerActivity@4e02d54, resume:true, preload:false
+11-21 08:46:52.023 19254 19254 I SurfaceViewFinder: SurfaceViewFinder found SurfaceView of unity!
+11-21 08:46:52.023 19254 19254 I EngineListener: Window Focus:true, Surface created:true, App preload:false
+11-21 08:46:52.023 19254 19254 I EngineListener: Activity resume:true, Window Focus:true, Surface created:true, App preload:false, Achieved:true
+11-21 08:46:52.023 19254 19254 E APxrRuntime: Native activity resumed name = au.edu.evolve.framelab
+11-21 08:46:52.023 19254 19254 W xrt_session: au.edu.evolve.framelab, session_on_foucus_changed
+11-21 08:46:52.026 19254 19254 W xrt_session: au.edu.evolve.framelab, session_on_activity_resume: in: 0x1
+11-21 08:46:52.026 19254 19254 W APxrRuntime: Java_com_pico_picoopenxr_ipc_Client_NativeActivityResumed: 0xb40000793bd27800
+11-21 08:46:52.031 19254 15655 I Choreographer: UnityChoreographer packageName: au.edu.evolve.framelab false 0
+11-21 08:46:52.044 19254 19254 I ViewRootImplExt: setScaleInfo, ViewRootImpl[au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity] scaleChanged=false, byServer=false, isHwui=false
+11-21 08:46:52.044 19254 19254 W evolve.framelab: SetSurfaceScaleInfo, width=4320, height=2160, scale=0.000000
+11-21 08:46:52.045 19254 19254 I ViewRootImpl: Will skip draw vr actvity :au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity
+11-21 08:46:52.069 19254 15580 I Unity   : SetGameState: isLoading: true, mode: UNKNOWN, label: 0, quality: 0
+11-21 08:46:52.112 19254 15580 W xrt_session: au.edu.evolve.framelab: client: oxr_session_handler_xrtCompositorEventResumeChange, receive RESUME changed event
+11-21 08:46:52.112 19254 15580 W xrt_session: oxr_session_manage_state, client: au.edu.evolve.framelab, action=2, state=XR_SESSION_STATE_IDLE
+11-21 08:46:52.112 19254 15580 E xrt_session: oxr_session_manage_state: client au.edu.evolve.framelab reiceive resumed when session is idle:activity resumed:1
+11-21 08:46:52.112 19254 15580 W xrt_session: oxr_session_change_state from 1 to 2
+11-21 08:46:52.112 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.112][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_UNKNOWN->XR_SESSION_STATE_IDLE session=-5476376626813148864 time=0
+11-21 08:46:52.113 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.113][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_IDLE->XR_SESSION_STATE_READY session=-5476376626813148864 time=0
+11-21 08:46:52.115 19254 15580 E APxrRuntime: pxr_set_trackingorigin level type 0, xrEnableFloorLevel 1
+11-21 08:46:52.115 19254 15580 W APxrRuntime: TopApp 1
+11-21 08:46:52.115 19254 15580 E APxrRuntime: set_desired_fps:invalid param,0.013889,0
+11-21 08:46:52.115 19254 15580 W APxrRuntime: set_desired_fps done,-1,13.888889,0,0
+11-21 08:46:52.116 19254 15580 E APxrRuntime: Call error '-1'!, func: ipc_compositor_set_config
+11-21 08:46:52.117 19254 15580 E APxrRuntime: oxr_session_set_android_application_thread_khr enter
+11-21 08:46:52.117 19254 15580 E APxrRuntime: oxr_session_set_android_application_thread_khr enter
+11-21 08:46:52.125 19254 15580 W APxrRuntime: actionsystem runtime oxr_session_attach_action_sets 1359 after oxr_find_profile_for_device, profiles.left path str = /interaction_profiles/bytedance/pico4s_controller 
+11-21 08:46:52.979 19254 15632 E APxrRuntime: createInfo->format = 0x0000002b,c->info.formats[0] = 0x0000002b
+11-21 08:46:52.979 19254 15632 E APxrRuntime: srgb_format_convert
+11-21 08:46:52.980 19254 15632 I vulkan  : Loaded layer VK_LAYER_PICO
+11-21 08:46:52.984 19254 15632 I AdrenoVK-0: QUALCOMM build          : 796d02fee9, Ia74af94f1a
+11-21 08:46:52.984 19254 15632 I AdrenoVK-0: Build Date              : 03/15/24
+11-21 08:46:52.984 19254 15632 I AdrenoVK-0: Shader Compiler Version : E031.46.00.00
+11-21 08:46:52.984 19254 15632 I AdrenoVK-0: Local Branch            : 
+11-21 08:46:52.984 19254 15632 I AdrenoVK-0: Remote Branch           : refs/tags/AU_LINUX_ANDROID_LA.VENDOR.14.3.4.11.00.00.1126.111
+11-21 08:46:52.984 19254 15632 I AdrenoVK-0: Remote Branch           : NONE
+11-21 08:46:52.984 19254 15632 I AdrenoVK-0: Reconstruct Branch      : NOTHING
+11-21 08:46:52.984 19254 15632 I AdrenoVK-0: Build Config            : S P 16.1.2 AArch64
+11-21 08:46:52.984 19254 15632 I AdrenoVK-0: Driver Path             : /vendor/lib64/hw/vulkan.adreno.so
+11-21 08:46:52.984 19254 15632 I AdrenoVK-0: Driver Version          : 0772.0
+11-21 08:46:52.984 19254 15632 I AdrenoVK-0: PFP                     : 0x01511181
+11-21 08:46:52.984 19254 15632 I AdrenoVK-0: ME                      : 0x00000000
+11-21 08:46:52.984 19254 15632 I AdrenoVK-0: Application Name    : oopc
+11-21 08:46:52.984 19254 15632 I AdrenoVK-0: Application Version : 0x00400000
+11-21 08:46:52.984 19254 15632 I AdrenoVK-0: Engine Name         : null
+11-21 08:46:52.984 19254 15632 I AdrenoVK-0: Engine Version      : 0x00400000
+11-21 08:46:52.984 19254 15632 I AdrenoVK-0: Api Version         : 0x00401000
+11-21 08:46:52.984 19254 15632 I PicoLayer: Engine doesn't support 'VK_KHR_fragment_shading_rate', we disabled it now.
+11-21 08:46:52.985 19254 15632 I PicoLayer: Engine doesn't support 'VK_KHR_fragment_shading_rate', we disabled it now.
+11-21 08:46:52.980 19254 19254 W Thread-5: type=1400 audit(0.0:78754): avc:  denied  { read } for  name="qcom,system" dev="tmpfs" ino=927 scontext=u:r:untrusted_app:s0:c170,c256,c512,c768 tcontext=u:object_r:vendor_dmabuf_system_heap_device:s0 tclass=chr_file permissive=0 app=au.edu.evolve.framelab
+11-21 08:46:52.980 19254 19254 W Thread-5: type=1400 audit(0.0:78755): avc:  denied  { read } for  name="qcom,system" dev="tmpfs" ino=927 scontext=u:r:untrusted_app:s0:c170,c256,c512,c768 tcontext=u:object_r:vendor_dmabuf_system_heap_device:s0 tclass=chr_file permissive=0 app=au.edu.evolve.framelab
+11-21 08:46:52.980 19254 19254 W Thread-5: type=1400 audit(0.0:78756): avc:  denied  { read } for  name="qcom,system" dev="tmpfs" ino=927 scontext=u:r:untrusted_app:s0:c170,c256,c512,c768 tcontext=u:object_r:vendor_dmabuf_system_heap_device:s0 tclass=chr_file permissive=0 app=au.edu.evolve.framelab
+11-21 08:46:52.980 19254 19254 W Thread-5: type=1400 audit(0.0:78757): avc:  denied  { read } for  name="qcom,system" dev="tmpfs" ino=927 scontext=u:r:untrusted_app:s0:c170,c256,c512,c768 tcontext=u:object_r:vendor_dmabuf_system_heap_device:s0 tclass=chr_file permissive=0 app=au.edu.evolve.framelab
+11-21 08:46:52.980 19254 19254 W Thread-5: type=1400 audit(0.0:78758): avc:  denied  { read } for  name="qcom,system" dev="tmpfs" ino=927 scontext=u:r:untrusted_app:s0:c170,c256,c512,c768 tcontext=u:object_r:vendor_dmabuf_system_heap_device:s0 tclass=chr_file permissive=0 app=au.edu.evolve.framelab
+11-21 08:46:52.986 19254 15632 E DMABUFHEAPS: No ion heap of name qcom,system exists
+11-21 08:46:52.986 19254 15632 E DMABUFHEAPS: No ion heap of name qcom,system exists
+11-21 08:46:52.986 19254 15632 I DMABUFHEAPS: Using DMA-BUF heap named: system
+11-21 08:46:52.986 19254 15632 E DMABUFHEAPS: No ion heap of name qcom,system exists
+11-21 08:46:52.986 19254 15632 E DMABUFHEAPS: No ion heap of name qcom,system exists
+11-21 08:46:52.987 19254 15632 E DMABUFHEAPS: No ion heap of name qcom,system exists
+11-21 08:46:52.987 19254 15632 E DMABUFHEAPS: No ion heap of name qcom,system exists
+11-21 08:46:52.988 19254 15632 E APxrRuntime: oxr_create_swapchain(), createInfo->width:1920, createInfo->height:1920, createInfo->arraySize:2
+11-21 08:46:52.988 19254 15632 W xrt_session: oxr_session_manage_state, client: au.edu.evolve.framelab, action=3, state=XR_SESSION_STATE_READY
+11-21 08:46:52.988 19254 15632 W xrt_session: oxr_session_change_state from 2 to 3
+11-21 08:46:52.989 19254 15580 W xrt_session: oxr_session_handler_xrtCompositorEventStateChange: client: au.edu.evolve.framelab, 1,1:3
+11-21 08:46:52.989 19254 15580 W xrt_session: oxr_session_manage_state, client: au.edu.evolve.framelab, action=5, state=XR_SESSION_STATE_SYNCHRONIZED
+11-21 08:46:52.989 19254 15580 W xrt_session: oxr_session_change_state from 3 to 4
+11-21 08:46:52.989 19254 15580 W APxrRuntime: oxr_session_change_state------------0xb4000079168906c0    0xb40000791679ba00
+11-21 08:46:52.989 19254 15580 W APxrRuntime: ipc_instance_activity_focusable_changed------------0xb40000791679ba00    0xb40000791679bb90   0xb40000791679bbe8
+11-21 08:46:52.989 19254 15580 W APxrRuntime: ipc_client_activity_focusable_changed------------0xb40000793bd27800    0xb40000793bd27820
+11-21 08:46:52.989 19254 15580 W xrt_session: oxr_session_change_state from 4 to 5
+11-21 08:46:52.989 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.989][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_READY->XR_SESSION_STATE_SYNCHRONIZED session=-5476376626813148864 time=0
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_VISIBLE session=-5476376626813148864 time=0
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_VISIBLE->XR_SESSION_STATE_FOCUSED session=-5476376626813148864 time=0
+11-21 08:46:52.990 19254 19254 W xrt_session: au.edu.evolve.framelab, session_on_foucus_changed
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] 
+11-21 08:46:52.990 19254 15580 I Unity   : 
+11-21 08:46:52.990 19254 15580 I Unity   : ==== Start Unity OpenXR Diagnostic Report ====
+11-21 08:46:52.990 19254 15580 I Unity   : 
+11-21 08:46:52.990 19254 15580 I Unity   : 
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] ==== Report Reason: System Startup Completed ====
+11-21 08:46:52.990 19254 15580 I Unity   : 
+11-21 08:46:52.990 19254 15580 I Unity   : 
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] ==== OpenXR Settings ====
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] 
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] Symmetric Projection: False
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] Stereo Rendering Mode: SinglePassInstanced
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] Latency Optimization: PrioritizeRendering
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] Color Submission Modes: kRenderTextureFormatGroup8888
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] Depth Submission Mode: None
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] Space Warp Motion Vector Texture Format: RGBA16f
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] Optimize Buffer Discards: False
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] Multiview Render Regions Optimization Mode: None
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] Use OpenXR Predicted Time: True
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] Foveated Rendering API: SRPFoveation
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] 
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] ==== OpenXR Provider Info ====
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] 
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] Provider Version: ecb5f4e-dirty
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] App: Leichhardt #184042287
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] Engine: 6000.6.9f1 #90215425
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] 
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] ==== Vulkan ====
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] 
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] Depth Support Available: Yes
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] 
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] Enable: XR_KHR_vulkan_enable2
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] 
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] ==== OpenXR Runtime Info ====
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] 
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ] Available Runtime Extensions: (143)
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_BD_body_tracking: Version=1
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_BD_controller_interaction: Version=2
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_BD_future_progress: Version=1
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_BD_spatial_anchor: Version=2
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_BD_spatial_anchor_sharing: Version=2
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_BD_spatial_mesh: Version=1
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_BD_spatial_plane: Version=1
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_BD_spatial_scene: Version=1
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_BD_spatial_sensing: Version=1
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_EPIC_view_configuration_fov: Version=2
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_EXTX_overlay: Version=5
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_EXT_active_action_set_priority: Version=1
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_EXT_composition_layer_inverted_alpha: Version=1
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_EXT_debug_utils: Version=5
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_EXT_eye_gaze_interaction: Version=2
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_EXT_future: Version=1
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_EXT_hand_interaction: Version=2
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_EXT_hand_tracking: Version=4
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_EXT_performance_settings: Version=4
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_EXT_spatial_anchor: Version=1
+11-21 08:46:52.990 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_EXT_spatial_entity: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.990][Info   ]   XR_EXT_spatial_persistence: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_EXT_spatial_persistence_operations: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_EXT_spatial_plane_tracking: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_EXT_user_presence: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_EXT_view_configuration_depth_range: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_FB_composition_layer_alpha_blend: Version=3
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_FB_composition_layer_image_layout: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_FB_composition_layer_secure_content: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_FB_composition_layer_settings: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_FB_display_refresh_rate: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_FB_foveation: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_FB_foveation_configuration: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_FB_foveation_vulkan: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_FB_passthrough: Version=4
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_FB_space_warp: Version=2
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_FB_swapchain_update_state: Version=3
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_FB_swapchain_update_state_android_surface: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_FB_swapchain_update_state_opengl_es: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_FB_swapchain_update_state_vulkan: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_FB_triangle_mesh: Version=2
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_android_create_instance: Version=3
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_android_surface_swapchain: Version=4
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_android_thread_settings: Version=6
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_composition_layer_color_scale_bias: Version=5
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_composition_layer_cube: Version=8
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_composition_layer_cylinder: Version=4
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_composition_layer_depth: Version=6
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_composition_layer_equirect: Version=3
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_composition_layer_equirect2: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_convert_timespec_time: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_loader_init: Version=2
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_loader_init_android: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_opengl_es_enable: Version=9
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_vulkan_enable: Version=9
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_vulkan_enable2: Version=3
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_vulkan_swapchain_format_list: Version=5
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_META_foveation_eye_tracked: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_META_vulkan_swapchain_create_info: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_MND_headless: Version=3
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_MSFT_composition_layer_reprojection: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_EXT_frame_synthesis: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_EXT_interaction_render_model: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_EXT_local_floor: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_EXT_palm_pose: Version=3
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_EXT_render_model: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_EXT_uuid: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_locate_spaces: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_maintenance1: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_android_blast_buffer_queue_swapchain: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_composition_layer_opaque_rect: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_spatial_runtime: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_swapchain_update_state_android_blast_buffer_queue: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_view_state_stage_pose: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_android_controller_function_ext_enable: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_auto_scene_capture: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_camera_image: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_configuration: Version=2
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_controller_interaction: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_frame_end: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_layer_color_matrix: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_scene_capture: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_scene_capture_creation: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_semi_auto_scene_capture: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_spatial_anchor: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_spatial_anchor_sharing: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_spatial_mesh: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_spatial_sensing: Version=2
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_spatial_plane: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_transform_background_color: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_view_state: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_anchor_entity: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_anchor_entity_persistence: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_anchor_entity_persistence_private: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_anchor_entity_quality: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_async_task: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_auto_room_capture: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_composition_layer_color_matrix: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_composition_layer_eac: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_composition_layer_fisheye: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_composition_layer_settings: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_composition_layer_vst_mask: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_facial_simulation: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_haptic_audioclip: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_human_occlusion_ext: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_motion_tracking: Version=2
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_mr_management: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_room_scene: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_scene_label: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_semi_auto_room_capture: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_spatial_anchor_discovery: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_spatial_anchor_persistence: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_spatial_localization_and_tracking: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_spatial_scene_1: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_spatial_tracking_state: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_EXT_environment_blend_mode_state: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_MetricsTool_ext: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_body_tracking: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_boundary: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_composition_layer_fisheye: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_configs_ext: Version=2
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_eye_tracking: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_frame_end_info_ext: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_hand_tracking: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_haptic_pcm: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_ipd: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_layer_settings: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_passthrough: Version=2
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_performance_metrics: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_reset_sensor: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_view_frustum: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_view_frustum_ext: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_view_ipd: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_view_state_ext_enable: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_adaptive_resolution: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_body_tracking2: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_expand_device: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_external_camera: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_motion_tracking: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_readback_tensor: Version=2
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_readback_tensor_opengles: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_readback_tensor_vulkan: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_PICO_virtual_boundary: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] 
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] Available Layers: (0)
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] 
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] Runtime Name: Pico XRRuntime()
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] Runtime Version: 36481.57721.123
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] 
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] Form factor: XR_FORM_FACTOR_HEAD_MOUNTED_DISPLAY
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] 
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] Runtime extensions enabled: (11)
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_BD_controller_interaction: Version=2
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_EXT_local_floor: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_EXT_user_presence: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_android_create_instance: Version=3
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_composition_layer_depth: Version=6
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_vulkan_enable2: Version=3
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_FB_composition_layer_secure_content: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_FB_foveation: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_FB_foveation_configuration: Version=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_FB_swapchain_update_state: Version=3
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_KHR_android_thread_settings: Version=6
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] 
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] Available Reference Spaces: (4)
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_REFERENCE_SPACE_TYPE_VIEW
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_REFERENCE_SPACE_TYPE_LOCAL
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_REFERENCE_SPACE_TYPE_STAGE
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_REFERENCE_SPACE_TYPE_LOCAL_FLOOR
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] 
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] Instance Id  : 0x168906c0
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] System Id    : 0x1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] Session Id   : 0x168ce140
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] 
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] Available View Configuration Types: (1)
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_VIEW_CONFIGURATION_TYPE_PRIMARY_STEREO (Selected): FovMutable=False
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]     [0]: Recommended: Width=1920, Height=1920, SampleCount=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]     [0]:     Maximum: Width=2560, Height=2560, SampleCount=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]     [1]: Recommended: Width=1920, Height=1920, SampleCount=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]     [1]:     Maximum: Width=2560, Height=2560, SampleCount=1
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] 
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] Skip Present To Main Screen: Yes
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] 
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] Available Environment Blend Modes: (2)
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_ENVIRONMENT_BLEND_MODE_OPAQUE (Selected)
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   XR_ENVIRONMENT_BLEND_MODE_ALPHA_BLEND
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] 
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] Features requested to be enabled: (2)
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   PICO Support: Version=1.4.1, Company="PICO"
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   PICO4 Ultra Touch Controller Profile: Version=1.0.0, Company="PICO", Extensions="XR_BD_controller_interaction"
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] 
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] Requested feature extensions not supported by runtime: (0)
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] 
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] System Properties: Name="PICO 4 Ultra Enterprise HMD", VendorId=42
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] System Graphics Properties: MaxWidth=16384, MaxHeight=16384, MaxLayers=16
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] System Tracking Properties: OrientationTracking=True, PositionTracking=True
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] 
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] ==== OpenXR API Spec Version ====
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] 
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] XrInstance Created with OpenXR API Version: 1.0.34
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] 
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] ==== OpenXR Input ====
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] 
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] Action Sets (1): 
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ]   pico4ultracontroller: ActionCount=18
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] 
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] 
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] ==== OpenXR Swapchain Details ====
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] 
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] Render Mode: Single Pass Instanced
+11-21 08:46:52.991 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.991][Info   ] Latency Optimization: Prioritize Rendering
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ] Color Submission Mode: RGBA, 8 bits per channel (LDR)
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ] Depth Submission Mode: None
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ] 
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ] Swapchain Format Preferences: 
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    kRenderTextureFormatGroup8888
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ] Swapchain Formats: 
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ] [c:VK_FORMAT_R8G8B8A8_SRGB]
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R8_UNORM
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R8G8_UNORM
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R8G8B8A8_UNORM
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R8_SNORM
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R8G8_SNORM
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R5G6B5_UNORM_PACK16
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_A2B10G10R10_UNORM_PACK32
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R8G8B8A8_SNORM
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R16_UNORM
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R16G16_UNORM
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R16G16B16A16_UNORM
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R16_SNORM
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R16G16_SNORM
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R16G16B16A16_SNORM
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R16_UINT
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R16G16_UINT
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R16G16B16A16_UINT
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R16_SINT
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R16G16_SINT
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R16G16B16A16_SINT
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R16_SFLOAT
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R16G16_SFLOAT
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_R16G16B16A16_SFLOAT
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_A1R5G5B5_UNORM_PACK16
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ETC2_R8G8B8_UNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ETC2_R8G8B8A1_UNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ETC2_R8G8B8A8_UNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ETC2_R8G8B8_SRGB_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ETC2_R8G8B8A1_SRGB_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ETC2_R8G8B8A8_SRGB_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_EAC_R11_UNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_EAC_R11G11_UNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_EAC_R11_SNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_EAC_R11G11_SNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_4x4_UNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_5x4_UNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_5x5_UNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_6x5_UNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_6x6_UNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_8x5_UNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_8x6_UNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_8x8_UNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_10x5_UNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_10x6_UNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_10x8_UNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_10x10_UNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_12x10_UNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_12x12_UNORM_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_4x4_SRGB_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_5x4_SRGB_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_5x5_SRGB_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_6x5_SRGB_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_6x6_SRGB_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_8x5_SRGB_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_8x6_SRGB_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_8x8_SRGB_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_10x5_SRGB_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_10x6_SRGB_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_10x8_SRGB_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_10x10_SRGB_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_12x10_SRGB_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_ASTC_12x12_SRGB_BLOCK
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_D16_UNORM
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_X8_D24_UNORM_PACK32
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_D32_SFLOAT
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_D24_UNORM_S8_UINT
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_B8G8R8A8_UNORM
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]    VK_FORMAT_B8G8R8A8_SRGB
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ] Swapchain Views: (2)
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ]   [0]: Width=1920, Height=1920, SampleCount=1
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ] 
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ] ==== Last 20 Events ====
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ] XrEventDataSessionStateChanged: XR_SESSION_STATE_UNKNOWN->XR_SESSION_STATE_IDLE
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ] XrEventDataSessionStateChanged: XR_SESSION_STATE_IDLE->XR_SESSION_STATE_READY
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ] XrEventDataSessionStateChanged: XR_SESSION_STATE_READY->XR_SESSION_STATE_SYNCHRONIZED
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ] XrEventDataSessionStateChanged: XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_VISIBLE
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ] XrEventDataSessionStateChanged: XR_SESSION_STATE_VISIBLE->XR_SESSION_STATE_FOCUSED
+11-21 08:46:52.992 19254 15580 I Unity   : [XR] [528853585072] [08:46:52.992][Info   ] 
+11-21 08:46:52.992 19254 15580 I Unity   : 
+11-21 08:46:52.992 19254 15580 I Unity   : ==== End Unity OpenXR Diagnostic Report ====
+11-21 08:46:52.992 19254 15580 I Unity   : 
+11-21 08:46:52.992 19254 15580 I Unity   : 
+11-21 08:46:52.994 19254 15580 W RmClient: Rm::create() mRm 0xb40000793bb7d700
+11-21 08:46:52.995 19254 15580 I SysMtpClient: Get SysMtpService start!
+11-21 08:46:52.995 19254 15580 E DataBuffer: map fd(141) fdSize(135200) address(0x7b35207000)
+11-21 08:46:52.995 19254 15580 E DataBuffer: map fd(142) fdSize(1568) address(0x7c08fc6000)
+11-21 08:46:52.996 19254 15580 E DataBuffer: map fd(143) fdSize(108576) address(0x7c08f15000)
+11-21 08:46:52.996 19254 15580 E DataBuffer: map fd(144) fdSize(589856) address(0x7b1e96f000)
+11-21 08:46:52.996 19254 15580 E DataBuffer: map fd(145) fdSize(6176) address(0x7c08fc4000)
+11-21 08:46:52.996 19254 15580 E DataBuffer: map fd(146) fdSize(10784) address(0x7c08fc1000)
+11-21 08:46:52.996 19254 15580 E DataBuffer: map fd(147) fdSize(6176) address(0x7c08fbf000)
+11-21 08:46:52.996 19254 15580 E DataBuffer: map fd(148) fdSize(4128) address(0x7c08fbd000)
+11-21 08:46:52.996 19254 15580 E DataBuffer: map fd(149) fdSize(14368) address(0x7c08fb9000)
+11-21 08:46:52.996 19254 15580 E DataBuffer: map fd(150) fdSize(43040) address(0x7bfabf5000)
+11-21 08:46:52.996 19254 15580 E DataBuffer: map fd(151) fdSize(84000) address(0x7bfa73e000)
+11-21 08:46:52.996 19254 15580 E DataBuffer: map fd(152) fdSize(14368) address(0x7c08fb5000)
+11-21 08:46:52.996 19254 15580 E DataBuffer: map fd(153) fdSize(6176) address(0x7c08fb3000)
+11-21 08:46:52.996 19254 15580 E DataBuffer: map fd(154) fdSize(6176) address(0x7c08fb1000)
+11-21 08:46:52.997 19254 15580 E DataBuffer: map fd(155) fdSize(12320) address(0x7c08f11000)
+11-21 08:46:52.997 19254 15580 E DataBuffer: map fd(156) fdSize(4128) address(0x7bfabf3000)
+11-21 08:46:52.997 19254 15580 E DataBuffer: map fd(157) fdSize(57376) address(0x7bf072d000)
+11-21 08:46:52.997 19254 15580 E DataBuffer: map fd(158) fdSize(57376) address(0x7beb70a000)
+11-21 08:46:52.997 19254 15580 E DataBuffer: map fd(159) fdSize(36) address(0x7bfabf2000)
+11-21 08:46:52.997 19254 15580 I SysMtpClient: Get SysMtpService done!
+11-21 08:46:53.005 19254 19254 I ViewRootImpl: Will skip draw vr actvity :au.edu.evolve.framelab/com.unity3d.player.UnityPlayerActivity
+11-21 08:46:53.126 19254 15580 I TrackingClient: [###][###:1467]: createSharedMemoryReader sm_tracking_controller_data
+11-21 08:46:53.130 19254 15632 E PCTP    : PCTP upload:{"pkg_name":"au.edu.evolve.framelab","type":"eyebuffer","value":"1920,1920","power_need":true}
+11-21 08:46:53.135 19254 15654 I PxrMetric: FPS=0/90,MTP=-112.58ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=0.00ms,FrmGpu=0.00ms,FrmTime=0.00ms,ATWGPU=0.00ms,VsyncDelay=0,GPU=0%/0Mhz,GPUTemp=0.0C,LayerCnt=0,Pkg=au.edu.evolve.framelab,FrmId=2
+11-21 08:46:53.375 19254 15632 I evolve.framelab: SysPerfTracker acquireUIFirst pid 15632
+11-21 08:46:54.139 19254 15632 W APxrRuntime: PXRSDK_PM ENGINE FPS: 63, 488149131262528
+11-21 08:46:54.142 19254 15654 I PxrMetric: FPS=0/90,MTP=32.09ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.05ms,FrmGpu=4.66ms,FrmTime=6.72ms,ATWGPU=2.13ms,VsyncDelay=1,GPU=55%/456Mhz,GPUTemp=51.2C,LayerCnt=4,Pkg=au.edu.evolve.framelab,FrmId=64
+11-21 08:46:54.695 19254 15655 I Choreographer: UnityChoreographer opt start....
+11-21 08:46:55.145 19254 15632 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 488150137994872
+11-21 08:46:55.149 19254 15654 I PxrMetric: FPS=63/90,MTP=25.88ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.14ms,FrmGpu=4.17ms,FrmTime=6.32ms,ATWGPU=1.33ms,VsyncDelay=1,GPU=47%/456Mhz,GPUTemp=50.2C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=154
+11-21 08:46:56.150 19254 15654 I PxrMetric: FPS=89/90,MTP=25.59ms,AppSW=off,FrmEarly=0,FrmLate=0,FrmCpu=2.15ms,FrmGpu=4.64ms,FrmTime=6.80ms,ATWGPU=1.65ms,VsyncDelay=1,GPU=46%/456Mhz,GPUTemp=49.8C,LayerCnt=3,Pkg=au.edu.evolve.framelab,FrmId=244
+11-21 08:46:56.156 19254 15632 W APxrRuntime: PXRSDK_PM ENGINE FPS: 90, 488151148796069
+11-21 08:46:56.236 19254 15580 E SensorClient: Client_edition: 20240724A
+11-21 08:46:56.236 19254 15580 E SensorClient: Controller_Client_info ,pret:2032986.883139,imut:2032986.874974,P:-0.530438,-0.461910,0.582603,Q:0.433023,-0.896598,-0.074525,-0.055213,type:0
+11-21 08:46:56.685 19254 15580 I Unity   : SetGameState: isLoading: false, mode: UNKNOWN, label: 0, quality: 0
+11-21 08:46:56.687 19254 15580 I Unity   : FRAME_LAB_TELEMETRY_STARTED 0.4.4
+11-21 08:46:56.687 19254 15580 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 08:46:56.687 19254 15580 I Unity   : 
+11-21 08:46:56.699 19254 15580 I Unity   : FRAME_LAB_DEVICE_COMMAND 1795216610518901200 status
+11-21 08:46:56.699 19254 15580 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 08:46:56.699 19254 15580 I Unity   : FrameLab.FrameLabDeviceCheck:Update()
+11-21 08:46:56.699 19254 15580 I Unity   : 
+11-21 08:46:56.742 19254 15580 I Unity   : FRAME_LAB_SESSION_READY 0.4.4 room=arrival guide=True narration=True
+11-21 08:46:56.742 19254 15580 I Unity   : UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+11-21 08:46:56.742 19254 15580 I Unity   : FrameLab.<Start>d__56:MoveNext()
+11-21 08:46:56.742 19254 15580 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+11-21 08:46:56.742 19254 15580 I Unity   : 

@@ -1,0 +1,276 @@
+{
+  "doors": [
+    {
+      "name": "GF Laundry west / Garage access",
+      "position": {
+        "x": -6.425000190734863,
+        "y": 0,
+        "z": -3.951096296310425
+      },
+      "storage": false,
+      "normal": {
+        "x": 1.0,
+        "y": 0,
+        "z": -0.0
+      },
+      "clear_width_m": 0.9,
+      "height_m": 2.33
+    },
+    {
+      "name": "Laundry south / Laundry opening",
+      "position": {
+        "x": -7.738101959228516,
+        "y": 0,
+        "z": -4.639102458953857
+      },
+      "storage": false,
+      "normal": {
+        "x": 0.0,
+        "y": 0,
+        "z": -1.0
+      },
+      "clear_width_m": 0.7999999999999999,
+      "height_m": 2.33
+    },
+    {
+      "name": "Powder south / Powder door",
+      "position": {
+        "x": -21.149999618530273,
+        "y": 0,
+        "z": -5.15500020980835
+      },
+      "storage": false,
+      "normal": {
+        "x": 0.0,
+        "y": 0,
+        "z": -1.0
+      },
+      "clear_width_m": 0.826,
+      "height_m": 2.346
+    },
+    {
+      "name": "Entry bedroom division / Bedroom 1 door",
+      "position": {
+        "x": -23.434999465942383,
+        "y": 0,
+        "z": -4.635000228881836
+      },
+      "storage": false,
+      "normal": {
+        "x": 0.0,
+        "y": 0,
+        "z": -1.0
+      },
+      "clear_width_m": 0.826,
+      "height_m": 2.346
+    },
+    {
+      "name": "Ensuite WIR division / Ensuite access",
+      "position": {
+        "x": -20.405000686645508,
+        "y": 0,
+        "z": -1.9499996900558472
+      },
+      "storage": false,
+      "normal": {
+        "x": 1.0,
+        "y": 0,
+        "z": -0.0
+      },
+      "clear_width_m": 0.726,
+      "height_m": 2.346
+    },
+    {
+      "name": "FF Bed 4 WC division / Bed 4 door",
+      "position": {
+        "x": -11.194999694824219,
+        "y": 3.1590000000000003,
+        "z": -5.075000286102295
+      },
+      "storage": false,
+      "normal": {
+        "x": 1.0,
+        "y": 0,
+        "z": -0.0
+      },
+      "clear_width_m": 0.826,
+      "height_m": 2.346
+    },
+    {
+      "name": "FF Bath hall / Bathroom door",
+      "position": {
+        "x": -12.829999923706055,
+        "y": 3.1590000000000003,
+        "z": -4.545000076293945
+      },
+      "storage": false,
+      "normal": {
+        "x": 0.0,
+        "y": 0,
+        "z": -1.0
+      },
+      "clear_width_m": 0.726,
+      "height_m": 2.346
+    },
+    {
+      "name": "FF Bath hall / Upper linen sliders",
+      "position": {
+        "x": -14.220000267028809,
+        "y": 3.1590000000000003,
+        "z": -4.545000076293945
+      },
+      "storage": true,
+      "normal": {
+        "x": 0.0,
+        "y": 0,
+        "z": -1.0
+      },
+      "clear_width_m": 1.246,
+      "height_m": 2.406
+    },
+    {
+      "name": "FF Bed 5 west / Bed 5 robe sliders",
+      "position": {
+        "x": -15.0649995803833,
+        "y": 3.1590000000000003,
+        "z": -6.489999771118164
+      },
+      "storage": true,
+      "normal": {
+        "x": 1.0,
+        "y": 0,
+        "z": -0.0
+      },
+      "clear_width_m": 2.166,
+      "height_m": 2.406
+    },
+    {
+      "name": "FF Bed 5 south / Bed 5 door",
+      "position": {
+        "x": -15.644998550415039,
+        "y": 3.1590000000000003,
+        "z": -4.545000076293945
+      },
+      "storage": false,
+      "normal": {
+        "x": 0.0,
+        "y": 0,
+        "z": -1.0
+      },
+      "clear_width_m": 0.826,
+      "height_m": 2.346
+    },
+    {
+      "name": "FF Study retreat division / Study door",
+      "position": {
+        "x": -19.46500015258789,
+        "y": 3.1590000000000003,
+        "z": -2.804999589920044
+      },
+      "storage": false,
+      "normal": {
+        "x": 1.0,
+        "y": 0,
+        "z": -0.0
+      },
+      "clear_width_m": 0.826,
+      "height_m": 2.346
+    },
+    {
+      "name": "FF Bath 2 bedroom wall / Bath 2 door",
+      "position": {
+        "x": -12.269999504089355,
+        "y": 3.1590000000000003,
+        "z": -2.244999885559082
+      },
+      "storage": false,
+      "normal": {
+        "x": 0.0,
+        "y": 0,
+        "z": -1.0
+      },
+      "clear_width_m": 0.726,
+      "height_m": 2.346
+    },
+    {
+      "name": "FF Bath 2 east / Bed 2 door",
+      "position": {
+        "x": -12.885000228881836,
+        "y": 3.1590000000000003,
+        "z": -2.804999589920044
+      },
+      "storage": false,
+      "normal": {
+        "x": 1.0,
+        "y": 0,
+        "z": -0.0
+      },
+      "clear_width_m": 0.826,
+      "height_m": 2.346
+    },
+    {
+      "name": "FF Theatre north / Theatre entry",
+      "position": {
+        "x": -23.56999969482422,
+        "y": 3.1590000000000003,
+        "z": -4.635000228881836
+      },
+      "storage": false,
+      "normal": {
+        "x": 0.0,
+        "y": 0,
+        "z": -1.0
+      },
+      "clear_width_m": 0.826,
+      "height_m": 2.346
+    },
+    {
+      "name": "Ensuite WIR second skin / Ensuite access second skin",
+      "position": {
+        "x": -20.4950008392334,
+        "y": 0,
+        "z": -1.9499996900558472
+      },
+      "storage": false,
+      "normal": {
+        "x": 1.0,
+        "y": 0,
+        "z": -0.0
+      },
+      "clear_width_m": 0.726,
+      "height_m": 2.346
+    },
+    {
+      "name": "FF Bed 2 robe front / Bed 2 robe sliders",
+      "position": {
+        "x": -16.28499984741211,
+        "y": 3.1590000000000003,
+        "z": -1.6899996995925903
+      },
+      "storage": true,
+      "normal": {
+        "x": 1.0,
+        "y": 0,
+        "z": -0.0
+      },
+      "clear_width_m": 2.4659999999999997,
+      "height_m": 2.406
+    },
+    {
+      "name": "FF Bed 3 hall stub / Bed 3 door",
+      "position": {
+        "x": -11.194999694824219,
+        "y": 3.1590000000000003,
+        "z": -2.804999828338623
+      },
+      "storage": false,
+      "normal": {
+        "x": 1.0,
+        "y": 0,
+        "z": -0.0
+      },
+      "clear_width_m": 0.826,
+      "height_m": 2.346
+    }
+  ]
+}

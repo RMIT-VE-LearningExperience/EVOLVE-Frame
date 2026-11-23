@@ -1,0 +1,288 @@
+{
+  "rooms": [
+    {
+      "id": "arrival",
+      "title": "Welcome",
+      "position": {
+        "x": -29.1,
+        "y": 0,
+        "z": -6.235
+      },
+      "yaw": 90,
+      "prompt": "Take a moment to get comfortable. Then choose Next room.",
+      "caption": "Welcome to Leichhardt. I'm Clara. We'll explore the rooms of this house, then reveal the structure and examine a window. Point a controller at a button and squeeze the trigger. Next room moves you gently with a short fade; you decide when to continue. Use the right stick to turn in small steps. Press the A button on your right controller to hide or show the guide. When you bring it back, it will find a clear position beside your view. When you're ready, choose Next room to enter the hall."
+    },
+    {
+      "id": "entry",
+      "title": "Entry hall",
+      "position": {
+        "x": -25.6,
+        "y": 0,
+        "z": -5.5
+      },
+      "yaw": 90,
+      "prompt": "Look along the hall. Next room takes you to Bedroom 1.",
+      "caption": "We're in the entry hall. Pause here and look along the circulation space. The doors and partitions organise how people move through the house. You can use Hide walls to reveal the timber framing, then Show walls to bring the room back. The floor stays in place. Take a look around, then choose Next room to visit the main bedroom."
+    },
+    {
+      "id": "bedroom1",
+      "title": "Bedroom 1",
+      "position": {
+        "x": -25,
+        "y": 0,
+        "z": -2.2
+      },
+      "yaw": -70,
+      "prompt": "Compare the window opening with the surrounding wall.",
+      "caption": "This is bedroom one. Look at the broad window opening, then compare it with the solid wall around it. With the walls hidden, you can see how the studs, sill and lintel form that opening. The pale timber and warm white finishes help distinguish structure from lining. Show the walls again whenever you want to understand the room as a space. Next room takes us to the walk-in robe."
+    },
+    {
+      "id": "robe",
+      "title": "Walk-in robe",
+      "position": {
+        "x": -21.6,
+        "y": 0,
+        "z": -1.8
+      },
+      "yaw": 180,
+      "prompt": "Notice how the partitions divide the main suite.",
+      "caption": "You're in the walk-in robe. This smaller space helps show how internal partitions divide a larger floor area. Look back towards the bedroom and across towards the ensuite. These rooms share the same level, but the wall openings control the route between them. Use the room list whenever you want to revisit somewhere. Choose Next room for the ensuite."
+    },
+    {
+      "id": "ensuite",
+      "title": "Ensuite",
+      "position": {
+        "x": -19.72,
+        "y": 0,
+        "z": -1.95
+      },
+      "yaw": 90,
+      "prompt": "Compare the vanity, shower and separate toilet zones.",
+      "caption": "This is the ensuite. The vanity, shower and separate toilet each occupy a different part of the room. Look at the bulkhead above the vanity, then follow the partitions around the shower and toilet. The cabinet and mirror help show how the finished room fits within its structure. Hide the walls to compare those spaces with the frame. Choose Next room to visit the powder room."
+    },
+    {
+      "id": "powder",
+      "title": "Powder room",
+      "position": {
+        "x": -21.07,
+        "y": 0,
+        "z": -6.65
+      },
+      "yaw": 180,
+      "prompt": "Look at the doorway and window in a compact room.",
+      "caption": "We're in the powder room. A compact room makes the relationship between doorway, window and wall thickness easier to notice. Look at the opening heights and the space left around them. Press A on your right controller whenever you want to hide the guide, and press A again to bring it back. When you're ready, choose Next room to return to the larger kitchen and meals space."
+    },
+    {
+      "id": "kitchen",
+      "title": "Kitchen and meals",
+      "position": {
+        "x": -16.4,
+        "y": 0,
+        "z": -6.65
+      },
+      "yaw": 180,
+      "prompt": "Compare the island, rear bench and dropped ceiling.",
+      "caption": "This is the kitchen and meals area. Compare the island with the rear bench, and notice the clear working aisle between them. Look towards the low, wide kitchen window, then up at the dropped ceiling over the kitchen. Hiding the walls reveals the framing behind these finishes. Follow the lintel across the window opening and the studs down towards the floor. Next room takes us into the pantry."
+    },
+    {
+      "id": "pantry",
+      "title": "Pantry",
+      "position": {
+        "x": -19.3,
+        "y": 0,
+        "z": -6.8
+      },
+      "yaw": 180,
+      "prompt": "Compare the pantry enclosure with the open kitchen.",
+      "caption": "You're in the pantry beside the kitchen. Compare this enclosed space with the open area you just left. The short return walls create a useful separation without dividing the whole living area. Take a moment to look through the doorway and understand how the rooms connect. Choose Next room to move into the family area."
+    },
+    {
+      "id": "family",
+      "title": "Family area",
+      "position": {
+        "x": -15.1,
+        "y": 0,
+        "z": -1.8
+      },
+      "yaw": -60,
+      "prompt": "Look up at the floor structure. Roof can also be hidden.",
+      "caption": "This is the family area. Look around the larger open space, then look up. Hiding the walls also removes the ceiling linings, so you can see the floor framing above. The Roof button controls the roof covering separately. Turn the layers back on to compare the structure with the enclosed rooms. Nothing moves until you choose to continue. Next room takes us to the laundry."
+    },
+    {
+      "id": "laundry",
+      "title": "Laundry",
+      "position": {
+        "x": -7.6,
+        "y": 0,
+        "z": -6.2
+      },
+      "yaw": 180,
+      "prompt": "Look at the external doorway and shared garage wall.",
+      "caption": "We're in the laundry. Notice the external doorway and the wall shared with the garage. Each opening interrupts the regular run of studs, so its edges need their own framing. Compare the solid wall view with the revealed frame. The room list lets you jump directly to any of these stops. Choose Next room to visit the garage."
+    },
+    {
+      "id": "garage",
+      "title": "Garage",
+      "position": {
+        "x": -3,
+        "y": 0,
+        "z": -5.8
+      },
+      "yaw": 90,
+      "prompt": "Compare the garage opening with the smaller room openings.",
+      "caption": "This is the garage. Look towards the wide vehicle opening, then compare its scale with the smaller doors and windows elsewhere. The garage has its own roof framing beside the main two-storey house. After looking around, choose Next room. We'll move directly to a safe viewing position on the upper landing, so you won't need to climb the stairs in virtual reality."
+    },
+    {
+      "id": "landing",
+      "title": "Upper landing",
+      "position": {
+        "x": -21.3,
+        "y": 3.159,
+        "z": -5.4
+      },
+      "yaw": -90,
+      "prompt": "Look towards the stair void from this safe landing stop.",
+      "caption": "We're now on the upper landing. The short fade moved you to the upper floor without a climbing motion. Look towards the stair opening and the balustrade, and notice how the floor framing turns around the void. Stay within your physical play area and use the buttons to move between rooms. Next room takes us into the theatre."
+    },
+    {
+      "id": "theatre",
+      "title": "Theatre",
+      "position": {
+        "x": -23.9,
+        "y": 3.159,
+        "z": -3.5
+      },
+      "yaw": -65,
+      "prompt": "Look up at the perimeter bulkhead and the central ceiling.",
+      "caption": "This is the theatre. Look up at the lowered border around the ceiling. This is a bulkhead: it changes the ceiling level around the room while leaving a higher central area. Compare the overhead border with the full-height boxed corners beside the wall. Hide the walls to inspect the surrounding frame, then show them again to understand the room proportions. Choose Next room to visit the retreat."
+    },
+    {
+      "id": "retreat",
+      "title": "Retreat",
+      "position": {
+        "x": -21,
+        "y": 3.159,
+        "z": -2.1
+      },
+      "yaw": -10,
+      "prompt": "Compare this shared upstairs room with the family area below.",
+      "caption": "You're in the upstairs retreat. Think of this as another shared living space, connected to the bedrooms by the landing. Compare its size and openings with the family area below. The same wall and roof controls work here, so you can inspect the structure from this level as well. Next room takes us into the study."
+    },
+    {
+      "id": "study",
+      "title": "Study",
+      "position": {
+        "x": -18.2,
+        "y": 3.159,
+        "z": -2
+      },
+      "yaw": 15,
+      "prompt": "Look at the wall divisions between study, retreat and bedroom.",
+      "caption": "This is the study. Look at the two side walls and the window wall. Together they make a quieter enclosed room beside the retreat. Revealing the frame lets you follow the repeating studs and the framing around the opening. Take as much time as you need, then choose Next room for bedroom two."
+    },
+    {
+      "id": "bedroom2",
+      "title": "Bedroom 2",
+      "position": {
+        "x": -14.7,
+        "y": 3.159,
+        "z": -1.5
+      },
+      "yaw": -15,
+      "prompt": "Compare the upper window framing with the ground floor.",
+      "caption": "We're in bedroom two. Compare the window framing on this level with the openings downstairs. The components have similar roles even when the opening sizes change. Look up with the walls hidden to see the ceiling and roof structure above. Choose Next room when you're ready to inspect the nearby bathroom."
+    },
+    {
+      "id": "bathroom2",
+      "title": "Bathroom beside Bedroom 2",
+      "position": {
+        "x": -11.7,
+        "y": 3.159,
+        "z": -1
+      },
+      "yaw": 180,
+      "prompt": "Inspect the bathroom enclosure and its doorway.",
+      "caption": "This bathroom sits beside bedroom two. Notice how the shower, vanity and toilet fit within a compact enclosure. Compare their positions with the window and doorway, then hide the walls to see the surrounding frame. You can replay this explanation from the guide whenever you like. Next room takes us to bedroom three."
+    },
+    {
+      "id": "bedroom3",
+      "title": "Bedroom 3",
+      "position": {
+        "x": -8.4,
+        "y": 3.159,
+        "z": -1.6
+      },
+      "yaw": -15,
+      "prompt": "Look towards the robe partitions at the back of the room.",
+      "caption": "This is bedroom three, at the far end of the upper floor. Look towards the robe partitions and compare them with the larger bedroom area. The partitions create smaller storage spaces while the perimeter wall forms the outside of the house. Hide and show the walls to compare those two roles. Choose Next room for bedroom four."
+    },
+    {
+      "id": "bedroom4",
+      "title": "Bedroom 4",
+      "position": {
+        "x": -8.5,
+        "y": 3.159,
+        "z": -6.2
+      },
+      "yaw": 75,
+      "prompt": "Compare this room with Bedroom 3 on the other side.",
+      "caption": "You're in bedroom four. It sits on the other side of this end of the house. Compare the room proportions and window placement with bedroom three. The upper deck remains visible when you hide the walls, helping you keep a clear sense of the floor level. Next room takes us to the shared upper bathroom."
+    },
+    {
+      "id": "upperbath",
+      "title": "Upper bathroom",
+      "position": {
+        "x": -13.3,
+        "y": 3.159,
+        "z": -6.1
+      },
+      "yaw": -130,
+      "prompt": "Notice the neighbouring bathroom, WC and linen partitions.",
+      "caption": "We're in the shared upper bathroom. Look at the nearby partitions that separate the bathroom, toilet and linen areas. These smaller divisions are easier to understand by switching between the finished lining and frame views. Choose Next room to visit the final bedroom on this route."
+    },
+    {
+      "id": "bedroom5",
+      "title": "Bedroom 5",
+      "position": {
+        "x": -17.1,
+        "y": 3.159,
+        "z": -6.2
+      },
+      "yaw": 165,
+      "prompt": "Take a final look at the upper-floor enclosure.",
+      "caption": "This is bedroom five, our final bedroom stop. Look around with the walls visible, then reveal the frame for one last comparison. You can return to any room from the room list. Next room takes us outside, where we'll bring the whole building back into view before looking closely at a window assembly."
+    },
+    {
+      "id": "exterior",
+      "title": "Exterior overview",
+      "position": {
+        "x": -16,
+        "y": 0,
+        "z": 3.6
+      },
+      "yaw": 180,
+      "prompt": "Compare the enclosure and frame, then open the window study.",
+      "caption": "We're outside again. Look at the house as a whole and compare the finished enclosure with the timber frame. Use Hide walls and Hide roof separately to understand each layer. Our final activity is a close look at a window return. Choose Window study to move to the assembly, where the controls will stay to the side of the window."
+    }
+  ],
+  "studies": [
+    {
+      "id": "window",
+      "title": "Window assembly",
+      "prompt": "Use Inspect model for the slider, hotspots, zoom and reset.",
+      "caption": "Here is the window assembly. The inspection panel lets you control how far its layers separate. Point at the slider and hold the trigger to drag it. Point at the model and hold the grip to move or rotate the whole assembly. Zoom changes its size, and Reset all restores the starting view. Select a numbered hotspot or a component button to hear about that element. Isolate part gives it a clear view on its own. Press A to hide or show the guide. The Tour guide button returns to the main tour controls."
+    },
+    {
+      "id": "layers",
+      "title": "Window layers",
+      "prompt": "Inspect every component, then choose Finish tour.",
+      "caption": "The assembly is separated. Use the slider to bring the layers closer or spread them apart. Each number identifies a component. Select it to hear its explanation, then choose Isolate part to inspect it without the surrounding layers. You can rotate the complete model with the grip, or drag the rotation slider. Use the zoom buttons to change its size. All parts restores the other components. Reset all also restores the original position and assembles the window. When you're finished, return to Tour guide and choose Finish tour."
+    },
+    {
+      "id": "complete",
+      "title": "Tour complete",
+      "prompt": "Keep exploring with Rooms, or choose Restart tour.",
+      "caption": "That completes our guided tour. You've explored the rooms, compared the enclosure with the structural frame, and inspected the layers of a window return. You can keep exploring at your own pace using the room list, replay an explanation, or restart the tour. When you're finished, use the headset's home control to leave the experience. Thanks for exploring Leichhardt with me."
+    }
+  ]
+}

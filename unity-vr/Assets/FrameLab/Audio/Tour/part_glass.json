@@ -1,0 +1,13 @@
+{
+  "sha256": "5111d500732ac937cdbb067874a4828546c94453c6118e8282ffedc660f090e3",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "The glass fills the window frame while admitting light and views. The blue tint makes this thin component easier to locate in the study. Isolate it to see its outline and thickness.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}

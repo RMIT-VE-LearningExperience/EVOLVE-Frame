@@ -1,0 +1,60 @@
+{
+  "validated_local": "2026-11-20T23:58:41.552468+11:00",
+  "application_version": "0.4.1",
+  "android_version_code": 9,
+  "application_label": "Leichhardt",
+  "package": "au.edu.evolve.framelab",
+  "release_state": "Leichhardt 0.4.1 installed on PICO; exact APK hash verified. Live session checks remain pending; installation is not gameplay verification.",
+  "apk_bytes": 87425726,
+  "apk_sha256": "14d83a1496c2aeba8436bffffb05e7fad325dd83a890f16945bdefcf1d1642d3",
+  "installed_apk_hash_matches_build": true,
+  "source_blend_preserved": true,
+  "source_blend_sha256": "dba309decf25d9178f9c0d460cdc32ebaeec739d94e46ad1e524b8f2ee222e0b",
+  "model_triangles": 213832,
+  "model_material_batches": 67,
+  "targeted_geometry": {
+    "written_spans": 26,
+    "rebuilt_openings": 20,
+    "windows": 19,
+    "window_rays": 630
+  },
+  "fixed_fitout": {
+    "objects": 549,
+    "triangles": 16724,
+    "acceptance": "Partial; product forms and some setouts illustrative."
+  },
+  "lighting_states": {
+    "WallsShown": 2,
+    "WallsHidden": 1,
+    "WallsHiddenRoofHidden": 1,
+    "WallsShownRoofHidden": 2
+  },
+  "static_reflections": {
+    "probes": 5,
+    "resolution": 128,
+    "runtime_reflection_cameras": 0,
+    "mirrors": "Approximate cubemap reflections; no avatar or accurate planar reflections."
+  },
+  "editor_result": "PASS",
+  "review_images": 50,
+  "review_gallery": "output/vr/review-0.4.1/index.html",
+  "apk_build": "PASS",
+  "pico_install": "PASS",
+  "pico_session_ready": false,
+  "pico_control_suite": "PENDING",
+  "pico_control_commands": 0,
+  "pico_metrics": [],
+  "wearer_validation": "Physical buttons/grips, stereo appearance, comfort and sustained performance are not certified by automated tests.",
+  "unresolved": [
+    "Theatre floor step height/high side and 2340 mm door versus nominal bulkhead soffit.",
+    "Finished ceiling/floor datums and final garage/porch parapet heights; form corrected but dimensions still provisional.",
+    "Downpipes/rainheads/spreaders, services and remaining checklist items.",
+    "Niches, shower set-downs, wall finishes, accessories, fridge coordination and sliding robe doors.",
+    "Absolute structural column/window/brace setout includes scaled coordination; engineering acceptance remains open.",
+    "See the item-by-item Claude photo response for remaining visible defects and verification scope."
+  ],
+  "cost": "No purchases or overage. Existing offline narration retained. Claude Fable5.2 subscription used for actual photo review; no API fallback used.",
+  "photo_review": "output/vr/photo-review-0.4.1/codex-response.json",
+  "scope": "Architectural review build. Targeted checks do not constitute whole-model acceptance.",
+  "evidence": "output/vr/evidence-0.4.1"
+}

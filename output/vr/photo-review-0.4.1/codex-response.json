@@ -1,0 +1,83 @@
+{
+  "reviewer": "Claude Fable 5.2, medium effort",
+  "source_review": "../photo-review-0.4.0/claude-review.txt",
+  "version": "0.4.1",
+  "items": [
+    {
+      "id": "PHOTO-01",
+      "title": "Porch form",
+      "status": "Form corrected; dimensions provisional",
+      "response": "Porch has masonry pier shells, rendered returns/front beam, soffit, concealed roof and closed pier tops. P1 cores retained. Final height and absolute setout still require drawing/datum coordination."
+    },
+    {
+      "id": "PHOTO-02",
+      "title": "Garage parapet and door",
+      "status": "Form corrected; dimensions provisional",
+      "response": "Garage has brick parapets, capping and a six-panel door. Roof and parapets are trimmed outside the upper-house envelope; Bedroom 4 is clear in the final image and intrusion check. Final height remains provisional. A tonal boundary remains on the roof and needs a shadow/finish review."
+    },
+    {
+      "id": "PHOTO-03",
+      "title": "Black upstairs strips",
+      "status": "Passed targeted desktop checks",
+      "response": "Both black strips cleared in the final original-camera views (37 and49). Pixel probes confirm the previous black areas now receive light. Existing plaster was retained; connected planar lightmap charts replaced the fragmented charts."
+    },
+    {
+      "id": "PHOTO-04",
+      "title": "Glazing and mirrors",
+      "status": "Improved; static mirror limitation",
+      "response": "Privacy glazing is now pale. Neutral mirror tint, box projection and 20% stronger static reflections improve the surfaces, but mirrors remain approximate cubemaps and some views show little reflection detail. No live reflection cameras or runtime blur."
+    },
+    {
+      "id": "PHOTO-05",
+      "title": "Lighting and shadow",
+      "status": "Improved; further visual tuning remains",
+      "response": "Neutral ceilings, upward baked fill, reduced yellow tint and softer sun shadows are in place. All four visibility-state bakes passed. Ground shadows still have some broad unevenness; headset appearance and sustained performance require wearer review."
+    },
+    {
+      "id": "PHOTO-06",
+      "title": "Brick size",
+      "status": "not substantiated",
+      "response": "Existing world-space shader module is240x86mm including10mm joints, i.e.230x76mm bricks. Retain correct dimensions; no arbitrary1.7x rescaling."
+    },
+    {
+      "id": "PHOTO-07",
+      "title": "Facade seams",
+      "status": "Fa\u00e7ade seams improved in final captures",
+      "response": "Coplanar facade pieces now share connected planar lightmap charts. The vertical seams in view07 cleared. The deliberately separate alfresco fascia remains lighter than the upper render; remaining roof tone boundary is tracked underPHOTO-02."
+    },
+    {
+      "id": "PHOTO-08",
+      "title": "Robe towers",
+      "status": "Passed desktop visual check",
+      "response": "Both607mm-wide towers retain their2016mm height and now have flush top caps. Exported normals are flat. A connected planar lighting chart across each side panel removed the visible diagonal and horizontal shading breaks in view47."
+    },
+    {
+      "id": "PHOTO-09",
+      "title": "Stair rail ends",
+      "status": "Implemented and visually checked",
+      "response": "Added wall returns.1000mm rail and1200mm dwarf wall retained. Second strip corresponds to capping, not a redundant handrail."
+    },
+    {
+      "id": "PHOTO-10",
+      "title": "Viewing directions",
+      "status": "Implemented and tested",
+      "response": "Room headings now face windows/fitout at slight angles. Theatre stop moved back to show the room; exterior photograph is an eye-height three-quarter view. All22 arrivals and menu-clearance tests passed. Views49/50 retain older cameras for comparison."
+    },
+    {
+      "id": "PHOTO-11",
+      "title": "Powder door-head stub",
+      "status": "retain",
+      "response": "Full-resolution photo shows the corridor bulkhead beyond the powder doorway. Matches the explicit corridor bulkhead geometry from sheet07; not deleted."
+    }
+  ],
+  "runtime_cost_note": "Lighting changes are baked. Glass uses a material emission term; mirrors use static 128 px cubemaps. No runtime blur or reflection camera was added. Headset performance remains unmeasured for this build.",
+  "followup_review": "claude-review.txt",
+  "followup_corrections": [
+    "Garage parapet and roof clipped at the upper-house exterior boundary after Claude found a Bedroom 4 intrusion. A new geometric check rejects garage parts inside the upper interior volume.",
+    "Porch pier and side-beam tops capped.",
+    "Connected planar UV charts replace fragmented charts for flat finishes, cabinetry and the garage roof."
+  ],
+  "final_capture_local": "20 November2026,23:53",
+  "final_validation": "visual-regressions.json",
+  "latest_verification_by": "Codex: final renders, pixel probes, geometry and Unity session tests. Claude follow-up reviewed the earlier23:39 pass; no claim that Claude approved the final pass."
+}

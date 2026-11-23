@@ -1,7 +1,6 @@
 'use client';
 import { useEffect, useState } from 'react';
 import { flushSync } from 'react-dom';
-import Link from 'next/link';
 import {
   Box,
   ArrowRight,
@@ -15,18 +14,21 @@ import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs';
 import { Switch } from '@/components/ui/switch';
 import { Slider } from '@/components/ui/slider';
 import ModelViewer from '@/components/model-viewer';
+import { VerticalExplodeControls } from '@/components/vertical-explode-controls';
 import { LayerPanel } from '@/components/layer-panel';
 import manifest from '@/public/models/manifest.json';
-import { hotspots, availableHotspots, type Hotspot } from '@/lib/hotspots';
+import { studyHotspots, availableHotspots, type Hotspot } from '@/lib/hotspots';
 import {
   initialState,
   lessons,
+  modelParts,
   stageLessons,
   stageNames,
   modelKeys,
   validateNavigation,
   type ModelKey,
   type Part,
+  type ViewState,
 } from '@/lib/explorer';
 
 export default function Home() {
@@ -35,11 +37,16 @@ export default function Home() {
   const [panel, setPanel] = useState('learn');
   const [showHotspots, setShowHotspots] = useState(true);
   const [hotspotId, setHotspotId] = useState<string | null>(null);
+  const [returnView, setReturnView] = useState<ViewState | null>(null);
   const lesson = lessons[state.model],
     isBuilding = state.model === 'building';
-  const parts = manifest.models[state.model].parts as Part[];
+  const parts = modelParts(
+    manifest.models[state.model].parts as Part[],
+    state,
+  );
   const selected = parts.find((p) => p.key === state.selected);
   const activeHotspots = availableHotspots(state, parts);
+  const hotspots = studyHotspots(state.model, parts);
   const activeHotspot = activeHotspots.find(
     (h) => h.id === hotspotId && h.part === state.selected,
   );
@@ -81,8 +88,13 @@ export default function Home() {
               type: 'object',
               properties: {
                 model: { type: 'string', enum: modelKeys },
-                stage: { type: 'integer', minimum: 0, maximum: 3 },
+                stage: { type: 'integer', minimum: 0, maximum: 6 },
                 cutaway: { type: 'boolean' },
+                foundation: {
+                  type: 'string',
+                  enum: ['waffle', 'raised'],
+                },
+                foundationDetail: { type: 'boolean' },
                 explosion: { type: 'number', minimum: 0, maximum: 1 },
               },
               required: ['model'],
@@ -99,6 +111,8 @@ export default function Home() {
                 model: next.model,
                 stage: next.stage,
                 cutaway: next.cutaway,
+                foundation: next.foundation,
+                foundationDetail: next.foundationDetail,
                 explosion: next.explosion,
                 status: 'visible state updated',
               };
@@ -116,9 +130,9 @@ export default function Home() {
         Skip to learning content
       </a>
       <header className="masthead">
-        <Link href="/" className="brand">
+        <a href="./" className="brand">
           <Box size={28} /> FRAME LAB <span>LEICHHARDT</span>
-        </Link>
+        </a>
         <span className="review">
           <span /> Teaching model · review pending
         </span>
@@ -128,7 +142,10 @@ export default function Home() {
           <button
             key={m}
             aria-current={state.model === m ? 'page' : undefined}
-            onClick={() => navigate(m)}
+            onClick={() => {
+              setReturnView(null);
+              navigate(m);
+            }}
           >
             <span>0{i + 1}</span>
             {['Building', 'Window opening', 'Wall to roof', 'Floor edge'][i]}
@@ -143,6 +160,10 @@ export default function Home() {
             <h1>{lesson.title}</h1>
           </div>
           <ModelViewer
+            parts={parts}
+            onWalkthroughStart={() =>
+              setState((s) => ({ ...s, explosion: 0, selected: null }))
+            }
             hotspots={showHotspots ? activeHotspots : []}
             onHotspot={chooseHotspot}
             detailed={detailed}
@@ -152,17 +173,19 @@ export default function Home() {
             onSelect={(key) => setState((s) => ({ ...s, selected: key }))}
             fallback={
               isBuilding
-                ? '/enclosure_assembled.png'
-                : `/studies/${state.model}.png`
+                ? './enclosure_assembled.png'
+                : `./studies/${state.model}.png`
             }
           />
           <div className="view-caption">
             <MousePointer2 size={16} />
-            <span>Drag to orbit · scroll or pinch to zoom · tap a part</span>
+            <span>
+              Drag to orbit · zoom · Shift-drag or use ↕ to move vertically
+            </span>
           </div>
           <div className="view-stamp">
             {isBuilding
-              ? `STAGE 0${state.stage + 1} / ${stageNames[state.stage].toUpperCase()}`
+              ? `STAGE ${String(state.stage + 1).padStart(2, '0')} / ${stageNames[state.stage].toUpperCase()}`
               : 'DETACHED / ILLUSTRATIVE'}
             {state.cutaway && isBuilding ? ' · CUTAWAY' : ''}
           </div>
@@ -176,6 +199,86 @@ export default function Home() {
             </TabsList>
             <TabsContent value="learn">
               {isBuilding && (
+                <>
+                  <section
+                    className="foundation-system-control"
+                    aria-labelledby="foundation-system-heading"
+                  >
+                    <span className="eyebrow">GROUND SYSTEM</span>
+                    <h2 id="foundation-system-heading">
+                      Choose the construction system
+                    </h2>
+                    <div className="system-buttons">
+                      <button
+                        aria-pressed={state.foundation === 'waffle'}
+                        onClick={() =>
+                          setState((s) => ({
+                            ...s,
+                            foundation: 'waffle',
+                            foundationDetail: false,
+                            hidden: [],
+                            selected: null,
+                          }))
+                        }
+                      >
+                        Waffle slab
+                      </button>
+                      <button
+                        aria-pressed={state.foundation === 'raised'}
+                        onClick={() =>
+                          setState((s) => ({
+                            ...s,
+                            foundation: 'raised',
+                            foundationDetail: false,
+                            hidden: [],
+                            selected: null,
+                          }))
+                        }
+                      >
+                        Raised floor
+                      </button>
+                    </div>
+                    <p className="minor">
+                      {state.foundation === 'waffle'
+                        ? 'Primary project system. Reveal the concealed teaching overlay to inspect pods, ribs, beams, reinforcement and membrane.'
+                        : 'Alternative teaching sequence. Stumps support bearers; bearers support joists; joists support sheet flooring.'}
+                    </p>
+                    <div className="toggle-row">
+                      <span>Reveal concealed foundation details</span>
+                      <Switch
+                        checked={state.foundationDetail}
+                        onCheckedChange={(value) =>
+                          setState((s) => ({
+                            ...s,
+                            foundationDetail: value,
+                            selected: null,
+                          }))
+                        }
+                        aria-label="Reveal concealed foundation details"
+                      />
+                    </div>
+                    <p className="minor">
+                      Diagrammatic relationships only. No structural sizes,
+                      reinforcement schedule or penetration location is
+                      asserted.
+                    </p>
+                  </section>
+                  <VerticalExplodeControls state={state} setState={setState} />
+                </>
+              )}
+              {!isBuilding && returnView && (
+                <button
+                  className="wide-button return-view-button"
+                  onClick={() => {
+                    setState(returnView);
+                    setReturnView(null);
+                    setHotspotId(null);
+                  }}
+                >
+                  <ArrowLeft size={17} /> Return to previous building view
+                </button>
+              )}
+              {
                 <section
                   className="hotspot-study"
                   aria-label="Learning hotspots"
@@ -189,9 +292,9 @@ export default function Home() {
                     />
                   </div>
                   <p className="minor">
-                    Choose a numbered marker or a topic below. Highlighting
-                    identifies the whole related layer, not an individual
-                    connection.
+                    Choose a labelled callout or a topic below. Lines track the
+                    related layer as you orbit or separate it. Callouts that
+                    cannot fit stay available in this list.
                   </p>
                   <div className="hotspot-list">
                     {hotspots.map((h, i) => (
@@ -218,13 +321,33 @@ export default function Home() {
                       <p>{activeHotspot.what}</p>
                       <h3>What it does</h3>
                       <p>{activeHotspot.purpose}</p>
+                      <h3>How it connects</h3>
+                      <p>{activeHotspot.connects}</p>
+                      {activeHotspot.measurement && (
+                        <p className="measurement-note">
+                          <strong>Measurement / audit</strong>
+                          {activeHotspot.measurement}
+                        </p>
+                      )}
+                      <h3>Drawing or reference</h3>
+                      <p>{activeHotspot.reference}</p>
                       <h3>Pause & think</h3>
                       <p>{activeHotspot.question}</p>
-                      <p className="minor">{activeHotspot.basis}</p>
+                      <p className="minor">
+                        {activeHotspot.status === 'review'
+                          ? 'REVIEW REQUIRED · '
+                          : activeHotspot.status === 'verified'
+                            ? 'SOURCE CHECKED · '
+                            : 'ILLUSTRATIVE · '}
+                        {activeHotspot.basis}
+                      </p>
                       {activeHotspot.detail && (
                         <button
                           className="wide-button"
-                          onClick={() => navigate(activeHotspot.detail!)}
+                          onClick={() => {
+                            setReturnView(state);
+                            navigate(activeHotspot.detail!);
+                          }}
                         >
                           View illustrative detail <ArrowRight size={17} />
                         </button>
@@ -241,7 +364,7 @@ export default function Home() {
                     </section>
                   )}
                 </section>
-              )}
+              }
               <span className="eyebrow">
                 {isBuilding ? 'CONSTRUCTION STAGES' : 'JUNCTION STUDY'}
               </span>
@@ -275,18 +398,19 @@ export default function Home() {
                   <p>{stageLessons[state.stage][1]}</p>
                   <div className="toggle-row">
                     <span>
-                      <Layers3 size={18} /> Reveal cutaway
+                      <Layers3 size={18} /> Reveal framing
                     </span>
                     <Switch
                       checked={state.cutaway}
                       onCheckedChange={(v) =>
                         setState((s) => ({ ...s, cutaway: v }))
                       }
-                      aria-label="Reveal enclosure cutaway"
+                      aria-label="Reveal framing behind the enclosure"
                     />
                   </div>
                   <p className="minor">
-                    Removes selected enclosure faces; timber stays visible.
+                    Removes selected enclosure faces so the supporting frame
+                    remains readable.
                   </p>
                   <div className="step-controls">
                     <button
@@ -303,7 +427,7 @@ export default function Home() {
                       <ArrowLeft size={16} /> Back
                     </button>
                     <button
-                      disabled={state.stage === 3}
+                      disabled={state.stage === 6}
                       onClick={() =>
                         setState((s) => ({
                           ...s,

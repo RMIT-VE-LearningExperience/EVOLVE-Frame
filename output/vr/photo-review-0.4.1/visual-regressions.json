@@ -1,0 +1,69 @@
+{
+  "result": "PASS",
+  "pixel_checks": [
+    {
+      "surface": "Bedroom5 robe-head plaster",
+      "pixel": [
+        1450,
+        35
+      ],
+      "before_rgb": [
+        23.6,
+        22.0,
+        20.0
+      ],
+      "after_rgb": [
+        143.6,
+        139.2,
+        134.0
+      ],
+      "pass": true,
+      "scope": "Known dark patch at the original camera, supplemented by full-image visual review."
+    },
+    {
+      "surface": "Upper-bath wall end",
+      "pixel": [
+        565,
+        400
+      ],
+      "before_rgb": [
+        22.0,
+        20.0,
+        18.0
+      ],
+      "after_rgb": [
+        191.9,
+        187.4,
+        178.0
+      ],
+      "pass": true,
+      "scope": "Known dark patch at the original camera, supplemented by full-image visual review."
+    },
+    {
+      "surface": "Powder privacy glass",
+      "pixel": [
+        800,
+        500
+      ],
+      "before_rgb": [
+        67.2,
+        69.0,
+        67.2
+      ],
+      "after_rgb": [
+        183.0,
+        185.0,
+        185.0
+      ],
+      "pass": true,
+      "scope": "Known dark patch at the original camera, supplemented by full-image visual review."
+    }
+  ],
+  "garage_upper_interior": {
+    "result": "PASS",
+    "intrusions": [],
+    "scope": "New garage parts against finished upper-storey interior volume."
+  },
+  "porch_pier_caps": 2,
+  "scope": "Targeted photo regressions only; not whole-model or headset acceptance."
+}

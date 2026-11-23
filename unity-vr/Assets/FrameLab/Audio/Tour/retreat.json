@@ -1,0 +1,13 @@
+{
+  "sha256": "b64b63c0c53253099f9e73430d9e91a37bff0fa06610aa8c0fb72a716c43e7ea",
+  "voice_id": "tyepWYJJwJM9TTFIg5U7",
+  "text": "You're in the upstairs retreat. Think of this as another shared living space, connected to the bedrooms by the landing. Compare its size and openings with the family area below. The same wall and roof controls work here, so you can inspect the structure from this level as well. Next room takes us into the study.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.12,
+    "use_speaker_boost": true,
+    "speed": 0.96
+  }
+}
