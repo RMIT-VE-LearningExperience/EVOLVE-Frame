@@ -1,0 +1,64 @@
+          ZERO BOUNDARY
+
+
+
+
+                                                                                                                                                                                                            DP/RWH
+                                                   DP                                                              DP                                                                               DP
+
+       SELECTED COLORBOND
+       ROOF @ 5° ROOF PITCH                                                                          SELECTED COLORBOND ROOF @ 25°
+       WITH ROOF SARKING.
+                                                                                                     ROOF PITCH WITH ROOF SARKING.                                                                                   1570
+                                                                                                                                                                                                                    PORCH
+                                                                                                                                                                                                                    SETBACK
+                                                                                                                            SELECTED WHIRLYBIRD
+                                                            SOLAR
+                                                            PANEL
+                                                                                                                                                                                                                3010
+                                                                                                                                                                                                             GF SETBACK
+                                                                                                      SELECTED COLORBOND ROOF @ 25°                                                                             3060
+DP/RWH                                DP/RWH                                                                                                                                                                 FF SETBACK
+                    6130                                                                              ROOF PITCH WITH ROOF SARKING.
+
+
+
+
+                                                                                                                                                                                                       DP
+               LOT 735                                                                                                                                                                                        2130
+                                               DP                                               DP                                        DP                                                   DP
+
+
+
+
+
+
+                                                                                                                                                                                                                               AREA SCHEDULE
+                                                                  Private Open Space = 85.73 sqm                                                                                                                              SITE366.00
+ SITE & ROOF PLAN                                                                                                                                                                                                             HOUSESQMSQS
+ SCALE    1:100                                                                                                                                                                                                               GROUND FLOOR AREA151.1516.27
+                                                                                                                                                                                                                              FIRST FLOOR AREA168.1418.09
+                                                                                                                                                                                                                              PORCH4.990.54
+
+                                                                                                                                                                                                                               ALFRESCO18.602.00
+                                                                                                                                                                                                                              GARAGE43.854.72
+                                                                                                                                                                                                                               TOTAL AREA386.7341.62
+
+
+
+                                                                                                                                                                                                                              SITE COVERAGE218.5959.72%
+                                                                                                                                                                                                                              HARD SURFACE AREA-
+
+                                                                                                                                                                                                                               TOTAL HARD SURFACE AREA--
+
+
+                                                                                                                                                                                                                              PERMEABILITY147.4140.28%
+                                                                                                                                                                                                                              PRIVATE OPEN SPACE85.73
+
+                                                                                                             DATE:BY:REVISION      PROJECT:                            CLIENT:                              ISSUE DATE: 16.01.2024                       PROJECT NO: 042224
+                                                                                                                         E.C.DRAWINGS ISSUED FOR CONSTRUCTION.20.01.2024-NEW DWELLING
+                                                                                                                                                                                                            SCALE:    1:100 @ A3
+                                                                                                                                   ADDRESS:                                                                                         N                    SHEET NO:
+                                                                                                                                                                       DRAWING NAME:                        DRAWN:    E.C.
+                                                                                                                                   LOT 735 (NO. 15) LEICHHARDT         ROOF PLAN
+                                                                                                                                   AVENUE, BURNSIDE HEIGHTS.                                                CHECKED:  E.C.                               04

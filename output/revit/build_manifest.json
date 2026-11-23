@@ -1,0 +1,1224 @@
+{
+  "units": "mm",
+  "status": "Coordination geometry. Source conflicts retained, no design certification.",
+  "walls": [
+    {
+      "mark": "GF-GAR-W",
+      "a": [
+        115,
+        2640
+      ],
+      "b": [
+        115,
+        9380
+      ],
+      "width": 230,
+      "z": -86,
+      "height": 3600,
+      "source": "A07 garage6000 clear; A09/A10 garage parapet3600",
+      "openings": [
+        {
+          "mark": "D03",
+          "centre": 6040,
+          "width": 5000,
+          "sill": 0,
+          "height": 2400
+        }
+      ]
+    },
+    {
+      "mark": "GF-GAR-N",
+      "a": [
+        115,
+        9380
+      ],
+      "b": [
+        6350,
+        9380
+      ],
+      "width": 240,
+      "z": -86,
+      "height": 3600,
+      "source": "A07/A10",
+      "openings": []
+    },
+    {
+      "mark": "GF-GAR-E",
+      "a": [
+        6350,
+        9380
+      ],
+      "b": [
+        6350,
+        8060
+      ],
+      "width": 240,
+      "z": -86,
+      "height": 3600,
+      "source": "A07 garage overall6470 / projection1320",
+      "openings": []
+    },
+    {
+      "mark": "GF-N",
+      "a": [
+        6350,
+        8060
+      ],
+      "b": [
+        26870,
+        8060
+      ],
+      "width": 240,
+      "z": 0,
+      "height": 3140,
+      "source": "A07 wall240, A12 floor3140; centres measured from calibrated vector jambs",
+      "openings": [
+        {
+          "mark": "D02",
+          "centre": 7520,
+          "width": 820,
+          "sill": 0,
+          "height": 2340
+        },
+        {
+          "mark": "W05",
+          "centre": 10765,
+          "width": 2710,
+          "sill": 280,
+          "height": 2120
+        },
+        {
+          "mark": "W04",
+          "centre": 16595,
+          "width": 1510,
+          "sill": 905,
+          "height": 514
+        },
+        {
+          "mark": "W03",
+          "centre": 20995,
+          "width": 810,
+          "sill": 280,
+          "height": 2120
+        },
+        {
+          "mark": "W02",
+          "centre": 25765,
+          "width": 810,
+          "sill": 280,
+          "height": 2120
+        }
+      ]
+    },
+    {
+      "mark": "GF-E",
+      "a": [
+        26870,
+        120
+      ],
+      "b": [
+        26870,
+        8060
+      ],
+      "width": 240,
+      "z": 0,
+      "height": 3140,
+      "source": "A07/A11",
+      "openings": [
+        {
+          "mark": "W01",
+          "centre": 2250,
+          "width": 3000,
+          "sill": 0,
+          "height": 2400
+        },
+        {
+          "mark": "D01",
+          "centre": 6340,
+          "width": 1640,
+          "sill": 0,
+          "height": 2340
+        }
+      ]
+    },
+    {
+      "mark": "GF-S",
+      "a": [
+        12600,
+        120
+      ],
+      "b": [
+        26870,
+        120
+      ],
+      "width": 240,
+      "z": 0,
+      "height": 3140,
+      "source": "A07/A11",
+      "openings": [
+        {
+          "mark": "W06",
+          "centre": 15210,
+          "width": 3060,
+          "sill": 300,
+          "height": 2100
+        },
+        {
+          "mark": "W07",
+          "centre": 19295,
+          "width": 1510,
+          "sill": 1140,
+          "height": 1260
+        }
+      ]
+    },
+    {
+      "mark": "GF-ALF-E",
+      "a": [
+        12600,
+        120
+      ],
+      "b": [
+        12600,
+        3500
+      ],
+      "width": 240,
+      "z": 0,
+      "height": 3140,
+      "source": "A07/A11 D05 south-return nominal opening",
+      "openings": [
+        {
+          "mark": "D05-B",
+          "centre": 1860,
+          "width": 3000,
+          "sill": 0,
+          "height": 2100
+        }
+      ]
+    },
+    {
+      "mark": "GF-ALF-N",
+      "a": [
+        8390,
+        3500
+      ],
+      "b": [
+        12600,
+        3500
+      ],
+      "width": 240,
+      "z": 0,
+      "height": 3140,
+      "source": "A07/A11 D05 corner nominal opening; support jamb coordination pending",
+      "openings": [
+        {
+          "mark": "D05-A",
+          "centre": 10550,
+          "width": 3600,
+          "sill": 0,
+          "height": 2100
+        }
+      ]
+    },
+    {
+      "mark": "GF-NOOK-E",
+      "a": [
+        8390,
+        2640
+      ],
+      "b": [
+        8390,
+        3500
+      ],
+      "width": 240,
+      "z": 0,
+      "height": 3140,
+      "source": "A07 nook1100 step",
+      "openings": []
+    },
+    {
+      "mark": "GF-GAR-S",
+      "a": [
+        115,
+        2640
+      ],
+      "b": [
+        8390,
+        2640
+      ],
+      "width": 240,
+      "z": -86,
+      "height": 2826,
+      "source": "A07 garage6980 overall /6500 clear; A09 ceiling2826",
+      "openings": [
+        {
+          "mark": "D04",
+          "centre": 4140,
+          "width": 3000,
+          "sill": 0,
+          "height": 2400
+        }
+      ]
+    },
+    {
+      "mark": "GF-GAR-P",
+      "a": [
+        6275,
+        2760
+      ],
+      "b": [
+        6275,
+        7940
+      ],
+      "width": 90,
+      "z": -86,
+      "height": 2826,
+      "source": "A07 garage6000 clear, partition90; north end join disabled",
+      "openings": [
+        {
+          "mark": "D-GAR-ACCESS",
+          "centre": 4160,
+          "width": 920,
+          "sill": 86,
+          "height": 2340
+        }
+      ]
+    },
+    {
+      "mark": "GF-LDRY-E",
+      "a": [
+        8765,
+        4850
+      ],
+      "b": [
+        8765,
+        7940
+      ],
+      "width": 90,
+      "z": 0,
+      "height": 2740,
+      "source": "A07 laundry1800 plus linen510 and partitions90",
+      "openings": []
+    },
+    {
+      "mark": "GF-LDRY-S",
+      "a": [
+        6320,
+        4805
+      ],
+      "b": [
+        8765,
+        4805
+      ],
+      "width": 90,
+      "z": 0,
+      "height": 2740,
+      "source": "A07 laundry3090",
+      "openings": [
+        {
+          "mark": "D-LDRY",
+          "centre": 7550,
+          "width": 820,
+          "sill": 0,
+          "height": 2340
+        }
+      ]
+    },
+    {
+      "mark": "GF-LINEN",
+      "a": [
+        6875,
+        6440
+      ],
+      "b": [
+        6875,
+        7940
+      ],
+      "width": 90,
+      "z": 0,
+      "height": 2740,
+      "source": "A07 linen510x1500",
+      "openings": []
+    },
+    {
+      "mark": "GF-PWD-W",
+      "a": [
+        19825,
+        5445
+      ],
+      "b": [
+        19825,
+        7940
+      ],
+      "width": 90,
+      "z": 0,
+      "height": 2740,
+      "source": "A07 powder1600 clear",
+      "openings": []
+    },
+    {
+      "mark": "GF-PWD-E",
+      "a": [
+        21515,
+        5445
+      ],
+      "b": [
+        21515,
+        7940
+      ],
+      "width": 90,
+      "z": 0,
+      "height": 2740,
+      "source": "A07 entry5190; powder1600",
+      "openings": []
+    },
+    {
+      "mark": "GF-PWD-S",
+      "a": [
+        19825,
+        5400
+      ],
+      "b": [
+        21515,
+        5400
+      ],
+      "width": 90,
+      "z": 0,
+      "height": 2740,
+      "source": "A07 powder2500 clear",
+      "openings": [
+        {
+          "mark": "D-PWD",
+          "centre": 20750,
+          "width": 820,
+          "sill": 0,
+          "height": 2340
+        }
+      ]
+    },
+    {
+      "mark": "GF-SUITE-N",
+      "a": [
+        17865,
+        4065
+      ],
+      "b": [
+        22705,
+        4065
+      ],
+      "width": 90,
+      "z": 0,
+      "height": 2740,
+      "source": "A07 ensuite/WIR3780 clear, calibrated wall edges4020/4110",
+      "openings": []
+    },
+    {
+      "mark": "GF-BED-N",
+      "a": [
+        22705,
+        4785
+      ],
+      "b": [
+        26750,
+        4785
+      ],
+      "width": 90,
+      "z": 0,
+      "height": 2740,
+      "source": "A07 bedroom4500 clear, door820",
+      "openings": [
+        {
+          "mark": "D-BED1",
+          "centre": 23290,
+          "width": 820,
+          "sill": 0,
+          "height": 2340
+        }
+      ]
+    },
+    {
+      "mark": "GF-BED-W",
+      "a": [
+        22705,
+        240
+      ],
+      "b": [
+        22705,
+        4785
+      ],
+      "width": 90,
+      "z": 0,
+      "height": 2740,
+      "source": "A07 bedroom4000 clear; WIR passage800",
+      "openings": [
+        {
+          "mark": "D-WIR",
+          "centre": 3620,
+          "width": 800,
+          "sill": 0,
+          "height": 2400
+        }
+      ]
+    },
+    {
+      "mark": "GF-WIR-W",
+      "a": [
+        20345,
+        240
+      ],
+      "b": [
+        20345,
+        4065
+      ],
+      "width": 90,
+      "z": 0,
+      "height": 2740,
+      "source": "A07 WIR2270 clear; cavity slider second90 leaf of180 overall wall",
+      "openings": [
+        {
+          "mark": "D-ENS",
+          "centre": 2110,
+          "width": 760,
+          "sill": 0,
+          "height": 2340
+        }
+      ]
+    },
+    {
+      "mark": "GF-ENS-E",
+      "a": [
+        20255,
+        240
+      ],
+      "b": [
+        20255,
+        4065
+      ],
+      "width": 90,
+      "z": 0,
+      "height": 2740,
+      "source": "A07 ensuite1800 clear; cavity slider first90 leaf of180 overall wall",
+      "openings": [
+        {
+          "mark": "D-ENS-INNER",
+          "centre": 2110,
+          "width": 760,
+          "sill": 0,
+          "height": 2340
+        }
+      ]
+    },
+    {
+      "mark": "GF-ENS-W",
+      "a": [
+        18365,
+        240
+      ],
+      "b": [
+        18365,
+        4065
+      ],
+      "width": 90,
+      "z": 0,
+      "height": 2740,
+      "source": "A07 ensuite1800 clear, verified edges18320/18410",
+      "openings": []
+    },
+    {
+      "mark": "GF-WC-N",
+      "a": [
+        18365,
+        1185
+      ],
+      "b": [
+        20255,
+        1185
+      ],
+      "width": 90,
+      "z": 0,
+      "height": 2740,
+      "source": "A07 WC900 clear",
+      "openings": [
+        {
+          "mark": "D-WC",
+          "centre": 19850,
+          "width": 720,
+          "sill": 0,
+          "height": 2340
+        }
+      ]
+    },
+    {
+      "mark": "GF-VD-W1",
+      "a": [
+        17865,
+        240
+      ],
+      "b": [
+        17865,
+        795
+      ],
+      "width": 90,
+      "z": 0,
+      "height": 2740,
+      "source": "A07 vanity void410 clear, lower return",
+      "openings": []
+    },
+    {
+      "mark": "GF-VD-W2",
+      "a": [
+        17865,
+        3555
+      ],
+      "b": [
+        17865,
+        4065
+      ],
+      "width": 90,
+      "z": 0,
+      "height": 2740,
+      "source": "A07 vanity void410 clear, upper return",
+      "openings": []
+    },
+    {
+      "mark": "GF-VD-S",
+      "a": [
+        17865,
+        795
+      ],
+      "b": [
+        18365,
+        795
+      ],
+      "width": 90,
+      "z": 0,
+      "height": 2740,
+      "source": "A07 void return, edges750/840",
+      "openings": []
+    },
+    {
+      "mark": "GF-VD-N",
+      "a": [
+        17865,
+        3555
+      ],
+      "b": [
+        18365,
+        3555
+      ],
+      "width": 90,
+      "z": 0,
+      "height": 2740,
+      "source": "A07 void return, edges3510/3600",
+      "openings": []
+    },
+    {
+      "mark": "FF-N",
+      "a": [
+        6225,
+        8035
+      ],
+      "b": [
+        26845,
+        8035
+      ],
+      "width": 190,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08/A11/A12",
+      "openings": [
+        {
+          "mark": "W13",
+          "centre": 11590,
+          "width": 670,
+          "sill": 1020,
+          "height": 1260
+        },
+        {
+          "mark": "W12",
+          "centre": 12730,
+          "width": 670,
+          "sill": 1020,
+          "height": 1260
+        },
+        {
+          "mark": "W11",
+          "centre": 17115,
+          "width": 2230,
+          "sill": 760,
+          "height": 1520
+        },
+        {
+          "mark": "W10",
+          "centre": 20055,
+          "width": 850,
+          "sill": 480,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "mark": "FF-S",
+      "a": [
+        6225,
+        145
+      ],
+      "b": [
+        26845,
+        145
+      ],
+      "width": 190,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08/A11/A12 D04 schedule widths",
+      "openings": [
+        {
+          "mark": "W15",
+          "centre": 8360,
+          "width": 2230,
+          "sill": 760,
+          "height": 1520
+        },
+        {
+          "mark": "W16",
+          "centre": 11075,
+          "width": 670,
+          "sill": 1020,
+          "height": 1260
+        },
+        {
+          "mark": "W17",
+          "centre": 14435,
+          "width": 2230,
+          "sill": 760,
+          "height": 1520
+        },
+        {
+          "mark": "W18",
+          "centre": 18075,
+          "width": 1810,
+          "sill": 760,
+          "height": 1520
+        },
+        {
+          "mark": "W19",
+          "centre": 20860,
+          "width": 2230,
+          "sill": 760,
+          "height": 1520
+        }
+      ]
+    },
+    {
+      "mark": "FF-W",
+      "a": [
+        6225,
+        145
+      ],
+      "b": [
+        6225,
+        8035
+      ],
+      "width": 190,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08/A11 D04 schedule width",
+      "openings": [
+        {
+          "mark": "W14",
+          "centre": 6340,
+          "width": 2230,
+          "sill": 760,
+          "height": 1520
+        }
+      ]
+    },
+    {
+      "mark": "FF-E",
+      "a": [
+        26845,
+        145
+      ],
+      "b": [
+        26845,
+        8035
+      ],
+      "width": 190,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08/A11",
+      "openings": [
+        {
+          "mark": "W08",
+          "centre": 2490,
+          "width": 2710,
+          "sill": 480,
+          "height": 1800
+        },
+        {
+          "mark": "W09",
+          "centre": 6385,
+          "width": 2710,
+          "sill": 480,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "mark": "FF-BED4-S",
+      "a": [
+        6320,
+        4695
+      ],
+      "b": [
+        11045,
+        4695
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 bed4 depth3200",
+      "openings": [
+        {
+          "mark": "D-BED4",
+          "centre": 10600,
+          "width": 820,
+          "sill": 0,
+          "height": 2340
+        }
+      ]
+    },
+    {
+      "mark": "FF-ROBES-S",
+      "a": [
+        6320,
+        3485
+      ],
+      "b": [
+        11045,
+        3485
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 hall1120 /robes1120",
+      "openings": [
+        {
+          "mark": "D-WIR3",
+          "centre": 7000,
+          "width": 820,
+          "sill": 0,
+          "height": 2400
+        }
+      ]
+    },
+    {
+      "mark": "FF-ROBES-DIV",
+      "a": [
+        8665,
+        3485
+      ],
+      "b": [
+        8665,
+        4695
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 WIR3 2300, WIR4 2290",
+      "openings": []
+    },
+    {
+      "mark": "FF-ROBES-E",
+      "a": [
+        11045,
+        3485
+      ],
+      "b": [
+        11045,
+        4695
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 bed4/robe4680",
+      "openings": []
+    },
+    {
+      "mark": "FF-WC-W",
+      "a": [
+        11045,
+        5785
+      ],
+      "b": [
+        11045,
+        7940
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 bed4 width4680",
+      "openings": []
+    },
+    {
+      "mark": "FF-WC-E",
+      "a": [
+        12135,
+        4695
+      ],
+      "b": [
+        12135,
+        7940
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 WC1000",
+      "openings": []
+    },
+    {
+      "mark": "FF-WC-S",
+      "a": [
+        11045,
+        5785
+      ],
+      "b": [
+        12135,
+        5785
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 WC2110",
+      "openings": [
+        {
+          "mark": "D-WC2",
+          "centre": 11700,
+          "width": 720,
+          "sill": 0,
+          "height": 2340
+        }
+      ]
+    },
+    {
+      "mark": "FF-BATH-ROBE",
+      "a": [
+        14225,
+        5295
+      ],
+      "b": [
+        14225,
+        7940
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 bath2000",
+      "openings": []
+    },
+    {
+      "mark": "FF-ROBE-BED5",
+      "a": [
+        14915,
+        4695
+      ],
+      "b": [
+        14915,
+        7940
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 robe600",
+      "openings": []
+    },
+    {
+      "mark": "FF-BATH-S",
+      "a": [
+        12135,
+        4695
+      ],
+      "b": [
+        14915,
+        4695
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 bath / linen hall",
+      "openings": [
+        {
+          "mark": "D-BATH1",
+          "centre": 12560,
+          "width": 720,
+          "sill": 0,
+          "height": 2340
+        }
+      ]
+    },
+    {
+      "mark": "FF-LINEN-N",
+      "a": [
+        13225,
+        5295
+      ],
+      "b": [
+        14915,
+        5295
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 linen1600 /depth510",
+      "openings": []
+    },
+    {
+      "mark": "FF-LINEN-W",
+      "a": [
+        13225,
+        4695
+      ],
+      "b": [
+        13225,
+        5295
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 bath lower1000",
+      "openings": []
+    },
+    {
+      "mark": "FF-BED5-S",
+      "a": [
+        14915,
+        4695
+      ],
+      "b": [
+        19315,
+        4695
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 bed5 4310",
+      "openings": [
+        {
+          "mark": "D-BED5",
+          "centre": 15460,
+          "width": 820,
+          "sill": 0,
+          "height": 2340
+        }
+      ]
+    },
+    {
+      "mark": "FF-BED5-E",
+      "a": [
+        19315,
+        4695
+      ],
+      "b": [
+        19315,
+        7940
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 bed5 4310",
+      "openings": []
+    },
+    {
+      "mark": "FF-BED3-N",
+      "a": [
+        11045,
+        3485
+      ],
+      "b": [
+        12245,
+        3485
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 lower hall line / bath2200",
+      "openings": []
+    },
+    {
+      "mark": "FF-BATH2-E",
+      "a": [
+        12735,
+        240
+      ],
+      "b": [
+        12735,
+        2395
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 bath2200 clear",
+      "openings": [
+        {
+          "mark": "D-BATH2",
+          "centre": 1850,
+          "width": 720,
+          "sill": 0,
+          "height": 2340
+        }
+      ]
+    },
+    {
+      "mark": "FF-BATH2-W",
+      "a": [
+        10445,
+        240
+      ],
+      "b": [
+        10445,
+        2395
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 bed3 4080 clear to bath",
+      "openings": []
+    },
+    {
+      "mark": "FF-BATH2-N",
+      "a": [
+        10445,
+        2395
+      ],
+      "b": [
+        12735,
+        2395
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 bath2110 clear",
+      "openings": []
+    },
+    {
+      "mark": "FF-BED2-N",
+      "a": [
+        12735,
+        3485
+      ],
+      "b": [
+        16825,
+        3485
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 upper hall",
+      "openings": [
+        {
+          "mark": "D-BED2",
+          "centre": 13400,
+          "width": 820,
+          "sill": 0,
+          "height": 2340
+        }
+      ]
+    },
+    {
+      "mark": "FF-BED2-STUDY",
+      "a": [
+        16825,
+        240
+      ],
+      "b": [
+        16825,
+        3485
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 bed2 clear4000 including robe zone",
+      "openings": []
+    },
+    {
+      "mark": "FF-STUDY-RETREAT",
+      "a": [
+        19315,
+        240
+      ],
+      "b": [
+        19315,
+        3485
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 study2400",
+      "openings": [
+        {
+          "mark": "D-STUDY",
+          "centre": 2975,
+          "width": 820,
+          "sill": 0,
+          "height": 2340
+        }
+      ]
+    },
+    {
+      "mark": "FF-RETREAT-THEATRE",
+      "a": [
+        22405,
+        240
+      ],
+      "b": [
+        22405,
+        4785
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 retreat3000 /theatre4300",
+      "openings": []
+    },
+    {
+      "mark": "FF-THEATRE-N",
+      "a": [
+        22405,
+        4785
+      ],
+      "b": [
+        26750,
+        4785
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 2590,
+      "source": "A08 theatre4500 depth /void3110",
+      "openings": [
+        {
+          "mark": "D-THEATRE",
+          "centre": 22950,
+          "width": 820,
+          "sill": 0,
+          "height": 2340
+        }
+      ]
+    },
+    {
+      "mark": "FF-STAIR-DWARF",
+      "a": [
+        20750,
+        6795
+      ],
+      "b": [
+        24750,
+        6795
+      ],
+      "width": 90,
+      "z": 3140,
+      "height": 1200,
+      "source": "A08 stair clear1100; run4000, coordination D05",
+      "openings": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+try{return System.Reflection.Assembly.LoadFrom(@"C:\Users\Stormtrooper\Git\EVOLVE - Frame\tmp\revit-compiler\EvolveBuildHelpers.dll").GetType("EvolveRevit.Helpers").GetMethod("UpdateTimber").Invoke(null,new object[]{document});}catch(Exception ex){return new{failure=ex.ToString()};}

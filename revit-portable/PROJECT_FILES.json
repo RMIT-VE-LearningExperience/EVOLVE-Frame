@@ -1,0 +1,187 @@
+﻿[
+    {
+        "file":  "output/revit/Leichhardt_Coordination_Model.rvt",
+        "bytes":  46440448,
+        "sha256":  "54409258a868add686849540ee09e24452b73b97f86d056af54b9224a0182508"
+    },
+    {
+        "file":  "Leichhardt_Architectural Plans (1).pdf",
+        "bytes":  3420285,
+        "sha256":  "4e270646056f7d4953751dcf132d30f4b50e7ce4e194c8818e16e1b038747c70"
+    },
+    {
+        "file":  "Leichhardt_Engineering Plans (1).pdf",
+        "bytes":  905959,
+        "sha256":  "26da88ed74a8fab4619f3fd58315b2470cb0f156b646c6bd3c7dc962067edfd1"
+    },
+    {
+        "file":  "Leichhardt_Engineering Roof Truss Frame (1).pdf",
+        "bytes":  264423,
+        "sha256":  "b2784264a417aa9510160fc3609bc61087c37a252e14ea23681f58000ecbeaad"
+    },
+    {
+        "file":  "Leichhardt_Engineering Subfloor Frame (1).pdf",
+        "bytes":  487437,
+        "sha256":  "c871fcf85d1cd52bea1a1c5dfe8f72b842d4cb1ec454d1c79286e16623e8fdd7"
+    },
+    {
+        "file":  "output/revit/families/LC D01 - A11.rfa",
+        "bytes":  483328,
+        "sha256":  "32c26e32c0f62002ebd9fa8caaf8c2560e8db8dc07fbe50bb5c8a715ce694d8f"
+    },
+    {
+        "file":  "output/revit/families/LC D02 - A11.rfa",
+        "bytes":  479232,
+        "sha256":  "f267c032aa3431161d0dbf0b56e79617357a3516d492871062bc5e1df2074369"
+    },
+    {
+        "file":  "output/revit/families/LC D03 - A11.rfa",
+        "bytes":  487424,
+        "sha256":  "570cf12ab8012361642e365706b063c8fd9d33c3fd59c2971eae88dc8d858eb1"
+    },
+    {
+        "file":  "output/revit/families/LC D04 - A11.rfa",
+        "bytes":  487424,
+        "sha256":  "2cb14f26055c2f26699fe4c5045f3d0ba11d4ce8c5de45d5b24bb8f143564d69"
+    },
+    {
+        "file":  "output/revit/families/LC D05-A - A11.rfa",
+        "bytes":  487424,
+        "sha256":  "a8e99723a06a0dd8e0165f57f3f4d5e448fd6bdfeda7ceffa759175f18551e33"
+    },
+    {
+        "file":  "output/revit/families/LC D05-B - A11.rfa",
+        "bytes":  487424,
+        "sha256":  "8d19379aeb50458c6364568b0b5017ce09769b71ac664d44f9c2854538c37dbe"
+    },
+    {
+        "file":  "output/revit/families/LC Door-720x2340 - A11.rfa",
+        "bytes":  479232,
+        "sha256":  "5baf5fc83717be399e2a9b04e26b85ba2a26067e4f813552c61e0541ad4008c5"
+    },
+    {
+        "file":  "output/revit/families/LC Door-760x2340 - A11.rfa",
+        "bytes":  479232,
+        "sha256":  "f3622175d7c2d4b8b608cc75c25dcbc488a12fa89dde8f2d98b097118896c063"
+    },
+    {
+        "file":  "output/revit/families/LC Door-820x2340 - A11.rfa",
+        "bytes":  479232,
+        "sha256":  "476a929c66963f155da6f77d57a7bc4c4447312b71df83ef4ce41f0e4eb996ee"
+    },
+    {
+        "file":  "output/revit/families/LC Door-820x2400 - A11.rfa",
+        "bytes":  479232,
+        "sha256":  "bc6f8bbc5dc492a019054b851d8e6de2566ef376344e6a4aa42763264a64b3d9"
+    },
+    {
+        "file":  "output/revit/families/LC Door-920x2340 - A11.rfa",
+        "bytes":  479232,
+        "sha256":  "133cbd7a57700d0dea5debac510bb573b03e3b155f8b2ddfca5a04fca6ad4cbd"
+    },
+    {
+        "file":  "output/revit/families/LC Passage-800x2400 - A11.rfa",
+        "bytes":  475136,
+        "sha256":  "0ab9001848e0fc40d64ceb0b7b1149367882879fde26aad265d90a12d274ec04"
+    },
+    {
+        "file":  "output/revit/families/LC Rectangular Timber.rfa",
+        "bytes":  892928,
+        "sha256":  "a657a1727093c7078dd08c34f262ec08a9650d659faff9ad6e897e24b577873b"
+    },
+    {
+        "file":  "output/revit/families/LC W01 - A11.rfa",
+        "bytes":  491520,
+        "sha256":  "386d163d8c2b9c4d0ed693112e78a605f2e5de42c6105c7274d2d554256ac62b"
+    },
+    {
+        "file":  "output/revit/families/LC W02 - A11.rfa",
+        "bytes":  483328,
+        "sha256":  "a2042758cc2682f84b6c3530196c5cd424aa91624efd634da9496f636006ccba"
+    },
+    {
+        "file":  "output/revit/families/LC W03 - A11.rfa",
+        "bytes":  483328,
+        "sha256":  "ad781683bfba8e9bc7e354c76159dd5dede234227ee567ec6cbb0d655ef69f5e"
+    },
+    {
+        "file":  "output/revit/families/LC W04 - A11.rfa",
+        "bytes":  479232,
+        "sha256":  "c6e883fa9871eb8f03e25d47e5a0d0fa341ee83132a6f8b67b56f1dc296a1613"
+    },
+    {
+        "file":  "output/revit/families/LC W05 - A11.rfa",
+        "bytes":  491520,
+        "sha256":  "a32e6adfcb38529ed61e9944412628b69ad31e4e4aba31bf16ccfc65c32582c7"
+    },
+    {
+        "file":  "output/revit/families/LC W06 - A11.rfa",
+        "bytes":  491520,
+        "sha256":  "cdd312e572e89319ff510a6a6f96bdcff55a25226bd2a0cedffc83d519161cb7"
+    },
+    {
+        "file":  "output/revit/families/LC W07 - A11.rfa",
+        "bytes":  483328,
+        "sha256":  "88af525747fad507795a06f960fc1eeb8ea7f64b58ece409889d1d9f7ddb2019"
+    },
+    {
+        "file":  "output/revit/families/LC W08 - A11.rfa",
+        "bytes":  487424,
+        "sha256":  "a0ed28466ae28b55850139995970796441df85f876c204950fcb2f3da2b11bff"
+    },
+    {
+        "file":  "output/revit/families/LC W09 - A11.rfa",
+        "bytes":  479232,
+        "sha256":  "41df1e32e657864d4274b620f8b47810e16fff407287762eddca3cdace570070"
+    },
+    {
+        "file":  "output/revit/families/LC W10 - A11.rfa",
+        "bytes":  483328,
+        "sha256":  "381d56ddfa1141ee4cbcf08a8f0627335ef770d62870ff931d65246ba7149e04"
+    },
+    {
+        "file":  "output/revit/families/LC W11 - A11.rfa",
+        "bytes":  483328,
+        "sha256":  "7f66fef097ad6c5c3bd6305e2c752b4722e50dd8b7878ae11484293c9283a1d1"
+    },
+    {
+        "file":  "output/revit/families/LC W12 - A11.rfa",
+        "bytes":  479232,
+        "sha256":  "b21364bc70db1919f1266ce4681af5a9b0186f7ace4241ef17f3d7d601e913ef"
+    },
+    {
+        "file":  "output/revit/families/LC W13 - A11.rfa",
+        "bytes":  479232,
+        "sha256":  "4cf3261113c48d634ab27c613f1445c0863d4fe4f58a5626abaf9bb13cc9f111"
+    },
+    {
+        "file":  "output/revit/families/LC W14 - A11.rfa",
+        "bytes":  483328,
+        "sha256":  "e941b87387441e7220dfaaad5495eb26b770ecc0d9eaccccfc5b43bdb7700d24"
+    },
+    {
+        "file":  "output/revit/families/LC W15 - A11.rfa",
+        "bytes":  483328,
+        "sha256":  "6f928761fae972ee1a994d526db41056ac022e312a8e9e9b7513c4b9408c0df2"
+    },
+    {
+        "file":  "output/revit/families/LC W16 - A11.rfa",
+        "bytes":  479232,
+        "sha256":  "bab49f22dcbdf71a3e113ec5944f19c8f0f709848b44e2182cd7e64ede56fdce"
+    },
+    {
+        "file":  "output/revit/families/LC W17 - A11.rfa",
+        "bytes":  483328,
+        "sha256":  "29454f2b027c620a558acd2149f708d1c896bc51c62d6d3b4af0d9edc08f9641"
+    },
+    {
+        "file":  "output/revit/families/LC W18 - A11.rfa",
+        "bytes":  483328,
+        "sha256":  "a24d4a78f445844aae8838cf5fbe5bafa4f39d6bddb34012ce1c34f375dcdf25"
+    },
+    {
+        "file":  "output/revit/families/LC W19 - A11.rfa",
+        "bytes":  483328,
+        "sha256":  "0019d7a36392ef0481d40828d5b424b1f4037500299abcdcb8eb1b6ef02fefe8"
+    }
+]

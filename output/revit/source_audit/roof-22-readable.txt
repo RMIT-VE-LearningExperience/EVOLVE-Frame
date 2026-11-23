@@ -1,0 +1,62 @@
+MELBOURNE: 9331 7075
+BENDIGO: 5444 3636
+BALLARAT: 5333 1100
+email: sales@bbtruss.com.au
+6170 20520 1395 45
+1
+23 0
+2G 2G
+6
+86 0
+ROOF
+BRACING
+3
+41 0
+7
+88 0 ROOF
+BRACING
+7
+88 0
+300mm BOX GUTTER
+ROOF
+BRACING
+2G 2G
+6080 20610
+Do not stand on truss chords whilst installing Trusses to be erected in accordance
+withAustralianStandard AS4440-2004
+-Loadbearing Wall Trusses are not to be cut, modified Connection of truss to top plate:
+NOTE 1: All beams by others to engineers comps. oralteredwithoutpriorauthorisation Connection of Jack truss top chord to truncated girder: - 1 Multigrip unless noted otherwise
+- 1 Multigrip for Jack span 1800 > unless note otherwise 2G = Double MultiGrip
+NOTE 2: Permanent mid panel bottom chord ties required for plaster direct ceilings.
+RETTUG
+XOB
+mm003
+1C 2C 2C 1C H1
+T6
+C1H1 C1 T6
+C2
+T5 T5 T5 T5 T5 T5 T5 T5 C2 T6
+J1
+J1 T6
+J5 J2 T6
+J3 SOLAR J3
+PANEL
+J4 J2
+J1 J1
+2
+25 0 C2
+T 4
+0912
+T 3
+0903
+T1 T1 T1 T1 T1 T1 T1 T1 T1 T1 T1 T1 T1 T1 T1 T 3
+0903
+T 2
+0912
+C2
+C1 C1
+H1 1C 2C 2C 1C H1
+Timber: Dry Softwood Roofing: Metal Sheet@7kg/m² Wind Classificatn: N2 / 0.6 / 0.2 BSPOKE LUXURY HOMES PTY LTD Detailer: JOEY
+Pitch: 5.0 / 25.0 deg TC fix/rest: Metal @ 900c/900c Fascia Type: As per AS1720.3-2016 LOT 735 15 LEICHHARDT AVE BURNSIDE VIC 3023 AUS Date: 3/04/2026
+Truss Tail: 550 mm Ceiling: Plaster 10mm Supa Span@8.2kg/m² Ground Snow Load: Sg = 0.0 kPa Scale: 1:85
+Spacing: 900 mm BC fix/rest: Metal direct @ 600c/600c Structure Type: House Job No: K0964

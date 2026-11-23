@@ -1,0 +1,13 @@
+Client:BSPOKE LUXURY HOMES PTY LTD BB Truss & Timber Pty.Ltd. Job No: K0964
+Site: LOT 735 15 LEICHHARDT AVE (A.B.N. 20 986 756 544) 41 Keilor Park Drive Keilor Park 3042 (PH) 9331 7075 Truss: Layout created J3
+BURNSIDE VIC 3023 AUS Type: 3922 Jack -UL
+Ref: This truss has USER DEFINED LOADS applied. Lamination/Quantity: 1/2
+Ud1
+LOADS ON TRUSS: A=Auto loads by system; S=Service loads; Uc=User defined concentrated loads; Ud=User defined distributed loads
+Note: -ve signed loads act downwards, +ve signed loads act upwards
+Indicator Ud1(kN/m)
+DL -0.221
+LL 0.000
+WL 0.000
+Desc
+Page: 12

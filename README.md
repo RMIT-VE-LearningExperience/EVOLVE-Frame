@@ -14,6 +14,9 @@ Standalone **Leichhardt 0.4.6** APKs are also available for PICO 4 Ultra Enterpr
 - `output/enclosure/`: provisional enclosure revision and material assumptions.
 - `output/timber_frame/audit/POSITION_AUDIT.md`: discrepancies held for Chris's review.
 - `scripts/`: model generation, auditing and rendering tools.
+- `unity-vr/`: standalone PICO and Quest source, baked lighting and current Android APKs.
+- `output/revit/` and `revit-portable/`: Revit coordination work and portable dependencies retained from GitHub.
+- `sites/leichhardt-review/`: source snapshot of the private visual review gallery.
 
 The original project PDFs and initial model remain in their existing locations. The website does not distribute the PDFs.
 
@@ -28,3 +31,16 @@ The construction-stage sequence is a teaching reveal order, not an approved site
 This GitHub repository contains the full website source as ordinary files, not a submodule. GitHub Actions builds and publishes `student-web` to GitHub Pages when relevant files change on `main`. A separate private Sites deployment may be used for owner review, but it is not the public classroom URL.
 
 Local Blender backup files, dependencies, generated website builds and temporary deployment archives are excluded from version control.
+
+## Getting the large assets
+
+Install Git LFS before cloning. Models, source PDFs, images, narration, baked lighting, Revit dependencies and APKs are stored in LFS:
+
+```powershell
+git lfs install
+git clone https://github.com/RMIT-VE-LearningExperience/EVOLVE-Frame.git
+cd EVOLVE-Frame
+git lfs pull
+```
+
+The current APKs are `unity-vr/Builds/Android/Leichhardt-PICO.apk` and `unity-vr/Builds/Android/Leichhardt-Quest3-3S.apk`. See the Unity README for platform validation and build instructions. Credentials, Unity caches, dependency caches and raw provider traces stay local. The GitHub Pages workflow downloads only the web app's LFS assets before building.

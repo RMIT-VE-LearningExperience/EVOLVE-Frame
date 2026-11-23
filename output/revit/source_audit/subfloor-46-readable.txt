@@ -1,0 +1,20 @@
+Client:BSPOKE LUXURY HOMES PTY LTD BB Truss & Timber Pty Ltd Job No: K0964
+Site: LOT 735 15 LEICHHARDT AVE 41 Keilor Park Drive, Keilor Park 3042 Weight: 3.10 kg
+A1
+BURNSIDE VIC 3023 AUS Joist Name: SJ29 Type: 53x90-MGP10 H0 ADS Total Weight: 12.40 kg
+Ref: Joists: SJ194, SJ195, SJ196, SJ197 Laminations: 1
+53 53
+0 0
+0 1300
+User Def. Load A1 A2
+80.00 kg/m² 50.00 kg/m²
+Applied Load
+DL (kN)
+LL (kN)
+WL Up (kN)
+WL Dn (kN)
+Span: 1300 Floor Material: Particle (13.9 kg/m²) Application: General Areas All dimensions in millimetres. This drawing should be read in Joey Meriales
+conjunction with Multinail Technical sheets. (TN-012-015)
+Overhang: 0/0 Floor Covering: Std Carpet + Underlay (8 kg/m²) Live Load: 1.5 kPa Wall plates must be placed at supports only. Ver: Floor 1.14.3
+Spacing: 450 Ceiling Material: Plaster 10mm Std Core (6.7 kg/m²) Point Load: 1.8 kN Date: 10/04/2026
+Quantity: 4 Ceiling Fixing: Direct fix @ 450c Design: By Others Page: 45 of 45

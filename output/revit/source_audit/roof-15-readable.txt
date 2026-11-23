@@ -1,0 +1,19 @@
+Client:BSPOKE LUXURY HOMES PTY LTD BB Truss & Timber Pty.Ltd. Job No: K0964
+Site: LOT 735 15 LEICHHARDT AVE (A.B.N. 20 986 756 544) 41 Keilor Park Drive Keilor Park 3042 (PH) 9331 7075 Truss: Layout created T4
+BURNSIDE VIC 3023 AUS Type: TG2190
+Ref: Lamination/Quantity: 1/1
+AA12 A5 A7 A9 AA1112
+AA34 A6 A8 A10 AA1134
+LOADS ON TRUSS: A=Auto loads by system; S=Service loads; Uc=User defined concentrated loads; Ud=User defined distributed loads
+Note: -ve signed loads act downwards, +ve signed loads act upwards
+Indicator A1(kN) A2(kN) A3(kN) A4(kN) A5(kN) A6(kN) A7(kN) A8(kN) A9(kN) A10(kN)
+DL -0.218 -0.052 0.016 -0.071 -0.323 -0.071 -0.301 -0.071 -0.323 -0.071
+LL -0.283 -0.135 0.007 -0.013 -0.449 -0.023 -0.424 -0.022 -0.449 -0.023
+WL 0.744 0.290 -0.027 0.102 1.058 0.198 0.996 0.190 1.058 0.198
+Desc H1 J1 H1 J1 J4 J4 J3 J3 J5 J5
+Indicator A11(kN) A12(kN) A13(kN) A14(kN)
+DL -0.218 -0.052 0.016 -0.071
+LL -0.283 -0.135 0.007 -0.013
+WL 0.744 0.290 -0.027 0.102
+Desc H1 J1 H1 J1
+Page: 14

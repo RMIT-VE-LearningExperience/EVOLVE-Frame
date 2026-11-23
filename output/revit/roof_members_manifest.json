@@ -1,0 +1,8489 @@
+[
+  {
+    "mark": "RT-T1-01-TC1-L",
+    "assembly": "RT-T1-01",
+    "a": [
+      10237.5,
+      -400.0,
+      5540.53
+    ],
+    "b": [
+      10237.5,
+      4089.99,
+      7633.07
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-01-BC+1T",
+    "assembly": "RT-T1-01",
+    "a": [
+      10237.5,
+      239.06,
+      5785.74
+    ],
+    "b": [
+      10237.5,
+      5345.27,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-01-TOW1-L",
+    "assembly": "RT-T1-01",
+    "a": [
+      10237.5,
+      2814.89,
+      5785.74
+    ],
+    "b": [
+      10237.5,
+      4121.19,
+      7618.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-01-TOW2-L",
+    "assembly": "RT-T1-01",
+    "a": [
+      10237.5,
+      2238.31,
+      6770.1
+    ],
+    "b": [
+      10237.5,
+      2844.55,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-01-TC1-R",
+    "assembly": "RT-T1-01",
+    "a": [
+      10237.5,
+      4089.99,
+      7633.07
+    ],
+    "b": [
+      10237.5,
+      8580.0,
+      5540.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-01-BC1+1T-R",
+    "assembly": "RT-T1-01",
+    "a": [
+      10237.5,
+      5345.27,
+      5785.74
+    ],
+    "b": [
+      10237.5,
+      7940.93,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-01-TOW1-R",
+    "assembly": "RT-T1-01",
+    "a": [
+      10237.5,
+      4058.79,
+      7618.53
+    ],
+    "b": [
+      10237.5,
+      5365.1,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-01-TOW2-R",
+    "assembly": "RT-T1-01",
+    "a": [
+      10237.5,
+      5335.44,
+      5785.74
+    ],
+    "b": [
+      10237.5,
+      5941.68,
+      6770.1
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-02-TC1-L",
+    "assembly": "RT-T1-02",
+    "a": [
+      11137.5,
+      -400.0,
+      5540.53
+    ],
+    "b": [
+      11137.5,
+      4089.99,
+      7633.07
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-02-BC+1T",
+    "assembly": "RT-T1-02",
+    "a": [
+      11137.5,
+      239.06,
+      5785.74
+    ],
+    "b": [
+      11137.5,
+      5345.27,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-02-TOW1-L",
+    "assembly": "RT-T1-02",
+    "a": [
+      11137.5,
+      2814.89,
+      5785.74
+    ],
+    "b": [
+      11137.5,
+      4121.19,
+      7618.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-02-TOW2-L",
+    "assembly": "RT-T1-02",
+    "a": [
+      11137.5,
+      2238.31,
+      6770.1
+    ],
+    "b": [
+      11137.5,
+      2844.55,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-02-TC1-R",
+    "assembly": "RT-T1-02",
+    "a": [
+      11137.5,
+      4089.99,
+      7633.07
+    ],
+    "b": [
+      11137.5,
+      8580.0,
+      5540.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-02-BC1+1T-R",
+    "assembly": "RT-T1-02",
+    "a": [
+      11137.5,
+      5345.27,
+      5785.74
+    ],
+    "b": [
+      11137.5,
+      7940.93,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-02-TOW1-R",
+    "assembly": "RT-T1-02",
+    "a": [
+      11137.5,
+      4058.79,
+      7618.53
+    ],
+    "b": [
+      11137.5,
+      5365.1,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-02-TOW2-R",
+    "assembly": "RT-T1-02",
+    "a": [
+      11137.5,
+      5335.44,
+      5785.74
+    ],
+    "b": [
+      11137.5,
+      5941.68,
+      6770.1
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-03-TC1-L",
+    "assembly": "RT-T1-03",
+    "a": [
+      12037.5,
+      -400.0,
+      5540.53
+    ],
+    "b": [
+      12037.5,
+      4089.99,
+      7633.07
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-03-BC+1T",
+    "assembly": "RT-T1-03",
+    "a": [
+      12037.5,
+      239.06,
+      5785.74
+    ],
+    "b": [
+      12037.5,
+      5345.27,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-03-TOW1-L",
+    "assembly": "RT-T1-03",
+    "a": [
+      12037.5,
+      2814.89,
+      5785.74
+    ],
+    "b": [
+      12037.5,
+      4121.19,
+      7618.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-03-TOW2-L",
+    "assembly": "RT-T1-03",
+    "a": [
+      12037.5,
+      2238.31,
+      6770.1
+    ],
+    "b": [
+      12037.5,
+      2844.55,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-03-TC1-R",
+    "assembly": "RT-T1-03",
+    "a": [
+      12037.5,
+      4089.99,
+      7633.07
+    ],
+    "b": [
+      12037.5,
+      8580.0,
+      5540.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-03-BC1+1T-R",
+    "assembly": "RT-T1-03",
+    "a": [
+      12037.5,
+      5345.27,
+      5785.74
+    ],
+    "b": [
+      12037.5,
+      7940.93,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-03-TOW1-R",
+    "assembly": "RT-T1-03",
+    "a": [
+      12037.5,
+      4058.79,
+      7618.53
+    ],
+    "b": [
+      12037.5,
+      5365.1,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-03-TOW2-R",
+    "assembly": "RT-T1-03",
+    "a": [
+      12037.5,
+      5335.44,
+      5785.74
+    ],
+    "b": [
+      12037.5,
+      5941.68,
+      6770.1
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-04-TC1-L",
+    "assembly": "RT-T1-04",
+    "a": [
+      12937.5,
+      -400.0,
+      5540.53
+    ],
+    "b": [
+      12937.5,
+      4089.99,
+      7633.07
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-04-BC+1T",
+    "assembly": "RT-T1-04",
+    "a": [
+      12937.5,
+      239.06,
+      5785.74
+    ],
+    "b": [
+      12937.5,
+      5345.27,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-04-TOW1-L",
+    "assembly": "RT-T1-04",
+    "a": [
+      12937.5,
+      2814.89,
+      5785.74
+    ],
+    "b": [
+      12937.5,
+      4121.19,
+      7618.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-04-TOW2-L",
+    "assembly": "RT-T1-04",
+    "a": [
+      12937.5,
+      2238.31,
+      6770.1
+    ],
+    "b": [
+      12937.5,
+      2844.55,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-04-TC1-R",
+    "assembly": "RT-T1-04",
+    "a": [
+      12937.5,
+      4089.99,
+      7633.07
+    ],
+    "b": [
+      12937.5,
+      8580.0,
+      5540.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-04-BC1+1T-R",
+    "assembly": "RT-T1-04",
+    "a": [
+      12937.5,
+      5345.27,
+      5785.74
+    ],
+    "b": [
+      12937.5,
+      7940.93,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-04-TOW1-R",
+    "assembly": "RT-T1-04",
+    "a": [
+      12937.5,
+      4058.79,
+      7618.53
+    ],
+    "b": [
+      12937.5,
+      5365.1,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-04-TOW2-R",
+    "assembly": "RT-T1-04",
+    "a": [
+      12937.5,
+      5335.44,
+      5785.74
+    ],
+    "b": [
+      12937.5,
+      5941.68,
+      6770.1
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-05-TC1-L",
+    "assembly": "RT-T1-05",
+    "a": [
+      13837.5,
+      -400.0,
+      5540.53
+    ],
+    "b": [
+      13837.5,
+      4089.99,
+      7633.07
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-05-BC+1T",
+    "assembly": "RT-T1-05",
+    "a": [
+      13837.5,
+      239.06,
+      5785.74
+    ],
+    "b": [
+      13837.5,
+      5345.27,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-05-TOW1-L",
+    "assembly": "RT-T1-05",
+    "a": [
+      13837.5,
+      2814.89,
+      5785.74
+    ],
+    "b": [
+      13837.5,
+      4121.19,
+      7618.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-05-TOW2-L",
+    "assembly": "RT-T1-05",
+    "a": [
+      13837.5,
+      2238.31,
+      6770.1
+    ],
+    "b": [
+      13837.5,
+      2844.55,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-05-TC1-R",
+    "assembly": "RT-T1-05",
+    "a": [
+      13837.5,
+      4089.99,
+      7633.07
+    ],
+    "b": [
+      13837.5,
+      8580.0,
+      5540.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-05-BC1+1T-R",
+    "assembly": "RT-T1-05",
+    "a": [
+      13837.5,
+      5345.27,
+      5785.74
+    ],
+    "b": [
+      13837.5,
+      7940.93,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-05-TOW1-R",
+    "assembly": "RT-T1-05",
+    "a": [
+      13837.5,
+      4058.79,
+      7618.53
+    ],
+    "b": [
+      13837.5,
+      5365.1,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-05-TOW2-R",
+    "assembly": "RT-T1-05",
+    "a": [
+      13837.5,
+      5335.44,
+      5785.74
+    ],
+    "b": [
+      13837.5,
+      5941.68,
+      6770.1
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-06-TC1-L",
+    "assembly": "RT-T1-06",
+    "a": [
+      14737.5,
+      -400.0,
+      5540.53
+    ],
+    "b": [
+      14737.5,
+      4089.99,
+      7633.07
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-06-BC+1T",
+    "assembly": "RT-T1-06",
+    "a": [
+      14737.5,
+      239.06,
+      5785.74
+    ],
+    "b": [
+      14737.5,
+      5345.27,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-06-TOW1-L",
+    "assembly": "RT-T1-06",
+    "a": [
+      14737.5,
+      2814.89,
+      5785.74
+    ],
+    "b": [
+      14737.5,
+      4121.19,
+      7618.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-06-TOW2-L",
+    "assembly": "RT-T1-06",
+    "a": [
+      14737.5,
+      2238.31,
+      6770.1
+    ],
+    "b": [
+      14737.5,
+      2844.55,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-06-TC1-R",
+    "assembly": "RT-T1-06",
+    "a": [
+      14737.5,
+      4089.99,
+      7633.07
+    ],
+    "b": [
+      14737.5,
+      8580.0,
+      5540.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-06-BC1+1T-R",
+    "assembly": "RT-T1-06",
+    "a": [
+      14737.5,
+      5345.27,
+      5785.74
+    ],
+    "b": [
+      14737.5,
+      7940.93,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-06-TOW1-R",
+    "assembly": "RT-T1-06",
+    "a": [
+      14737.5,
+      4058.79,
+      7618.53
+    ],
+    "b": [
+      14737.5,
+      5365.1,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-06-TOW2-R",
+    "assembly": "RT-T1-06",
+    "a": [
+      14737.5,
+      5335.44,
+      5785.74
+    ],
+    "b": [
+      14737.5,
+      5941.68,
+      6770.1
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-07-TC1-L",
+    "assembly": "RT-T1-07",
+    "a": [
+      15637.5,
+      -400.0,
+      5540.53
+    ],
+    "b": [
+      15637.5,
+      4089.99,
+      7633.07
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-07-BC+1T",
+    "assembly": "RT-T1-07",
+    "a": [
+      15637.5,
+      239.06,
+      5785.74
+    ],
+    "b": [
+      15637.5,
+      5345.27,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-07-TOW1-L",
+    "assembly": "RT-T1-07",
+    "a": [
+      15637.5,
+      2814.89,
+      5785.74
+    ],
+    "b": [
+      15637.5,
+      4121.19,
+      7618.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-07-TOW2-L",
+    "assembly": "RT-T1-07",
+    "a": [
+      15637.5,
+      2238.31,
+      6770.1
+    ],
+    "b": [
+      15637.5,
+      2844.55,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-07-TC1-R",
+    "assembly": "RT-T1-07",
+    "a": [
+      15637.5,
+      4089.99,
+      7633.07
+    ],
+    "b": [
+      15637.5,
+      8580.0,
+      5540.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-07-BC1+1T-R",
+    "assembly": "RT-T1-07",
+    "a": [
+      15637.5,
+      5345.27,
+      5785.74
+    ],
+    "b": [
+      15637.5,
+      7940.93,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-07-TOW1-R",
+    "assembly": "RT-T1-07",
+    "a": [
+      15637.5,
+      4058.79,
+      7618.53
+    ],
+    "b": [
+      15637.5,
+      5365.1,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-07-TOW2-R",
+    "assembly": "RT-T1-07",
+    "a": [
+      15637.5,
+      5335.44,
+      5785.74
+    ],
+    "b": [
+      15637.5,
+      5941.68,
+      6770.1
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-08-TC1-L",
+    "assembly": "RT-T1-08",
+    "a": [
+      16537.5,
+      -400.0,
+      5540.53
+    ],
+    "b": [
+      16537.5,
+      4089.99,
+      7633.07
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-08-BC+1T",
+    "assembly": "RT-T1-08",
+    "a": [
+      16537.5,
+      239.06,
+      5785.74
+    ],
+    "b": [
+      16537.5,
+      5345.27,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-08-TOW1-L",
+    "assembly": "RT-T1-08",
+    "a": [
+      16537.5,
+      2814.89,
+      5785.74
+    ],
+    "b": [
+      16537.5,
+      4121.19,
+      7618.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-08-TOW2-L",
+    "assembly": "RT-T1-08",
+    "a": [
+      16537.5,
+      2238.31,
+      6770.1
+    ],
+    "b": [
+      16537.5,
+      2844.55,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-08-TC1-R",
+    "assembly": "RT-T1-08",
+    "a": [
+      16537.5,
+      4089.99,
+      7633.07
+    ],
+    "b": [
+      16537.5,
+      8580.0,
+      5540.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-08-BC1+1T-R",
+    "assembly": "RT-T1-08",
+    "a": [
+      16537.5,
+      5345.27,
+      5785.74
+    ],
+    "b": [
+      16537.5,
+      7940.93,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-08-TOW1-R",
+    "assembly": "RT-T1-08",
+    "a": [
+      16537.5,
+      4058.79,
+      7618.53
+    ],
+    "b": [
+      16537.5,
+      5365.1,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-08-TOW2-R",
+    "assembly": "RT-T1-08",
+    "a": [
+      16537.5,
+      5335.44,
+      5785.74
+    ],
+    "b": [
+      16537.5,
+      5941.68,
+      6770.1
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-09-TC1-L",
+    "assembly": "RT-T1-09",
+    "a": [
+      17437.5,
+      -400.0,
+      5540.53
+    ],
+    "b": [
+      17437.5,
+      4089.99,
+      7633.07
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-09-BC+1T",
+    "assembly": "RT-T1-09",
+    "a": [
+      17437.5,
+      239.06,
+      5785.74
+    ],
+    "b": [
+      17437.5,
+      5345.27,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-09-TOW1-L",
+    "assembly": "RT-T1-09",
+    "a": [
+      17437.5,
+      2814.89,
+      5785.74
+    ],
+    "b": [
+      17437.5,
+      4121.19,
+      7618.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-09-TOW2-L",
+    "assembly": "RT-T1-09",
+    "a": [
+      17437.5,
+      2238.31,
+      6770.1
+    ],
+    "b": [
+      17437.5,
+      2844.55,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-09-TC1-R",
+    "assembly": "RT-T1-09",
+    "a": [
+      17437.5,
+      4089.99,
+      7633.07
+    ],
+    "b": [
+      17437.5,
+      8580.0,
+      5540.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-09-BC1+1T-R",
+    "assembly": "RT-T1-09",
+    "a": [
+      17437.5,
+      5345.27,
+      5785.74
+    ],
+    "b": [
+      17437.5,
+      7940.93,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-09-TOW1-R",
+    "assembly": "RT-T1-09",
+    "a": [
+      17437.5,
+      4058.79,
+      7618.53
+    ],
+    "b": [
+      17437.5,
+      5365.1,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-09-TOW2-R",
+    "assembly": "RT-T1-09",
+    "a": [
+      17437.5,
+      5335.44,
+      5785.74
+    ],
+    "b": [
+      17437.5,
+      5941.68,
+      6770.1
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-10-TC1-L",
+    "assembly": "RT-T1-10",
+    "a": [
+      18337.5,
+      -400.0,
+      5540.53
+    ],
+    "b": [
+      18337.5,
+      4089.99,
+      7633.07
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-10-BC+1T",
+    "assembly": "RT-T1-10",
+    "a": [
+      18337.5,
+      239.06,
+      5785.74
+    ],
+    "b": [
+      18337.5,
+      5345.27,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-10-TOW1-L",
+    "assembly": "RT-T1-10",
+    "a": [
+      18337.5,
+      2814.89,
+      5785.74
+    ],
+    "b": [
+      18337.5,
+      4121.19,
+      7618.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-10-TOW2-L",
+    "assembly": "RT-T1-10",
+    "a": [
+      18337.5,
+      2238.31,
+      6770.1
+    ],
+    "b": [
+      18337.5,
+      2844.55,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-10-TC1-R",
+    "assembly": "RT-T1-10",
+    "a": [
+      18337.5,
+      4089.99,
+      7633.07
+    ],
+    "b": [
+      18337.5,
+      8580.0,
+      5540.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-10-BC1+1T-R",
+    "assembly": "RT-T1-10",
+    "a": [
+      18337.5,
+      5345.27,
+      5785.74
+    ],
+    "b": [
+      18337.5,
+      7940.93,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-10-TOW1-R",
+    "assembly": "RT-T1-10",
+    "a": [
+      18337.5,
+      4058.79,
+      7618.53
+    ],
+    "b": [
+      18337.5,
+      5365.1,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-10-TOW2-R",
+    "assembly": "RT-T1-10",
+    "a": [
+      18337.5,
+      5335.44,
+      5785.74
+    ],
+    "b": [
+      18337.5,
+      5941.68,
+      6770.1
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-11-TC1-L",
+    "assembly": "RT-T1-11",
+    "a": [
+      19237.5,
+      -400.0,
+      5540.53
+    ],
+    "b": [
+      19237.5,
+      4089.99,
+      7633.07
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-11-BC+1T",
+    "assembly": "RT-T1-11",
+    "a": [
+      19237.5,
+      239.06,
+      5785.74
+    ],
+    "b": [
+      19237.5,
+      5345.27,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-11-TOW1-L",
+    "assembly": "RT-T1-11",
+    "a": [
+      19237.5,
+      2814.89,
+      5785.74
+    ],
+    "b": [
+      19237.5,
+      4121.19,
+      7618.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-11-TOW2-L",
+    "assembly": "RT-T1-11",
+    "a": [
+      19237.5,
+      2238.31,
+      6770.1
+    ],
+    "b": [
+      19237.5,
+      2844.55,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-11-TC1-R",
+    "assembly": "RT-T1-11",
+    "a": [
+      19237.5,
+      4089.99,
+      7633.07
+    ],
+    "b": [
+      19237.5,
+      8580.0,
+      5540.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-11-BC1+1T-R",
+    "assembly": "RT-T1-11",
+    "a": [
+      19237.5,
+      5345.27,
+      5785.74
+    ],
+    "b": [
+      19237.5,
+      7940.93,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-11-TOW1-R",
+    "assembly": "RT-T1-11",
+    "a": [
+      19237.5,
+      4058.79,
+      7618.53
+    ],
+    "b": [
+      19237.5,
+      5365.1,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-11-TOW2-R",
+    "assembly": "RT-T1-11",
+    "a": [
+      19237.5,
+      5335.44,
+      5785.74
+    ],
+    "b": [
+      19237.5,
+      5941.68,
+      6770.1
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-12-TC1-L",
+    "assembly": "RT-T1-12",
+    "a": [
+      20137.5,
+      -400.0,
+      5540.53
+    ],
+    "b": [
+      20137.5,
+      4089.99,
+      7633.07
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-12-BC+1T",
+    "assembly": "RT-T1-12",
+    "a": [
+      20137.5,
+      239.06,
+      5785.74
+    ],
+    "b": [
+      20137.5,
+      5345.27,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-12-TOW1-L",
+    "assembly": "RT-T1-12",
+    "a": [
+      20137.5,
+      2814.89,
+      5785.74
+    ],
+    "b": [
+      20137.5,
+      4121.19,
+      7618.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-12-TOW2-L",
+    "assembly": "RT-T1-12",
+    "a": [
+      20137.5,
+      2238.31,
+      6770.1
+    ],
+    "b": [
+      20137.5,
+      2844.55,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-12-TC1-R",
+    "assembly": "RT-T1-12",
+    "a": [
+      20137.5,
+      4089.99,
+      7633.07
+    ],
+    "b": [
+      20137.5,
+      8580.0,
+      5540.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-12-BC1+1T-R",
+    "assembly": "RT-T1-12",
+    "a": [
+      20137.5,
+      5345.27,
+      5785.74
+    ],
+    "b": [
+      20137.5,
+      7940.93,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-12-TOW1-R",
+    "assembly": "RT-T1-12",
+    "a": [
+      20137.5,
+      4058.79,
+      7618.53
+    ],
+    "b": [
+      20137.5,
+      5365.1,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-12-TOW2-R",
+    "assembly": "RT-T1-12",
+    "a": [
+      20137.5,
+      5335.44,
+      5785.74
+    ],
+    "b": [
+      20137.5,
+      5941.68,
+      6770.1
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-13-TC1-L",
+    "assembly": "RT-T1-13",
+    "a": [
+      21037.5,
+      -400.0,
+      5540.53
+    ],
+    "b": [
+      21037.5,
+      4089.99,
+      7633.07
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-13-BC+1T",
+    "assembly": "RT-T1-13",
+    "a": [
+      21037.5,
+      239.06,
+      5785.74
+    ],
+    "b": [
+      21037.5,
+      5345.27,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-13-TOW1-L",
+    "assembly": "RT-T1-13",
+    "a": [
+      21037.5,
+      2814.89,
+      5785.74
+    ],
+    "b": [
+      21037.5,
+      4121.19,
+      7618.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-13-TOW2-L",
+    "assembly": "RT-T1-13",
+    "a": [
+      21037.5,
+      2238.31,
+      6770.1
+    ],
+    "b": [
+      21037.5,
+      2844.55,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-13-TC1-R",
+    "assembly": "RT-T1-13",
+    "a": [
+      21037.5,
+      4089.99,
+      7633.07
+    ],
+    "b": [
+      21037.5,
+      8580.0,
+      5540.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-13-BC1+1T-R",
+    "assembly": "RT-T1-13",
+    "a": [
+      21037.5,
+      5345.27,
+      5785.74
+    ],
+    "b": [
+      21037.5,
+      7940.93,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-13-TOW1-R",
+    "assembly": "RT-T1-13",
+    "a": [
+      21037.5,
+      4058.79,
+      7618.53
+    ],
+    "b": [
+      21037.5,
+      5365.1,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-13-TOW2-R",
+    "assembly": "RT-T1-13",
+    "a": [
+      21037.5,
+      5335.44,
+      5785.74
+    ],
+    "b": [
+      21037.5,
+      5941.68,
+      6770.1
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-14-TC1-L",
+    "assembly": "RT-T1-14",
+    "a": [
+      21937.5,
+      -400.0,
+      5540.53
+    ],
+    "b": [
+      21937.5,
+      4089.99,
+      7633.07
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-14-BC+1T",
+    "assembly": "RT-T1-14",
+    "a": [
+      21937.5,
+      239.06,
+      5785.74
+    ],
+    "b": [
+      21937.5,
+      5345.27,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-14-TOW1-L",
+    "assembly": "RT-T1-14",
+    "a": [
+      21937.5,
+      2814.89,
+      5785.74
+    ],
+    "b": [
+      21937.5,
+      4121.19,
+      7618.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-14-TOW2-L",
+    "assembly": "RT-T1-14",
+    "a": [
+      21937.5,
+      2238.31,
+      6770.1
+    ],
+    "b": [
+      21937.5,
+      2844.55,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-14-TC1-R",
+    "assembly": "RT-T1-14",
+    "a": [
+      21937.5,
+      4089.99,
+      7633.07
+    ],
+    "b": [
+      21937.5,
+      8580.0,
+      5540.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-14-BC1+1T-R",
+    "assembly": "RT-T1-14",
+    "a": [
+      21937.5,
+      5345.27,
+      5785.74
+    ],
+    "b": [
+      21937.5,
+      7940.93,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-14-TOW1-R",
+    "assembly": "RT-T1-14",
+    "a": [
+      21937.5,
+      4058.79,
+      7618.53
+    ],
+    "b": [
+      21937.5,
+      5365.1,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-14-TOW2-R",
+    "assembly": "RT-T1-14",
+    "a": [
+      21937.5,
+      5335.44,
+      5785.74
+    ],
+    "b": [
+      21937.5,
+      5941.68,
+      6770.1
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-15-TC1-L",
+    "assembly": "RT-T1-15",
+    "a": [
+      22837.5,
+      -400.0,
+      5540.53
+    ],
+    "b": [
+      22837.5,
+      4089.99,
+      7633.07
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-15-BC+1T",
+    "assembly": "RT-T1-15",
+    "a": [
+      22837.5,
+      239.06,
+      5785.74
+    ],
+    "b": [
+      22837.5,
+      5345.27,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-15-TOW1-L",
+    "assembly": "RT-T1-15",
+    "a": [
+      22837.5,
+      2814.89,
+      5785.74
+    ],
+    "b": [
+      22837.5,
+      4121.19,
+      7618.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-15-TOW2-L",
+    "assembly": "RT-T1-15",
+    "a": [
+      22837.5,
+      2238.31,
+      6770.1
+    ],
+    "b": [
+      22837.5,
+      2844.55,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-15-TC1-R",
+    "assembly": "RT-T1-15",
+    "a": [
+      22837.5,
+      4089.99,
+      7633.07
+    ],
+    "b": [
+      22837.5,
+      8580.0,
+      5540.53
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-15-BC1+1T-R",
+    "assembly": "RT-T1-15",
+    "a": [
+      22837.5,
+      5345.27,
+      5785.74
+    ],
+    "b": [
+      22837.5,
+      7940.93,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-15-TOW1-R",
+    "assembly": "RT-T1-15",
+    "a": [
+      22837.5,
+      4058.79,
+      7618.53
+    ],
+    "b": [
+      22837.5,
+      5365.1,
+      5785.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T1-15-TOW2-R",
+    "assembly": "RT-T1-15",
+    "a": [
+      22837.5,
+      5335.44,
+      5785.74
+    ],
+    "b": [
+      22837.5,
+      5941.68,
+      6770.1
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p2; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T4-01-M01",
+    "assembly": "RT-T4-01",
+    "a": [
+      8437.5,
+      -400.0,
+      5537.74
+    ],
+    "b": [
+      8437.5,
+      2315.17,
+      6804.26
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p14; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T4-01-M02",
+    "assembly": "RT-T4-01",
+    "a": [
+      8437.5,
+      271.38,
+      5799.3
+    ],
+    "b": [
+      8437.5,
+      5549.25,
+      5799.3
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 120,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p14; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T4-01-M03",
+    "assembly": "RT-T4-01",
+    "a": [
+      8437.5,
+      2249.52,
+      6721.66
+    ],
+    "b": [
+      8437.5,
+      5930.47,
+      6721.66
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p14; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T4-01-M04",
+    "assembly": "RT-T4-01",
+    "a": [
+      8437.5,
+      3119.84,
+      6721.66
+    ],
+    "b": [
+      8437.5,
+      4184.72,
+      5799.3
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p14; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T4-01-M05",
+    "assembly": "RT-T4-01",
+    "a": [
+      8437.5,
+      2171.73,
+      5799.3
+    ],
+    "b": [
+      8437.5,
+      3236.61,
+      6721.66
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p14; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T4-01-M06",
+    "assembly": "RT-T4-01",
+    "a": [
+      8437.5,
+      5864.82,
+      6804.26
+    ],
+    "b": [
+      8437.5,
+      8580.0,
+      5537.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p14; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T4-01-M07",
+    "assembly": "RT-T4-01",
+    "a": [
+      8437.5,
+      5549.25,
+      5799.3
+    ],
+    "b": [
+      8437.5,
+      7908.62,
+      5799.3
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 120,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p14; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T4-01-M08",
+    "assembly": "RT-T4-01",
+    "a": [
+      8437.5,
+      4029.16,
+      5799.3
+    ],
+    "b": [
+      8437.5,
+      5094.03,
+      6721.66
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p14; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T4-01-M09",
+    "assembly": "RT-T4-01",
+    "a": [
+      8437.5,
+      4986.13,
+      6721.66
+    ],
+    "b": [
+      8437.5,
+      5995.05,
+      5799.3
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p14; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T4-01-M10",
+    "assembly": "RT-T4-01",
+    "a": [
+      8437.5,
+      2203.98,
+      6721.66
+    ],
+    "b": [
+      8437.5,
+      2203.98,
+      5799.3
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p14; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T4-01-M11",
+    "assembly": "RT-T4-01",
+    "a": [
+      8437.5,
+      5976.01,
+      6721.66
+    ],
+    "b": [
+      8437.5,
+      5976.01,
+      5799.3
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p14; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T2-01-M01",
+    "assembly": "RT-T2-01",
+    "a": [
+      24632.5,
+      -400.0,
+      5537.74
+    ],
+    "b": [
+      24632.5,
+      2315.17,
+      6804.26
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p3; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T2-01-M02",
+    "assembly": "RT-T2-01",
+    "a": [
+      24632.5,
+      271.38,
+      5799.3
+    ],
+    "b": [
+      24632.5,
+      5549.25,
+      5799.3
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 120,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p3; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T2-01-M03",
+    "assembly": "RT-T2-01",
+    "a": [
+      24632.5,
+      2249.52,
+      6721.66
+    ],
+    "b": [
+      24632.5,
+      5930.47,
+      6721.66
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p3; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T2-01-M04",
+    "assembly": "RT-T2-01",
+    "a": [
+      24632.5,
+      3119.84,
+      6721.66
+    ],
+    "b": [
+      24632.5,
+      4184.72,
+      5799.3
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p3; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T2-01-M05",
+    "assembly": "RT-T2-01",
+    "a": [
+      24632.5,
+      2171.73,
+      5799.3
+    ],
+    "b": [
+      24632.5,
+      3236.61,
+      6721.66
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p3; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T2-01-M06",
+    "assembly": "RT-T2-01",
+    "a": [
+      24632.5,
+      5864.82,
+      6804.26
+    ],
+    "b": [
+      24632.5,
+      8580.0,
+      5537.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p3; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T2-01-M07",
+    "assembly": "RT-T2-01",
+    "a": [
+      24632.5,
+      5549.25,
+      5799.3
+    ],
+    "b": [
+      24632.5,
+      7908.62,
+      5799.3
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 120,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p3; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T2-01-M08",
+    "assembly": "RT-T2-01",
+    "a": [
+      24632.5,
+      4029.16,
+      5799.3
+    ],
+    "b": [
+      24632.5,
+      5094.03,
+      6721.66
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p3; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T2-01-M09",
+    "assembly": "RT-T2-01",
+    "a": [
+      24632.5,
+      4986.13,
+      6721.66
+    ],
+    "b": [
+      24632.5,
+      5995.05,
+      5799.3
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p3; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T2-01-M10",
+    "assembly": "RT-T2-01",
+    "a": [
+      24632.5,
+      2203.98,
+      6721.66
+    ],
+    "b": [
+      24632.5,
+      2203.98,
+      5799.3
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p3; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T2-01-M11",
+    "assembly": "RT-T2-01",
+    "a": [
+      24632.5,
+      5976.01,
+      6721.66
+    ],
+    "b": [
+      24632.5,
+      5976.01,
+      5799.3
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p3; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-01-M01",
+    "assembly": "RT-T3-01",
+    "a": [
+      9337.5,
+      -400.0,
+      5537.74
+    ],
+    "b": [
+      9337.5,
+      3215.29,
+      7223.61
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-01-M02",
+    "assembly": "RT-T3-01",
+    "a": [
+      9337.5,
+      238.55,
+      5784.48
+    ],
+    "b": [
+      9337.5,
+      4678.78,
+      5784.48
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-01-M03",
+    "assembly": "RT-T3-01",
+    "a": [
+      9337.5,
+      3150.7,
+      7141.01
+    ],
+    "b": [
+      9337.5,
+      5029.3,
+      7141.01
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-01-M04",
+    "assembly": "RT-T3-01",
+    "a": [
+      9337.5,
+      3608.79,
+      5784.48
+    ],
+    "b": [
+      9337.5,
+      4126.03,
+      7141.01
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-01-M05",
+    "assembly": "RT-T3-01",
+    "a": [
+      9337.5,
+      3064.45,
+      7153.27
+    ],
+    "b": [
+      9337.5,
+      3586.36,
+      5784.48
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-01-M06",
+    "assembly": "RT-T3-01",
+    "a": [
+      9337.5,
+      2146.26,
+      5784.48
+    ],
+    "b": [
+      9337.5,
+      3116.6,
+      7177.59
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-01-M07",
+    "assembly": "RT-T3-01",
+    "a": [
+      9337.5,
+      1330.96,
+      6344.92
+    ],
+    "b": [
+      9337.5,
+      2268.84,
+      5784.48
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-01-M08",
+    "assembly": "RT-T3-01",
+    "a": [
+      9337.5,
+      4964.7,
+      7223.61
+    ],
+    "b": [
+      9337.5,
+      8580.0,
+      5537.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-01-M09",
+    "assembly": "RT-T3-01",
+    "a": [
+      9337.5,
+      4678.78,
+      5784.48
+    ],
+    "b": [
+      9337.5,
+      7941.45,
+      5784.48
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-01-M10",
+    "assembly": "RT-T3-01",
+    "a": [
+      9337.5,
+      4149.26,
+      7141.01
+    ],
+    "b": [
+      9337.5,
+      4666.5,
+      5784.48
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-01-M11",
+    "assembly": "RT-T3-01",
+    "a": [
+      9337.5,
+      4662.58,
+      5784.48
+    ],
+    "b": [
+      9337.5,
+      5136.4,
+      7143.54
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-01-M12",
+    "assembly": "RT-T3-01",
+    "a": [
+      9337.5,
+      5063.39,
+      7177.59
+    ],
+    "b": [
+      9337.5,
+      6033.73,
+      5784.48
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-01-M13",
+    "assembly": "RT-T3-01",
+    "a": [
+      9337.5,
+      5911.16,
+      5784.48
+    ],
+    "b": [
+      9337.5,
+      6849.04,
+      6344.91
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-02-M01",
+    "assembly": "RT-T3-02",
+    "a": [
+      23732.5,
+      -400.0,
+      5537.74
+    ],
+    "b": [
+      23732.5,
+      3215.29,
+      7223.61
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-02-M02",
+    "assembly": "RT-T3-02",
+    "a": [
+      23732.5,
+      238.55,
+      5784.48
+    ],
+    "b": [
+      23732.5,
+      4678.78,
+      5784.48
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-02-M03",
+    "assembly": "RT-T3-02",
+    "a": [
+      23732.5,
+      3150.7,
+      7141.01
+    ],
+    "b": [
+      23732.5,
+      5029.3,
+      7141.01
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-02-M04",
+    "assembly": "RT-T3-02",
+    "a": [
+      23732.5,
+      3608.79,
+      5784.48
+    ],
+    "b": [
+      23732.5,
+      4126.03,
+      7141.01
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-02-M05",
+    "assembly": "RT-T3-02",
+    "a": [
+      23732.5,
+      3064.45,
+      7153.27
+    ],
+    "b": [
+      23732.5,
+      3586.36,
+      5784.48
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-02-M06",
+    "assembly": "RT-T3-02",
+    "a": [
+      23732.5,
+      2146.26,
+      5784.48
+    ],
+    "b": [
+      23732.5,
+      3116.6,
+      7177.59
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-02-M07",
+    "assembly": "RT-T3-02",
+    "a": [
+      23732.5,
+      1330.96,
+      6344.92
+    ],
+    "b": [
+      23732.5,
+      2268.84,
+      5784.48
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-02-M08",
+    "assembly": "RT-T3-02",
+    "a": [
+      23732.5,
+      4964.7,
+      7223.61
+    ],
+    "b": [
+      23732.5,
+      8580.0,
+      5537.74
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-02-M09",
+    "assembly": "RT-T3-02",
+    "a": [
+      23732.5,
+      4678.78,
+      5784.48
+    ],
+    "b": [
+      23732.5,
+      7941.45,
+      5784.48
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-02-M10",
+    "assembly": "RT-T3-02",
+    "a": [
+      23732.5,
+      4149.26,
+      7141.01
+    ],
+    "b": [
+      23732.5,
+      4666.5,
+      5784.48
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-02-M11",
+    "assembly": "RT-T3-02",
+    "a": [
+      23732.5,
+      4662.58,
+      5784.48
+    ],
+    "b": [
+      23732.5,
+      5136.4,
+      7143.54
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-02-M12",
+    "assembly": "RT-T3-02",
+    "a": [
+      23732.5,
+      5063.39,
+      7177.59
+    ],
+    "b": [
+      23732.5,
+      6033.73,
+      5784.48
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T3-02-M13",
+    "assembly": "RT-T3-02",
+    "a": [
+      23732.5,
+      5911.16,
+      5784.48
+    ],
+    "b": [
+      23732.5,
+      6849.04,
+      6344.91
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p5; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-H1-01-TC1",
+    "assembly": "RT-H1-01",
+    "a": [
+      7301.2,
+      1221.2,
+      6292.89
+    ],
+    "b": [
+      10170.0,
+      4090.0,
+      7632.54
+    ],
+    "normal": [
+      -0.7071067811865475,
+      0.7071067811865475,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP12",
+    "source": "K0964 roof PDF p6; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-H1-01-TC2",
+    "assembly": "RT-H1-01",
+    "a": [
+      5679.87,
+      -400.13,
+      5536.64
+    ],
+    "b": [
+      7301.2,
+      1221.2,
+      6292.89
+    ],
+    "normal": [
+      -0.7071067811865475,
+      0.7071067811865475,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP12",
+    "source": "K0964 roof PDF p6; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-H1-01-BC1",
+    "assembly": "RT-H1-01",
+    "a": [
+      6319.77,
+      239.77,
+      5785.76
+    ],
+    "b": [
+      8419.25,
+      2339.25,
+      5785.76
+    ],
+    "normal": [
+      -0.7071067811865475,
+      0.7071067811865475,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p6; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-H1-01-TOW1",
+    "assembly": "RT-H1-01",
+    "a": [
+      7719.73,
+      1639.73,
+      5785.76
+    ],
+    "b": [
+      8420.01,
+      2340.01,
+      6815.34
+    ],
+    "normal": [
+      -0.7071067811865475,
+      0.7071067811865475,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p6; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-H1-01-TOW2",
+    "assembly": "RT-H1-01",
+    "a": [
+      7238.4,
+      1158.4,
+      6263.59
+    ],
+    "b": [
+      7827.72,
+      1747.72,
+      5785.76
+    ],
+    "normal": [
+      -0.7071067811865475,
+      0.7071067811865475,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p6; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C1-01-M01",
+    "assembly": "RT-C1-01",
+    "a": [
+      6620.0,
+      -400.0,
+      5539.16
+    ],
+    "b": [
+      6620.0,
+      533.0,
+      5974.52
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p8; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C1-01-M02",
+    "assembly": "RT-C1-01",
+    "a": [
+      6620.0,
+      240.22,
+      5785.12
+    ],
+    "b": [
+      6620.0,
+      533.0,
+      5785.12
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p8; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C1-02-M01",
+    "assembly": "RT-C1-02",
+    "a": [
+      5680.0,
+      540.0,
+      5539.16
+    ],
+    "b": [
+      6613.0,
+      540.0,
+      5974.52
+    ],
+    "normal": [
+      0,
+      1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p8; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C1-02-M02",
+    "assembly": "RT-C1-02",
+    "a": [
+      6320.22,
+      540.0,
+      5785.12
+    ],
+    "b": [
+      6613.0,
+      540.0,
+      5785.12
+    ],
+    "normal": [
+      0,
+      1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p8; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C2-01-M01",
+    "assembly": "RT-C2-01",
+    "a": [
+      7520.0,
+      -400.0,
+      5539.67
+    ],
+    "b": [
+      7520.0,
+      1433.0,
+      6394.34
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p9; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C2-01-M02",
+    "assembly": "RT-C2-01",
+    "a": [
+      7520.0,
+      239.94,
+      5785.32
+    ],
+    "b": [
+      7520.0,
+      1433.0,
+      5785.32
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p9; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C2-02-M01",
+    "assembly": "RT-C2-02",
+    "a": [
+      5680.0,
+      1440.0,
+      5539.67
+    ],
+    "b": [
+      7513.0,
+      1440.0,
+      6394.34
+    ],
+    "normal": [
+      0,
+      1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p9; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C2-02-M02",
+    "assembly": "RT-C2-02",
+    "a": [
+      6319.94,
+      1440.0,
+      5785.32
+    ],
+    "b": [
+      7513.0,
+      1440.0,
+      5785.32
+    ],
+    "normal": [
+      0,
+      1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p9; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-H1-02-TC1",
+    "assembly": "RT-H1-02",
+    "a": [
+      7301.2,
+      6958.8,
+      6292.89
+    ],
+    "b": [
+      10170.0,
+      4090.0,
+      7632.54
+    ],
+    "normal": [
+      0.7071067811865475,
+      0.7071067811865475,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP12",
+    "source": "K0964 roof PDF p6; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-H1-02-TC2",
+    "assembly": "RT-H1-02",
+    "a": [
+      5679.87,
+      8580.13,
+      5536.64
+    ],
+    "b": [
+      7301.2,
+      6958.8,
+      6292.89
+    ],
+    "normal": [
+      0.7071067811865475,
+      0.7071067811865475,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP12",
+    "source": "K0964 roof PDF p6; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-H1-02-BC1",
+    "assembly": "RT-H1-02",
+    "a": [
+      6319.77,
+      7940.23,
+      5785.76
+    ],
+    "b": [
+      8419.25,
+      5840.75,
+      5785.76
+    ],
+    "normal": [
+      0.7071067811865475,
+      0.7071067811865475,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p6; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-H1-02-TOW1",
+    "assembly": "RT-H1-02",
+    "a": [
+      7719.73,
+      6540.27,
+      5785.76
+    ],
+    "b": [
+      8420.01,
+      5839.99,
+      6815.34
+    ],
+    "normal": [
+      0.7071067811865475,
+      0.7071067811865475,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p6; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-H1-02-TOW2",
+    "assembly": "RT-H1-02",
+    "a": [
+      7238.4,
+      7021.6,
+      6263.59
+    ],
+    "b": [
+      7827.72,
+      6432.28,
+      5785.76
+    ],
+    "normal": [
+      0.7071067811865475,
+      0.7071067811865475,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p6; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C1-03-M01",
+    "assembly": "RT-C1-03",
+    "a": [
+      6620.0,
+      8580.0,
+      5539.16
+    ],
+    "b": [
+      6620.0,
+      7647.0,
+      5974.52
+    ],
+    "normal": [
+      1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p8; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C1-03-M02",
+    "assembly": "RT-C1-03",
+    "a": [
+      6620.0,
+      7939.78,
+      5785.12
+    ],
+    "b": [
+      6620.0,
+      7647.0,
+      5785.12
+    ],
+    "normal": [
+      1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p8; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C1-04-M01",
+    "assembly": "RT-C1-04",
+    "a": [
+      5680.0,
+      7640.0,
+      5539.16
+    ],
+    "b": [
+      6613.0,
+      7640.0,
+      5974.52
+    ],
+    "normal": [
+      0,
+      1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p8; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C1-04-M02",
+    "assembly": "RT-C1-04",
+    "a": [
+      6320.22,
+      7640.0,
+      5785.12
+    ],
+    "b": [
+      6613.0,
+      7640.0,
+      5785.12
+    ],
+    "normal": [
+      0,
+      1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p8; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C2-03-M01",
+    "assembly": "RT-C2-03",
+    "a": [
+      7520.0,
+      8580.0,
+      5539.67
+    ],
+    "b": [
+      7520.0,
+      6747.0,
+      6394.34
+    ],
+    "normal": [
+      1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p9; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C2-03-M02",
+    "assembly": "RT-C2-03",
+    "a": [
+      7520.0,
+      7940.06,
+      5785.32
+    ],
+    "b": [
+      7520.0,
+      6747.0,
+      5785.32
+    ],
+    "normal": [
+      1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p9; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C2-04-M01",
+    "assembly": "RT-C2-04",
+    "a": [
+      5680.0,
+      6740.0,
+      5539.67
+    ],
+    "b": [
+      7513.0,
+      6740.0,
+      6394.34
+    ],
+    "normal": [
+      0,
+      1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p9; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C2-04-M02",
+    "assembly": "RT-C2-04",
+    "a": [
+      6319.94,
+      6740.0,
+      5785.32
+    ],
+    "b": [
+      7513.0,
+      6740.0,
+      5785.32
+    ],
+    "normal": [
+      0,
+      1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p9; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-H1-03-TC1",
+    "assembly": "RT-H1-03",
+    "a": [
+      25768.8,
+      1221.2,
+      6292.89
+    ],
+    "b": [
+      22900.0,
+      4090.0,
+      7632.54
+    ],
+    "normal": [
+      -0.7071067811865475,
+      -0.7071067811865475,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP12",
+    "source": "K0964 roof PDF p6; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-H1-03-TC2",
+    "assembly": "RT-H1-03",
+    "a": [
+      27390.13,
+      -400.13,
+      5536.64
+    ],
+    "b": [
+      25768.8,
+      1221.2,
+      6292.89
+    ],
+    "normal": [
+      -0.7071067811865475,
+      -0.7071067811865475,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP12",
+    "source": "K0964 roof PDF p6; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-H1-03-BC1",
+    "assembly": "RT-H1-03",
+    "a": [
+      26750.23,
+      239.77,
+      5785.76
+    ],
+    "b": [
+      24650.75,
+      2339.25,
+      5785.76
+    ],
+    "normal": [
+      -0.7071067811865475,
+      -0.7071067811865475,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p6; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-H1-03-TOW1",
+    "assembly": "RT-H1-03",
+    "a": [
+      25350.27,
+      1639.73,
+      5785.76
+    ],
+    "b": [
+      24649.99,
+      2340.01,
+      6815.34
+    ],
+    "normal": [
+      -0.7071067811865475,
+      -0.7071067811865475,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p6; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-H1-03-TOW2",
+    "assembly": "RT-H1-03",
+    "a": [
+      25831.6,
+      1158.4,
+      6263.59
+    ],
+    "b": [
+      25242.28,
+      1747.72,
+      5785.76
+    ],
+    "normal": [
+      -0.7071067811865475,
+      -0.7071067811865475,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p6; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C1-05-M01",
+    "assembly": "RT-C1-05",
+    "a": [
+      26450.0,
+      -400.0,
+      5539.16
+    ],
+    "b": [
+      26450.0,
+      533.0,
+      5974.52
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p8; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C1-05-M02",
+    "assembly": "RT-C1-05",
+    "a": [
+      26450.0,
+      240.22,
+      5785.12
+    ],
+    "b": [
+      26450.0,
+      533.0,
+      5785.12
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p8; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C1-06-M01",
+    "assembly": "RT-C1-06",
+    "a": [
+      27390.0,
+      540.0,
+      5539.16
+    ],
+    "b": [
+      26457.0,
+      540.0,
+      5974.52
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p8; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C1-06-M02",
+    "assembly": "RT-C1-06",
+    "a": [
+      26749.78,
+      540.0,
+      5785.12
+    ],
+    "b": [
+      26457.0,
+      540.0,
+      5785.12
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p8; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C2-05-M01",
+    "assembly": "RT-C2-05",
+    "a": [
+      25550.0,
+      -400.0,
+      5539.67
+    ],
+    "b": [
+      25550.0,
+      1433.0,
+      6394.34
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p9; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C2-05-M02",
+    "assembly": "RT-C2-05",
+    "a": [
+      25550.0,
+      239.94,
+      5785.32
+    ],
+    "b": [
+      25550.0,
+      1433.0,
+      5785.32
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p9; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C2-06-M01",
+    "assembly": "RT-C2-06",
+    "a": [
+      27390.0,
+      1440.0,
+      5539.67
+    ],
+    "b": [
+      25557.0,
+      1440.0,
+      6394.34
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p9; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C2-06-M02",
+    "assembly": "RT-C2-06",
+    "a": [
+      26750.06,
+      1440.0,
+      5785.32
+    ],
+    "b": [
+      25557.0,
+      1440.0,
+      5785.32
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p9; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-H1-04-TC1",
+    "assembly": "RT-H1-04",
+    "a": [
+      25768.8,
+      6958.8,
+      6292.89
+    ],
+    "b": [
+      22900.0,
+      4090.0,
+      7632.54
+    ],
+    "normal": [
+      0.7071067811865475,
+      -0.7071067811865475,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP12",
+    "source": "K0964 roof PDF p6; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-H1-04-TC2",
+    "assembly": "RT-H1-04",
+    "a": [
+      27390.13,
+      8580.13,
+      5536.64
+    ],
+    "b": [
+      25768.8,
+      6958.8,
+      6292.89
+    ],
+    "normal": [
+      0.7071067811865475,
+      -0.7071067811865475,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP12",
+    "source": "K0964 roof PDF p6; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-H1-04-BC1",
+    "assembly": "RT-H1-04",
+    "a": [
+      26750.23,
+      7940.23,
+      5785.76
+    ],
+    "b": [
+      24650.75,
+      5840.75,
+      5785.76
+    ],
+    "normal": [
+      0.7071067811865475,
+      -0.7071067811865475,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p6; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-H1-04-TOW1",
+    "assembly": "RT-H1-04",
+    "a": [
+      25350.27,
+      6540.27,
+      5785.76
+    ],
+    "b": [
+      24649.99,
+      5839.99,
+      6815.34
+    ],
+    "normal": [
+      0.7071067811865475,
+      -0.7071067811865475,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p6; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-H1-04-TOW2",
+    "assembly": "RT-H1-04",
+    "a": [
+      25831.6,
+      7021.6,
+      6263.59
+    ],
+    "b": [
+      25242.28,
+      6432.28,
+      5785.76
+    ],
+    "normal": [
+      0.7071067811865475,
+      -0.7071067811865475,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p6; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C1-07-M01",
+    "assembly": "RT-C1-07",
+    "a": [
+      26450.0,
+      8580.0,
+      5539.16
+    ],
+    "b": [
+      26450.0,
+      7647.0,
+      5974.52
+    ],
+    "normal": [
+      1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p8; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C1-07-M02",
+    "assembly": "RT-C1-07",
+    "a": [
+      26450.0,
+      7939.78,
+      5785.12
+    ],
+    "b": [
+      26450.0,
+      7647.0,
+      5785.12
+    ],
+    "normal": [
+      1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p8; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C1-08-M01",
+    "assembly": "RT-C1-08",
+    "a": [
+      27390.0,
+      7640.0,
+      5539.16
+    ],
+    "b": [
+      26457.0,
+      7640.0,
+      5974.52
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p8; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C1-08-M02",
+    "assembly": "RT-C1-08",
+    "a": [
+      26749.78,
+      7640.0,
+      5785.12
+    ],
+    "b": [
+      26457.0,
+      7640.0,
+      5785.12
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p8; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C2-07-M01",
+    "assembly": "RT-C2-07",
+    "a": [
+      25550.0,
+      8580.0,
+      5539.67
+    ],
+    "b": [
+      25550.0,
+      6747.0,
+      6394.34
+    ],
+    "normal": [
+      1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p9; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C2-07-M02",
+    "assembly": "RT-C2-07",
+    "a": [
+      25550.0,
+      7940.06,
+      5785.32
+    ],
+    "b": [
+      25550.0,
+      6747.0,
+      5785.32
+    ],
+    "normal": [
+      1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p9; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C2-08-M01",
+    "assembly": "RT-C2-08",
+    "a": [
+      27390.0,
+      6740.0,
+      5539.67
+    ],
+    "b": [
+      25557.0,
+      6740.0,
+      6394.34
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p9; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-C2-08-M02",
+    "assembly": "RT-C2-08",
+    "a": [
+      26750.06,
+      6740.0,
+      5785.32
+    ],
+    "b": [
+      25557.0,
+      6740.0,
+      5785.32
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p9; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-J1-W1-M01",
+    "assembly": "RT-J1-W1",
+    "a": [
+      5680.0,
+      2340.0,
+      5539.3
+    ],
+    "b": [
+      8412.38,
+      2340.0,
+      6813.39
+    ],
+    "normal": [
+      0,
+      1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p10; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-J1-W1-M02",
+    "assembly": "RT-J1-W1",
+    "a": [
+      6320.22,
+      2340.0,
+      5785.1
+    ],
+    "b": [
+      8420.0,
+      2340.0,
+      5785.1
+    ],
+    "normal": [
+      0,
+      1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p10; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-J1-W2-M01",
+    "assembly": "RT-J1-W2",
+    "a": [
+      5680.0,
+      5840.0,
+      5539.3
+    ],
+    "b": [
+      8412.38,
+      5840.0,
+      6813.39
+    ],
+    "normal": [
+      0,
+      1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p10; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-J1-W2-M02",
+    "assembly": "RT-J1-W2",
+    "a": [
+      6320.22,
+      5840.0,
+      5785.1
+    ],
+    "b": [
+      8420.0,
+      5840.0,
+      5785.1
+    ],
+    "normal": [
+      0,
+      1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p10; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-J3-W-M01",
+    "assembly": "RT-J3-W",
+    "a": [
+      5680.0,
+      4090.0,
+      5538.08
+    ],
+    "b": [
+      10145.0,
+      4090.0,
+      7620.74
+    ],
+    "normal": [
+      0,
+      1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p12; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-J3-W-M02",
+    "assembly": "RT-J3-W",
+    "a": [
+      6321.3,
+      4090.0,
+      5784.45
+    ],
+    "b": [
+      8420.46,
+      4090.0,
+      5784.45
+    ],
+    "normal": [
+      0,
+      1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p12; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-J4-W-3190-M01",
+    "assembly": "RT-J4-W-3190",
+    "a": [
+      5680.0,
+      3190.0,
+      5539.93
+    ],
+    "b": [
+      9313.0,
+      3190.0,
+      7233.64
+    ],
+    "normal": [
+      0,
+      1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p16; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-J4-W-3190-M02",
+    "assembly": "RT-J4-W-3190",
+    "a": [
+      6320.43,
+      3190.0,
+      5785.52
+    ],
+    "b": [
+      8419.57,
+      3190.0,
+      5785.52
+    ],
+    "normal": [
+      0,
+      1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p16; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-J5-W-4990-M01",
+    "assembly": "RT-J5-W-4990",
+    "a": [
+      9313.0,
+      4990.0,
+      7233.64
+    ],
+    "b": [
+      5680.0,
+      4990.0,
+      5539.93
+    ],
+    "normal": [
+      0,
+      1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p18; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-J5-W-4990-M02",
+    "assembly": "RT-J5-W-4990",
+    "a": [
+      8419.57,
+      4990.0,
+      5785.52
+    ],
+    "b": [
+      6320.43,
+      4990.0,
+      5785.52
+    ],
+    "normal": [
+      0,
+      1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p18; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-J1-E1-M01",
+    "assembly": "RT-J1-E1",
+    "a": [
+      27390.0,
+      2340.0,
+      5539.3
+    ],
+    "b": [
+      24657.62,
+      2340.0,
+      6813.39
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p10; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-J1-E1-M02",
+    "assembly": "RT-J1-E1",
+    "a": [
+      26749.78,
+      2340.0,
+      5785.1
+    ],
+    "b": [
+      24650.0,
+      2340.0,
+      5785.1
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p10; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-J1-E2-M01",
+    "assembly": "RT-J1-E2",
+    "a": [
+      27390.0,
+      5840.0,
+      5539.3
+    ],
+    "b": [
+      24657.62,
+      5840.0,
+      6813.39
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p10; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-J1-E2-M02",
+    "assembly": "RT-J1-E2",
+    "a": [
+      26749.78,
+      5840.0,
+      5785.1
+    ],
+    "b": [
+      24650.0,
+      5840.0,
+      5785.1
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p10; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-J3-E-M01",
+    "assembly": "RT-J3-E",
+    "a": [
+      27390.0,
+      4090.0,
+      5538.08
+    ],
+    "b": [
+      22925.0,
+      4090.0,
+      7620.74
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p12; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-J3-E-M02",
+    "assembly": "RT-J3-E",
+    "a": [
+      26748.7,
+      4090.0,
+      5784.45
+    ],
+    "b": [
+      24649.54,
+      4090.0,
+      5784.45
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p12; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-J2-E-3190-M01",
+    "assembly": "RT-J2-E-3190",
+    "a": [
+      27390.0,
+      3190.0,
+      5539.93
+    ],
+    "b": [
+      23757.0,
+      3190.0,
+      7233.64
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p11; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-J2-E-3190-M02",
+    "assembly": "RT-J2-E-3190",
+    "a": [
+      26749.57,
+      3190.0,
+      5785.52
+    ],
+    "b": [
+      24650.43,
+      3190.0,
+      5785.52
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p11; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-J2-E-4990-M01",
+    "assembly": "RT-J2-E-4990",
+    "a": [
+      27390.0,
+      4990.0,
+      5539.93
+    ],
+    "b": [
+      23757.0,
+      4990.0,
+      7233.64
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p11; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-J2-E-4990-M02",
+    "assembly": "RT-J2-E-4990",
+    "a": [
+      26749.57,
+      4990.0,
+      5785.52
+    ],
+    "b": [
+      24650.43,
+      4990.0,
+      5785.52
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p11; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-01-TC1",
+    "assembly": "RT-T5-01",
+    "a": [
+      258.87,
+      6517.39,
+      3348.03
+    ],
+    "b": [
+      258.87,
+      9350.0,
+      3596.22
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-01-TC2",
+    "assembly": "RT-T5-01",
+    "a": [
+      258.87,
+      3059.65,
+      3045.63
+    ],
+    "b": [
+      258.87,
+      6517.39,
+      3348.03
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-01-W0",
+    "assembly": "RT-T5-01",
+    "a": [
+      258.87,
+      9164.49,
+      2794.89
+    ],
+    "b": [
+      258.87,
+      9164.49,
+      3579.97
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-01-TOW1",
+    "assembly": "RT-T5-01",
+    "a": [
+      258.87,
+      8148.95,
+      3490.99
+    ],
+    "b": [
+      258.87,
+      9213.29,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-01-TOW2",
+    "assembly": "RT-T5-01",
+    "a": [
+      258.87,
+      7232.26,
+      2794.89
+    ],
+    "b": [
+      258.87,
+      8346.1,
+      3508.26
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-01-TOW3",
+    "assembly": "RT-T5-01",
+    "a": [
+      258.87,
+      6420.2,
+      3339.53
+    ],
+    "b": [
+      258.87,
+      7454.51,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-01-TOW4",
+    "assembly": "RT-T5-01",
+    "a": [
+      258.87,
+      5577.5,
+      2794.89
+    ],
+    "b": [
+      258.87,
+      6690.6,
+      3363.21
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-01-TOW5",
+    "assembly": "RT-T5-01",
+    "a": [
+      258.87,
+      4652.69,
+      3184.95
+    ],
+    "b": [
+      258.87,
+      5666.09,
+      2884.68
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-01-TOW6",
+    "assembly": "RT-T5-01",
+    "a": [
+      258.87,
+      4020.23,
+      2884.68
+    ],
+    "b": [
+      258.87,
+      4798.68,
+      3106.62
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-01-W7",
+    "assembly": "RT-T5-01",
+    "a": [
+      258.87,
+      2994.96,
+      3039.97
+    ],
+    "b": [
+      258.87,
+      3861.82,
+      2862.66
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-01-W8",
+    "assembly": "RT-T5-01",
+    "a": [
+      258.87,
+      3104.55,
+      2794.89
+    ],
+    "b": [
+      258.87,
+      3104.55,
+      3049.56
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-01-BC1+1T",
+    "assembly": "RT-T5-01",
+    "a": [
+      258.87,
+      5710.98,
+      2794.89
+    ],
+    "b": [
+      258.87,
+      9350.0,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-01-BC2+1T",
+    "assembly": "RT-T5-01",
+    "a": [
+      258.87,
+      2670.0,
+      2794.89
+    ],
+    "b": [
+      258.87,
+      5710.99,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-02-TC1",
+    "assembly": "RT-T5-02",
+    "a": [
+      1110.29,
+      6517.39,
+      3348.03
+    ],
+    "b": [
+      1110.29,
+      9350.0,
+      3596.22
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-02-TC2",
+    "assembly": "RT-T5-02",
+    "a": [
+      1110.29,
+      3059.65,
+      3045.63
+    ],
+    "b": [
+      1110.29,
+      6517.39,
+      3348.03
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-02-W0",
+    "assembly": "RT-T5-02",
+    "a": [
+      1110.29,
+      9164.49,
+      2794.89
+    ],
+    "b": [
+      1110.29,
+      9164.49,
+      3579.97
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-02-TOW1",
+    "assembly": "RT-T5-02",
+    "a": [
+      1110.29,
+      8148.95,
+      3490.99
+    ],
+    "b": [
+      1110.29,
+      9213.29,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-02-TOW2",
+    "assembly": "RT-T5-02",
+    "a": [
+      1110.29,
+      7232.26,
+      2794.89
+    ],
+    "b": [
+      1110.29,
+      8346.1,
+      3508.26
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-02-TOW3",
+    "assembly": "RT-T5-02",
+    "a": [
+      1110.29,
+      6420.2,
+      3339.53
+    ],
+    "b": [
+      1110.29,
+      7454.51,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-02-TOW4",
+    "assembly": "RT-T5-02",
+    "a": [
+      1110.29,
+      5577.5,
+      2794.89
+    ],
+    "b": [
+      1110.29,
+      6690.6,
+      3363.21
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-02-TOW5",
+    "assembly": "RT-T5-02",
+    "a": [
+      1110.29,
+      4652.69,
+      3184.95
+    ],
+    "b": [
+      1110.29,
+      5666.09,
+      2884.68
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-02-TOW6",
+    "assembly": "RT-T5-02",
+    "a": [
+      1110.29,
+      4020.23,
+      2884.68
+    ],
+    "b": [
+      1110.29,
+      4798.68,
+      3106.62
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-02-W7",
+    "assembly": "RT-T5-02",
+    "a": [
+      1110.29,
+      2994.96,
+      3039.97
+    ],
+    "b": [
+      1110.29,
+      3861.82,
+      2862.66
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-02-W8",
+    "assembly": "RT-T5-02",
+    "a": [
+      1110.29,
+      3104.55,
+      2794.89
+    ],
+    "b": [
+      1110.29,
+      3104.55,
+      3049.56
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-02-BC1+1T",
+    "assembly": "RT-T5-02",
+    "a": [
+      1110.29,
+      5710.98,
+      2794.89
+    ],
+    "b": [
+      1110.29,
+      9350.0,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-02-BC2+1T",
+    "assembly": "RT-T5-02",
+    "a": [
+      1110.29,
+      2670.0,
+      2794.89
+    ],
+    "b": [
+      1110.29,
+      5710.99,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-03-TC1",
+    "assembly": "RT-T5-03",
+    "a": [
+      1958.93,
+      6517.39,
+      3348.03
+    ],
+    "b": [
+      1958.93,
+      9350.0,
+      3596.22
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-03-TC2",
+    "assembly": "RT-T5-03",
+    "a": [
+      1958.93,
+      3059.65,
+      3045.63
+    ],
+    "b": [
+      1958.93,
+      6517.39,
+      3348.03
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-03-W0",
+    "assembly": "RT-T5-03",
+    "a": [
+      1958.93,
+      9164.49,
+      2794.89
+    ],
+    "b": [
+      1958.93,
+      9164.49,
+      3579.97
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-03-TOW1",
+    "assembly": "RT-T5-03",
+    "a": [
+      1958.93,
+      8148.95,
+      3490.99
+    ],
+    "b": [
+      1958.93,
+      9213.29,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-03-TOW2",
+    "assembly": "RT-T5-03",
+    "a": [
+      1958.93,
+      7232.26,
+      2794.89
+    ],
+    "b": [
+      1958.93,
+      8346.1,
+      3508.26
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-03-TOW3",
+    "assembly": "RT-T5-03",
+    "a": [
+      1958.93,
+      6420.2,
+      3339.53
+    ],
+    "b": [
+      1958.93,
+      7454.51,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-03-TOW4",
+    "assembly": "RT-T5-03",
+    "a": [
+      1958.93,
+      5577.5,
+      2794.89
+    ],
+    "b": [
+      1958.93,
+      6690.6,
+      3363.21
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-03-TOW5",
+    "assembly": "RT-T5-03",
+    "a": [
+      1958.93,
+      4652.69,
+      3184.95
+    ],
+    "b": [
+      1958.93,
+      5666.09,
+      2884.68
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-03-TOW6",
+    "assembly": "RT-T5-03",
+    "a": [
+      1958.93,
+      4020.23,
+      2884.68
+    ],
+    "b": [
+      1958.93,
+      4798.68,
+      3106.62
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-03-W7",
+    "assembly": "RT-T5-03",
+    "a": [
+      1958.93,
+      2994.96,
+      3039.97
+    ],
+    "b": [
+      1958.93,
+      3861.82,
+      2862.66
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-03-W8",
+    "assembly": "RT-T5-03",
+    "a": [
+      1958.93,
+      3104.55,
+      2794.89
+    ],
+    "b": [
+      1958.93,
+      3104.55,
+      3049.56
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-03-BC1+1T",
+    "assembly": "RT-T5-03",
+    "a": [
+      1958.93,
+      5710.98,
+      2794.89
+    ],
+    "b": [
+      1958.93,
+      9350.0,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-03-BC2+1T",
+    "assembly": "RT-T5-03",
+    "a": [
+      1958.93,
+      2670.0,
+      2794.89
+    ],
+    "b": [
+      1958.93,
+      5710.99,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-04-TC1",
+    "assembly": "RT-T5-04",
+    "a": [
+      2810.35,
+      6517.39,
+      3348.03
+    ],
+    "b": [
+      2810.35,
+      9350.0,
+      3596.22
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-04-TC2",
+    "assembly": "RT-T5-04",
+    "a": [
+      2810.35,
+      3059.65,
+      3045.63
+    ],
+    "b": [
+      2810.35,
+      6517.39,
+      3348.03
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-04-W0",
+    "assembly": "RT-T5-04",
+    "a": [
+      2810.35,
+      9164.49,
+      2794.89
+    ],
+    "b": [
+      2810.35,
+      9164.49,
+      3579.97
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-04-TOW1",
+    "assembly": "RT-T5-04",
+    "a": [
+      2810.35,
+      8148.95,
+      3490.99
+    ],
+    "b": [
+      2810.35,
+      9213.29,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-04-TOW2",
+    "assembly": "RT-T5-04",
+    "a": [
+      2810.35,
+      7232.26,
+      2794.89
+    ],
+    "b": [
+      2810.35,
+      8346.1,
+      3508.26
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-04-TOW3",
+    "assembly": "RT-T5-04",
+    "a": [
+      2810.35,
+      6420.2,
+      3339.53
+    ],
+    "b": [
+      2810.35,
+      7454.51,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-04-TOW4",
+    "assembly": "RT-T5-04",
+    "a": [
+      2810.35,
+      5577.5,
+      2794.89
+    ],
+    "b": [
+      2810.35,
+      6690.6,
+      3363.21
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-04-TOW5",
+    "assembly": "RT-T5-04",
+    "a": [
+      2810.35,
+      4652.69,
+      3184.95
+    ],
+    "b": [
+      2810.35,
+      5666.09,
+      2884.68
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-04-TOW6",
+    "assembly": "RT-T5-04",
+    "a": [
+      2810.35,
+      4020.23,
+      2884.68
+    ],
+    "b": [
+      2810.35,
+      4798.68,
+      3106.62
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-04-W7",
+    "assembly": "RT-T5-04",
+    "a": [
+      2810.35,
+      2994.96,
+      3039.97
+    ],
+    "b": [
+      2810.35,
+      3861.82,
+      2862.66
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-04-W8",
+    "assembly": "RT-T5-04",
+    "a": [
+      2810.35,
+      3104.55,
+      2794.89
+    ],
+    "b": [
+      2810.35,
+      3104.55,
+      3049.56
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-04-BC1+1T",
+    "assembly": "RT-T5-04",
+    "a": [
+      2810.35,
+      5710.98,
+      2794.89
+    ],
+    "b": [
+      2810.35,
+      9350.0,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-04-BC2+1T",
+    "assembly": "RT-T5-04",
+    "a": [
+      2810.35,
+      2670.0,
+      2794.89
+    ],
+    "b": [
+      2810.35,
+      5710.99,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-05-TC1",
+    "assembly": "RT-T5-05",
+    "a": [
+      3661.77,
+      6517.39,
+      3348.03
+    ],
+    "b": [
+      3661.77,
+      9350.0,
+      3596.22
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-05-TC2",
+    "assembly": "RT-T5-05",
+    "a": [
+      3661.77,
+      3059.65,
+      3045.63
+    ],
+    "b": [
+      3661.77,
+      6517.39,
+      3348.03
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-05-W0",
+    "assembly": "RT-T5-05",
+    "a": [
+      3661.77,
+      9164.49,
+      2794.89
+    ],
+    "b": [
+      3661.77,
+      9164.49,
+      3579.97
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-05-TOW1",
+    "assembly": "RT-T5-05",
+    "a": [
+      3661.77,
+      8148.95,
+      3490.99
+    ],
+    "b": [
+      3661.77,
+      9213.29,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-05-TOW2",
+    "assembly": "RT-T5-05",
+    "a": [
+      3661.77,
+      7232.26,
+      2794.89
+    ],
+    "b": [
+      3661.77,
+      8346.1,
+      3508.26
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-05-TOW3",
+    "assembly": "RT-T5-05",
+    "a": [
+      3661.77,
+      6420.2,
+      3339.53
+    ],
+    "b": [
+      3661.77,
+      7454.51,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-05-TOW4",
+    "assembly": "RT-T5-05",
+    "a": [
+      3661.77,
+      5577.5,
+      2794.89
+    ],
+    "b": [
+      3661.77,
+      6690.6,
+      3363.21
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-05-TOW5",
+    "assembly": "RT-T5-05",
+    "a": [
+      3661.77,
+      4652.69,
+      3184.95
+    ],
+    "b": [
+      3661.77,
+      5666.09,
+      2884.68
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-05-TOW6",
+    "assembly": "RT-T5-05",
+    "a": [
+      3661.77,
+      4020.23,
+      2884.68
+    ],
+    "b": [
+      3661.77,
+      4798.68,
+      3106.62
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-05-W7",
+    "assembly": "RT-T5-05",
+    "a": [
+      3661.77,
+      2994.96,
+      3039.97
+    ],
+    "b": [
+      3661.77,
+      3861.82,
+      2862.66
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-05-W8",
+    "assembly": "RT-T5-05",
+    "a": [
+      3661.77,
+      3104.55,
+      2794.89
+    ],
+    "b": [
+      3661.77,
+      3104.55,
+      3049.56
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-05-BC1+1T",
+    "assembly": "RT-T5-05",
+    "a": [
+      3661.77,
+      5710.98,
+      2794.89
+    ],
+    "b": [
+      3661.77,
+      9350.0,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-05-BC2+1T",
+    "assembly": "RT-T5-05",
+    "a": [
+      3661.77,
+      2670.0,
+      2794.89
+    ],
+    "b": [
+      3661.77,
+      5710.99,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-06-TC1",
+    "assembly": "RT-T5-06",
+    "a": [
+      4510.4,
+      6517.39,
+      3348.03
+    ],
+    "b": [
+      4510.4,
+      9350.0,
+      3596.22
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-06-TC2",
+    "assembly": "RT-T5-06",
+    "a": [
+      4510.4,
+      3059.65,
+      3045.63
+    ],
+    "b": [
+      4510.4,
+      6517.39,
+      3348.03
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-06-W0",
+    "assembly": "RT-T5-06",
+    "a": [
+      4510.4,
+      9164.49,
+      2794.89
+    ],
+    "b": [
+      4510.4,
+      9164.49,
+      3579.97
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-06-TOW1",
+    "assembly": "RT-T5-06",
+    "a": [
+      4510.4,
+      8148.95,
+      3490.99
+    ],
+    "b": [
+      4510.4,
+      9213.29,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-06-TOW2",
+    "assembly": "RT-T5-06",
+    "a": [
+      4510.4,
+      7232.26,
+      2794.89
+    ],
+    "b": [
+      4510.4,
+      8346.1,
+      3508.26
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-06-TOW3",
+    "assembly": "RT-T5-06",
+    "a": [
+      4510.4,
+      6420.2,
+      3339.53
+    ],
+    "b": [
+      4510.4,
+      7454.51,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-06-TOW4",
+    "assembly": "RT-T5-06",
+    "a": [
+      4510.4,
+      5577.5,
+      2794.89
+    ],
+    "b": [
+      4510.4,
+      6690.6,
+      3363.21
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-06-TOW5",
+    "assembly": "RT-T5-06",
+    "a": [
+      4510.4,
+      4652.69,
+      3184.95
+    ],
+    "b": [
+      4510.4,
+      5666.09,
+      2884.68
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-06-TOW6",
+    "assembly": "RT-T5-06",
+    "a": [
+      4510.4,
+      4020.23,
+      2884.68
+    ],
+    "b": [
+      4510.4,
+      4798.68,
+      3106.62
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-06-W7",
+    "assembly": "RT-T5-06",
+    "a": [
+      4510.4,
+      2994.96,
+      3039.97
+    ],
+    "b": [
+      4510.4,
+      3861.82,
+      2862.66
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-06-W8",
+    "assembly": "RT-T5-06",
+    "a": [
+      4510.4,
+      3104.55,
+      2794.89
+    ],
+    "b": [
+      4510.4,
+      3104.55,
+      3049.56
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-06-BC1+1T",
+    "assembly": "RT-T5-06",
+    "a": [
+      4510.4,
+      5710.98,
+      2794.89
+    ],
+    "b": [
+      4510.4,
+      9350.0,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-06-BC2+1T",
+    "assembly": "RT-T5-06",
+    "a": [
+      4510.4,
+      2670.0,
+      2794.89
+    ],
+    "b": [
+      4510.4,
+      5710.99,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-07-TC1",
+    "assembly": "RT-T5-07",
+    "a": [
+      5359.04,
+      6517.39,
+      3348.03
+    ],
+    "b": [
+      5359.04,
+      9350.0,
+      3596.22
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-07-TC2",
+    "assembly": "RT-T5-07",
+    "a": [
+      5359.04,
+      3059.65,
+      3045.63
+    ],
+    "b": [
+      5359.04,
+      6517.39,
+      3348.03
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-07-W0",
+    "assembly": "RT-T5-07",
+    "a": [
+      5359.04,
+      9164.49,
+      2794.89
+    ],
+    "b": [
+      5359.04,
+      9164.49,
+      3579.97
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-07-TOW1",
+    "assembly": "RT-T5-07",
+    "a": [
+      5359.04,
+      8148.95,
+      3490.99
+    ],
+    "b": [
+      5359.04,
+      9213.29,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-07-TOW2",
+    "assembly": "RT-T5-07",
+    "a": [
+      5359.04,
+      7232.26,
+      2794.89
+    ],
+    "b": [
+      5359.04,
+      8346.1,
+      3508.26
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-07-TOW3",
+    "assembly": "RT-T5-07",
+    "a": [
+      5359.04,
+      6420.2,
+      3339.53
+    ],
+    "b": [
+      5359.04,
+      7454.51,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-07-TOW4",
+    "assembly": "RT-T5-07",
+    "a": [
+      5359.04,
+      5577.5,
+      2794.89
+    ],
+    "b": [
+      5359.04,
+      6690.6,
+      3363.21
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-07-TOW5",
+    "assembly": "RT-T5-07",
+    "a": [
+      5359.04,
+      4652.69,
+      3184.95
+    ],
+    "b": [
+      5359.04,
+      5666.09,
+      2884.68
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-07-TOW6",
+    "assembly": "RT-T5-07",
+    "a": [
+      5359.04,
+      4020.23,
+      2884.68
+    ],
+    "b": [
+      5359.04,
+      4798.68,
+      3106.62
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-07-W7",
+    "assembly": "RT-T5-07",
+    "a": [
+      5359.04,
+      2994.96,
+      3039.97
+    ],
+    "b": [
+      5359.04,
+      3861.82,
+      2862.66
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-07-W8",
+    "assembly": "RT-T5-07",
+    "a": [
+      5359.04,
+      3104.55,
+      2794.89
+    ],
+    "b": [
+      5359.04,
+      3104.55,
+      3049.56
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-07-BC1+1T",
+    "assembly": "RT-T5-07",
+    "a": [
+      5359.04,
+      5710.98,
+      2794.89
+    ],
+    "b": [
+      5359.04,
+      9350.0,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-07-BC2+1T",
+    "assembly": "RT-T5-07",
+    "a": [
+      5359.04,
+      2670.0,
+      2794.89
+    ],
+    "b": [
+      5359.04,
+      5710.99,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-08-TC1",
+    "assembly": "RT-T5-08",
+    "a": [
+      6210.46,
+      6517.39,
+      3348.03
+    ],
+    "b": [
+      6210.46,
+      9350.0,
+      3596.22
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-08-TC2",
+    "assembly": "RT-T5-08",
+    "a": [
+      6210.46,
+      3059.65,
+      3045.63
+    ],
+    "b": [
+      6210.46,
+      6517.39,
+      3348.03
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-08-W0",
+    "assembly": "RT-T5-08",
+    "a": [
+      6210.46,
+      9164.49,
+      2794.89
+    ],
+    "b": [
+      6210.46,
+      9164.49,
+      3579.97
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-08-TOW1",
+    "assembly": "RT-T5-08",
+    "a": [
+      6210.46,
+      8148.95,
+      3490.99
+    ],
+    "b": [
+      6210.46,
+      9213.29,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-08-TOW2",
+    "assembly": "RT-T5-08",
+    "a": [
+      6210.46,
+      7232.26,
+      2794.89
+    ],
+    "b": [
+      6210.46,
+      8346.1,
+      3508.26
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-08-TOW3",
+    "assembly": "RT-T5-08",
+    "a": [
+      6210.46,
+      6420.2,
+      3339.53
+    ],
+    "b": [
+      6210.46,
+      7454.51,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-08-TOW4",
+    "assembly": "RT-T5-08",
+    "a": [
+      6210.46,
+      5577.5,
+      2794.89
+    ],
+    "b": [
+      6210.46,
+      6690.6,
+      3363.21
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-08-TOW5",
+    "assembly": "RT-T5-08",
+    "a": [
+      6210.46,
+      4652.69,
+      3184.95
+    ],
+    "b": [
+      6210.46,
+      5666.09,
+      2884.68
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-08-TOW6",
+    "assembly": "RT-T5-08",
+    "a": [
+      6210.46,
+      4020.23,
+      2884.68
+    ],
+    "b": [
+      6210.46,
+      4798.68,
+      3106.62
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-08-W7",
+    "assembly": "RT-T5-08",
+    "a": [
+      6210.46,
+      2994.96,
+      3039.97
+    ],
+    "b": [
+      6210.46,
+      3861.82,
+      2862.66
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-08-W8",
+    "assembly": "RT-T5-08",
+    "a": [
+      6210.46,
+      3104.55,
+      2794.89
+    ],
+    "b": [
+      6210.46,
+      3104.55,
+      3049.56
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-08-BC1+1T",
+    "assembly": "RT-T5-08",
+    "a": [
+      6210.46,
+      5710.98,
+      2794.89
+    ],
+    "b": [
+      6210.46,
+      9350.0,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T5-08-BC2+1T",
+    "assembly": "RT-T5-08",
+    "a": [
+      6210.46,
+      2670.0,
+      2794.89
+    ],
+    "b": [
+      6210.46,
+      5710.99,
+      2794.89
+    ],
+    "normal": [
+      -1,
+      0,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p20; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-01-TC1",
+    "assembly": "RT-T6-01",
+    "a": [
+      27890.06,
+      7800.87,
+      3045.36
+    ],
+    "b": [
+      26840.0,
+      7800.87,
+      3137.74
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-01-W0",
+    "assembly": "RT-T6-01",
+    "a": [
+      26984.92,
+      7800.87,
+      2795.34
+    ],
+    "b": [
+      26984.92,
+      7800.87,
+      3124.99
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-01-W1",
+    "assembly": "RT-T6-01",
+    "a": [
+      27724.8,
+      7800.87,
+      2991.54
+    ],
+    "b": [
+      27135.36,
+      7800.87,
+      2863.57
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-01-W2",
+    "assembly": "RT-T6-01",
+    "a": [
+      27845.15,
+      7800.87,
+      2795.34
+    ],
+    "b": [
+      27845.15,
+      7800.87,
+      3049.31
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-01-BC1",
+    "assembly": "RT-T6-01",
+    "a": [
+      28235.0,
+      7800.87,
+      2795.34
+    ],
+    "b": [
+      26840.0,
+      7800.87,
+      2795.34
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-02-TC1",
+    "assembly": "RT-T6-02",
+    "a": [
+      27890.06,
+      7068.75,
+      3045.36
+    ],
+    "b": [
+      26840.0,
+      7068.75,
+      3137.74
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-02-W0",
+    "assembly": "RT-T6-02",
+    "a": [
+      26984.92,
+      7068.75,
+      2795.34
+    ],
+    "b": [
+      26984.92,
+      7068.75,
+      3124.99
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-02-W1",
+    "assembly": "RT-T6-02",
+    "a": [
+      27724.8,
+      7068.75,
+      2991.54
+    ],
+    "b": [
+      27135.36,
+      7068.75,
+      2863.57
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-02-W2",
+    "assembly": "RT-T6-02",
+    "a": [
+      27845.15,
+      7068.75,
+      2795.34
+    ],
+    "b": [
+      27845.15,
+      7068.75,
+      3049.31
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-02-BC1",
+    "assembly": "RT-T6-02",
+    "a": [
+      28235.0,
+      7068.75,
+      2795.34
+    ],
+    "b": [
+      26840.0,
+      7068.75,
+      2795.34
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-03-TC1",
+    "assembly": "RT-T6-03",
+    "a": [
+      27890.06,
+      6339.43,
+      3045.36
+    ],
+    "b": [
+      26840.0,
+      6339.43,
+      3137.74
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-03-W0",
+    "assembly": "RT-T6-03",
+    "a": [
+      26984.92,
+      6339.43,
+      2795.34
+    ],
+    "b": [
+      26984.92,
+      6339.43,
+      3124.99
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-03-W1",
+    "assembly": "RT-T6-03",
+    "a": [
+      27724.8,
+      6339.43,
+      2991.54
+    ],
+    "b": [
+      27135.36,
+      6339.43,
+      2863.57
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-03-W2",
+    "assembly": "RT-T6-03",
+    "a": [
+      27845.15,
+      6339.43,
+      2795.34
+    ],
+    "b": [
+      27845.15,
+      6339.43,
+      3049.31
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-03-BC1",
+    "assembly": "RT-T6-03",
+    "a": [
+      28235.0,
+      6339.43,
+      2795.34
+    ],
+    "b": [
+      26840.0,
+      6339.43,
+      2795.34
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-04-TC1",
+    "assembly": "RT-T6-04",
+    "a": [
+      27890.06,
+      5607.32,
+      3045.36
+    ],
+    "b": [
+      26840.0,
+      5607.32,
+      3137.74
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-04-W0",
+    "assembly": "RT-T6-04",
+    "a": [
+      26984.92,
+      5607.32,
+      2795.34
+    ],
+    "b": [
+      26984.92,
+      5607.32,
+      3124.99
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-04-W1",
+    "assembly": "RT-T6-04",
+    "a": [
+      27724.8,
+      5607.32,
+      2991.54
+    ],
+    "b": [
+      27135.36,
+      5607.32,
+      2863.57
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-04-W2",
+    "assembly": "RT-T6-04",
+    "a": [
+      27845.15,
+      5607.32,
+      2795.34
+    ],
+    "b": [
+      27845.15,
+      5607.32,
+      3049.31
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-04-BC1",
+    "assembly": "RT-T6-04",
+    "a": [
+      28235.0,
+      5607.32,
+      2795.34
+    ],
+    "b": [
+      26840.0,
+      5607.32,
+      2795.34
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-05-TC1",
+    "assembly": "RT-T6-05",
+    "a": [
+      27890.06,
+      4878.0,
+      3045.36
+    ],
+    "b": [
+      26840.0,
+      4878.0,
+      3137.74
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-05-W0",
+    "assembly": "RT-T6-05",
+    "a": [
+      26984.92,
+      4878.0,
+      2795.34
+    ],
+    "b": [
+      26984.92,
+      4878.0,
+      3124.99
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-05-W1",
+    "assembly": "RT-T6-05",
+    "a": [
+      27724.8,
+      4878.0,
+      2991.54
+    ],
+    "b": [
+      27135.36,
+      4878.0,
+      2863.57
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-05-W2",
+    "assembly": "RT-T6-05",
+    "a": [
+      27845.15,
+      4878.0,
+      2795.34
+    ],
+    "b": [
+      27845.15,
+      4878.0,
+      3049.31
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  },
+  {
+    "mark": "RT-T6-05-BC1",
+    "assembly": "RT-T6-05",
+    "a": [
+      28235.0,
+      4878.0,
+      2795.34
+    ],
+    "b": [
+      26840.0,
+      4878.0,
+      2795.34
+    ],
+    "normal": [
+      0,
+      -1,
+      0
+    ],
+    "depth": 90,
+    "width": 35,
+    "grade": "MGP10",
+    "source": "K0964 roof PDF p21; layout p22; member axes derived from dimension-calibrated supplier drawing; square coordination end cuts; connector plates pending"
+  }
+]

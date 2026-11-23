@@ -1,0 +1,870 @@
+[
+  {
+    "mark": "RT-T1-01",
+    "type": "T1",
+    "origin": [
+      10237.5,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 2
+  },
+  {
+    "mark": "RT-T1-02",
+    "type": "T1",
+    "origin": [
+      11137.5,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 2
+  },
+  {
+    "mark": "RT-T1-03",
+    "type": "T1",
+    "origin": [
+      12037.5,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 2
+  },
+  {
+    "mark": "RT-T1-04",
+    "type": "T1",
+    "origin": [
+      12937.5,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 2
+  },
+  {
+    "mark": "RT-T1-05",
+    "type": "T1",
+    "origin": [
+      13837.5,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 2
+  },
+  {
+    "mark": "RT-T1-06",
+    "type": "T1",
+    "origin": [
+      14737.5,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 2
+  },
+  {
+    "mark": "RT-T1-07",
+    "type": "T1",
+    "origin": [
+      15637.5,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 2
+  },
+  {
+    "mark": "RT-T1-08",
+    "type": "T1",
+    "origin": [
+      16537.5,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 2
+  },
+  {
+    "mark": "RT-T1-09",
+    "type": "T1",
+    "origin": [
+      17437.5,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 2
+  },
+  {
+    "mark": "RT-T1-10",
+    "type": "T1",
+    "origin": [
+      18337.5,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 2
+  },
+  {
+    "mark": "RT-T1-11",
+    "type": "T1",
+    "origin": [
+      19237.5,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 2
+  },
+  {
+    "mark": "RT-T1-12",
+    "type": "T1",
+    "origin": [
+      20137.5,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 2
+  },
+  {
+    "mark": "RT-T1-13",
+    "type": "T1",
+    "origin": [
+      21037.5,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 2
+  },
+  {
+    "mark": "RT-T1-14",
+    "type": "T1",
+    "origin": [
+      21937.5,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 2
+  },
+  {
+    "mark": "RT-T1-15",
+    "type": "T1",
+    "origin": [
+      22837.5,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 2
+  },
+  {
+    "mark": "RT-T4-01",
+    "type": "T4",
+    "origin": [
+      8437.5,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 14
+  },
+  {
+    "mark": "RT-T2-01",
+    "type": "T2",
+    "origin": [
+      24632.5,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 3
+  },
+  {
+    "mark": "RT-T3-01",
+    "type": "T3",
+    "origin": [
+      9337.5,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 5
+  },
+  {
+    "mark": "RT-T3-02",
+    "type": "T3",
+    "origin": [
+      23732.5,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 5
+  },
+  {
+    "mark": "RT-H1-01",
+    "type": "H1",
+    "origin": [
+      6230,
+      150
+    ],
+    "direction": [
+      0.7071067811865475,
+      0.7071067811865475
+    ],
+    "base": 5740,
+    "source_page": 6
+  },
+  {
+    "mark": "RT-C1-01",
+    "type": "C1",
+    "origin": [
+      6620,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 8
+  },
+  {
+    "mark": "RT-C1-02",
+    "type": "C1",
+    "origin": [
+      6230,
+      540
+    ],
+    "direction": [
+      1,
+      0
+    ],
+    "base": 5740,
+    "source_page": 8
+  },
+  {
+    "mark": "RT-C2-01",
+    "type": "C2",
+    "origin": [
+      7520,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 9
+  },
+  {
+    "mark": "RT-C2-02",
+    "type": "C2",
+    "origin": [
+      6230,
+      1440
+    ],
+    "direction": [
+      1,
+      0
+    ],
+    "base": 5740,
+    "source_page": 9
+  },
+  {
+    "mark": "RT-H1-02",
+    "type": "H1",
+    "origin": [
+      6230,
+      8030
+    ],
+    "direction": [
+      0.7071067811865475,
+      -0.7071067811865475
+    ],
+    "base": 5740,
+    "source_page": 6
+  },
+  {
+    "mark": "RT-C1-03",
+    "type": "C1",
+    "origin": [
+      6620,
+      8030
+    ],
+    "direction": [
+      0,
+      -1
+    ],
+    "base": 5740,
+    "source_page": 8
+  },
+  {
+    "mark": "RT-C1-04",
+    "type": "C1",
+    "origin": [
+      6230,
+      7640
+    ],
+    "direction": [
+      1,
+      0
+    ],
+    "base": 5740,
+    "source_page": 8
+  },
+  {
+    "mark": "RT-C2-03",
+    "type": "C2",
+    "origin": [
+      7520,
+      8030
+    ],
+    "direction": [
+      0,
+      -1
+    ],
+    "base": 5740,
+    "source_page": 9
+  },
+  {
+    "mark": "RT-C2-04",
+    "type": "C2",
+    "origin": [
+      6230,
+      6740
+    ],
+    "direction": [
+      1,
+      0
+    ],
+    "base": 5740,
+    "source_page": 9
+  },
+  {
+    "mark": "RT-H1-03",
+    "type": "H1",
+    "origin": [
+      26840,
+      150
+    ],
+    "direction": [
+      -0.7071067811865475,
+      0.7071067811865475
+    ],
+    "base": 5740,
+    "source_page": 6
+  },
+  {
+    "mark": "RT-C1-05",
+    "type": "C1",
+    "origin": [
+      26450,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 8
+  },
+  {
+    "mark": "RT-C1-06",
+    "type": "C1",
+    "origin": [
+      26840,
+      540
+    ],
+    "direction": [
+      -1,
+      0
+    ],
+    "base": 5740,
+    "source_page": 8
+  },
+  {
+    "mark": "RT-C2-05",
+    "type": "C2",
+    "origin": [
+      25550,
+      150
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 5740,
+    "source_page": 9
+  },
+  {
+    "mark": "RT-C2-06",
+    "type": "C2",
+    "origin": [
+      26840,
+      1440
+    ],
+    "direction": [
+      -1,
+      0
+    ],
+    "base": 5740,
+    "source_page": 9
+  },
+  {
+    "mark": "RT-H1-04",
+    "type": "H1",
+    "origin": [
+      26840,
+      8030
+    ],
+    "direction": [
+      -0.7071067811865475,
+      -0.7071067811865475
+    ],
+    "base": 5740,
+    "source_page": 6
+  },
+  {
+    "mark": "RT-C1-07",
+    "type": "C1",
+    "origin": [
+      26450,
+      8030
+    ],
+    "direction": [
+      0,
+      -1
+    ],
+    "base": 5740,
+    "source_page": 8
+  },
+  {
+    "mark": "RT-C1-08",
+    "type": "C1",
+    "origin": [
+      26840,
+      7640
+    ],
+    "direction": [
+      -1,
+      0
+    ],
+    "base": 5740,
+    "source_page": 8
+  },
+  {
+    "mark": "RT-C2-07",
+    "type": "C2",
+    "origin": [
+      25550,
+      8030
+    ],
+    "direction": [
+      0,
+      -1
+    ],
+    "base": 5740,
+    "source_page": 9
+  },
+  {
+    "mark": "RT-C2-08",
+    "type": "C2",
+    "origin": [
+      26840,
+      6740
+    ],
+    "direction": [
+      -1,
+      0
+    ],
+    "base": 5740,
+    "source_page": 9
+  },
+  {
+    "mark": "RT-J1-W1",
+    "type": "J1",
+    "origin": [
+      6230,
+      2340
+    ],
+    "direction": [
+      1,
+      0
+    ],
+    "base": 5740,
+    "source_page": 10
+  },
+  {
+    "mark": "RT-J1-W2",
+    "type": "J1",
+    "origin": [
+      6230,
+      5840
+    ],
+    "direction": [
+      1,
+      0
+    ],
+    "base": 5740,
+    "source_page": 10
+  },
+  {
+    "mark": "RT-J3-W",
+    "type": "J3",
+    "origin": [
+      6230,
+      4090
+    ],
+    "direction": [
+      1,
+      0
+    ],
+    "base": 5740,
+    "source_page": 12
+  },
+  {
+    "mark": "RT-J4-W-3190",
+    "type": "J4",
+    "origin": [
+      6230,
+      3190
+    ],
+    "direction": [
+      1,
+      0
+    ],
+    "base": 5740,
+    "source_page": 16
+  },
+  {
+    "mark": "RT-J5-W-4990",
+    "type": "J5",
+    "origin": [
+      6230,
+      4990
+    ],
+    "direction": [
+      1,
+      0
+    ],
+    "base": 5740,
+    "source_page": 18
+  },
+  {
+    "mark": "RT-J1-E1",
+    "type": "J1",
+    "origin": [
+      26840,
+      2340
+    ],
+    "direction": [
+      -1,
+      0
+    ],
+    "base": 5740,
+    "source_page": 10
+  },
+  {
+    "mark": "RT-J1-E2",
+    "type": "J1",
+    "origin": [
+      26840,
+      5840
+    ],
+    "direction": [
+      -1,
+      0
+    ],
+    "base": 5740,
+    "source_page": 10
+  },
+  {
+    "mark": "RT-J3-E",
+    "type": "J3",
+    "origin": [
+      26840,
+      4090
+    ],
+    "direction": [
+      -1,
+      0
+    ],
+    "base": 5740,
+    "source_page": 12
+  },
+  {
+    "mark": "RT-J2-E-3190",
+    "type": "J2",
+    "origin": [
+      26840,
+      3190
+    ],
+    "direction": [
+      -1,
+      0
+    ],
+    "base": 5740,
+    "source_page": 11
+  },
+  {
+    "mark": "RT-J2-E-4990",
+    "type": "J2",
+    "origin": [
+      26840,
+      4990
+    ],
+    "direction": [
+      -1,
+      0
+    ],
+    "base": 5740,
+    "source_page": 11
+  },
+  {
+    "mark": "RT-T5-01",
+    "type": "T5",
+    "origin": [
+      258.87052341597746,
+      3060
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 2750,
+    "source_page": 20
+  },
+  {
+    "mark": "RT-T5-02",
+    "type": "T5",
+    "origin": [
+      1110.2938475665746,
+      3060
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 2750,
+    "source_page": 20
+  },
+  {
+    "mark": "RT-T5-03",
+    "type": "T5",
+    "origin": [
+      1958.9256198347105,
+      3060
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 2750,
+    "source_page": 20
+  },
+  {
+    "mark": "RT-T5-04",
+    "type": "T5",
+    "origin": [
+      2810.348943985308,
+      3060
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 2750,
+    "source_page": 20
+  },
+  {
+    "mark": "RT-T5-05",
+    "type": "T5",
+    "origin": [
+      3661.7722681359037,
+      3060
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 2750,
+    "source_page": 20
+  },
+  {
+    "mark": "RT-T5-06",
+    "type": "T5",
+    "origin": [
+      4510.40404040404,
+      3060
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 2750,
+    "source_page": 20
+  },
+  {
+    "mark": "RT-T5-07",
+    "type": "T5",
+    "origin": [
+      5359.035812672176,
+      3060
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 2750,
+    "source_page": 20
+  },
+  {
+    "mark": "RT-T5-08",
+    "type": "T5",
+    "origin": [
+      6210.459136822772,
+      3060
+    ],
+    "direction": [
+      0,
+      1
+    ],
+    "base": 2750,
+    "source_page": 20
+  },
+  {
+    "mark": "RT-T6-01",
+    "type": "T6",
+    "origin": [
+      27890,
+      7800.865248226951
+    ],
+    "direction": [
+      -1,
+      0
+    ],
+    "base": 2750,
+    "source_page": 21
+  },
+  {
+    "mark": "RT-T6-02",
+    "type": "T6",
+    "origin": [
+      27890,
+      7068.751773049646
+    ],
+    "direction": [
+      -1,
+      0
+    ],
+    "base": 2750,
+    "source_page": 21
+  },
+  {
+    "mark": "RT-T6-03",
+    "type": "T6",
+    "origin": [
+      27890,
+      6339.432624113476
+    ],
+    "direction": [
+      -1,
+      0
+    ],
+    "base": 2750,
+    "source_page": 21
+  },
+  {
+    "mark": "RT-T6-04",
+    "type": "T6",
+    "origin": [
+      27890,
+      5607.31914893617
+    ],
+    "direction": [
+      -1,
+      0
+    ],
+    "base": 2750,
+    "source_page": 21
+  },
+  {
+    "mark": "RT-T6-05",
+    "type": "T6",
+    "origin": [
+      27890,
+      4878.000000000002
+    ],
+    "direction": [
+      -1,
+      0
+    ],
+    "base": 2750,
+    "source_page": 21
+  }
+]

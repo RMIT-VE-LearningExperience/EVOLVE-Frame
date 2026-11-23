@@ -1,0 +1,79 @@
+AREA SCHEDULE
+SITE366.00
+HOUSESQMSQS
+GROUND FLOOR AREA151.1516.27
+FIRST FLOOR AREA168.1418.09
+PORCH4.990.54                                                                                                                                                                                                                                            3.1m (APPROX)            TBM - RIVET
+ALFRESCO18.602.00                                                         NOTE:                                                                                                                                                                                                   IN KERB
+GARAGE43.854.72                                                           *BOF NOT DETERMINED DUE TO LIMITED                                                                                                                                                                      RL 10.00
+
+TOTAL AREA386.7341.62                                                     CAPABILITY OF MANUAL EXCAVATION
+
+                                                                           FOOTING EXPOSURE:                                                                                    LOT 734                                       Gu 16.10
+SITE COVERAGE218.5959.72%                                                                                                                                                  DOUBLE STOREY                                                                                          HD
+HARD SURFACE AREA-                                                         NGL:RL 10.61
+                                                                           BOF:RL <9.84                                                                                        DWELLING                    Ri 17.50                                                               GW
+TOTAL HARD SURFACE AREA--                                                  O/S:295mm                                                                                  BRICK & WEATHERBOARD
+
+                                                                                                                                                                  0.115m EASEMENT                                                Gu 16.11Gu 13.18
+PERMEABILITY147.4140.28%                                                                                                                  UH/W                    0.115m EASEMENT
+PRIVATE OPEN SPACE85.73                                                                                           POS                         H/W            UNH/W               UH/W                          UH/W
+                                                                                   GARAGE                                                                                                                                      FFL 10.46
+                                                                                                                                                                                                                 Gu 16.11      PORCH    1.3mH PALING
+                                                                               ZERO BOUNDARY                                        1.95mH PALING FENCE           30.00m 05°24'40"    PARAPET WALL                                          FENCE                                  IK 9.89
+                                                                                                                                                                                                                                                          E                        TE
+
+
+                                                                                                               I.OI.O                                                                                                                              10.18
+                                                                                               10.6310.7510.5410.3610.34                                                                                                                 DP/RWH       10.20
+                                                    SEWER PIPE DETAILS                                         DP                                                 DP                                                               DP
+                                                    OFFSET: 3.8m                                                                                                                                                                                SW PIPE
+                                                    DEPTH: 4.0m             SELECTED COLORBOND                                                                                                                            10.40                     I.O                            HD
+                                                    PIPE SIZE: 225mm UPVC
+                                                                            ROOF @ 5° ROOF PITCH                                                       SELECTED COLORBOND ROOF @ 25°                                                          IL 9.93                              GW
+                                                                            WITH ROOF SARKING.                                                         ROOF PITCH WITH ROOF SARKING.                                                             1570
+                          SEWER BRANCH DETAILS                                                                                                                                                                                                  PORCH
+                          LENGTH: 4.5m OUTSIDE                                                                                                                                                                                                  SETBACK                             IK 9.96
+                          DEPTH: 1.5m
+                          PIPE SIZE: 100mm UPVC                                                                                                                           SELECTED WHIRLYBIRD
+
+                                                                                                                      SOLAR                                                                                                                                           COUNCIL NOMINATEDIK 10.01
+                                                                                                                      PANEL                                                                                                                                           LPD STORMWATER
+                                                                                                                                                                            10.60           10.58                                    10.46GF SETBACK3010              DISCHARGE LOCATION.
+                                                                       10.89                         10.84                                                                                                                                        10.34
+                                                                                                                                                    10.68SELECTED COLORBOND ROOF @ 25°                                                      3060
+                                                                      DP/RWH                         DP/RWH                                                                                                                               FF SETBACK                                         IK 10.09
+                                                                                      6130                                                              ROOF PITCH WITH ROOF SARKING.
+                                                                                    LOT 735                                         10.80                                                                                            DP
+                                                                                                                                                                                                                                            I.O                         STORMWATER PIPE DETAILS
+                                                                       10.97                                                                                                                                                               2130                         OFFSET: 2.1m
+                                                                                                            DP                                     DP                                DP                                        DP                                       DEPTH: TBC
+                                                                                                                                                                                                                                                  10.40                 PIPE SIZE: 100mm MPVC
+                                                                                            I.O
+                                                                         4.24m 50°25'00"
+                                                                                                  11.00                                                                                                                                                                                   IK 10.17
+                                                                                                                                                     10.94                                   10.88                                    10.71 4.24m 140°25'00"
+                                                                                         11.03         11.04                                     9M OVERLOOKING ARC
+                                      CONCRETE                                        E                                          24.00m 05°24'40"                                                                                   E
+                                        LANE
+
+                                                                                                                                                            NBN
+
+                                                                                                                                                                                                                                                                      IK 10.30
+
+
+
+
+            IK 10.86IK 10.81IK 10.78SITE & ROOF PLAN                                                                                                                                   IK 10.64IK 10.41
+                                                                                                                       WYLIE CIRCUIT
+                                                    SCALE    1:125
+
+
+
+                                                                                                                                         DATE:BY:REVISION      PROJECT:                            CLIENT:                              ISSUE DATE: 16.01.2024                       PROJECT NO: 042224
+                                                                                                                                                     E.C.DRAWINGS ISSUED FOR CONSTRUCTION.20.01.2024-NEW DWELLING
+                                                                                                                                                                                                                                        SCALE:    1:125 @ A3
+                                                                                                                                                               ADDRESS:                                                                                         N                    SHEET NO:
+                                                                                                                                                                                                   DRAWING NAME:                        DRAWN:    E.C.
+                                                                                                                                                               LOT 735 (NO. 15) LEICHHARDT         SITE & ROOF PLAN
+                                                                                                                                                               AVENUE, BURNSIDE HEIGHTS.                                                CHECKED:  E.C.                               03

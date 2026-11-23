@@ -1,0 +1,1837 @@
+
+PAGE 1
+BB Truss & Timber Pty.Ltd.
+(A.B.N. 20 986 756 544)
+41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075
+DATE: 10/04/2026
+BUILDING AUTHORITY ROOF TRUSS CERTIFICATION
+PROJECT IDENTIFICATION
+K0964Quote Number:
+Site Address:BSPOKE LUXURY HOMES PTY LTD LOT 735 15 LEICHHARDT AVE
+BURNSIDE VIC 3023 AUS
+Structure Type: House
+This is to certify that the prefabricated timber roof trusses and pre-cut hip end members supplied to the
+above project were manufactured using MULTINAIL metal connectors and detailed using MULTINAIL
+computer truss design programs, in accordance with the National Construction Code (NCC 2022).
+The specifications used in the design of the trusses were as follows :
+The roof truss design and detailing assumes the supporting structure is stable within
+its own right before the installation of the roof trusses.
+WIND / EXT / INT
+TIMBER
+N2 / 0.6 / 0.2
+Dry Softwood
+SPACING
+PITCH
+ROOFING
+TC Fixing/Restraint
+CEILING
+BC Fixing/RestraintFASCIA TYPE
+900 mm
+25.0 / 25.0 deg
+Metal Sheet@7kg/m²
+Metal @ 900c/900c
+Metal direct @ 600c/600c
+Plaster 10mm Supa Span@8.2kg/m
+As per AS1720.3-2016
+ : 
+ : 
+ : 
+ : 
+ : 
+ : 
+ : 
+ :  : 
+ROOF SHAPE  : Standard
+OVERHANG  : 550 / 550
+All designed trusses and pre-cut members utilize the following codes:
+Structural Design Actions Part 0: General principles
+Structural Design Actions Part 1: Permanent, imposed and other actions
+Structural Design Actions Part 2: Wind actions
+Structural Design Actions Part 3: Snow and ice actions
+Wind loads for housing
+Timber structures Part 1: Design methods
+All trusses must be braced and erected in accordance with AS4440, Installation of nailplated timber
+trusses, in conjunction with all local building authority requirements, and any other supplied details.
+ : _________________________________________________
+ : Joey Meriales (TN-012-015)
+ :
+Timber structures Part 3: Design criteria for timber-framed residential buildings
+AS/NZS 1170.0-2002:
+AS/NZS 1170.1-2002:
+AS/NZS 1170.2-2021:
+AS/NZS 1170.3-2003:
+AS 4055-2021:
+AS 1720.1-2010:
+AS 1720.3-2016:
+SIGNATURE
+NAME
+POSITION
+DATE  : _________________________________________________
+AS 1720.5-2015: Timber structures Part 5: Nailplated timber roof trusses
+AS 1649-2001: Timber-Methods of test for mechanical fasteners and connectors
+AS 4100-2020: Steel Structures
+AS/NZS 4600-2018: Cold-formed steel structures
+For detailed load information, including AC, Solar, Tank and Storage loads, refer to the detailed Engineering 
+and Submission reports and Roof Layout.
+MULTINAIL Roof 10/04/2026 10:10:09 AM1.14.3 USER: Joey Meriales (TN-012-015)
+10/04/2026
+detailer
+
+PAGE 2
+BB Truss & Timber Pty.Ltd. Job No: 
+Truss: 
+Type: 
+Lamination/Quantity: 
+K0964 
+Layout created T1 
+Standard 
+1/15 
+Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+(A.B.N. 20 986 756 544)  41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075 
+(pt) : 1 mid panel tie(s) required to each bottom chord panel 
+TC1      90x35-MGP10 H0 ADS   1  JD5  900 
+TIMBER: 
+PLATES: 
+Member Size & Grade Rest 
+HEEL     50x150-MN             15  23   0 
+BS@1-R  150x100-MN         1    =  68   0 
+B1-L    100x100-MN         1    =  50   0 
+T0      150x100-MN              =   =   0 
+T1       38x100-MN              =   =   0 
+BC+1T    90x35-MGP10 H0 ADS   3  JD5 (pt) 
+BC1+1T-R 90x35-MGP10 H0 ADS   3  JD5 (pt) 
+TOW1     90x35-MGP10 H0 ADS      JD5 
+TOW2     90x35-MGP10 H0 ADS      JD5 
+Joint 
+1.35DL (kN)                 1.11     1.11 
+(kN)                 2.51     2.51 1.2DL + 1.5MLL 
+0.9DL + 1WL (kN)                -2.05    -2.05 
+Required          1 MGrip  1 MGrip Tie Down 
+Vertical Reactions at Supports 
+(No.)                  S1       S2 Support 
+Ground Snow Load: 
+25.00/25.00 
+550/550 
+900 
+Metal Sheet@7kg/m² Span: 
+Pitch: 
+Overhang: 
+Spacing: 
+Metal @ 900c/900c 
+Plaster 10mm Supa Span@8.2kg/m² 
+Metal direct @ 600c/600c 
+Roofing: 
+TC Fix/Rest: 
+Ceiling: 
+BC Fix/Rest: 
+Wind / Ext / Int: 
+Fascia Type: 
+Structure: 
+N2 / 0.6 / 0.2 
+As per AS1720.3-2016 
+House 
+7880 
+ Version: 
+Page: 
+Date: 
+10/04/2026 
+(TN-012-015) 
+1
+All dimensions in milimetres. This drawing should be read in 
+conjunction with Multinail Technical sheets. 
+Maximum transport dimensions (mm) Width: 8980 & Height: 2193 
+Size & Grade Camber X   /   Y  /  Rtn 
+Jnt Grp 
+[AS/NZS 1170.0-2002, 1170.1-2002, 1170.2-2021, 1170.3-2003][AS 1720.1-2010] 
+Def 
+Bearing Member/Support      Ok/Ok    Ok/Ok 
+(Note: Tie down capacity based on JD4.  Bearing capacity based on timber properties of the member onto support, and SD7 for support.) 
+1.14.3 
+39.1kg Weight of timber & plate (excl. brackets): 
+User: 
+25.0 TC1-L 
+BC+1T 
+TOW1-L 
+TOW2-L 
+25.0 TC1-R 
+BC1+1T-R 
+TOW1-R 
+TOW2-R 
+HEEL 
+3940 
+3940 
+<4347> 
+106V 
+T0 
+1943V 
+<0> 
+0
+T1 
+1090V 
+<2016> 
+1828 
+B1 
+1255 HEEL 
+3940 
+3940 
+<4347> 
+106V 
+T1 
+1090V 
+<2016> 
+1828 
+BS@1 
+1255 
+S1 S2 
+Overall Ht 1943 
+Cutoff Rise 6 
+Cutoff Rise 6 
+OH=550 
+<607> 
+OH=550 
+<607> 
+Scale 1:60 
+
+PAGE 3
+BB Truss & Timber Pty.Ltd. Job No: 
+Truss: 
+Type: 
+Lamination/Quantity: 
+K0964 
+Layout created T2 
+TG2190 
+1/1 
+Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+(A.B.N. 20 986 756 544)  41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075 
+TC1      90x35-MGP10 H0 ADS   1  JD5  900 
+TIMBER: 
+PLATES: 
+Member Size & Grade Rest 
+HEEL     64x200-MN             22  31   0 
+B1-L    100x100-MN         3    =  50   0 
+B0      100x100-MN         3    =  50   0 
+T1      100x100-MN             50  50   0 
+B2-R    100x100-MN         3    =  50   0 
+T2      100x200-MN            118  45  25 
+BS      100x150-MN              =  50   0 
+BC      120x35-MGP10 H0 ADS   1  JD5  600 
+BC1-R   120x35-MGP10 H0 ADS   1  JD5  600 
+HTC      90x35-MGP10 H0 ADS   2  JD5  900 
+W2-R     90x35-MGP10 H0 ADS      JD5 
+W3       90x35-MGP10 H0 ADS      JD5 
+TOW1     90x35-MGP10 H0 ADS      JD5 
+TOW2-L   90x35-MGP10 H0 ADS      JD5 
+Joint 
+1.35DL (kN)                 2.02     2.02 
+(kN)                 4.61     4.61 1.2DL + 1.5MLL 
+0.9DL + 1WL (kN)                -3.72    -3.72 
+Required          2 MGrps  2 MGrps Tie Down 
+Vertical Reactions at Supports 
+(No.)                  S1       S2 Support 
+Ground Snow Load: 
+25.00/25.00 
+550/550 
+900 
+Metal Sheet@7kg/m² Span: 
+Pitch: 
+Overhang: 
+Spacing: 
+Metal @ 900c/900c 
+Plaster 10mm Supa Span@8.2kg/m² 
+Metal direct @ 600c/600c 
+Roofing: 
+TC Fix/Rest: 
+Ceiling: 
+BC Fix/Rest: 
+Wind / Ext / Int: 
+Fascia Type: 
+Structure: 
+N2 / 0.6 / 0.2 
+As per AS1720.3-2016 
+House 
+7880 
+ Version: 
+Page: 
+Date: 
+10/04/2026 
+(TN-012-015) 
+2
+All dimensions in milimetres. This drawing should be read in 
+conjunction with Multinail Technical sheets. 
+Maximum transport dimensions (mm) Width: 8980 & Height: 1365 
+Size & Grade Camber X   /   Y  /  Rtn 
+Jnt Grp 
+[AS/NZS 1170.0-2002, 1170.1-2002, 1170.2-2021, 1170.3-2003][AS 1720.1-2010] 
+Def 
+Bearing Member/Support      Ok/Ok    Ok/Ok 
+(Note: Tie down capacity based on JD4.  Bearing capacity based on timber properties of the member onto support, and SD7 for support.) 
+1.14.3 
+44.4kg Weight of timber & plate (excl. brackets): 
+User: 
+25.0 TC1-L 
+BC 
+HTC 
+TOW1-L TOW2-L W3-L 
+25.0 TC1-R 
+BC1-R 
+TOW1-R W2-R W3-R 
+HEEL 
+3940 
+3940 
+105V 
+B0 
+1
+T1 
+1027V 
+912 
+B1 
+1840 
+T2 
+943V 
+1930 
+HEEL 
+3940 
+3940 
+105V 
+T1 
+1027V 
+946 
+B2 
+1840 
+T2 
+943V 
+1930 
+BS 
+1460 
+S1 S2 
+Apex 1027 
+Overall Ht 1115 
+Cutoff Rise 6 
+Cutoff Rise 6 
+OH=550 
+<607> 
+OH=550 
+<607> 
+Scale 1:50 
+
+PAGE 4
+BB Truss & Timber Pty.Ltd. Job No: 
+Truss: 
+Type: 
+Lamination/Quantity: 
+K0964 
+Layout created T2 
+TG2190 
+1/1 
+Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+(A.B.N. 20 986 756 544)  41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075 
+LOADS ON TRUSS: A=Auto loads by system; S=Service loads; Uc=User defined concentrated loads; Ud=User defined distributed loads 
+Note: -ve signed loads act downwards, +ve signed loads act upwards 
+ 
+Indicator         A1(kN)      A2(kN)      A3(kN)      A4(kN)      A5(kN)      A6(kN)      A7(kN)      A8(kN)      A9(kN)     A10(kN) 
+DL                -0.218      -0.052       0.016      -0.071      -0.071      -0.071      -0.301      -0.071      -0.071      -0.071 
+LL                -0.283      -0.135       0.007      -0.013      -0.162      -0.008      -0.424      -0.022      -0.162      -0.008 
+WL                 0.753       0.294      -0.027       0.103       0.386       0.072       1.008       0.192       0.386       0.072 
+Desc                  H1          J1          H1          J1          J2          J2          J3          J3          J2          J2 
+Indicator        A11(kN)     A12(kN)     A13(kN)     A14(kN) 
+DL                -0.218      -0.052       0.016      -0.071 
+LL                -0.283      -0.135       0.007      -0.013 
+WL                 0.753       0.294      -0.027       0.103 
+Desc                  H1          J1          H1          J1 
+Page: 
+3
+A1 A2 
+A3 A4 
+A5 
+A6 
+A7 
+A8 
+A9 
+A10 
+A11 A12 
+A13 A14 
+
+PAGE 5
+BB Truss & Timber Pty.Ltd. Job No: 
+Truss: 
+Type: 
+Lamination/Quantity: 
+K0964 
+Layout created T3 
+TS3090 
+1/2 
+Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+(A.B.N. 20 986 756 544)  41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075 
+TC1      90x35-MGP10 H0 ADS   1  JD5  900 
+TIMBER: 
+PLATES: 
+Member Size & Grade Rest 
+HEEL     50x150-MN             15  23   0 
+T2       50x100-MN              =   =   0 
+T1-R    100x150-MN              =  50  25 
+T0      100x100-MN             50  50   0 
+B1-L    100x100-MN         2    =  50   0 
+BS@1-R  150x100-MN         2    =  68   0 
+T1-L    150x150-MN              =  75  25 
+B2      100x100-MN         1    =  50   0 
+BC       90x35-MGP10 H0 ADS   1  JD5  600 
+BC1-R    90x35-MGP10 H0 ADS   1  JD5  600 
+HTC      90x35-MGP10 H0 ADS      JD5  900 
+W2-R     90x35-MGP10 H0 ADS      JD5 
+TOW1     90x35-MGP10 H0 ADS      JD5 
+TOW2-L   90x35-MGP10 H0 ADS      JD5 
+TOW3     90x35-MGP10 H0 ADS      JD5 
+TOW4     90x35-MGP10 H0 ADS      JD5 
+Joint 
+1.35DL (kN)                 1.15     1.15 
+(kN)                 2.58     2.58 1.2DL + 1.5MLL 
+0.9DL + 1WL (kN)                -2.07    -2.07 
+Required          1 MGrip  1 MGrip Tie Down 
+Vertical Reactions at Supports 
+(No.)                  S1       S2 Support 
+Ground Snow Load: 
+25.00/25.00 
+550/550 
+900 
+Metal Sheet@7kg/m² Span: 
+Pitch: 
+Overhang: 
+Spacing: 
+Metal @ 900c/900c 
+Plaster 10mm Supa Span@8.2kg/m² 
+Metal direct @ 600c/600c 
+Roofing: 
+TC Fix/Rest: 
+Ceiling: 
+BC Fix/Rest: 
+Wind / Ext / Int: 
+Fascia Type: 
+Structure: 
+N2 / 0.6 / 0.2 
+As per AS1720.3-2016 
+House 
+7880 
+ Version: 
+Page: 
+Date: 
+10/04/2026 
+(TN-012-015) 
+4
+All dimensions in milimetres. This drawing should be read in 
+conjunction with Multinail Technical sheets. 
+Maximum transport dimensions (mm) Width: 8980 & Height: 1785 
+Size & Grade Camber X   /   Y  /  Rtn 
+Jnt Grp 
+[AS/NZS 1170.0-2002, 1170.1-2002, 1170.2-2021, 1170.3-2003][AS 1720.1-2010] 
+Def 
+Bearing Member/Support      Ok/Ok    Ok/Ok 
+(Note: Tie down capacity based on JD4.  Bearing capacity based on timber properties of the member onto support, and SD7 for support.) 
+1.14.3 
+46.3kg Weight of timber & plate (excl. brackets): 
+User: 
+25.0 TC1-L 
+BC 
+HTC 
+TOW1-L TOW2-L TOW3-L 
+TOW4-L 
+25.0 TC1-R 
+BC1-R 
+TOW1-R W2-R TOW3-R 
+TOW4-R 
+HEEL 
+3940 
+3940 
+<4347> 
+106V 
+T0 
+1447V 
+<53> 
+48 
+B1 
+492 
+T1 
+1363V 
+<1137> 
+1030 
+T2 
+678V 
+<2993> 
+2713 
+B2 
+1926 
+HEEL 
+3940 
+3940 
+<4347> 
+106V 
+T1 
+1363V 
+<1137> 
+1030 
+B2 
+1926 
+T2 
+678V 
+<2993> 
+2713 
+BS@1 
+588 
+S1 S2 
+Apex 1447 
+Overall Ht 1535 
+Cutoff Rise 6 
+Cutoff Rise 6 
+OH=550 
+<607> 
+OH=550 
+<607> 
+Scale 1:50 
+
+PAGE 6
+BB Truss & Timber Pty.Ltd. Job No: 
+Truss: 
+Type: 
+Lamination/Quantity: 
+K0964 
+Layout created H1 
+Hip Truss 
+1/4 
+Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+(A.B.N. 20 986 756 544)  41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075 
+TC1      90x35-MGP12 H0 ADS      JD4  900 
+TIMBER: 
+PLATES: 
+Member Size & Grade Rest 
+HEEL     50x100-MN             77  23   0 
+TS@1    100x150-MN              =  68   0 
+T0      100x100-MN            -22   =   0 
+B1      100x100-MN         1    =  50   0 
+TC2      90x35-MGP12 H0 ADS   1  JD4  900 
+BC1      90x35-MGP10 H0 ADS   1  JD5  600 
+TOW1     90x35-MGP10 H0 ADS      JD5 
+TOW2     90x35-MGP10 H0 ADS      JD5 
+Joint 
+1.35DL (kN)                 0.16     0.37 
+(kN)                 0.32     0.79 1.2DL + 1.5MLL 
+0.9DL + 1WL (kN)                -0.13    -0.62 
+Required          1 MGrip  1 MGrip Tie Down 
+Vertical Reactions at Supports 
+(No.)                  S1       S2 Support 
+Ground Snow Load: 
+18.25 
+778/2565 
+900 
+Metal Sheet@7kg/m² Span: 
+Pitch: 
+Overhang: 
+Spacing: 
+Metal @ 900c/900c 
+Plaster 10mm Supa Span@8.2kg/m² 
+Metal direct @ 600c/600c 
+Roofing: 
+TC Fix/Rest: 
+Ceiling: 
+BC Fix/Rest: 
+Wind / Ext / Int: 
+Fascia Type: 
+Structure: 
+N2 / 0.6 / 0.2 
+As per AS1720.3-2016 
+House 
+3007 
+ Version: 
+Page: 
+Date: 
+10/04/2026 
+(TN-012-015) 
+5
+All dimensions in milimetres. This drawing should be read in 
+conjunction with Multinail Technical sheets. 
+Maximum transport dimensions (mm) Width: 6350 & Height: 2189 
+Size & Grade Camber X   /   Y  /  Rtn 
+Jnt Grp 
+[AS/NZS 1170.0-2002, 1170.1-2002, 1170.2-2021, 1170.3-2003][AS 1720.1-2010] 
+Def 
+Bearing Member/Support      Ok/Ok    Ok/Ok 
+(Note: Tie down capacity based on JD4.  Bearing capacity based on timber properties of the member onto support, and SD7 for support.) 
+1.14.3 
+20.1kg Weight of timber & plate (excl. brackets): 
+User: 
+18.2 TC1 
+18.3 TC2 
+BC1 
+TOW1 
+TOW2 
+HEEL 
+3007 
+3007 
+<3166> 
+101V 
+T0 
+1092V 
+<0> 
+0
+B1 
+859 
+TS@1 
+601V 
+<1570> 
+1491 
+S1 S2 
+Apex 1092 
+Overall Ht 1938 
+Cutoff Rise 6 
+OH=778 
+<819> 
+OH=2565 
+<2701> 
+OH=90 
+Scale 1:60 
+
+PAGE 7
+BB Truss & Timber Pty.Ltd. Job No: 
+Truss: 
+Type: 
+Lamination/Quantity: 
+K0964 
+Layout created H1 
+Hip Truss 
+1/4 
+Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+(A.B.N. 20 986 756 544)  41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075 
+LOADS ON TRUSS: A=Auto loads by system; S=Service loads; Uc=User defined concentrated loads; Ud=User defined distributed loads 
+Note: -ve signed loads act downwards, +ve signed loads act upwards 
+ 
+Indicator         A1(kN)      A2(kN)      A3(kN)      A4(kN)      A5(kN)      A6(kN)      A7(kN)      A8(kN) 
+DL                 0.089       0.089       0.009       0.009      -0.022      -0.022      -0.035      -0.035 
+LL                 0.116       0.116       0.001       0.001      -0.057      -0.057      -0.012      -0.012 
+WL                -0.290      -0.290      -0.035      -0.035       0.132       0.132       0.057       0.057 
+Desc                  C1          C1          C1          C1          C2          C2          C2          C2 
+Page: 
+6
+A1 A2 
+A3 A4 
+A5 A6 
+A7 A8 
+
+PAGE 8
+BB Truss & Timber Pty.Ltd. Job No: 
+Truss: 
+Type: 
+Lamination/Quantity: 
+K0964 
+Layout created C1 
+390 Creeper 
+1/8 
+Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+(A.B.N. 20 986 756 544)  41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075 
+TC       90x35-MGP10 H0 ADS      JD5  900 
+TIMBER: 
+PLATES: 
+Member Size & Grade Rest 
+HEEL     50x100-MN             40  29   0 
+BC       90x35-MGP10 H0 ADS      JD5  600 
+Joint 
+1.35DL (kN)                 0.27    -0.07 
+(kN)                 0.64    -0.18 1.2DL + 1.5MLL 
+0.9DL + 1WL (kN)                -0.44     0.13 
+Required          1 MGrip  1 MGrip Tie Down 
+Vertical Reactions at Supports 
+(No.)                  S1       S2 Support 
+Ground Snow Load: 
+25.00 
+550/83 
+900 
+Metal Sheet@7kg/m² Span: 
+Pitch: 
+Overhang: 
+Spacing: 
+Metal @ 900c/900c 
+Plaster 10mm Supa Span@8.2kg/m² 
+Metal direct @ 600c/600c 
+Roofing: 
+TC Fix/Rest: 
+Ceiling: 
+BC Fix/Rest: 
+Wind / Ext / Int: 
+Fascia Type: 
+Structure: 
+N2 / 0.6 / 0.2 
+As per AS1720.3-2016 
+House 
+300 
+ Version: 
+Page: 
+Date: 
+10/04/2026 
+(TN-012-015) 
+7
+All dimensions in milimetres. This drawing should be read in 
+conjunction with Multinail Technical sheets. 
+Maximum transport dimensions (mm) Width: 933 & Height: 534 
+Size & Grade Camber X   /   Y  /  Rtn 
+Jnt Grp 
+[AS/NZS 1170.0-2002, 1170.1-2002, 1170.2-2021, 1170.3-2003][AS 1720.1-2010] 
+Def 
+Bearing 
+(Note: Tie down capacity based on JD4.  Bearing capacity based on timber properties of the member onto support, and SD7 for support.) 
+1.14.3 
+2.4kg Weight of timber & plate (excl. brackets): 
+User: 
+25.0 TC 
+BC 
+HEEL 
+300 
+300 
+<331> 
+105V 
+S1 S2 
+Overall Ht 245 
+Cutoff Rise 6 
+OH=550 
+<607> 
+OH=83 
+<92> 
+OH=83 
+Scale 1:10 
+
+PAGE 9
+BB Truss & Timber Pty.Ltd. Job No: 
+Truss: 
+Type: 
+Lamination/Quantity: 
+K0964 
+Layout created C2 
+1290 Creeper 
+1/8 
+Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+(A.B.N. 20 986 756 544)  41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075 
+TC1      90x35-MGP10 H0 ADS      JD5  900 
+TIMBER: 
+PLATES: 
+Member Size & Grade Rest 
+HEEL     50x100-MN             40  23   0 
+BC1      90x35-MGP10 H0 ADS      JD5  600 
+Joint 
+1.35DL (kN)                 0.28     0.14 
+(kN)                 0.69     0.35 1.2DL + 1.5MLL 
+0.9DL + 1WL (kN)                -0.53    -0.38 
+Required          1 MGrip  1 MGrip Tie Down 
+Vertical Reactions at Supports 
+(No.)                  S1       S2 Support 
+Ground Snow Load: 
+25.00 
+550/83 
+900 
+Metal Sheet@7kg/m² Span: 
+Pitch: 
+Overhang: 
+Spacing: 
+Metal @ 900c/900c 
+Plaster 10mm Supa Span@8.2kg/m² 
+Metal direct @ 600c/600c 
+Roofing: 
+TC Fix/Rest: 
+Ceiling: 
+BC Fix/Rest: 
+Wind / Ext / Int: 
+Fascia Type: 
+Structure: 
+N2 / 0.6 / 0.2 
+As per AS1720.3-2016 
+House 
+1200 
+ Version: 
+Page: 
+Date: 
+10/04/2026 
+(TN-012-015) 
+8
+All dimensions in milimetres. This drawing should be read in 
+conjunction with Multinail Technical sheets. 
+Maximum transport dimensions (mm) Width: 1833 & Height: 954 
+Size & Grade Camber X   /   Y  /  Rtn 
+Jnt Grp 
+[AS/NZS 1170.0-2002, 1170.1-2002, 1170.2-2021, 1170.3-2003][AS 1720.1-2010] 
+Def 
+Bearing 
+(Note: Tie down capacity based on JD4.  Bearing capacity based on timber properties of the member onto support, and SD7 for support.) 
+1.14.3 
+5.4kg Weight of timber & plate (excl. brackets): 
+User: 
+25.0 TC1 
+BC1 
+HEEL 
+1200 
+1200 
+<1324> 
+106V 
+S1 S2 
+Apex 665 
+Overall Ht 704 
+Cutoff Rise 6 
+OH=550 
+<607> 
+OH=83 
+<92> 
+OH=83 
+Scale 1:20 
+
+PAGE 10
+BB Truss & Timber Pty.Ltd. Job No: 
+Truss: 
+Type: 
+Lamination/Quantity: 
+K0964 
+Layout created J1 
+2190 Jack 
+1/4 
+Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+(A.B.N. 20 986 756 544)  41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075 
+TC1      90x35-MGP10 H0 ADS   2  JD5  900 
+TIMBER: 
+PLATES: 
+Member Size & Grade Rest 
+HEEL     50x100-MN             40  23   0 
+BC1      90x35-MGP10 H0 ADS   2  JD5  600 
+Joint 
+1.35DL (kN)                 0.38     0.26 
+(kN)                 0.89     0.63 1.2DL + 1.5MLL 
+0.9DL + 1WL (kN)                -0.67    -0.65 
+Required          1 MGrip  1 MGrip Tie Down 
+Vertical Reactions at Supports 
+(No.)                  S1       S2 Support 
+Ground Snow Load: 
+25.00 
+550/83 
+900 
+Metal Sheet@7kg/m² Span: 
+Pitch: 
+Overhang: 
+Spacing: 
+Metal @ 900c/900c 
+Plaster 10mm Supa Span@8.2kg/m² 
+Metal direct @ 600c/600c 
+Roofing: 
+TC Fix/Rest: 
+Ceiling: 
+BC Fix/Rest: 
+Wind / Ext / Int: 
+Fascia Type: 
+Structure: 
+N2 / 0.6 / 0.2 
+As per AS1720.3-2016 
+House 
+2100 
+ Version: 
+Page: 
+Date: 
+10/04/2026 
+(TN-012-015) 
+9
+All dimensions in milimetres. This drawing should be read in 
+conjunction with Multinail Technical sheets. 
+Maximum transport dimensions (mm) Width: 2740 & Height: 1374 
+Size & Grade Camber X   /   Y  /  Rtn 
+Jnt Grp 
+[AS/NZS 1170.0-2002, 1170.1-2002, 1170.2-2021, 1170.3-2003][AS 1720.1-2010] 
+Def 
+Bearing 
+(Note: Tie down capacity based on JD4.  Bearing capacity based on timber properties of the member onto support, and SD7 for support.) 
+1.14.3 
+8.3kg Weight of timber & plate (excl. brackets): 
+User: 
+25.0 TC1 
+BC1 
+HEEL 
+2100 
+2100 
+<2317> 
+105V 
+S1 S2 
+Apex 1085 
+Overall Ht 1123 
+Cutoff Rise 6 
+OH=550 
+<607> 
+OH=83 
+<92> 
+OH=90 
+Scale 1:30 
+
+PAGE 11
+BB Truss & Timber Pty.Ltd. Job No: 
+Truss: 
+Type: 
+Lamination/Quantity: 
+K0964 
+Layout created J2 
+3090 Jack 
+1/2 
+Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+(A.B.N. 20 986 756 544)  41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075 
+TC1      90x35-MGP10 H0 ADS   1  JD5  900 
+TIMBER: 
+PLATES: 
+Member Size & Grade Rest 
+HEEL     50x100-MN             40  23   0 
+BC1      90x35-MGP10 H0 ADS   2  JD5  600 
+Joint 
+1.35DL (kN)                 0.37     0.36 
+(kN)                 0.83     1.03 1.2DL + 1.5MLL 
+0.9DL + 1WL (kN)                -0.49    -1.12 
+Required          1 MGrip  1 MGrip Tie Down 
+Vertical Reactions at Supports 
+(No.)                  S1       S2 Support 
+Ground Snow Load: 
+25.00 
+550/983 
+900 
+Metal Sheet@7kg/m² Span: 
+Pitch: 
+Overhang: 
+Spacing: 
+Metal @ 900c/900c 
+Plaster 10mm Supa Span@8.2kg/m² 
+Metal direct @ 600c/600c 
+Roofing: 
+TC Fix/Rest: 
+Ceiling: 
+BC Fix/Rest: 
+Wind / Ext / Int: 
+Fascia Type: 
+Structure: 
+N2 / 0.6 / 0.2 
+As per AS1720.3-2016 
+House 
+2100 
+ Version: 
+Page: 
+Date: 
+10/04/2026 
+(TN-012-015) 
+10 
+All dimensions in milimetres. This drawing should be read in 
+conjunction with Multinail Technical sheets. 
+Maximum transport dimensions (mm) Width: 3633 & Height: 1793 
+Size & Grade Camber X   /   Y  /  Rtn 
+Jnt Grp 
+[AS/NZS 1170.0-2002, 1170.1-2002, 1170.2-2021, 1170.3-2003][AS 1720.1-2010] 
+Def 
+Bearing 
+(Note: Tie down capacity based on JD4.  Bearing capacity based on timber properties of the member onto support, and SD7 for support.) 
+1.14.3 
+9.9kg Weight of timber & plate (excl. brackets): 
+User: 
+25.0 TC1 
+BC1 
+HEEL 
+2100 
+2100 
+<2317> 
+105V 
+S1 S2 
+Apex 1085 
+Overall Ht 1543 
+Cutoff Rise 6 
+OH=550 
+<607> 
+OH=983 
+<1085> 
+OH=90 
+Scale 1:50 
+
+PAGE 12
+BB Truss & Timber Pty.Ltd. Job No: 
+Truss: 
+Type: 
+Lamination/Quantity: 
+K0964 
+Layout created J3 
+3922 Jack -UL 
+1/2 
+Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+(A.B.N. 20 986 756 544)  41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075 
+This truss has USER DEFINED LOADS applied. 
+TC1      90x35-MGP10 H0 ADS   1  JD5  900 
+TIMBER: 
+PLATES: 
+Member Size & Grade Rest 
+HEEL     50x100-MN             40  23   0 
+BC1      90x35-MGP10 H0 ADS   2  JD5  600 
+Joint 
+1.35DL (kN)                 0.37     0.67 
+(kN)                 0.83     1.29 1.2DL + 1.5MLL 
+0.9DL + 1WL (kN)                -0.40    -0.89 
+Required          1 MGrip  1 MGrip Tie Down 
+Vertical Reactions at Supports 
+(No.)                  S1       S2 Support 
+Ground Snow Load: 
+25.00 
+550/1815 
+900 
+Metal Sheet@7kg/m² Span: 
+Pitch: 
+Overhang: 
+Spacing: 
+Metal @ 900c/900c 
+Plaster 10mm Supa Span@8.2kg/m² 
+Metal direct @ 600c/600c 
+Roofing: 
+TC Fix/Rest: 
+Ceiling: 
+BC Fix/Rest: 
+Wind / Ext / Int: 
+Fascia Type: 
+Structure: 
+N2 / 0.6 / 0.2 
+As per AS1720.3-2016 
+House 
+2100 
+ Version: 
+Page: 
+Date: 
+10/04/2026 
+(TN-012-015) 
+11 
+All dimensions in milimetres. This drawing should be read in 
+conjunction with Multinail Technical sheets. 
+Maximum transport dimensions (mm) Width: 4465 & Height: 2181 
+Size & Grade Camber X   /   Y  /  Rtn 
+Jnt Grp 
+[AS/NZS 1170.0-2002, 1170.1-2002, 1170.2-2021, 1170.3-2003][AS 1720.1-2010] 
+Def 
+Bearing 
+(Note: Tie down capacity based on JD4.  Bearing capacity based on timber properties of the member onto support, and SD7 for support.) 
+1.14.3 
+11.4kg Weight of timber & plate (excl. brackets): 
+User: 
+25.0 TC1 
+BC1 
+HEEL 
+2100 
+2100 
+105V 
+S1 S2 
+Apex 1085 
+Overall Ht 1931 
+Cutoff Rise 6 
+OH=550 
+<607> 
+OH=1815 
+<2003> 
+OH=90 
+Scale 1:60 
+
+PAGE 13
+BB Truss & Timber Pty.Ltd. Job No: 
+Truss: 
+Type: 
+Lamination/Quantity: 
+K0964 
+Layout created J3 
+3922 Jack -UL 
+1/2 
+Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+(A.B.N. 20 986 756 544)  41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075 
+This truss has USER DEFINED LOADS applied. 
+LOADS ON TRUSS: A=Auto loads by system; S=Service loads; Uc=User defined concentrated loads; Ud=User defined distributed loads 
+Note: -ve signed loads act downwards, +ve signed loads act upwards 
+ 
+Indicator      Ud1(kN/m) 
+DL                -0.221 
+LL                 0.000 
+WL                 0.000 
+Desc                    
+Page: 
+12 
+Ud1 
+
+PAGE 14
+BB Truss & Timber Pty.Ltd. Job No: 
+Truss: 
+Type: 
+Lamination/Quantity: 
+K0964 
+Layout created T4 
+TG2190 
+1/1 
+Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+(A.B.N. 20 986 756 544)  41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075 
+TC1      90x35-MGP10 H0 ADS   1  JD5  900 
+TIMBER: 
+PLATES: 
+Member Size & Grade Rest 
+HEEL    100x150-MN             47  13   0 
+B1-L    100x100-MN         3    =  50   0 
+B0      100x100-MN         4    =  50   0 
+T1      100x100-MN             50  50   0 
+B2-R    100x100-MN         3    =  50   0 
+T2      100x200-MN            118  45  25 
+BS      100x150-MN              =  50   0 
+BC      120x35-MGP10 H0 ADS   1  JD5  600 
+BC1-R   120x35-MGP10 H0 ADS   1  JD5  600 
+HTC      90x35-MGP10 H0 ADS   2  JD5  900 
+W2-R     90x35-MGP10 H0 ADS      JD5 
+W3       90x35-MGP10 H0 ADS      JD5 
+TOW1     90x35-MGP10 H0 ADS      JD5 
+TOW2-L   90x35-MGP10 H0 ADS      JD5 
+Joint 
+1.35DL (kN)                 2.36     2.36 
+(kN)                 5.37     5.37 1.2DL + 1.5MLL 
+0.9DL + 1WL (kN)                -4.28    -4.28 
+Required          2 MGrps  2 MGrps Tie Down 
+Vertical Reactions at Supports 
+(No.)                  S1       S2 Support 
+Ground Snow Load: 
+25.00/25.00 
+550/550 
+900 
+Metal Sheet@7kg/m² Span: 
+Pitch: 
+Overhang: 
+Spacing: 
+Metal @ 900c/900c 
+Plaster 10mm Supa Span@8.2kg/m² 
+Metal direct @ 600c/600c 
+Roofing: 
+TC Fix/Rest: 
+Ceiling: 
+BC Fix/Rest: 
+Wind / Ext / Int: 
+Fascia Type: 
+Structure: 
+N2 / 0.6 / 0.2 
+As per AS1720.3-2016 
+House 
+7880 
+ Version: 
+Page: 
+Date: 
+10/04/2026 
+(TN-012-015) 
+13 
+All dimensions in milimetres. This drawing should be read in 
+conjunction with Multinail Technical sheets. 
+Maximum transport dimensions (mm) Width: 8980 & Height: 1365 
+Size & Grade Camber X   /   Y  /  Rtn 
+Jnt Grp 
+[AS/NZS 1170.0-2002, 1170.1-2002, 1170.2-2021, 1170.3-2003][AS 1720.1-2010] 
+Def 
+Bearing Member/Support      Ok/Ok    Ok/Ok 
+(Note: Tie down capacity based on JD4.  Bearing capacity based on timber properties of the member onto support, and SD7 for support.) 
+1.14.3 
+44.5kg Weight of timber & plate (excl. brackets): 
+User: 
+25.0 TC1-L 
+BC 
+HTC 
+TOW1-L TOW2-L W3-L 
+25.0 TC1-R 
+BC1-R 
+TOW1-R W2-R W3-R 
+HEEL 
+3940 
+3940 
+105V 
+B0 
+1
+T1 
+1027V 
+912 
+B1 
+1840 
+T2 
+943V 
+1930 
+HEEL 
+3940 
+3940 
+105V 
+T1 
+1027V 
+946 
+B2 
+1840 
+T2 
+943V 
+1930 
+BS 
+1460 
+S1 S2 
+Apex 1027 
+Overall Ht 1115 
+Cutoff Rise 6 
+Cutoff Rise 6 
+OH=550 
+<607> 
+OH=550 
+<607> 
+Scale 1:50 
+
+PAGE 15
+BB Truss & Timber Pty.Ltd. Job No: 
+Truss: 
+Type: 
+Lamination/Quantity: 
+K0964 
+Layout created T4 
+TG2190 
+1/1 
+Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+(A.B.N. 20 986 756 544)  41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075 
+LOADS ON TRUSS: A=Auto loads by system; S=Service loads; Uc=User defined concentrated loads; Ud=User defined distributed loads 
+Note: -ve signed loads act downwards, +ve signed loads act upwards 
+ 
+Indicator         A1(kN)      A2(kN)      A3(kN)      A4(kN)      A5(kN)      A6(kN)      A7(kN)      A8(kN)      A9(kN)     A10(kN) 
+DL                -0.218      -0.052       0.016      -0.071      -0.323      -0.071      -0.301      -0.071      -0.323      -0.071 
+LL                -0.283      -0.135       0.007      -0.013      -0.449      -0.023      -0.424      -0.022      -0.449      -0.023 
+WL                 0.744       0.290      -0.027       0.102       1.058       0.198       0.996       0.190       1.058       0.198 
+Desc                  H1          J1          H1          J1          J4          J4          J3          J3          J5          J5 
+Indicator        A11(kN)     A12(kN)     A13(kN)     A14(kN) 
+DL                -0.218      -0.052       0.016      -0.071 
+LL                -0.283      -0.135       0.007      -0.013 
+WL                 0.744       0.290      -0.027       0.102 
+Desc                  H1          J1          H1          J1 
+Page: 
+14 
+A1 A2 
+A3 A4 
+A5 
+A6 
+A7 
+A8 
+A9 
+A10 
+A11 A12 
+A13 A14 
+
+PAGE 16
+BB Truss & Timber Pty.Ltd. Job No: 
+Truss: 
+Type: 
+Lamination/Quantity: 
+K0964 
+Layout created J4 
+3090 Jack -UL 
+1/1 
+Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+(A.B.N. 20 986 756 544)  41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075 
+This truss has USER DEFINED LOADS applied. 
+TC1      90x35-MGP10 H0 ADS   1  JD5  900 
+TIMBER: 
+PLATES: 
+Member Size & Grade Rest 
+HEEL     50x100-MN             40  23   0 
+BC1      90x35-MGP10 H0 ADS   2  JD5  600 
+Joint 
+1.35DL (kN)                 0.37     0.70 
+(kN)                 0.83     1.33 1.2DL + 1.5MLL 
+0.9DL + 1WL (kN)                -0.49    -0.89 
+Required          1 MGrip  1 MGrip Tie Down 
+Vertical Reactions at Supports 
+(No.)                  S1       S2 Support 
+Ground Snow Load: 
+25.00 
+550/983 
+900 
+Metal Sheet@7kg/m² Span: 
+Pitch: 
+Overhang: 
+Spacing: 
+Metal @ 900c/900c 
+Plaster 10mm Supa Span@8.2kg/m² 
+Metal direct @ 600c/600c 
+Roofing: 
+TC Fix/Rest: 
+Ceiling: 
+BC Fix/Rest: 
+Wind / Ext / Int: 
+Fascia Type: 
+Structure: 
+N2 / 0.6 / 0.2 
+As per AS1720.3-2016 
+House 
+2100 
+ Version: 
+Page: 
+Date: 
+10/04/2026 
+(TN-012-015) 
+15 
+All dimensions in milimetres. This drawing should be read in 
+conjunction with Multinail Technical sheets. 
+Maximum transport dimensions (mm) Width: 3633 & Height: 1793 
+Size & Grade Camber X   /   Y  /  Rtn 
+Jnt Grp 
+[AS/NZS 1170.0-2002, 1170.1-2002, 1170.2-2021, 1170.3-2003][AS 1720.1-2010] 
+Def 
+Bearing 
+(Note: Tie down capacity based on JD4.  Bearing capacity based on timber properties of the member onto support, and SD7 for support.) 
+1.14.3 
+9.9kg Weight of timber & plate (excl. brackets): 
+User: 
+25.0 TC1 
+BC1 
+HEEL 
+2100 
+2100 
+105V 
+S1 S2 
+Apex 1085 
+Overall Ht 1543 
+Cutoff Rise 6 
+OH=550 
+<607> 
+OH=983 
+<1085> 
+OH=90 
+Scale 1:50 
+
+PAGE 17
+BB Truss & Timber Pty.Ltd. Job No: 
+Truss: 
+Type: 
+Lamination/Quantity: 
+K0964 
+Layout created J4 
+3090 Jack -UL 
+1/1 
+Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+(A.B.N. 20 986 756 544)  41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075 
+This truss has USER DEFINED LOADS applied. 
+LOADS ON TRUSS: A=Auto loads by system; S=Service loads; Uc=User defined concentrated loads; Ud=User defined distributed loads 
+Note: -ve signed loads act downwards, +ve signed loads act upwards 
+ 
+Indicator      Ud1(kN/m) 
+DL                -0.221 
+LL                 0.000 
+WL                 0.000 
+Desc                    
+Page: 
+16 
+Ud1 
+
+PAGE 18
+BB Truss & Timber Pty.Ltd. Job No: 
+Truss: 
+Type: 
+Lamination/Quantity: 
+K0964 
+Layout created J5 
+3090 Jack -UL 
+1/1 
+Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+(A.B.N. 20 986 756 544)  41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075 
+This truss has USER DEFINED LOADS applied. 
+TC1      90x35-MGP10 H0 ADS   1  JD5  900 
+TIMBER: 
+PLATES: 
+Member Size & Grade Rest 
+HEEL     50x100-MN             40  23   0 
+BC1      90x35-MGP10 H0 ADS   2  JD5  600 
+Joint 
+1.35DL (kN)                 0.70     0.37 
+(kN)                 1.33     0.83 1.2DL + 1.5MLL 
+0.9DL + 1WL (kN)                -0.89    -0.49 
+Required          1 MGrip  1 MGrip Tie Down 
+Vertical Reactions at Supports 
+(No.)                  S1       S2 Support 
+Ground Snow Load: 
+25.00 
+983/550 
+900 
+Metal Sheet@7kg/m² Span: 
+Pitch: 
+Overhang: 
+Spacing: 
+Metal @ 900c/900c 
+Plaster 10mm Supa Span@8.2kg/m² 
+Metal direct @ 600c/600c 
+Roofing: 
+TC Fix/Rest: 
+Ceiling: 
+BC Fix/Rest: 
+Wind / Ext / Int: 
+Fascia Type: 
+Structure: 
+N2 / 0.6 / 0.2 
+As per AS1720.3-2016 
+House 
+2100 
+ Version: 
+Page: 
+Date: 
+10/04/2026 
+(TN-012-015) 
+17 
+All dimensions in milimetres. This drawing should be read in 
+conjunction with Multinail Technical sheets. 
+Maximum transport dimensions (mm) Width: 3633 & Height: 1793 
+Size & Grade Camber X   /   Y  /  Rtn 
+Jnt Grp 
+[AS/NZS 1170.0-2002, 1170.1-2002, 1170.2-2021, 1170.3-2003][AS 1720.1-2010] 
+Def 
+Bearing 
+(Note: Tie down capacity based on JD4.  Bearing capacity based on timber properties of the member onto support, and SD7 for support.) 
+1.14.3 
+9.9kg Weight of timber & plate (excl. brackets): 
+User: 
+25.0 TC1 
+BC1 
+HEEL 
+2100 
+2100 
+105V 
+S1 S2 
+Apex 1085 
+Overall Ht 1543 
+Cutoff Rise 6 
+OH=983 
+<1085> 
+OH=90 
+OH=550 
+<607> 
+Scale 1:50 
+
+PAGE 19
+BB Truss & Timber Pty.Ltd. Job No: 
+Truss: 
+Type: 
+Lamination/Quantity: 
+K0964 
+Layout created J5 
+3090 Jack -UL 
+1/1 
+Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+(A.B.N. 20 986 756 544)  41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075 
+This truss has USER DEFINED LOADS applied. 
+LOADS ON TRUSS: A=Auto loads by system; S=Service loads; Uc=User defined concentrated loads; Ud=User defined distributed loads 
+Note: -ve signed loads act downwards, +ve signed loads act upwards 
+ 
+Indicator      Ud1(kN/m) 
+DL                -0.221 
+LL                 0.000 
+WL                 0.000 
+Desc                    
+Page: 
+18 
+Ud1 
+
+PAGE 20
+BB Truss & Timber Pty.Ltd. Job No: 
+Truss: 
+Type: 
+Lamination/Quantity: 
+K0964 
+Layout created T5 
+LeftHalf Standard 
+1/8 
+Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+(A.B.N. 20 986 756 544)  41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075 
+(pt) : 1 mid panel tie(s) required to each bottom chord panel 
+TC1      90x35-MGP10 H0 ADS      JD5  900 
+TIMBER: 
+PLATES: 
+Member Size & Grade Rest 
+T0       38x100-MN              =   =   0 
+B0      100x100-MN             50  50   0 
+TS@2    150x100-MN              =  68   0 
+T4      100x150-MN             75  50   0 
+T1      100x100-MN             50  50   0 
+B1      100x100-MN         3   50  50   0 
+BS@2    150x150-MN         4    =  68   0 
+B4       38x100-MN         3    =   =   0 
+T3      100x100-MN             50  50   0 
+B3      100x150-MN         4   75  50   0 
+TC2      90x35-MGP10 H0 ADS   1  JD5  900 
+BC1+1T   90x35-MGP10 H0 ADS   1  JD5 (pt) 
+BC2+1T   90x35-MGP10 H0 ADS   1  JD5 (pt) 
+W0       90x35-MGP10 H0 ADS      JD5 
+W7       90x35-MGP10 H0 ADS      JD5 
+W8       90x35-MGP10 H0 ADS      JD5 
+TOW1     90x35-MGP10 H0 ADS      JD5 
+TOW2     90x35-MGP10 H0 ADS      JD5 
+TOW3     90x35-MGP10 H0 ADS      JD5 
+TOW4     90x35-MGP10 H0 ADS      JD5 
+Joint 
+TOW5     90x35-MGP10 H0 ADS      JD5 
+1.35DL (kN)                 0.81     0.89 
+(kN)                 1.82     2.00 1.2DL + 1.5MLL 
+0.9DL + 1WL (kN)                -2.25    -2.50 
+Required          1 MGrip  1 MGrip Tie Down 
+Vertical Reactions at Supports 
+(No.)                BOHL     BOHR 
+TOW6     90x35-MGP10 H0 ADS      JD5 
+Support 
+Ground Snow Load: 
+5.00 
+0/140 
+900 
+Metal Sheet@7kg/m² Span: 
+Pitch: 
+Overhang: 
+Spacing: 
+Metal @ 900c/900c 
+Plaster 10mm Supa Span@8.2kg/m² 
+Metal direct @ 600c/600c 
+Roofing: 
+TC Fix/Rest: 
+Ceiling: 
+BC Fix/Rest: 
+Wind / Ext / Int: 
+Fascia Type: 
+Structure: 
+N2 / 0.9 / 0.2 
+As per AS1720.3-2016 
+House 
+6150 
+ Version: 
+Page: 
+Date: 
+10/04/2026 
+(TN-012-015) 
+19 
+All dimensions in milimetres. This drawing should be read in 
+conjunction with Multinail Technical sheets. 
+Maximum transport dimensions (mm) Width: 6680 & Height: 891 
+Size & Grade Camber X   /   Y  /  Rtn 
+Jnt Grp 
+[AS/NZS 1170.0-2002, 1170.1-2002, 1170.2-2021, 1170.3-2003][AS 1720.1-2010] 
+Def 
+Bearing Member/Support      Ok/Ok    Ok/Ok 
+(Note: Tie down capacity based on JD4.  Bearing capacity based on timber properties of the member onto support, and SD7 for support.) 
+1.14.3 
+34.0kg Weight of timber & plate (excl. brackets): 
+User: 
+5.0 TC1 
+5.0 TC2 
+BC1+1T BC2+1T 
+W0 TOW1 TOW2 TOW3 TOW4 TOW5 TOW6 W7 W8 
+T0 
+875V 
+45 
+B0 
+90 
+T1 
+792V 
+987 
+B1 
+1881 
+B3 
+5234 
+T3 
+496V 
+4370 
+T4 
+340V 
+6060 
+B4 
+6150 
+TS@2 
+643V 
+2692 
+BS@2 
+3499 
+BOHL 
+330 
+BOHR 
+80 
+Apex 878 
+Overall Ht 891 
+Cutoff Rise 250 
+OH=390 
+OH=140 
+<141> 
+OH=140 
+Scale 1:40 
+
+PAGE 21
+BB Truss & Timber Pty.Ltd. Job No: 
+Truss: 
+Type: 
+Lamination/Quantity: 
+K0964 
+Layout created T6 
+LeftHalf Standard 
+1/5 
+Client: BSPOKE LUXURY HOMES PTY LTD 
+Site: LOT 735 15 LEICHHARDT AVE 
+BURNSIDE VIC 3023 AUS 
+Ref: 
+(A.B.N. 20 986 756 544)  41 Keilor Park Drive  Keilor Park 3042  (PH) 9331 7075 
+TC1      90x35-MGP10 H0 ADS      JD5  900 
+TIMBER: 
+PLATES: 
+Member Size & Grade Rest 
+T0       38x100-MN              =   =   0 
+B1       38x100-MN         1    =   =   0 
+T1      100x100-MN             50  50   0 
+B0      100x100-MN         1   50  50   0 
+BC1      90x35-MGP10 H0 ADS      JD5  600 
+W0       90x35-MGP10 H0 ADS      JD5 
+W1       90x35-MGP10 H0 ADS      JD5 
+W2       90x35-MGP10 H0 ADS      JD5 
+Joint 
+1.35DL (kN)                 0.17     0.20 
+(kN)                 0.39     0.46 1.2DL + 1.5MLL 
+0.9DL + 1WL (kN)                -0.48    -0.60 
+Required          1 MGrip  1 MGrip Tie Down 
+Vertical Reactions at Supports 
+(No.)                BOHL     BOHR Support 
+Ground Snow Load: 
+5.00 
+0/100 
+900 
+Metal Sheet@7kg/m² Span: 
+Pitch: 
+Overhang: 
+Spacing: 
+Metal @ 900c/900c 
+Plaster 10mm Supa Span@8.2kg/m² 
+Metal direct @ 600c/600c 
+Roofing: 
+TC Fix/Rest: 
+Ceiling: 
+BC Fix/Rest: 
+Wind / Ext / Int: 
+Fascia Type: 
+Structure: 
+N2 / 0.9 / 0.2 
+As per AS1720.3-2016 
+House 
+950 
+ Version: 
+Page: 
+Date: 
+10/04/2026 
+(TN-012-015) 
+20 
+All dimensions in milimetres. This drawing should be read in 
+conjunction with Multinail Technical sheets. 
+Maximum transport dimensions (mm) Width: 1395 & Height: 432 
+Size & Grade Camber X   /   Y  /  Rtn 
+Jnt Grp 
+[AS/NZS 1170.0-2002, 1170.1-2002, 1170.2-2021, 1170.3-2003][AS 1720.1-2010] 
+Def 
+Bearing Member/Support      Ok/Ok    Ok/Ok 
+(Note: Tie down capacity based on JD4.  Bearing capacity based on timber properties of the member onto support, and SD7 for support.) 
+1.14.3 
+6.2kg Weight of timber & plate (excl. brackets): 
+User: 
+5.0 TC1 
+BC1 
+W0 W1 W2 
+T0 
+419V 
+45 
+B0 
+90 
+T1 
+340V 
+860 
+B1 
+950 
+BOHL 
+345 
+BOHR 
+100 
+Apex 423 
+Overall Ht 432 
+Cutoff Rise 250 
+OH=345 
+OH=100 
+<100> 
+OH=100 
+Scale 1:20 
+
+PAGE 22
+MELBOURNE: 9331 7075
+BENDIGO: 5444 3636
+BALLARAT: 5333 1100
+email: sales@bbtruss.com.au
+Connection of truss to top plate:
+ - 1 Multigrip unless noted otherwise NOTE 1: All beams by others to engineers comps.
+NOTE 2: Permanent mid panel bottom chord ties required for plaster direct ceilings.
+Trusses to be erected in accordancewith
+Australian
+Standard
+AS4440
+-2004
+Trusses are not to be cut, modified
+or altered without prior authorisation
+- Loadbearing Wall
+Do not stand on truss chords whilst installing
+Connection of Jack truss top chord to truncated girder:
+- 1 Multigrip for Jack span 1800 > unless note otherwise
+= Double MultiGrip
+2G
+2G2G
+2G2G
+ROOF BRACING
+ROOF BRACING
+ROOF BRACING
+6080
+20610
+7880
+3140
+78801320
+6680
+6170
+20520 1395 45
+300mm BOX GUTTER
+300mm BOX GUTTER
+SOLAR
+PANEL
+2520
+T5
+T5
+T5
+T5
+T5
+T5
+T5
+T5
+T6
+T6
+T6
+T6
+T6
+T1
+T1
+T1
+T1
+T1
+T1
+T1
+T1
+T1
+T1
+T1
+T1
+T1
+T1
+T1
+T2  2190
+T3  3090
+H1H1
+C1
+C2
+C1
+C2
+C1
+C2
+J1
+J2
+C1
+C2
+J1
+J2
+J3
+T4  2190
+T3  3090
+H1
+H1 C1
+C2
+C1
+C2
+C1
+C2
+J1
+J4
+C1
+C2
+J1
+J5
+J3
+Timber:
+Pitch:
+Truss Tail:
+Spacing:
+Roofing:
+TC fix/rest:
+Ceiling:
+BC fix/rest:
+Wind Classificatn:
+Fascia Type:
+Ground Snow Load:
+Structure Type:
+Detailer:
+Date:
+Scale:
+Job No:
+BSPOKE LUXURY HOMES PTY LTD
+LOT 735 15 LEICHHARDT AVE   BURNSIDE VIC 3023 AUS
+ Dry Softwood
+ 5.0 / 25.0 deg
+ 550 mm
+ 900 mm
+Metal Sheet@7kg/m²
+Metal @ 900c/900c
+Plaster 10mm Supa Span@8.2kg/m²
+Metal direct @ 600c/600c
+N2 / 0.6 / 0.2
+As per AS1720.3-2016
+Sg = 0.0 kPa
+House
+JOEY
+3/04/2026
+1:85
+K0964

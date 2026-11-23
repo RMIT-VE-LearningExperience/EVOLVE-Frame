@@ -1,0 +1,161 @@
+ENIL
+YRADNUOB
+ENIL
+YRADNUOB
+SELECTED COLORBOND
+GUTTER & FASCIA.
+450 450
+O/H O/H
+SELECTED SELECTED OVERHEAD SECTIONAL SELECTED ALUM.
+BRICK FINISH. PANEL LIFT GARAGE DOOR. CORNER SLIDING DOOR.
+NORTH ELEVATION - D
+SCALE 1:100
+0063 6282
+CL. THGIEH
+TEPARAP
+EGARAG
+GNILIEC
+EGARAG
+THGIEH
+0952
+0472
+CL.
+FFL. 10.906
+THGIEH
+GNILIEC
+CL.
+5297
+THGIEH
+GNIDLIUB
+LLAREVO
+THGIEH
+GNILIEC
+SP-D BUILDING
+SP-P BUILDING ENVELOPE PROFILE
+ENVELOPE PROFILE SETBACK
+SETBACK
+SOLAR PANEL TO BE CONFIRMED
+ON SITE BY CONTRACTOR.
+SELECTED WHIRLYBIRD SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+W
+14
+O. F. SELECTED 100MM FOAM
+WITH RENDERED FINISH
+TO FIRST FLOOR.
+3000
+O. F. FFL. 10.820 O.
+NGL. 11.00
+NGL. 10.75 NGL. 10.80 NGL. 10.89
+D
+03
+0042
+LIGHT WEIGHT CLADDING
+(RENDERED HEBEL) ABOVE
+SLIDING DOOR IN LIEU OF
+BRICKWORK.
+ENIL
+YRADNUOB
+ENIL
+YRADNUOB
+SELECTED COLORBOND
+GUTTER & FASCIA.
+450 OBSCURE 450
+O/H GLAZING O/H
+OBSCURE GLAZING
+O. F.
+SELECTED ALUM. SLIDING SELECTED 590 X 590 BRICK SELECTED ALUM. SELECTED SELECTED RENDERED
+DOOR TO GARAGE. PIERS TO ALFRESCO. AWNING WINDOW. BRICK FINISH. FINISH.
+0063 6282
+CL.
+FFL. 10.820
+THGIEH
+TEPARAP
+EGARAG
+GNILIEC
+EGARAG
+THGIEH
+F. O.
+SELECTED ALUM.
+CORNER SLIDING DOOR.
+0952
+0472
+CL.
+FFL. 10.906
+THGIEH
+GNILIEC
+CL.
+THGIEH
+GNILIEC
+5728
+THGIEH
+GNIDLIUB
+LLAREVO
+SELECTED COLORBOND ROOF @ 25°
+ROOF PITCH WITH ROOF SARKING.
+SELECTED 100MM FOAM
+WITH RENDERED FINISH
+TO FIRST FLOOR.
+O.
+WEST ELEVATION - C
+SCALE 1:100
+0042 0042
+O.
+0012
+W W W W W
+15 16 17 18 19
+D D W W
+04 05 06 07
+0822
+NGL. 10.97
+NGL. 10.80
+NGL. 10.60
+NGL. 10.40
+0543
+GLAZING NOTE
+Glazing to be in accordance with AS1288-2021 and AS2047-2014. Safety glazing to be used in the following cases:-
+All full glazed doors, sidelights, including any glazing capable of being 1. All rooms - within 500mm vertical of floor level.
+mistaken for a doorway or opening, shall be clearly marked for their full 2. All glazing in bathrooms, ensuites, spa rooms or showers.
+width a solid non transparent contrasting line. The contrasting line shall Within 2000mm vertical from the bath base.
+be not less than 75mm wide and shall extend across the full width of Within 500mm horizontal from bath/shower to shower doors.
+the glazing panel. The lower edge of the strip shall be located 900mm shower screens and bath enclosures. (including mirrors etc.)
+from the finished floor level. Any contrasting line on the glazing shall 3. Laundry - within 1200mm vertical from floor level.
+provide a minimum of 30% luminance contrast when viewed against Within 300mm vertical of trough.
+the floor surface or surface within 2m of the glazing on the opposite 4. Doorways within 300mm horizontal from all doors.
+side. 5. Ensuite as for shower screens shall be "grade a" safety glass.
+All framed glazing where the lowest sight line of the glazing panel is Glazing including safety glazing shall be installed to a size, type and
+less than 500mm from the highest abutting FFL must be grade A safety thickness so as to comply with:
+glass or ordinary annealed glass not less than 5mm nominal thickness NCC 2019 Volume 2 for class 1 and 10 buildings within a design wind
+provided that the area of the glazing panel is not more than 1.2m². speed of not more than N3.
+Denotes: Window / Doors sizes that must be checked on site by
+If the presence of glazing in a door, side panel or panel capable of being thebuilder/contractor for clearances & fit before
+mistaken for a doorway or opening, the glass must be marked to make ordering/manufacturing.
+it readily visible in the form of an opaque band not less than 20 mm in
+height located so that – Window / Door sizes to be checked on site.
+(i) the upper edge is not less than 700 mm above the floor; and o. Portion of window / door that is openable.
+(ii) the lower edge is not more than 1.2 m above the floor. f. Portion of window / door that is fixed.
+First floor bedroom windows must to be provided with protection as
+per the requirements of NCC 2019 Volume 2. This is to be provided in
+the form of:
+(a). A device capable of restricting window opening to a maximum of
+125mm, or
+(b). A screen with secure fittings.
+O.
+O. F. O. F. O. F. O. F.
+O. F.
+O. F. O.
+F. F. F.
+LIGHT WEIGHT CLADDING
+(RENDERED HEBEL) ABOVE
+SLIDING DOOR IN LIEU OF
+BRICKWORK.
+REVISION DATE: BY: PROJECT: CLIENT: ISSUE DATE: 16.01.2024 PROJECT NO: 042224
+NEW DWELLING
+- DRAWINGS ISSUED FOR CONSTRUCTION. 20.01.2024 E.C.
+SCALE: 1:100 @ A3
+N
+SHEET NO:
+ADDRESS: DRAWING NAME: DRAWN: E.C.
+10
+LOT 735 (NO. 15) LEICHHARDT ELEVATIONS
+AVENUE, BURNSIDE HEIGHTS. CHECKED: E.C.

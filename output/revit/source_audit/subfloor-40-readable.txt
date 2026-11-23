@@ -1,0 +1,48 @@
+Client:BSPOKE LUXURY HOMES PTY LTD BB Truss & Timber Pty Ltd Job No: K0964
+Site: LOT 735 15 LEICHHARDT AVE 41 Keilor Park Drive, Keilor Park 3042 Weight: 29.77 kg
+BURNSIDE VIC 3023 AUS Joist Name: FJ26 Type: MSJ-400-45 P. Ladder Total Weight: 29.77 kg
+Ref: Joists: FJ185 Laminations: 1
+TIMBER / PLATES
+Member Size Plating Restraint
+BC1 90x45-MGP10 H0 ADS JD5 450
+TC1 90x45-MGP10 H0 ADS JD5 300
+22 22
+LEW1 90x45-MGP10 H0 ADS JD5
+413 413
+W1 90x45-MGP10 H0 ADS JD5
+W2 90x45-MGP10 H0 ADS JD5
+W3 90x45-MGP10 H0 ADS JD5
+0 0 W4 90x45-MGP10 H0 ADS JD5
+W5 90x45-MGP10 H0 ADS JD5
+22 446 896 1346 1796 2246 2750 3200 3650 4100 44556980
+0 1583 2300 3029 W6 90x45-MGP10 H0 ADS JD5
+W7 90x45-MGP10 H0 ADS JD5
+W8 90x45-MGP10 H0 ADS JD5
+S1 S2 S3 S4 S5 S6 SS78 S9 S10S11 S12 S13 S14
+W9 90x45-MGP10 H0 ADS JD5
+W10 90x45-MGP10 H0 ADS JD5
+- 3 more members were not shown -
+Joint Nail Plate Joint Nail Plate
+TL1 25x75-MN B6 25x75-MN
+Vertical Reactions at Supports
+BL2 25x75-MN T7 25x75-MN
+S1 S2 S3 S4 S5 S6 S7 S8 S9 S10 S11 S12 S13 S14
+T1 25x75-MN B7 25x75-MN
+1.35DL (kN) 0.05 0.13 0.11 0.10 0.04 0.10 0.07 0.07 0.10 0.04 0.09 0.11 0.13 0.05
+B1 25x75-MN T8 25x75-MN
+1.2DL + 1.5LL (kN) 0.20 0.67 0.56 0.48 0.15 0.47 0.33 0.32 0.50 0.15 0.45 0.56 0.67 0.20
+T2 25x75-MN B8 25x75-MN
+B2 25x75-MN T9 25x75-MN
+T3 25x75-MN B9 25x75-MN
+B3 25x75-MN T10 25x75-MN
+T4 25x75-MN B10 25x75-MN
+B4 25x75-MN T11 25x75-MN
+T5 25x75-MN B11 25x75-MN
+B5 25x75-MN T12 25x75-MN
+T6 25x75-MN BR2 25x75-MN
+- 2 more nail plates were not shown -
+Span: 4590 Floor Material: Particle (13.9 kg/m²) Application: General Areas All dimensions in millimetres. This drawing should be read in Joey Meriales
+conjunction with Multinail Technical sheets. (TN-012-015)
+Overhang: 0/0 Floor Covering: Std Carpet + Underlay (8 kg/m²) Live Load: 1.5 kPa Wall plates must be placed at supports only. Ver: Floor 1.14.3
+Spacing: 450 Ceiling Material: Plaster 10mm Std Core (6.7 kg/m²) Point Load: 1.8 kN Date: 10/04/2026
+Quantity: 1 Ceiling Fixing: Direct fix @ 450c Design: AS 1720.1-2010 Page: 39 of 45

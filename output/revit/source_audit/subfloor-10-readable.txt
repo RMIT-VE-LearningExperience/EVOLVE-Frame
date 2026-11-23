@@ -1,0 +1,34 @@
+Client:BSPOKE LUXURY HOMES PTY LTD BB Truss & Timber Pty Ltd Job No: K0964
+Site: LOT 735 15 LEICHHARDT AVE 41 Keilor Park Drive, Keilor Park 3042 Weight: 20.53 kg
+BURNSIDE VIC 3023 AUS Joist Name: FJ6 Type: MSJ-400-45 Total Weight: 20.53 kg
+Ref: Joists: FJ120 Laminations: 1
+TIMBER / PLATES
+Member Size Plating Restraint
+BC1 90x45-MGP10 H0 ADS JD5 450
+TC1 90x45-MGP10 H0 ADS JD5 300
+22 82
+LEW1 90x45-MGP10 H0 ADS JD5
+413 413
+W1 90x45-MGP10 H0 ADS JD5
+REW1 90x45-MGP10 H0 ADS JD5
+0 0
+1 1
+22 1860 38332914
+0
+S1 S2
+Joint Nail Plate
+TL1 25x75-MN
+Vertical Reactions at Supports
+BL2 25x75-MN
+S1 S2
+T1 25x75-MN
+1.35DL (kN) 0.46 0.47
+B1 25x75-MN
+1.2DL + 1.5LL (kN) 2.36 2.43
+TR1 25x75-MN
+BR2 25x75-MN
+Span: 3914 Floor Material: Particle (13.9 kg/m²) Application: General Areas All dimensions in millimetres. This drawing should be read in Joey Meriales
+conjunction with Multinail Technical sheets. (TN-012-015)
+Overhang: 0/0 Floor Covering: Std Carpet + Underlay (8 kg/m²) Live Load: 1.5 kPa Wall plates must be placed at supports only. Ver: Floor 1.14.3
+Spacing: 450 Ceiling Material: Plaster 10mm Std Core (6.7 kg/m²) Point Load: 1.8 kN Date: 10/04/2026
+Quantity: 1 Ceiling Fixing: Direct fix @ 450c Design: AS 1720.1-2010 Page: 9 of 45
