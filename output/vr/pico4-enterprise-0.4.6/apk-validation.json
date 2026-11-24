@@ -1,0 +1,31 @@
+{
+  "result": "PASS",
+  "scope": "Build profile, APK integrity, manifest, ARM64 libraries, standard loader, compiled 72 FPS target and matching development signature. Not an on-device test.",
+  "timestamp": "2026-11-24T13:57:21.557685+11:00",
+  "version": "0.4.6",
+  "version_code": 14,
+  "target": "PICO 4 Enterprise (original, not Ultra)",
+  "target_pico_os": "5.9.9",
+  "apk": "unity-vr/Builds/Android/Leichhardt-PICO4-Enterprise.apk",
+  "bytes": 107390078,
+  "sha256": "462c11f99bf5e9b01b6769072b7d0597d38106b795cb6386573639aa2abbda48",
+  "native_libraries": [
+    "lib/arm64-v8a/libUnityOpenXR.so",
+    "lib/arm64-v8a/lib_burst_generated.so",
+    "lib/arm64-v8a/libil2cpp.so",
+    "lib/arm64-v8a/libmain.so",
+    "lib/arm64-v8a/libopenxr_loader.so",
+    "lib/arm64-v8a/libunity.so"
+  ],
+  "standard_openxr_loader_matches_unity": true,
+  "newer_pico_native_libraries_absent": true,
+  "signature_matches_existing_pico_apk": true,
+  "compiled_target_fps": 72,
+  "requested_display_refresh_hz": 72,
+  "physical_device_validation": "NOT TESTED: no original PICO 4 Enterprise connected.",
+  "reported_previous_crash": "Leichhardt-PICO.apk on PICO OS 5.9.9. Newer SDK/firmware mismatch identified; no crash log available to establish the exact cause.",
+  "sources": [
+    "https://developer.picoxr.com/document/native/release-notes/",
+    "https://github.com/Pico-Developer/PICO-Unity-OpenXR-SDK/blob/3aa3e62bff41df618529eeb60ff02c29a515dafe/README.md"
+  ]
+}

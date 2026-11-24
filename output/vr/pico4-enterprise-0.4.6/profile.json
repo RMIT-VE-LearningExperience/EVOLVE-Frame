@@ -1,0 +1,36 @@
+{
+  "version": "0.4.6",
+  "result": "PASS",
+  "scene": "Assets/FrameLab/Scenes/Leichhardt.unity",
+  "apk": "Builds/Android/Leichhardt-PICO4-Enterprise.apk",
+  "device": "PICO 4 Enterprise (original, not Ultra)",
+  "targetPicoOS": "5.9.9",
+  "loader": "Unity/Khronos standard OpenXR Android loader (PICO OS 5.9.0+)",
+  "physicalDeviceValidation": "NOT TESTED: no original PICO 4 Enterprise connected.",
+  "versionCode": 14,
+  "requestedRefreshHz": 72,
+  "msaa": 4,
+  "renderScale": 1.0,
+  "enabledFeatures": [
+    "PICO4ControllerProfile",
+    "LeichhardtPico4Support"
+  ],
+  "excludedPicoPlugins": [
+    "Packages/com.unity.xr.openxr.picoxr/Platform/Plugins/Windows/openh264-4.dll",
+    "Packages/com.unity.xr.openxr.picoxr/Platform/Plugins/Windows/RTCFFmpeg.dll",
+    "Packages/com.unity.xr.openxr.picoxr/Platform/Plugins/Windows/libGLESv2.dll",
+    "Packages/com.unity.xr.openxr.picoxr/Enterprise/android/tob_api-release.aar",
+    "Packages/com.unity.xr.openxr.picoxr/Platform/Plugins/Windows/VolcEngineRTC.dll",
+    "Packages/com.unity.xr.openxr.picoxr/Platform/Plugins/Windows/libEGL.dll",
+    "Packages/com.unity.xr.openxr.picoxr/Platform/Plugins/Windows/libpxrplatformloader.dll",
+    "Packages/com.unity.xr.openxr.picoxr/Runtime/Android/arm64/libopenxr_loader.so",
+    "Packages/com.unity.xr.openxr.picoxr/Enterprise/android/gson-2.10.1.jar",
+    "Packages/com.unity.xr.openxr.picoxr/Enterprise/android/capturelib-0.0.7.aar",
+    "Packages/com.unity.xr.openxr.picoxr/Enterprise/android/CameraRenderingPlugin.aar",
+    "Packages/com.unity.xr.openxr.picoxr/Platform/Plugins/Android64/libpxrplatformloader.so",
+    "Packages/com.unity.xr.openxr.picoxr/Enterprise/android/tobservicelib-release.aar",
+    "Packages/com.unity.xr.openxr.picoxr/Runtime/Android/arm64/libopenxr_pico.so",
+    "Packages/com.unity.xr.openxr.picoxr/Enterprise/android/BAuthLib-1.0.0.aar"
+  ],
+  "restoredOriginalSettings": true
+}

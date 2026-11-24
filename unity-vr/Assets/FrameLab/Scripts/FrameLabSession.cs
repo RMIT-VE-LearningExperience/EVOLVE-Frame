@@ -42,7 +42,11 @@ namespace FrameLab
 
         void Awake()
         {
+#if LEICHHARDT_PICO4_ENTERPRISE
+            Application.targetFrameRate = 72;
+#else
             Application.targetFrameRate = 90;
+#endif
             narrator = gameObject.AddComponent<AudioSource>();
             narrator.playOnAwake = false; narrator.spatialBlend = 0;
             turnProviders = rig.GetComponentsInChildren<SnapTurnProvider>(true);

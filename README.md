@@ -4,7 +4,7 @@ An educational Blender model and student-facing construction explorer for the Le
 
 **Public student experience:** https://rmit-ve-learningexperience.github.io/EVOLVE-Frame/
 
-Standalone **Leichhardt 0.4.6** APKs are also available for PICO 4 Ultra Enterprise and Meta Quest 3/3S. See [the Unity project](unity-vr/README.md) for the current build, validation scope and architectural limitations. Quest 3 is installed and passed automated checks plus basic wearer confirmation; Quest 3S hardware testing remains pending. [Private model review gallery](https://leichhardt-model-review.lolepaille.chatgpt.site/) contains 83 Unity images.
+Standalone **Leichhardt 0.4.6** APKs are also available for the original PICO 4 Enterprise, PICO 4 Ultra Enterprise and Meta Quest 3/3S. The [original PICO 4 Enterprise APK](unity-vr/Builds/Android/Leichhardt-PICO4-Enterprise.apk) targets PICO OS 5.9.9 using the standard OpenXR loader; it is package-verified but awaits a physical headset test. See [the Unity project](unity-vr/README.md) for the current build, validation scope and architectural limitations. Quest 3 is installed and passed automated checks plus basic wearer confirmation; Quest 3S hardware testing remains pending. [Private model review gallery](https://leichhardt-model-review.lolepaille.chatgpt.site/) contains 83 Unity images.
 
 ## Project contents
 
@@ -43,4 +43,4 @@ cd EVOLVE-Frame
 git lfs pull
 ```
 
-The current APKs are `unity-vr/Builds/Android/Leichhardt-PICO.apk` and `unity-vr/Builds/Android/Leichhardt-Quest3-3S.apk`. See the Unity README for platform validation and build instructions. Credentials, Unity caches, dependency caches and raw provider traces stay local. The GitHub Pages workflow downloads only the web app's LFS assets before building.
+The current APKs are `unity-vr/Builds/Android/Leichhardt-PICO4-Enterprise.apk` (original PICO 4 Enterprise / OS 5.9.9), `unity-vr/Builds/Android/Leichhardt-PICO.apk` (Ultra) and `unity-vr/Builds/Android/Leichhardt-Quest3-3S.apk`. See the Unity README for platform validation and build instructions. Credentials, Unity caches, dependency caches and raw provider traces stay local. The GitHub Pages workflow downloads only the web app's LFS assets before building.
